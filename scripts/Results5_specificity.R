@@ -6,7 +6,7 @@ library(scatterpie)
 library(ComplexUpset)
 library(reshape2)
 
-setwd("~/phyl/data_for_git/data_for_scripts/for_viz/specificity")
+setwd("../data_for_scripts/data_for_scripts/for_viz/specificity")
 
 #Vzualization of the total statistics of toxicity data
 #Read the table with overall data per strains and toxins

@@ -3,7 +3,7 @@ library(ggsci)
 library(dplyr)
 library(vegan)
 
-setwd("~/phyl/data_for_git/data_for_scripts/for_viz/evol_selection")
+setwd("../data_for_scripts/data_for_scripts/for_viz/evol_selection")
 
 #Analyze branch models
 #Read the resuls of branch models calculations

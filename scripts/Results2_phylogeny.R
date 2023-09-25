@@ -6,7 +6,7 @@ library(dendextend)
 library(CollessLike)
 library("DECIPHER")
 
-setwd("~/phyl/data_for_git/data_for_scripts/for_viz/phylogeny")
+setwd("../data_for_scripts/data_for_scripts/for_viz/phylogeny")
 
 #Vizualization of trees
 #Read domain-wise and concatenated trees

@@ -5,7 +5,7 @@ library(wesanderson)
 library(circlize)
 library(dplyr)
 
-setwd("~/phyl/data_for_git/data_for_scripts/for_viz/recombination")
+setwd("../data_for_scripts/data_for_scripts/for_viz/recombination")
 
 #Ploting the total number of the events
 #Reading files with the lists of transferred domains for sets of filtered and raw events 

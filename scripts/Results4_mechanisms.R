@@ -9,7 +9,7 @@ library(ggfortify)
 library(factoextra)
 library(lsa)
 
-setwd("~/phyl/data_for_git/data_for_scripts/for_viz/mechanisms")
+setwd("../data_for_scripts/data_for_scripts/for_viz/mechanisms")
 
 #Vizualizing the results of pangenome reconstruction
 #Read the resuts obtained from the Panaroo software
