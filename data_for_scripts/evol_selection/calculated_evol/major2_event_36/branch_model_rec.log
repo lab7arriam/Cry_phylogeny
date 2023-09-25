@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~0c7ca434c6392e24191198fbc6e860f8)
+  - processing model b_free (b_free~3c52572c0fa77a270b32789fc41e00e8)
+       marking branches 3
+
+          ((BT_Cry32Wa1 #1,(((NOV_Cry32Wa1_39.0_PEE63029.1,((NOV_Cry32Ma1_37.1_PFJ62899.1,NOV_Cry32Wa1_39.2_PGR92655.1),NOV_Cry32Wa1_39.2_PFK99360.1)),NOV_Cry32Wa1_39.0_PGU92045.1),(BT_Cry73Aa1,NOV_Cry73Aa1_88.4_AQM56942.1))),BT_Cry32Mb1,BT_Cry32Ma1);
+
+  - processing model b_neut (b_neut~a1d38e58a51a6e3fb55863d31f780283)
+       marking branches 3
+
+          ((BT_Cry32Wa1 #1,(((NOV_Cry32Wa1_39.0_PEE63029.1,((NOV_Cry32Ma1_37.1_PFJ62899.1,NOV_Cry32Wa1_39.2_PGR92655.1),NOV_Cry32Wa1_39.2_PFK99360.1)),NOV_Cry32Wa1_39.0_PGU92045.1),(BT_Cry73Aa1,NOV_Cry73Aa1_88.4_AQM56942.1))),BT_Cry32Mb1,BT_Cry32Ma1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~0c7ca434c6392e24191198fbc6e860f8 |   b_free.3-1~385109fc8e307479ec49d6110f494546 | 0.240905
+        b_neut.3-1~31831833bdd1ffa0afb9a9762459752a |   b_free.3-1~385109fc8e307479ec49d6110f494546 | 0.000142**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.234
+
+ - Model b_free.3-1
+   * Marked branches
+      ((BT_Cry32Wa1 #1,(((NOV_Cry32Wa1_39.0_PEE63029.1,((NOV_Cry32Ma1_37.1_PFJ62899.1,NOV_Cry32Wa1_39.2_PGR92655.1),NOV_Cry32Wa1_39.2_PFK99360.1)),NOV_Cry32Wa1_39.0_PGU92045.1),(BT_Cry73Aa1,NOV_Cry73Aa1_88.4_AQM56942.1))),BT_Cry32Mb1,BT_Cry32Ma1);
+
+        Branches  =>   omega
+              #1  =>   0.156
+      background  =>   0.257
+
+ - Model b_neut.3-1
+   * Marked branches
+      ((BT_Cry32Wa1 #1,(((NOV_Cry32Wa1_39.0_PEE63029.1,((NOV_Cry32Ma1_37.1_PFJ62899.1,NOV_Cry32Wa1_39.2_PGR92655.1),NOV_Cry32Wa1_39.2_PFK99360.1)),NOV_Cry32Wa1_39.0_PGU92045.1),(BT_Cry73Aa1,NOV_Cry73Aa1_88.4_AQM56942.1))),BT_Cry32Mb1,BT_Cry32Ma1);
+
+        Branches  =>   omega
+              #1  =>   1.000
+      background  =>   0.198

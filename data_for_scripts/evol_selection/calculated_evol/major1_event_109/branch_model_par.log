@@ -1,0 +1,41 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~8f9e8b4d970cbb7de1df07822b87e0e8)
+  - processing model b_free (b_free~7c9b7db0b65e83a534802061986fb7f9)
+       marking branches 9, 7, 5, 6, 10, 11, 12, 2, 1, 4, 3, 8
+
+          ((NOV_Cry69Ab1_58.0_PEU83535.1 #1,((BT_Cry69Ab1 #1,BT_Cry69Aa1 #1) #1,(NOV_Cry53Ab1_39.4_AFM37573.1 #1,NOV_Cry43Cb1_38.6_AGV55020.1 #1) #1) #1) #1,NOV_Cry69Ab1_59.2_WP_103591619.1 #1,NOV_Cry69Aa2_62.7_WP_103591151.1 #1) #1;
+
+  - processing model b_neut (b_neut~a15bfcfb14cef7df5ac881078d461210)
+       marking branches 9, 7, 5, 6, 10, 11, 12, 2, 1, 4, 3, 8
+
+          ((NOV_Cry69Ab1_58.0_PEU83535.1 #1,((BT_Cry69Ab1 #1,BT_Cry69Aa1 #1) #1,(NOV_Cry53Ab1_39.4_AFM37573.1 #1,NOV_Cry43Cb1_38.6_AGV55020.1 #1) #1) #1) #1,NOV_Cry69Ab1_59.2_WP_103591619.1 #1,NOV_Cry69Aa2_62.7_WP_103591151.1 #1) #1;
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~8f9e8b4d970cbb7de1df07822b87e0e8 | b_free.9_7_5~7ffb7fe479eda12c185c2396c38ceff1 | 1.000000
+      b_neut.9_7_5~9662edad8f9836dbf0ca4e037cd00d1d | b_free.9_7_5~7ffb7fe479eda12c185c2396c38ceff1 | 0.000000**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.396
+
+ - Model b_free.9_7_5_6_10_11_12_2_1_4_3_8-1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((NOV_Cry69Ab1_58.0_PEU83535.1 #1,((BT_Cry69Ab1 #1,BT_Cry69Aa1 #1) #1,(NOV_Cry53Ab1_39.4_AFM37573.1 #1,NOV_Cry43Cb1_38.6_AGV55020.1 #1) #1) #1) #1,NOV_Cry69Ab1_59.2_WP_103591619.1 #1,NOV_Cry69Aa2_62.7_WP_103591151.1 #1) #1;
+
+        Branches  =>   omega
+              #1  =>   0.396
+
+ - Model b_neut.9_7_5_6_10_11_12_2_1_4_3_8-1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((NOV_Cry69Ab1_58.0_PEU83535.1 #1,((BT_Cry69Ab1 #1,BT_Cry69Aa1 #1) #1,(NOV_Cry53Ab1_39.4_AFM37573.1 #1,NOV_Cry43Cb1_38.6_AGV55020.1 #1) #1) #1) #1,NOV_Cry69Ab1_59.2_WP_103591619.1 #1,NOV_Cry69Aa2_62.7_WP_103591151.1 #1) #1;
+
+        Branches  =>   omega
+              #1  =>   1.000

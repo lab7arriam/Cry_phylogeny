@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~8e03fb9378e890408fe438ac9e6c5b83)
+  - processing model b_free (b_free~9c50279b888b08f1236cc109af4b0b59)
+       marking branches 8
+
+          (((BT_Cry30Aa1,(((BT_Cry30Fa1,BT_Cry30Ca1),BT_Cry30Ga1),BT_Cry30Ea1)),(BT_Cry21Aa1,(NOV_Cry21Aa2_44.6_AZR80772.1,BT_Cry21Ba1))),NOV_Cry14Aa1_41.1_PGW46198.1 #1,NOV_Cry14Ab1_42.4_PGW46196.1);
+
+  - processing model b_neut (b_neut~6c59ef2f245b9488d3f7659bed4bc0e0)
+       marking branches 8
+
+          (((BT_Cry30Aa1,(((BT_Cry30Fa1,BT_Cry30Ca1),BT_Cry30Ga1),BT_Cry30Ea1)),(BT_Cry21Aa1,(NOV_Cry21Aa2_44.6_AZR80772.1,BT_Cry21Ba1))),NOV_Cry14Aa1_41.1_PGW46198.1 #1,NOV_Cry14Ab1_42.4_PGW46196.1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~8e03fb9378e890408fe438ac9e6c5b83 |   b_free.8-1~2e0b64d0404230f31d7b374f0b089b41 | 0.267935
+        b_neut.8-1~80d77cf2331443b3d29b8391a6f37f19 |   b_free.8-1~2e0b64d0404230f31d7b374f0b089b41 | 0.402919
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.279
+
+ - Model b_free.8-1
+   * Marked branches
+      (((BT_Cry30Aa1,(((BT_Cry30Fa1,BT_Cry30Ca1),BT_Cry30Ga1),BT_Cry30Ea1)),(BT_Cry21Aa1,(NOV_Cry21Aa2_44.6_AZR80772.1,BT_Cry21Ba1))),NOV_Cry14Aa1_41.1_PGW46198.1 #1,NOV_Cry14Ab1_42.4_PGW46196.1);
+
+        Branches  =>   omega
+      background  =>   0.266
+              #1  =>   0.486
+
+ - Model b_neut.8-1
+   * Marked branches
+      (((BT_Cry30Aa1,(((BT_Cry30Fa1,BT_Cry30Ca1),BT_Cry30Ga1),BT_Cry30Ea1)),(BT_Cry21Aa1,(NOV_Cry21Aa2_44.6_AZR80772.1,BT_Cry21Ba1))),NOV_Cry14Aa1_41.1_PGW46198.1 #1,NOV_Cry14Ab1_42.4_PGW46196.1);
+
+        Branches  =>   omega
+      background  =>   0.261
+              #1  =>   1.000

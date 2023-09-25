@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~38bfc3b697b8da67b6892973485a6e8b)
+  - processing model b_free (b_free~d7d55e63eaa068ab0ab8604193486240)
+       marking branches 18, 4, 5, 12, 17
+
+          ((NOV_Cry1Da1_83.2_AIW52615.1,(BT_Cry1Db1,(NOV_Cry1Da1_84.8_ABK35074.1,((BT_Cry1Da4 #1,NOV_Cry1Da3_99.9_OTZ53868.1 #1) #1,BT_Cry1Da1 #1) #1))),(((BT_Cry1Ca11,BT_Cry1Ca3),NOV_Cry1Ca2_99.9_CAA00882.1),BT_Cry1Cb1),(BT_Cry1Na1,BT_Cry1Nb1));
+
+  - processing model b_neut (b_neut~eb6dfe146be12e2cd583bbea5b58eec7)
+       marking branches 18, 4, 5, 12, 17
+
+          ((NOV_Cry1Da1_83.2_AIW52615.1,(BT_Cry1Db1,(NOV_Cry1Da1_84.8_ABK35074.1,((BT_Cry1Da4 #1,NOV_Cry1Da3_99.9_OTZ53868.1 #1) #1,BT_Cry1Da1 #1) #1))),(((BT_Cry1Ca11,BT_Cry1Ca3),NOV_Cry1Ca2_99.9_CAA00882.1),BT_Cry1Cb1),(BT_Cry1Na1,BT_Cry1Nb1));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~38bfc3b697b8da67b6892973485a6e8b | b_free.18_4_~505ee246cdd160be739e81e549f07c6e | 0.763591
+      b_neut.18_4_~632ed37006181aad364306c8001ccd80 | b_free.18_4_~505ee246cdd160be739e81e549f07c6e | 0.337212
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.159
+
+ - Model b_free.18_4_5_12_17-1_1_1_1_1
+   * Marked branches
+      ((NOV_Cry1Da1_83.2_AIW52615.1,(BT_Cry1Db1,(NOV_Cry1Da1_84.8_ABK35074.1,((BT_Cry1Da4 #1,NOV_Cry1Da3_99.9_OTZ53868.1 #1) #1,BT_Cry1Da1 #1) #1))),(((BT_Cry1Ca11,BT_Cry1Ca3),NOV_Cry1Ca2_99.9_CAA00882.1),BT_Cry1Cb1),(BT_Cry1Na1,BT_Cry1Nb1));
+
+        Branches  =>   omega
+      background  =>   0.159
+              #1  =>   0.244
+
+ - Model b_neut.18_4_5_12_17-1_1_1_1_1
+   * Marked branches
+      ((NOV_Cry1Da1_83.2_AIW52615.1,(BT_Cry1Db1,(NOV_Cry1Da1_84.8_ABK35074.1,((BT_Cry1Da4 #1,NOV_Cry1Da3_99.9_OTZ53868.1 #1) #1,BT_Cry1Da1 #1) #1))),(((BT_Cry1Ca11,BT_Cry1Ca3),NOV_Cry1Ca2_99.9_CAA00882.1),BT_Cry1Cb1),(BT_Cry1Na1,BT_Cry1Nb1));
+
+        Branches  =>   omega
+              #1  =>   1.000
+      background  =>   0.159

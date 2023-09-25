@@ -1,0 +1,41 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~693baea6e2e843b82ea7d7001fd29170)
+  - processing model b_free (b_free~00f3748d3b87dc7b5ba0ab8c038ddf31)
+       marking branches 13, 1, 11, 14, 5, 15, 20, 16, 19, 9, 4, 17, 7, 8, 6, 10, 18, 3, 2, 12
+
+          ((((((BT_Cry1Ka2 #1,(BT_Cry1Bd1 #1,BT_Cry1Bb1 #1) #1) #1,BT_Cry1Bh1 #1) #1,(BT_Cry1Bi1 #1,BT_Cry1Bg1 #1) #1) #1,(BT_Cry1Bj1 #1,BT_Cry1Be1 #1) #1) #1,BT_Cry1Bf1 #1) #1,BT_Cry1Ba1 #1,NOV_Cry1Ba2_99.9_OTY85625.1 #1) #1;
+
+  - processing model b_neut (b_neut~110818515ef999231bd6d667d7a14288)
+       marking branches 13, 1, 11, 14, 5, 15, 20, 16, 19, 9, 4, 17, 7, 8, 6, 10, 18, 3, 2, 12
+
+          ((((((BT_Cry1Ka2 #1,(BT_Cry1Bd1 #1,BT_Cry1Bb1 #1) #1) #1,BT_Cry1Bh1 #1) #1,(BT_Cry1Bi1 #1,BT_Cry1Bg1 #1) #1) #1,(BT_Cry1Bj1 #1,BT_Cry1Be1 #1) #1) #1,BT_Cry1Bf1 #1) #1,BT_Cry1Ba1 #1,NOV_Cry1Ba2_99.9_OTY85625.1 #1) #1;
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~693baea6e2e843b82ea7d7001fd29170 | b_free.13_1_~0aa474c82c70bfd7db9cec39093a26f9 | 1.000000
+      b_neut.13_1_~4e821abfd5287862aafb817ba6a2d649 | b_free.13_1_~0aa474c82c70bfd7db9cec39093a26f9 | 0.000000**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.218
+
+ - Model b_free.13_1_11_14_5_15_20_16_19_9_4_17_7_8_6_10_18_3_2_12-1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((((((BT_Cry1Ka2 #1,(BT_Cry1Bd1 #1,BT_Cry1Bb1 #1) #1) #1,BT_Cry1Bh1 #1) #1,(BT_Cry1Bi1 #1,BT_Cry1Bg1 #1) #1) #1,(BT_Cry1Bj1 #1,BT_Cry1Be1 #1) #1) #1,BT_Cry1Bf1 #1) #1,BT_Cry1Ba1 #1,NOV_Cry1Ba2_99.9_OTY85625.1 #1) #1;
+
+        Branches  =>   omega
+              #1  =>   0.218
+
+ - Model b_neut.13_1_11_14_5_15_20_16_19_9_4_17_7_8_6_10_18_3_2_12-1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((((((BT_Cry1Ka2 #1,(BT_Cry1Bd1 #1,BT_Cry1Bb1 #1) #1) #1,BT_Cry1Bh1 #1) #1,(BT_Cry1Bi1 #1,BT_Cry1Bg1 #1) #1) #1,(BT_Cry1Bj1 #1,BT_Cry1Be1 #1) #1) #1,BT_Cry1Bf1 #1) #1,BT_Cry1Ba1 #1,NOV_Cry1Ba2_99.9_OTY85625.1 #1) #1;
+
+        Branches  =>   omega
+              #1  =>   1.000

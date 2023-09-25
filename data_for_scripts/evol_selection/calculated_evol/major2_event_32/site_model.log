@@ -1,0 +1,240 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~d59b43750810ea3c3279aadfa5d99247)
+  - processing model M1 (M1~414c88d1a04b436d1f1b91218167c203)
+  - processing model M2 (M2~a6418129c97655591b33fead2240701a)
+  - processing model M3 (M3~b13c800d42a1874f7ab65405ebb74dd1)
+  - processing model M7 (M7~2b1aded78db2b098fe651ce8b28dfe5b)
+  - processing model M8 (M8~4c6f8e693664d8bdf1dc13297f083cf3)
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~d59b43750810ea3c3279aadfa5d99247 |           M1~414c88d1a04b436d1f1b91218167c203 | 0.000000**
+                M0~d59b43750810ea3c3279aadfa5d99247 |           M2~a6418129c97655591b33fead2240701a | 0.000000**
+                M0~d59b43750810ea3c3279aadfa5d99247 |           M3~b13c800d42a1874f7ab65405ebb74dd1 | 0.000000**
+                M0~d59b43750810ea3c3279aadfa5d99247 |           M7~2b1aded78db2b098fe651ce8b28dfe5b | 0.000000**
+                M0~d59b43750810ea3c3279aadfa5d99247 |           M8~4c6f8e693664d8bdf1dc13297f083cf3 | 0.000000**
+                M1~414c88d1a04b436d1f1b91218167c203 |           M2~a6418129c97655591b33fead2240701a | 0.000081**
+                M1~414c88d1a04b436d1f1b91218167c203 |           M3~b13c800d42a1874f7ab65405ebb74dd1 | 0.000036**
+                M1~414c88d1a04b436d1f1b91218167c203 |           M8~4c6f8e693664d8bdf1dc13297f083cf3 | 0.000015**
+                M2~a6418129c97655591b33fead2240701a |           M3~b13c800d42a1874f7ab65405ebb74dd1 | 0.035458*
+                M7~2b1aded78db2b098fe651ce8b28dfe5b |           M2~a6418129c97655591b33fead2240701a | 0.000363**
+                M7~2b1aded78db2b098fe651ce8b28dfe5b |           M3~b13c800d42a1874f7ab65405ebb74dd1 | 0.000150**
+                M7~2b1aded78db2b098fe651ce8b28dfe5b |           M8~4c6f8e693664d8bdf1dc13297f083cf3 | 0.000067**
+                M8~4c6f8e693664d8bdf1dc13297f083cf3 |           M3~b13c800d42a1874f7ab65405ebb74dd1 | 0.304224
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.428
+
+ - Model M1
+   * Average omega for all tree: 0.596
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                 5   |   Relaxed (probability > 0.95)
+            7-   8   |   Relaxed (probability > 0.95)
+                10   |   Relaxed (probability > 0.95)
+                13   |   Relaxed (probability > 0.99)
+                16   |   Relaxed (probability > 0.95)
+                21   |   Relaxed (probability > 0.95)
+                23   |   Relaxed (probability > 0.95)
+                27   |   Relaxed (probability > 0.95)
+                29   |   Relaxed (probability > 0.95)
+           34-  35   |   Relaxed (probability > 0.99)
+                37   |   Relaxed (probability > 0.99)
+           39-  41   |   Relaxed (probability > 0.95)
+                46   |   Relaxed (probability > 0.95)
+                48   |   Relaxed (probability > 0.99)
+                54   |   Relaxed (probability > 0.95)
+                57   |   Relaxed (probability > 0.99)
+                58   |   Relaxed (probability > 0.95)
+           59-  62   |   Relaxed (probability > 0.99)
+                63   |   Relaxed (probability > 0.95)
+                64   |   Relaxed (probability > 0.99)
+                65   |   Relaxed (probability > 0.95)
+                66   |   Relaxed (probability > 0.99)
+                68   |   Relaxed (probability > 0.99)
+                72   |   Relaxed (probability > 0.99)
+                75   |   Relaxed (probability > 0.95)
+                79   |   Relaxed (probability > 0.99)
+           81-  83   |   Relaxed (probability > 0.95)
+                84   |   Relaxed (probability > 0.99)
+                85   |   Relaxed (probability > 0.95)
+           86-  87   |   Relaxed (probability > 0.99)
+                89   |   Relaxed (probability > 0.99)
+                90   |   Relaxed (probability > 0.95)
+                94   |   Relaxed (probability > 0.95)
+          100- 103   |   Relaxed (probability > 0.99)
+               105   |   Relaxed (probability > 0.95)
+               108   |   Relaxed (probability > 0.95)
+               109   |   Relaxed (probability > 0.99)
+               111   |   Relaxed (probability > 0.99)
+               113   |   Relaxed (probability > 0.95)
+               115   |   Relaxed (probability > 0.99)
+               116   |   Relaxed (probability > 0.95)
+               118   |   Relaxed (probability > 0.99)
+          119- 120   |   Relaxed (probability > 0.95)
+          122- 124   |   Relaxed (probability > 0.95)
+          126- 127   |   Relaxed (probability > 0.95)
+               128   |   Relaxed (probability > 0.99)
+               133   |   Relaxed (probability > 0.95)
+               134   |   Relaxed (probability > 0.99)
+               136   |   Relaxed (probability > 0.95)
+               139   |   Relaxed (probability > 0.99)
+               140   |   Relaxed (probability > 0.95)
+               142   |   Relaxed (probability > 0.99)
+               143   |   Relaxed (probability > 0.95)
+          144- 145   |   Relaxed (probability > 0.99)
+               147   |   Relaxed (probability > 0.99)
+               150   |   Relaxed (probability > 0.99)
+               151   |   Relaxed (probability > 0.95)
+               154   |   Relaxed (probability > 0.99)
+               155   |   Relaxed (probability > 0.95)
+               159   |   Relaxed (probability > 0.95)
+          161- 164   |   Relaxed (probability > 0.99)
+               173   |   Relaxed (probability > 0.95)
+          176- 177   |   Relaxed (probability > 0.95)
+               178   |   Relaxed (probability > 0.99)
+               179   |   Relaxed (probability > 0.95)
+               182   |   Relaxed (probability > 0.95)
+               183   |   Relaxed (probability > 0.99)
+               186   |   Relaxed (probability > 0.95)
+               189   |   Relaxed (probability > 0.99)
+               192   |   Relaxed (probability > 0.99)
+               200   |   Relaxed (probability > 0.99)
+               201   |   Relaxed (probability > 0.95)
+               203   |   Relaxed (probability > 0.95)
+               212   |   Relaxed (probability > 0.95)
+          214- 215   |   Relaxed (probability > 0.95)
+          218- 220   |   Relaxed (probability > 0.95)
+               221   |   Relaxed (probability > 0.99)
+
+ - Model M2
+   * Average omega for all tree: 0.970
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            7-   8   |   Conserved (probability > 0.95)
+                10   |   Conserved (probability > 0.95)
+                13   |   Conserved (probability > 0.95)
+                16   |   Conserved (probability > 0.95)
+                29   |   Conserved (probability > 0.95)
+                39   |   Conserved (probability > 0.95)
+                54   |   Conserved (probability > 0.95)
+                58   |   Conserved (probability > 0.95)
+                62   |   Positively-selected (probability > 0.95)
+                68   |   Positively-selected (probability > 0.95)
+                83   |   Conserved (probability > 0.95)
+               105   |   Conserved (probability > 0.95)
+               111   |   Conserved (probability > 0.95)
+               113   |   Conserved (probability > 0.95)
+               133   |   Conserved (probability > 0.95)
+               140   |   Conserved (probability > 0.95)
+               144   |   Conserved (probability > 0.95)
+               145   |   Positively-selected (probability > 0.95)
+               151   |   Conserved (probability > 0.95)
+               173   |   Conserved (probability > 0.95)
+               179   |   Conserved (probability > 0.95)
+               183   |   Conserved (probability > 0.95)
+               186   |   Conserved (probability > 0.95)
+               189   |   Conserved (probability > 0.95)
+               192   |   Conserved (probability > 0.95)
+               214   |   Conserved (probability > 0.95)
+               218   |   Conserved (probability > 0.95)
+          220- 221   |   Conserved (probability > 0.95)
+
+ - Model M3
+   * Average omega for all tree: 0.745
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            3-   4   |   Relaxed (probability > 0.95)
+            9-  10   |   Relaxed (probability > 0.95)
+           12-  13   |   Relaxed (probability > 0.95)
+           16-  18   |   Relaxed (probability > 0.95)
+                21   |   Relaxed (probability > 0.95)
+                23   |   Relaxed (probability > 0.99)
+                27   |   Relaxed (probability > 0.99)
+                28   |   Relaxed (probability > 0.95)
+           33-  34   |   Relaxed (probability > 0.95)
+                37   |   Relaxed (probability > 0.95)
+                42   |   Relaxed (probability > 0.95)
+                44   |   Relaxed (probability > 0.95)
+                46   |   Relaxed (probability > 0.99)
+                54   |   Relaxed (probability > 0.95)
+                55   |   Relaxed (probability > 0.99)
+                57   |   Relaxed (probability > 0.99)
+                59   |   Relaxed (probability > 0.99)
+                60   |   Relaxed (probability > 0.95)
+                61   |   Relaxed (probability > 0.99)
+           62-  65   |   Relaxed (probability > 0.95)
+                66   |   Relaxed (probability > 0.99)
+           68-  69   |   Relaxed (probability > 0.95)
+                72   |   Relaxed (probability > 0.95)
+                77   |   Relaxed (probability > 0.95)
+                79   |   Relaxed (probability > 0.99)
+                81   |   Relaxed (probability > 0.95)
+                82   |   Relaxed (probability > 0.99)
+           83-  85   |   Relaxed (probability > 0.95)
+           88-  89   |   Relaxed (probability > 0.95)
+                90   |   Relaxed (probability > 0.99)
+                95   |   Relaxed (probability > 0.99)
+               100   |   Relaxed (probability > 0.95)
+               102   |   Relaxed (probability > 0.99)
+               103   |   Relaxed (probability > 0.95)
+               105   |   Relaxed (probability > 0.95)
+          108- 109   |   Relaxed (probability > 0.99)
+               111   |   Relaxed (probability > 0.95)
+          114- 115   |   Relaxed (probability > 0.95)
+               116   |   Relaxed (probability > 0.99)
+               118   |   Relaxed (probability > 0.95)
+               119   |   Relaxed (probability > 0.99)
+          120- 121   |   Relaxed (probability > 0.95)
+               122   |   Relaxed (probability > 0.99)
+               123   |   Relaxed (probability > 0.95)
+               125   |   Relaxed (probability > 0.95)
+          126- 127   |   Relaxed (probability > 0.99)
+               128   |   Relaxed (probability > 0.95)
+               130   |   Relaxed (probability > 0.95)
+               132   |   Relaxed (probability > 0.95)
+               135   |   Relaxed (probability > 0.95)
+          139- 140   |   Relaxed (probability > 0.95)
+          143- 144   |   Relaxed (probability > 0.95)
+               145   |   Relaxed (probability > 0.99)
+               147   |   Relaxed (probability > 0.95)
+               149   |   Relaxed (probability > 0.95)
+               151   |   Relaxed (probability > 0.95)
+               155   |   Relaxed (probability > 0.95)
+          157- 158   |   Relaxed (probability > 0.95)
+               161   |   Relaxed (probability > 0.95)
+          163- 165   |   Relaxed (probability > 0.95)
+               167   |   Relaxed (probability > 0.95)
+               170   |   Relaxed (probability > 0.95)
+          175- 177   |   Relaxed (probability > 0.95)
+               183   |   Relaxed (probability > 0.95)
+               189   |   Relaxed (probability > 0.95)
+          192- 193   |   Relaxed (probability > 0.95)
+               198   |   Relaxed (probability > 0.99)
+          200- 201   |   Relaxed (probability > 0.99)
+               203   |   Relaxed (probability > 0.99)
+               214   |   Relaxed (probability > 0.95)
+               219   |   Relaxed (probability > 0.95)
+               221   |   Relaxed (probability > 0.95)
+
+ - Model M7
+   * Average omega for all tree: 0.499
+
+ - Model M8
+   * Average omega for all tree: 0.795
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                62   |   Positively-selected (probability > 0.95)
+                68   |   Positively-selected (probability > 0.95)
+               145   |   Positively-selected (probability > 0.95)

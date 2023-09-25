@@ -1,0 +1,250 @@
+      8    444
+
+BT_Cry32Da1                     ATA TCA ATT GAT AAG ATT ACC CAA ATT CCA GCA GTC AAG GCA TTT TTT ATA GAT GAC AAT CAT GTA AAA GTA ATT AAA GGA CCT GGA TCT ACA GGA GGA GAT TTA GTC GCT TTT TCT AGA GAG GGT TAT GGT CTT AGT ATA TCA GTG TTT ATT CCT GGA AGT GAT TTA GTA TCA TTT TAT AGA GTA AGG ATT CGT TAT GCG AGT AGT CAG TCT GCT AAA GTC ACA ATG GGT TTC GGT GGA --- --- GGC GTA GAG GAA TCG GAG AGC AAA TTT AAT TTT CCT GCT ACG TAT TCT GGT --- --- --- GGC AAT CTA ACA TAT AAT AGT TTT GGG TAT ATA AAT ACT TTG GCA ATT GCA TCT CAA TCA ACT GCC CAA ACT ATT GAA GTC TAT TTT AGG CAA TAC GAG GAA GCT GAA TTT ATT GTC GAT AAA CTT GAA TTT ATT --- 
+BT_Cry32Ma1                     --- --- AGT GAC AAA ATC ACT CAA ATT CCA GCG GTG AAG GGA TAT TTG CTA GAA CGA GGC --- GCT AAA GTT GTA AAA GGG CCT GGT AGC ACA GGA GGA GAT TTA ATA CAG TTA CCT GGT GCA TCC CAA --- GGA AGA ATT ACT ATT AAT ATA AGC AAC GCA TTC --- CAA AAG AGT TTT ATG GTG CGT ATT CGA TAT GCT GCT ACT GCT GAT GGT CAG TTA AAA TTT GGT AGG ATT TCC AGT GAT GGA GGT ATT CAT --- TCG ACG AGT ACA AAA TAC GTT ACT ACC GGT GCG AAT GAA AAC GTA AAT TCG TTA ACG TAC AAT CGG TTT AAA TAT ACG GAT GTT TAT GGA GCA ATG GCT --- --- AGT AAT ATT TAT AGT GGC ATA GTA CTT ATA AAC GAA ATG GGT GGA TCA ATC TAC ATC GAC AAA ATC GAA TTC ATT --- 
+BT_Cry32Mb1                     --- --- AGT GAC AAA ATC ACT CAA ATT CCA GCG GTG AAG GCA TTC AAT ATA CAA GGA AAC --- GGA AAA GTA ACA AAA GGG CCT GGT AGC ACA GGA GGA GAC TTA ATA GCA TTA CCT GCA CCC AGT --- --- GGA CAA ATT AAC ATT TAT CTA AAG GAA ACA TCA --- ACA AAG AAT TAT CGT GTG CGT CTT CGA TAT GCT GCT ACT ACT GAT GGT CAA TTA CGA GTA GCT CGA GTT CGA AAT GGT GGA GCT GTT CGT TGG TTT GAG AAT ATA AAA TAC GTT ACT ACT GGT GCA AGT GAA --- --- AAC TCT TTA GCG TAT AAT CAG TTT AAA TAT GTG GAT ATT TTC ACA TCA GAT TTC --- --- AGT AAT ATT AAT AGC --- TTG GTA TTT ATT AAC CAA AGT GGT GGC ACT ATT CTT ATT GAC CAA ATC GAA TTC ATT --- 
+BT_Cry32Pa1                     --- --- --- --- AAG ATT ACT CAA ATT CCA GCG GTG AAA GGT TAT GGA TTA GGA GGG AAT --- GCT ACA GTT ATC CGA GGG CCT GGT AGT ACA GGG GGG GAT TTA GTT CAA CTA CCT AAC CCT GGA TCT --- GTA AAG ATA CAA CTT --- CCT GTC GCA AGT AAG --- AGT CAA AGT TAC CGT GTT AGA ATT CGT TAT GCG AGT AGT GGA AAT GGG ACA CTG AGG GTA GTT AAA TGG AAT --- --- CAT GGC TAC TAT TCA CAT GCA TAT TAT AAC GTT TCT ACA ACC TAT TCA --- --- --- --- AGT GCA TTA ACA TAT AAT TCA TTT AAA TAT TTA GAA TCT TAC GCT ATA ACA ATG TAT CCA GCA GAT AAT GAT CTT GAA ATC TGG CTT GAA AAT TCT GGT GGT GGA CCA ATC ATC ATC GAC AAA ATC GAA TTC ATT --- 
+BT_Cry32Ua1                     --- --- CTT GAT AAG ATT ACC CAA ATT CCA GCA GTT AAG GGA CGT TCG TTG ACA GGA ACT --- GCC AAA GTG ATT AAA GGA CCT GGA TCT ACA GGA GGA GAC TTA GTC GCT TTG TCT GCT TAT GAT CTT --- CTT AGT ATA GCA GTG TCT TTG CCG GCA AAT GAT --- ACA GTA TTT TAT AAG TTA AGG ATT CGT TAT GCG AGT AGT CAG TTT GCT AGA GTA CAG ATG TCT TTC ACA GGA --- --- CCT CTT GAG GAT GGA GAG GCG ACC TTT GAT TTT CCA GCT ACG TAT TCT GGT --- --- --- GGT AAT CTA ACA TAC AAT AGT TTT GAA TAT ATA ACT ACT TTT GCA ATA AAC TCA CAA TCA GAG GAG CAA TTT GTT GAA ATC CAG TTC GTG AAT TTC AAT GAA GTC GAT TTT ATC ATC GAT AAA CTT GAA TTC ATT --- 
+BT_Cry32Wa1                     --- --- --- --- AAA ATC ACT CAA ATT CCA GCG GTG AAA GGT TTT GGA TTA GGA GGA AGT --- GCT ACA GTT ATC TCA GGA CCT GGT AGC ACA GGT GGG GAT GTA GTG CAA TTA CAG CGG TGG GGA CAT --- GTA AAG ATA GCA ATT --- CCA GCT GCA AGG AAT --- ATT CAG CCT TAT CGT GTG AGA ATT CGT TAT GCA AGT AGT CAA GCT AGT ACA TTA AGA GTA ATC CGG TGG AGG --- --- GGC GGT GTA TAT CAA CAT GCA TAT TAT AAT GTT CCT CAA ACA TAT ACG AAT --- --- --- AGT TTA TTA ACA TAT AAT ACA TTT AAA TAT GTA GAC TCG TTT GCT ATA ACA --- --- --- CCA GAT ACC TCA ATC GAG GTT TGG CTT GAA AAT ACC GGT GGC GGA ACC ATT ATC ATT GAC AAA ATC GAG TTC ATT CCA 
+BT_Cry41Ba2                     GTG GTC TCA GAT AAA ATC ACT CAA ATT CCA GCG GTG AAA GCG TAC TGG AAT CGA GGA GCC --- TTT TCG GTT GTG AAA GGA TCT GGT TCG ACA GGA GGA GAT CTA GTA CAA TTA AGT CCT TCT GGC GAA --- GTG TCA ATT ATG GTG AAA CCA TCT CGC TCT GGT --- ATA GGC CAA TTT CGT GTT CGC ATT CGA TAT GCG GCT ACA GCG AAC GGT AGA CTC AAT ATC AAA AAA TAC GTT --- --- GGT AGT ATA CAT GCA TCT CAA TCG TAT GAT TAT AAA CAA ACG ACT ACT --- --- --- --- AGT AAT CTC ACG TTT TCA GCA TTC CAA TAT TTA GAT GTT TAC AAC TTC AAT CTA --- --- GCA GAA ACT CAA TTT GAG GTT TGG CTC ACC AAT GAG AGT GGT GGT CCT ATC TTT ATT GAC AAA ATC GAG TTC --- --- 
+NOV_Cry41Ba2_47.9_BAD35157.1    --- --- --- --- AGA ATT ACT CAA ATA CCA GCG GTG AAA GCT TAT TGG AAT CGA GGT GCT --- TTT TCA GTA ATA AGG GGG CCT GGT TCG ACA GGT GGA AAC CTA GTT CAA CTT GGT ACT GGT GGG GAA --- GTG TCT GTT AAG GTA CGA CCA GAA CAA ACA GGT --- AGT GAC TGG TAT CGT GTT CGT ATT CGC TAT GCA GCT GGT TCG AGG GGA AGA CTC AAC GTA AAG AAG TAT GTT --- --- AGC AGT ATA CAT GCA TCT GTA ACT TAT GAT TAT AAC ATG ACA ATG TCA AGT TCT --- --- ACA CAG GGG ACT TAT AAT TCG TTT CAG TAT TTA GAT GTT TAC AAT TTT AGG CTT --- --- GCA GAA CCT GAA TTT GAA GTA TGG CTT ACT AAT GAA AGT GGC GGG CCT ATT TGG ATT GAC AAA ATT GAA TTC ATT --- 
+
+
+
+Printing out site pattern counts
+
+
+         8        441  P
+
+BT_Cry32Da1                      --- --- --- --- --- --- AAA AAA AAA AAA AAA AAG AAG AAT AAT AAT AAT AAT ACA ACA ACA ACC ACG ACT ACT ACT AGA AGA AGC AGG AGG AGT AGT AGT AGT AGT ATA ATA ATA ATA ATG ATT ATT ATT ATT ATT ATT ATT ATT ATT ATT CAA CAA CAA CAA CAG CAT CCA CCT CCT CCT CGT CTA CTT CTT GAA GAA GAA GAA GAA GAC GAG GAG GAG GAG GAT GAT GAT GAT GAT GCA GCA GCA GCA GCC GCG GCT GCT GCT GCT GGA GGA GGA GGA GGA GGA GGC GGC GGG GGT GGT GGT GGT GGT GTA GTA GTA GTA GTA GTC GTC GTC GTC GTC GTG TAC TAT TAT TAT TAT TAT TAT TCA TCA TCA TCA TCG TCT TCT TCT TCT TCT TTA TTA TTC TTG TTT TTT TTT TTT TTT TTT TTT TTT TTT TTT TTT
+BT_Cry32Ma1                      --- AAC AGT GAA GAT GTA AAA AAA AAA AGT CAG AAA AAG AAA AAT GAT GGC TCG AAA ACA ACG ACT ACC AGT GTT TAT ATG GGT ACG ATA CGT ACT AGA CGG GCA GCT --- ACG ATT CTA TTT AGT AGT ATA ATC ATT ATT ATT GCA GTA TAC --- AAC ATT CAA GCT --- CCA AGC CCT GTT CGA TTA ATC GGA CAT GAA GGC GGT TCA CGA ATG ATT GCA TCG GAA GAC GAC GAT TTC ATG GCG GGA GGA AAT GCT ACT CAG GGA GGT AAC GGA GGA GGG GGT TCC AAT GGA AAA --- AAT ATT GGT TCC CAA GCT GGT GTG GTT ATA ATA ATC GTG TTA ATT GAA CAA GGT GTA TAC TAT TTT --- --- AAG ACT --- AGC CCT GAT GCG GCT --- TTA AGG TAT AAT ACA AGT ATC CTT TAC TAT TTA TTC TTG TTT
+BT_Cry32Mb1                      --- --- AAT GAA GGT --- AAA AAA CAA AAT CAA AAA AAG AAA AAT GAT AAC TCT CGA ACA GCG ACT ACT AGT ATT AAT CGT GCA GAG ATT CGT ACT CAA CAG ACA GCT --- GTG ATT ATA GTA AGC AGT CTA ATC ATT ATT CTT TCA ACA CTT --- AAC ATT CAA ACT --- CCA AAG CCT GTT CGA TTA ATC GGA CGT GAA --- GGT ACT GGA AGT GTT CCC TTT CAA GAC GAC GAC TCA GAT GCG ACA GCA AAT GCT ACT GCA GGC GGT GAA GGA GGA GGG GGT CGA AAC GGA AAA --- AGT GTT GCT AGT ACA GGA GCT GTG GTA ATA TTG ATT GTG TTA ATT CAA --- GGT GTA TAT TAT TAT --- --- AAG AAC TGG AGC CCT GAT GCA TTC --- TTA CGA TTC TAT ATA AAT ATT TTT TAC TTC TTA TTC AAT TTT
+BT_Cry32Pa1                      --- --- --- --- --- --- ACA CGA AAA TAT ACA AAG AAA AAC AAT GAA AAT GCA AGG ACA ACA ACT ACC GCA TCT GAT CGT AAC GCA GAA AGA AGT AAG TCA AGT AGT --- TTA ATA TTA GTA CTT --- CCT ATT ATT ATT ATT ATA ATC ATC TAT AAT AAT CAA GGA --- CCA GTC CCT TCT CGT TTA ATC GTA TAT GAA GAA GGT CCA GGG GGT TAC CCT CAT GGA --- GAC GAT AAG ACA GCG GCT GGT GAT GCG ACA CAA GGA GGG GCA GGG GGG GGG GGT AAT AGT CAT AAA --- --- TGG GTT GGA AGT GCT GGC GTT GTT GTT ATC ATC GTG CTG CTT TCT TCT TAT TGG TAT TAT TAC --- CCA CAA CAA TCA AGT CCT AAT TCA ATG --- TTA AAA TAC --- TAT AGT ATC CTT GTT TAT CTA TTC GGA TTT
+BT_Cry32Ua1                      --- --- --- --- --- --- AAA AAA AAA ACC AGA AAG AAG GAT AAT ACT ACT AAT CAG ACA ACA ACC ACG GAG ACT TTT AAG GCT GCG GTG AGG AGT AGT AGT AAT AGT --- ATA ATA TTG ATG GTT CTT TTG ATT ATT ATT ATT ATA ATT ATC CAA AAT CAA CAA CAG --- CCA CCG CCT CCA CGT CTA CTT CTT GAT GAA GAA GAA GAT GGA AAT GAG TAT GAG ACA GAT GAT GAC GAT AAC GCA GCA GGA GAG GCG GCT GCT GTC GCT GCA GGA GGA GGA GGA GGA GGT CCT GAA --- GGT ACA TCT GAT ACA GCC CTT TTA GTG GTC ATC ATC GTT GTA GTG TTC CTT TAT CAG TAC TAT TAT --- TCA GTA GCA GGA TCT TCT TTT TCT TCA --- TTA TTC TTT TCT TTT TTT TTT TTC TTT CGT TTG TTC TCG TTT
+BT_Cry32Wa1                      CCA --- --- --- --- --- ACA TCA AAA TAT ACA AAA AAA AAT AAT GAC AGT TTA AGA ACA ACA ACT ACA CCA TCG TCA CGT CGG GCA GAA AGA AGT AAG ACA AGG AGT --- GTA ATA TTA GTA ATC --- CCA ATC ATT ATT ATT ATA ATC ATC --- AAT ACC CAA CAA --- CCA GCT CCT CCT CGT TTA ATC GTA TAT GAG GAG GGC ACC GGA GGT GTA TGG CAT GGA --- GAC GAT AAT ACA GCG GCT GGT GAT GCA CAA CAA GGA AGT GCA GGG GGT GGA GGT AGG AGT GGC AAA --- AAT TGG ATC GGA ATT GCT GGT GTG GTT GTG GTT ATT GTG TTA ATT ACC CAT TAT TGG TAT TAT TAT --- --- CAG GCA CAA AGC CAG GCT ACG --- --- GTA CGG TTT --- TAT CCT ATT CTT GTT TTT TTA TTC GGA TTT
+BT_Cry41Ba2                      --- --- --- --- --- --- TCG AAA AAA TCG AGA AAA AAA GAT TCA GAT GCC AAT AAT ACA ACG ACT ACG GCA GTT CAA CGT CCT CAA ACC CGC ACA TCA GCA TCT GCT GTG TTA ATT AAT ATC TTT TCA CCA ATC --- ATT ATT TTC GTG TTT --- AAT ACT CAA GCG --- CCA TCT TCT AAA CGA CTC ATC GTG CAT GAG GAG GGT CCT GGA AGT ATA TCT TCT CGA GAT GAC GAT GGT AAT GCG AAC GCG GAA GCG CAA CAA GGT GGT CGC GGA GGA GGA GGT GTT AGT GGT CAA --- --- TAC AAA GGC ATA TTT AGT GTT GTT GTA GTT ATT GTG CTC GTG GAG GAA ACT TGG TTT TAT TTT GTC --- GGC ATG GCA TCG AGT AAC ACT CTA --- CTA AAA TAC AAA TAT CAA ATC CTC TAT TAC TTA TTC TGG TTC
+NOV_Cry41Ba2_47.9_BAD35157.1     --- --- --- TCT --- --- TCA AGG AAA ACT AGA AGA AAA GAT AAT GAT GCT CAG AAC ACA ACT ACT ACA GCA GTT GAA CGT ACT GTA ACT CGT GGT TCT TCG ACA GCT --- TTA GTT AAT GTA TTT --- CCA ATT ATT ATA ATT TTT ATA TGG --- AAT CCT CAA TCG --- CCA GAA CCT AAC CGC GGG ATT GTG CAT GAA GAA GGC CCT GGT AGT ATA GGT TCT CGA --- GAC AAC GGT AGG GCG AAT GCT GAA GCA ATG CAA GGG GGA CAA GGA GGT GGG GGT GTT ACA AGC CAG --- AGT TAT AAG GGG AGT TTT AGT GTT GTA GTT GTA ATT GTG CTC GTA GAA GAA ATG TGG TAT TAT TAT --- --- GAC AAG GCA TCG GGT AGG TCA CTT --- CTA AAG TAC CGA TAT TGG ATT CTT TAT TAT CTT TTC TGG TTT
+
+
+
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    2    1    1    1    1    1    1    1    1    1    1    1    1    1    1
+    1    1    1    1    1    1    1    1    1    1    1    1
+
+CODONML (in paml version 4.8a, July 2014)  algn
+Model: One dN/dS ratio for branches, 
+Codon frequency model: F3x4
+ns =   8  ls = 148
+
+Codon usage in sequences
+--------------------------------------------------------------------------------------------------------------------------------------
+Phe TTT  11   3   3   1   8   3 | Ser TCT   5   0   1   4   5   0 | Tyr TAT   7   5   5   9   5   8 | Cys TGT   0   0   0   0   0   0
+    TTC   1   2   4   1   4   1 |     TCC   0   2   0   0   0   0 |     TAC   1   3   1   3   1   0 |     TGC   0   0   0   0   0   0
+Leu TTA   2   4   4   4   2   5 |     TCA   4   1   2   3   2   2 | *** TAA   0   0   0   0   0   0 | *** TGA   0   0   0   0   0   0
+    TTG   1   1   1   0   3   0 |     TCG   1   2   0   0   1   1 |     TAG   0   0   0   0   0   0 | Trp TGG   0   0   1   2   0   3
+--------------------------------------------------------------------------------------------------------------------------------------
+Leu CTT   2   1   2   3   5   1 | Pro CCT   3   2   2   4   2   3 | His CAT   1   1   0   2   0   2 | Arg CGT   1   1   3   2   2   2
+    CTC   0   0   0   0   0   0 |     CCC   0   0   1   0   0   0 |     CAC   0   0   0   0   0   0 |     CGC   0   0   0   0   0   0
+    CTA   1   1   1   1   1   0 |     CCA   1   1   1   3   2   4 | Gln CAA   4   3   6   4   3   5 |     CGA   0   2   4   1   0   0
+    CTG   0   0   0   1   0   0 |     CCG   0   0   0   0   1   0 |     CAG   1   2   1   0   3   2 |     CGG   0   1   0   0   0   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Ile ATT  10   8   9   4   5   7 | Thr ACT   3   4   6   1   3   1 | Asn AAT   5   5   7   6   5   5 | Ser AGT   5   6   5   7   4   5
+    ATC   0   4   2   6   3   6 |     ACC   1   1   0   1   2   3 |     AAC   0   3   4   2   1   0 |     AGC   1   2   2   0   0   1
+    ATA   4   4   3   2   3   2 |     ACA   3   2   5   6   5   7 | Lys AAA   5   7   5   4   3   4 | Arg AGA   2   1   0   1   1   2
+Met ATG   1   3   0   1   1   0 |     ACG   1   3   0   0   1   1 |     AAG   2   2   3   3   3   1 |     AGG   2   1   0   1   1   2
+--------------------------------------------------------------------------------------------------------------------------------------
+Val GTT   0   3   3   5   2   3 | Ala GCT   4   5   4   2   4   4 | Asp GAT   5   4   3   3   7   2 | Gly GGT   5   7   5   4   2   5
+    GTC   5   0   0   1   2   0 |     GCC   1   0   0   0   1   0 |     GAC   1   2   3   1   1   2 |     GGC   2   2   1   1   0   2
+    GTA   5   3   3   2   2   5 |     GCA   4   3   4   4   4   4 | Glu GAA   5   4   3   4   4   1 |     GGA   6   7   6   5   8   6
+    GTG   1   2   3   1   3   3 |     GCG   1   2   2   2   2   1 |     GAG   4   0   1   0   4   2 |     GGG   1   1   1   5   0   1
+--------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------
+Phe TTT   5   4 | Ser TCT   5   3 | Tyr TAT   4   8 | Cys TGT   0   0
+    TTC   3   1 |     TCC   0   0 |     TAC   3   1 |     TGC   0   0
+Leu TTA   2   1 |     TCA   3   2 | *** TAA   0   0 | *** TGA   0   0
+    TTG   0   0 |     TCG   3   3 |     TAG   0   0 | Trp TGG   2   4
+----------------------------------------------------------------------
+Leu CTT   0   3 | Pro CCT   2   3 | His CAT   1   1 | Arg CGT   1   2
+    CTC   3   1 |     CCC   0   0 |     CAC   0   0 |     CGC   2   1
+    CTA   2   1 |     CCA   2   2 | Gln CAA   7   3 |     CGA   2   2
+    CTG   0   0 |     CCG   0   0 |     CAG   0   2 |     CGG   0   0
+----------------------------------------------------------------------
+Ile ATT   4   6 | Thr ACT   4   5 | Asn AAT   5   4 | Ser AGT   4   4
+    ATC   4   0 |     ACC   1   0 |     AAC   2   3 |     AGC   0   1
+    ATA   2   3 |     ACA   2   4 | Lys AAA   8   2 | Arg AGA   1   2
+Met ATG   1   2 |     ACG   2   0 |     AAG   0   3 |     AGG   0   3
+----------------------------------------------------------------------
+Val GTT   5   5 | Ala GCT   1   3 | Asp GAT   4   2 | Gly GGT   6   7
+    GTC   1   0 |     GCC   1   0 |     GAC   1   2 |     GGC   2   1
+    GTA   1   5 |     GCA   3   3 | Glu GAA   2   7 |     GGA   4   2
+    GTG   5   2 |     GCG   4   1 |     GAG   3   0 |     GGG   0   4
+----------------------------------------------------------------------
+
+Codon position x base (3x4) table for each sequence.
+
+#1: BT_Cry32Da1    
+position  1:    T:0.23239    C:0.09859    A:0.31690    G:0.35211
+position  2:    T:0.30986    C:0.22535    A:0.28873    G:0.17606
+position  3:    T:0.47183    C:0.09155    A:0.32394    G:0.11268
+Average         T:0.33803    C:0.13850    A:0.30986    G:0.21362
+
+#2: BT_Cry32Ma1    
+position  1:    T:0.16547    C:0.10791    A:0.40288    G:0.32374
+position  2:    T:0.28058    C:0.20144    A:0.29496    G:0.22302
+position  3:    T:0.39568    C:0.15108    A:0.30935    G:0.14388
+Average         T:0.28058    C:0.15348    A:0.33573    G:0.23022
+
+#3: BT_Cry32Mb1    
+position  1:    T:0.16176    C:0.15441    A:0.37500    G:0.30882
+position  2:    T:0.27941    C:0.20588    A:0.30882    G:0.20588
+position  3:    T:0.42647    C:0.13235    A:0.34559    G:0.09559
+Average         T:0.28922    C:0.16422    A:0.34314    G:0.20343
+
+#4: BT_Cry32Pa1    
+position  1:    T:0.20301    C:0.15789    A:0.33835    G:0.30075
+position  2:    T:0.24812    C:0.22556    A:0.30827    G:0.21805
+position  3:    T:0.42857    C:0.12030    A:0.33083    G:0.12030
+Average         T:0.29323    C:0.16792    A:0.32581    G:0.21303
+
+#5: BT_Cry32Ua1    
+position  1:    T:0.22628    C:0.13869    A:0.29927    G:0.33577
+position  2:    T:0.32117    C:0.25547    A:0.29197    G:0.13139
+position  3:    T:0.43066    C:0.10949    A:0.29197    G:0.16788
+Average         T:0.32603    C:0.16788    A:0.29440    G:0.21168
+
+#6: BT_Cry32Wa1    
+position  1:    T:0.17424    C:0.15909    A:0.35606    G:0.31061
+position  2:    T:0.27273    C:0.23485    A:0.25758    G:0.23485
+position  3:    T:0.38636    C:0.11364    A:0.35606    G:0.14394
+Average         T:0.27778    C:0.16919    A:0.32323    G:0.22980
+
+#7: BT_Cry41Ba2    
+position  1:    T:0.22222    C:0.16296    A:0.29630    G:0.31852
+position  2:    T:0.28148    C:0.24444    A:0.29630    G:0.17778
+position  3:    T:0.37778    C:0.17037    A:0.30370    G:0.14815
+Average         T:0.29383    C:0.19259    A:0.29877    G:0.21481
+
+#8: NOV_Cry41Ba2_47.9_BAD35157.1
+position  1:    T:0.20149    C:0.15672    A:0.31343    G:0.32836
+position  2:    T:0.25373    C:0.21642    A:0.28358    G:0.24627
+position  3:    T:0.44776    C:0.08209    A:0.29104    G:0.17910
+Average         T:0.30100    C:0.15174    A:0.29602    G:0.25124
+
+Sums of codon usage counts
+------------------------------------------------------------------------------
+Phe F TTT      38 | Ser S TCT      23 | Tyr Y TAT      51 | Cys C TGT       0
+      TTC      17 |       TCC       2 |       TAC      13 |       TGC       0
+Leu L TTA      24 |       TCA      19 | *** * TAA       0 | *** * TGA       0
+      TTG       6 |       TCG      11 |       TAG       0 | Trp W TGG      12
+------------------------------------------------------------------------------
+Leu L CTT      17 | Pro P CCT      21 | His H CAT       8 | Arg R CGT      14
+      CTC       4 |       CCC       1 |       CAC       0 |       CGC       3
+      CTA       8 |       CCA      16 | Gln Q CAA      35 |       CGA      11
+      CTG       1 |       CCG       1 |       CAG      11 |       CGG       3
+------------------------------------------------------------------------------
+Ile I ATT      53 | Thr T ACT      27 | Asn N AAT      42 | Ser S AGT      40
+      ATC      25 |       ACC       9 |       AAC      15 |       AGC       7
+      ATA      23 |       ACA      34 | Lys K AAA      38 | Arg R AGA      10
+Met M ATG       9 |       ACG       8 |       AAG      17 |       AGG      10
+------------------------------------------------------------------------------
+Val V GTT      26 | Ala A GCT      27 | Asp D GAT      30 | Gly G GGT      41
+      GTC       9 |       GCC       3 |       GAC      13 |       GGC      11
+      GTA      26 |       GCA      29 | Glu E GAA      30 |       GGA      44
+      GTG      20 |       GCG      15 |       GAG      14 |       GGG      13
+------------------------------------------------------------------------------
+
+(Ambiguity data are not used in the counts.)
+
+
+Codon position x base (3x4) table, overall
+
+position  1:    T:0.19853    C:0.14154    A:0.33732    G:0.32261
+position  2:    T:0.28125    C:0.22610    A:0.29136    G:0.20129
+position  3:    T:0.42096    C:0.12132    A:0.31893    G:0.13879
+Average         T:0.30025    C:0.16299    A:0.31587    G:0.22089
+
+Codon frequencies under model, for use in evolver (TTT TTC TTA TTG ... GGG):
+  0.02446417  0.00705081  0.01853508  0.00806570
+  0.01966728  0.00566830  0.01490075  0.00648419
+  0.02534361  0.00730427  0.00000000  0.00000000
+  0.01750867  0.00504617  0.00000000  0.00577251
+  0.01744205  0.00502697  0.01321483  0.00575055
+  0.01402204  0.00404129  0.01062369  0.00462299
+  0.01806905  0.00520767  0.01368987  0.00595726
+  0.01248304  0.00359773  0.00945767  0.00411559
+  0.04156644  0.01197985  0.03149248  0.01370422
+  0.03341616  0.00963086  0.02531748  0.01101712
+  0.04306066  0.01241050  0.03262456  0.01419686
+  0.02974853  0.00857381  0.02253874  0.00980792
+  0.03975428  0.01145757  0.03011951  0.01310676
+  0.03195933  0.00921098  0.02421373  0.01053681
+  0.04118336  0.01186944  0.03120224  0.01357792
+  0.02845160  0.00820002  0.02155612  0.00938033
+
+
+
+Nei & Gojobori 1986. dN/dS (dN, dS)
+(Pairwise deletion)
+(Note: This matrix is not used in later ML. analysis.
+Use runmode = -2 for ML pairwise comparison.)
+
+BT_Cry32Da1         
+BT_Cry32Ma1          0.5699 (0.7760 1.3618)
+BT_Cry32Mb1          0.6419 (0.6943 1.0817) 0.7763 (0.3238 0.4172)
+BT_Cry32Pa1          0.4909 (0.5895 1.2009) 0.3950 (0.5673 1.4363) 0.3560 (0.5572 1.5653)
+BT_Cry32Ua1          0.8493 (0.3002 0.3535) 0.5448 (0.7757 1.4238) 0.4530 (0.7103 1.5681) 0.4471 (0.5718 1.2788)
+BT_Cry32Wa1          0.2859 (0.5234 1.8304) 0.4405 (0.5627 1.2773) 0.4539 (0.5452 1.2011) 0.3645 (0.2236 0.6136) 0.2861 (0.5403 1.8885)
+BT_Cry41Ba2          0.4273 (0.8484 1.9858) 0.4052 (0.6014 1.4841) 0.5180 (0.6594 1.2729) 0.4375 (0.5617 1.2839) 0.4076 (0.7325 1.7970) 0.5440 (0.5638 1.0363)
+NOV_Cry41Ba2_47.9_BAD35157.1 0.6051 (0.8515 1.4073) 0.5246 (0.6890 1.3134) 0.5953 (0.6839 1.1490) 0.4944 (0.5078 1.0271) 0.4711 (0.7971 1.6918) 0.5979 (0.5967 0.9979) 0.1906 (0.2175 1.1413)
+
+
+TREE #  1:  ((5, 1), 4, (((2, 3), (8, 7)), 6));   MP score: -1
+lnL(ntime: 13  np: 15):  -3223.471072      +0.000000
+   9..10   10..5    10..1     9..4     9..11   11..12   12..13   13..2    13..3    12..14   14..8    14..7    11..6  
+ 1.651893 0.550966 0.531821 0.461880 0.000004 0.646626 0.895419 0.650223 0.559276 1.018511 0.649154 0.592154 0.598752 1.519265 0.295013
+
+Note: Branch length is defined as number of nucleotide substitutions per codon (not per neucleotide site).
+
+tree length =   8.80668
+
+((5: 0.550966, 1: 0.531821): 1.651893, 4: 0.461880, (((2: 0.650223, 3: 0.559276): 0.895419, (8: 0.649154, 7: 0.592154): 1.018511): 0.646626, 6: 0.598752): 0.000004);
+
+((BT_Cry32Ua1: 0.550966, BT_Cry32Da1: 0.531821): 1.651893, BT_Cry32Pa1: 0.461880, (((BT_Cry32Ma1: 0.650223, BT_Cry32Mb1: 0.559276): 0.895419, (NOV_Cry41Ba2_47.9_BAD35157.1: 0.649154, BT_Cry41Ba2: 0.592154): 1.018511): 0.646626, BT_Cry32Wa1: 0.598752): 0.000004);
+
+Detailed output identifying parameters
+
+kappa (ts/tv) =  1.51927
+
+omega (dN/dS) =  0.29501
+
+dN & dS for each branch
+
+ branch          t       N       S   dN/dS      dN      dS  N*dN  S*dS
+
+   9..10     1.652   356.2    87.8  0.2950  0.3740  1.2677 133.2 111.2
+  10..5      0.551   356.2    87.8  0.2950  0.1247  0.4228  44.4  37.1
+  10..1      0.532   356.2    87.8  0.2950  0.1204  0.4081  42.9  35.8
+   9..4      0.462   356.2    87.8  0.2950  0.1046  0.3545  37.3  31.1
+   9..11     0.000   356.2    87.8  0.2950  0.0000  0.0000   0.0   0.0
+  11..12     0.647   356.2    87.8  0.2950  0.1464  0.4962  52.2  43.5
+  12..13     0.895   356.2    87.8  0.2950  0.2027  0.6872  72.2  60.3
+  13..2      0.650   356.2    87.8  0.2950  0.1472  0.4990  52.4  43.8
+  13..3      0.559   356.2    87.8  0.2950  0.1266  0.4292  45.1  37.7
+  12..14     1.019   356.2    87.8  0.2950  0.2306  0.7816  82.1  68.6
+  14..8      0.649   356.2    87.8  0.2950  0.1470  0.4982  52.4  43.7
+  14..7      0.592   356.2    87.8  0.2950  0.1341  0.4544  47.8  39.9
+  11..6      0.599   356.2    87.8  0.2950  0.1356  0.4595  48.3  40.3
+
+tree length for dN:       1.9938
+tree length for dS:       6.7584
+
+
+Time used:  0:03

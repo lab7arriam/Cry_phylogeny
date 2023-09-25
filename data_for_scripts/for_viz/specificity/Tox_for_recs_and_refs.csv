@@ -1,0 +1,5440 @@
+Group	Accession	Num	Dataset	Mode
+ref_no_rec	BGSC 4AW1	7	Strains	soft
+ref_no_rec	FBG25	1	Strains	strict
+ref_no_rec	BtMC28	7	Strains	soft
+ref_no_rec	FBG25	1	Strains	soft
+ref_no_rec	ARP239	1	Strains	strict
+ref_no_rec	HYD-3	1	Strains	strict
+ref_no_rec	ARP239	1	Strains	soft
+ref_no_rec	HYD-3	1	Strains	soft
+ref_no_rec	LTS-290	1	Strains	strict
+ref_no_rec	LTS-290	1	Strains	soft
+ref_no_rec	XL6	7	Strains	soft
+ref_no_rec	Sbt009	4	Strains	soft
+ref_no_rec	HD868	4	Strains	soft
+ref_no_rec	GCA_000161475.1	4	Assemblies	soft
+ref_no_rec	GCA_000774075.2	6	Assemblies	soft
+ref_no_rec	GCA_000774075.2	6	Assemblies	soft
+ref_no_rec	ARP011	1	Strains	strict
+ref_no_rec	ARP011	1	Strains	soft
+ref_no_rec	ATX 13026	11	Strains	soft
+ref_no_rec	1218	2	Strains	strict
+ref_no_rec	1218	2	Strains	soft
+ref_no_rec	BGSC 4BR1	2	Strains	soft
+ref_no_rec	NB176	1	Strains	soft
+ref_no_rec	VKPM B-3276	1	Strains	soft
+ref_no_rec	INTA Mo4-4	1	Strains	soft
+ref_no_rec	Bt22	1	Strains	soft
+ref_no_rec	4K5	1	Strains	soft
+ref_no_rec	BGSC 4AA1	2	Strains	soft
+ref_no_rec	EG2158	1	Strains	soft
+ref_no_rec	NB176	1	Strains	soft
+ref_no_rec	YM-03	1	Strains	soft
+ref_no_rec	886	1	Strains	soft
+ref_no_rec	Mm2	1	Strains	soft
+ref_no_rec	UTD-001	1	Strains	soft
+ref_no_rec	GCA_002146785.1	2	Assemblies	soft
+ref_no_rec	GCA_003719805.1	1	Assemblies	soft
+ref_no_rec	F14-1	1	Strains	strict
+ref_no_rec	GCA_004368515.1	1	Assemblies	strict
+ref_no_rec	F14-1	1	Strains	soft
+ref_no_rec	GCA_004368515.1	1	Assemblies	soft
+ref_no_rec	4S3	2	Strains	strict
+ref_no_rec	HD521	3	Strains	strict
+ref_no_rec	BTIPP003	2	Strains	strict
+ref_no_rec	ARP103	1	Strains	strict
+ref_no_rec	GCA_001183785.1	3	Assemblies	strict
+ref_no_rec	4S3	2	Strains	soft
+ref_no_rec	HD521	3	Strains	soft
+ref_no_rec	BTIPP003	2	Strains	soft
+ref_no_rec	ARP103	1	Strains	soft
+ref_no_rec	GCA_001183785.1	3	Assemblies	soft
+ref_no_rec	BTy41	6	Strains	soft
+ref_no_rec	SK700	3	Strains	soft
+ref_no_rec	Mfbjulcb3	1	Strains	strict
+ref_no_rec	AM1195	1	Strains	strict
+ref_no_rec	AM370	1	Strains	strict
+ref_no_rec	Mfbjulcb3	1	Strains	soft
+ref_no_rec	AM1195	1	Strains	soft
+ref_no_rec	AM370	1	Strains	soft
+ref_no_rec	ARP114	1	Strains	strict
+ref_no_rec	ARP114	1	Strains	soft
+ref_no_rec	AFS099341	1	Strains	strict
+ref_no_rec	GCA_002552915.1	1	Assemblies	strict
+ref_no_rec	AFS099341	1	Strains	soft
+ref_no_rec	GCA_002552915.1	1	Assemblies	soft
+ref_no_rec	ARP050	1	Strains	strict
+ref_no_rec	ARP050	1	Strains	soft
+ref_no_rec	LBIT-597	1	Strains	strict
+ref_no_rec	S811	1	Strains	strict
+ref_no_rec	QHW7-2	2	Strains	soft
+ref_no_rec	LBIT-597	1	Strains	soft
+ref_no_rec	S811	1	Strains	soft
+ref_no_rec	CAA890	1	Strains	strict
+ref_no_rec	CAA890	1	Strains	soft
+ref_no_rec	ARP171	1	Strains	strict
+ref_no_rec	BGSC 4BP1	3	Strains	soft
+ref_no_rec	ARP171	1	Strains	soft
+ref_no_rec	GCA_002146755.1	3	Assemblies	soft
+ref_no_rec	ARP052	1	Strains	strict
+ref_no_rec	ARP052	1	Strains	soft
+ref_no_rec	DAB-Bt6	4	Strains	soft
+ref_no_rec	mogi K4	5	Strains	soft
+ref_no_rec	IBL 4222	2	Strains	strict
+ref_no_rec	4H5	2	Strains	strict
+ref_no_rec	147	2	Strains	strict
+ref_no_rec	Root11	2	Strains	strict
+ref_no_rec	BB56-3	3	Strains	strict
+ref_no_rec	BRC-LLP29	3	Strains	strict
+ref_no_rec	Root131	2	Strains	strict
+ref_no_rec	18_483	2	Strains	strict
+ref_no_rec	AG102	2	Strains	strict
+ref_no_rec	BS-pTAND672-2	2	Strains	strict
+ref_no_rec	DE0030	2	Strains	strict
+ref_no_rec	18_484	2	Strains	strict
+ref_no_rec	GPL-O901	2	Strains	strict
+ref_no_rec	TAND672	2	Strains	strict
+ref_no_rec	IBL 4222	2	Strains	strict
+ref_no_rec	GCA_000161735.1	2	Assemblies	strict
+ref_no_rec	DAB-Bt2	3	Strains	soft
+ref_no_rec	BR58	3	Strains	soft
+ref_no_rec	AM65-52	4	Strains	soft
+ref_no_rec	HD-789	4	Strains	soft
+ref_no_rec	T0139	4	Strains	soft
+ref_no_rec	T0131	4	Strains	soft
+ref_no_rec	T0137	4	Strains	soft
+ref_no_rec	JW-1	4	Strains	soft
+ref_no_rec	BT-59	4	Strains	soft
+ref_no_rec	KNU-26	4	Strains	soft
+ref_no_rec	1.24	4	Strains	soft
+ref_no_rec	FDAARGOS_796	4	Strains	soft
+ref_no_rec	BMP144	4	Strains	soft
+ref_no_rec	IBL00427	4	Strains	soft
+ref_no_rec	Bti	4	Strains	soft
+ref_no_rec	AK8	4	Strains	soft
+ref_no_rec	BGSC 4AX1	4	Strains	soft
+ref_no_rec	HD522	4	Strains	soft
+ref_no_rec	IBL 4222	2	Strains	soft
+ref_no_rec	4H5	2	Strains	soft
+ref_no_rec	147	2	Strains	soft
+ref_no_rec	Root11	2	Strains	soft
+ref_no_rec	BB56-3	3	Strains	soft
+ref_no_rec	BRC-LLP29	3	Strains	soft
+ref_no_rec	Root131	2	Strains	soft
+ref_no_rec	18_483	2	Strains	soft
+ref_no_rec	AG102	2	Strains	soft
+ref_no_rec	BS-pTAND672-2	2	Strains	soft
+ref_no_rec	DE0030	2	Strains	soft
+ref_no_rec	18_484	2	Strains	soft
+ref_no_rec	GPL-O901	2	Strains	soft
+ref_no_rec	BGSC 4Q1	3	Strains	soft
+ref_no_rec	TAND672	2	Strains	soft
+ref_no_rec	1.24	4	Strains	soft
+ref_no_rec	HD522	4	Strains	soft
+ref_no_rec	IBL 4222	2	Strains	soft
+ref_no_rec	DAB-Bt3	4	Strains	soft
+ref_no_rec	DAB-Bt5	4	Strains	soft
+ref_no_rec	DAB-Bt4	4	Strains	soft
+ref_no_rec	DAB-Bt1	3	Strains	soft
+ref_no_rec	BGSC 4Q1	3	Strains	soft
+ref_no_rec	GCA_000161735.1	2	Assemblies	soft
+ref_no_rec	GCA_000292705.1	4	Assemblies	soft
+ref_no_rec	GCA_001402735.1	3	Assemblies	soft
+ref_no_rec	GCA_002146615.1	4	Assemblies	soft
+ref_no_rec	GCA_004194435.2	4	Assemblies	soft
+ref_no_rec	GCA_004354265.1	4	Assemblies	soft
+ref_no_rec	ARP012	1	Strains	strict
+ref_no_rec	BGSC 4BP1	3	Strains	soft
+ref_no_rec	ARP012	1	Strains	soft
+ref_no_rec	GCA_002146755.1	3	Assemblies	soft
+ref_no_rec	ARP112	1	Strains	strict
+ref_no_rec	Sbt011	1	Strains	strict
+ref_no_rec	BGSC 4BC1	2	Strains	soft
+ref_no_rec	SCG04-02	2	Strains	soft
+ref_no_rec	BGSC 4BG1	2	Strains	soft
+ref_no_rec	BGSC 4BB1	2	Strains	soft
+ref_no_rec	BGSC 4AL1	2	Strains	soft
+ref_no_rec	ARP112	1	Strains	soft
+ref_no_rec	BGSC 4BT1	2	Strains	soft
+ref_no_rec	SCG04-02	2	Strains	soft
+ref_no_rec	Sbt011	1	Strains	soft
+ref_no_rec	GCA_002146505.1	2	Assemblies	soft
+ref_no_rec	GCA_002146605.1	2	Assemblies	soft
+ref_no_rec	GCA_002146655.1	2	Assemblies	soft
+ref_no_rec	GCA_002146815.1	2	Assemblies	soft
+ref_no_rec	GCA_002147025.1	2	Assemblies	soft
+ref_no_rec	GCA_002173755.1	2	Assemblies	soft
+ref_no_rec	DB27	3	Strains	strict
+ref_no_rec	GCA_000530375.1	2	Assemblies	strict
+ref_no_rec	DB27	3	Strains	soft
+ref_no_rec	BGSC 4AA1	2	Strains	soft
+ref_no_rec	GCA_000530375.1	2	Assemblies	soft
+ref_no_rec	GS27	1	Strains	strict
+ref_no_rec	SC6H8	5	Strains	soft
+ref_no_rec	GS27	1	Strains	soft
+ref_no_rec	K1	3	Strains	soft
+ref_no_rec	SC6H8	5	Strains	soft
+ref_no_rec	C006	1	Strains	soft
+ref_no_rec	K1	3	Strains	soft
+ref_no_rec	Bt18247	1	Strains	strict
+ref_no_rec	GCA_001721165.1	1	Assemblies	strict
+ref_no_rec	Bt18247	1	Strains	soft
+ref_no_rec	GCA_001721165.1	1	Assemblies	soft
+ref_no_rec	C15	5	Strains	soft
+ref_no_rec	GCA_003991175.1	5	Assemblies	soft
+ref_no_rec	BtPGI245	1	Strains	strict
+ref_no_rec	BtPGI245	1	Strains	soft
+ref_no_rec	ARP140	1	Strains	strict
+ref_no_rec	HD521	3	Strains	strict
+ref_no_rec	BTIPP003	2	Strains	strict
+ref_no_rec	LH-2	1	Strains	strict
+ref_no_rec	GCA_001183785.1	3	Assemblies	strict
+ref_no_rec	ARP140	1	Strains	soft
+ref_no_rec	HD521	3	Strains	soft
+ref_no_rec	BTIPP003	2	Strains	soft
+ref_no_rec	LH-2	1	Strains	soft
+ref_no_rec	GCA_001183785.1	3	Assemblies	soft
+ref_no_rec	BGSC 4BD1	1	Strains	strict
+ref_no_rec	F4	2	Strains	strict
+ref_no_rec	BGSC 4BD1	1	Strains	soft
+ref_no_rec	F4	2	Strains	soft
+ref_no_rec	ARP262	1	Strains	strict
+ref_no_rec	ARP262	1	Strains	soft
+ref_no_rec	HS18-1	10	Strains	soft
+ref_no_rec	S2160-1	7	Strains	soft
+ref_no_rec	HS18-1	10	Strains	soft
+ref_no_rec	GCA_001182785.1	9	Assemblies	soft
+ref_no_rec	O-V84.2	3	Strains	strict
+ref_no_rec	O-V84.2	3	Strains	soft
+ref_no_rec	AFS089089	3	Strains	strict
+ref_no_rec	GCA_002551615.1	3	Assemblies	strict
+ref_no_rec	AFS089089	3	Strains	soft
+ref_no_rec	GCA_002551615.1	3	Assemblies	soft
+ref_no_rec	C15	5	Strains	soft
+ref_no_rec	GCA_003991175.1	5	Assemblies	soft
+ref_no_rec	dakota	2	Strains	strict
+ref_no_rec	dakota	2	Strains	soft
+ref_no_rec	ARP227	1	Strains	strict
+ref_no_rec	ARP227	1	Strains	soft
+ref_no_rec	JF21-1	1	Strains	strict
+ref_no_rec	JF21-1	1	Strains	soft
+ref_no_rec	ATX 13026	11	Strains	soft
+ref_no_rec	BA04	2	Strains	soft
+ref_no_rec	GCA_002969075.1	2	Assemblies	soft
+ref_no_rec	4S3	2	Strains	strict
+ref_no_rec	HD521	3	Strains	strict
+ref_no_rec	HD521	3	Strains	strict
+ref_no_rec	HD521	3	Strains	strict
+ref_no_rec	ARP162	1	Strains	strict
+ref_no_rec	GCA_001183785.1	3	Assemblies	strict
+ref_no_rec	4S3	2	Strains	soft
+ref_no_rec	HD521	3	Strains	soft
+ref_no_rec	HD521	3	Strains	soft
+ref_no_rec	HD521	3	Strains	soft
+ref_no_rec	ARP162	1	Strains	soft
+ref_no_rec	GCA_001183785.1	3	Assemblies	soft
+ref_no_rec	S976	1	Strains	strict
+ref_no_rec	LBIT-976	1	Strains	strict
+ref_no_rec	ARP192	1	Strains	strict
+ref_no_rec	S976	1	Strains	soft
+ref_no_rec	LBIT-976	1	Strains	soft
+ref_no_rec	BGSC 4AU1	2	Strains	soft
+ref_no_rec	ARP192	1	Strains	soft
+ref_no_rec	higo	4	Strains	soft
+ref_no_rec	GCA_002147895.1	2	Assemblies	soft
+ref_no_rec	dakota	2	Strains	strict
+ref_no_rec	dakota	2	Strains	soft
+ref_no_rec	BGSC 4BZ1	1	Strains	strict
+ref_no_rec	G25-6	1	Strains	strict
+ref_no_rec	Sbt053	2	Strains	strict
+ref_no_rec	GCA_002148065.1	1	Assemblies	strict
+ref_no_rec	BGSC 4BZ1	1	Strains	soft
+ref_no_rec	G25-6	1	Strains	soft
+ref_no_rec	Sbt053	2	Strains	soft
+ref_no_rec	GCA_002148065.1	1	Assemblies	soft
+ref_no_rec	ARP055	1	Strains	strict
+ref_no_rec	ARP055	1	Strains	soft
+ref_no_rec	ARP252	1	Strains	strict
+ref_no_rec	ARP252	1	Strains	soft
+ref_no_rec	LBIT-979	1	Strains	strict
+ref_no_rec	LBIT-979	1	Strains	soft
+ref_no_rec	PS50C(b)	1	Strains	strict
+ref_no_rec	BGSC 4BU1	1	Strains	strict
+ref_no_rec	GCA_002147955.1	1	Assemblies	strict
+ref_no_rec	GCA_002147955.1	1	Assemblies	strict
+ref_no_rec	GCA_002147955.1	1	Assemblies	strict
+ref_no_rec	GCA_002147955.1	1	Assemblies	strict
+ref_no_rec	PS50C(b)	1	Strains	soft
+ref_no_rec	BGSC 4BU1	1	Strains	soft
+ref_no_rec	GCA_002147955.1	1	Assemblies	soft
+ref_no_rec	GCA_002147955.1	1	Assemblies	soft
+ref_no_rec	GCA_002147955.1	1	Assemblies	soft
+ref_no_rec	GCA_002147955.1	1	Assemblies	soft
+ref_no_rec	BGSC 4CD1	3	Strains	strict
+ref_no_rec	G25-7	2	Strains	strict
+ref_no_rec	Sbt072	3	Strains	strict
+ref_no_rec	GCA_002146885.1	3	Assemblies	strict
+ref_no_rec	BGSC 4CD1	3	Strains	soft
+ref_no_rec	G25-7	2	Strains	soft
+ref_no_rec	Sbt072	3	Strains	soft
+ref_no_rec	GCA_002146885.1	3	Assemblies	soft
+ref_no_rec	C18	1	Strains	soft
+ref_no_rec	BBT2-5	1	Strains	strict
+ref_no_rec	BBT2-5	1	Strains	soft
+ref_no_rec	BGSC 4CF1	3	Strains	strict
+ref_no_rec	SBS Bt 48	1	Strains	strict
+ref_no_rec	GCA_002148045.1	2	Assemblies	strict
+ref_no_rec	BGSC 4CF1	3	Strains	soft
+ref_no_rec	jegathesan 367	5	Strains	soft
+ref_no_rec	SBS Bt 48	1	Strains	soft
+ref_no_rec	GCA_002148045.1	2	Assemblies	soft
+ref_no_rec	Semadara	2	Strains	strict
+ref_no_rec	popilliae Hime	1	Strains	strict
+ref_no_rec	Semadara	2	Strains	soft
+ref_no_rec	popilliae Hime	1	Strains	soft
+ref_no_rec	XL6	7	Strains	soft
+ref_no_rec	HD868	4	Strains	soft
+ref_no_rec	Sbt009	4	Strains	soft
+ref_no_rec	GCA_000161475.1	4	Assemblies	soft
+ref_no_rec	GCA_000774075.2	6	Assemblies	soft
+ref_no_rec	GCA_000774075.2	6	Assemblies	soft
+ref_no_rec	INA288	2	Strains	strict
+ref_no_rec	INA288	2	Strains	soft
+ref_no_rec	DB27	3	Strains	strict
+ref_no_rec	G25-87	2	Strains	strict
+ref_no_rec	G25-78	2	Strains	strict
+ref_no_rec	GCA_000530375.1	2	Assemblies	strict
+ref_no_rec	DB27	3	Strains	soft
+ref_no_rec	G25-87	2	Strains	soft
+ref_no_rec	G25-78	2	Strains	soft
+ref_no_rec	GCA_000530375.1	2	Assemblies	soft
+ref_no_rec	Sbt029	2	Strains	strict
+ref_no_rec	GCA_002147935.1	1	Assemblies	strict
+ref_no_rec	Sbt029	2	Strains	soft
+ref_no_rec	BGSC 4BV1	3	Strains	soft
+ref_no_rec	GCA_002147935.1	1	Assemblies	soft
+ref_no_rec	higo	4	Strains	soft
+ref_no_rec	ARP260	1	Strains	strict
+ref_no_rec	ARP260	1	Strains	soft
+ref_no_rec	YBT-1518	1	Strains	strict
+ref_no_rec	G25-43	1	Strains	strict
+ref_no_rec	G25-41	1	Strains	strict
+ref_no_rec	AFS063736	2	Strains	strict
+ref_no_rec	G25-50	1	Strains	strict
+ref_no_rec	AFS022504	3	Strains	strict
+ref_no_rec	AFS056009	1	Strains	strict
+ref_no_rec	zjfc85	1	Strains	strict
+ref_no_rec	PS86Q3	2	Strains	strict
+ref_no_rec	GCA_000497525.2	1	Assemblies	strict
+ref_no_rec	GCA_002560695.1	3	Assemblies	strict
+ref_no_rec	GCA_002571105.1	2	Assemblies	strict
+ref_no_rec	GCA_002574895.1	1	Assemblies	strict
+ref_no_rec	YBT-1518	1	Strains	soft
+ref_no_rec	G25-43	1	Strains	soft
+ref_no_rec	AFS098399	2	Strains	soft
+ref_no_rec	AFS050081	3	Strains	soft
+ref_no_rec	G25-41	1	Strains	soft
+ref_no_rec	AFS063736	2	Strains	soft
+ref_no_rec	G25-50	1	Strains	soft
+ref_no_rec	AFS022504	3	Strains	soft
+ref_no_rec	AFS056009	1	Strains	soft
+ref_no_rec	zjfc85	1	Strains	soft
+ref_no_rec	PS86Q3	2	Strains	soft
+ref_no_rec	GCA_000497525.2	1	Assemblies	soft
+ref_no_rec	GCA_002550215.1	2	Assemblies	soft
+ref_no_rec	GCA_002560695.1	3	Assemblies	soft
+ref_no_rec	GCA_002571105.1	2	Assemblies	soft
+ref_no_rec	GCA_002576585.1	3	Assemblies	soft
+ref_no_rec	GCA_002574895.1	1	Assemblies	soft
+ref_no_rec	BGSC 4CE1	5	Strains	soft
+ref_no_rec	FCC41	5	Strains	soft
+ref_no_rec	IBL02897	9	Strains	soft
+ref_no_rec	BGSC 4N1	9	Strains	soft
+ref_no_rec	IBL00090	9	Strains	soft
+ref_no_rec	IBL00171	9	Strains	soft
+ref_no_rec	IBL 200	10	Strains	soft
+ref_no_rec	HD12	11	Strains	soft
+ref_no_rec	WBT-2	10	Strains	soft
+ref_no_rec	GR007	10	Strains	soft
+ref_no_rec	G25-97	11	Strains	soft
+ref_no_rec	G25-93	10	Strains	soft
+ref_no_rec	BGSC 4O1	7	Strains	soft
+ref_no_rec	HD12	11	Strains	soft
+ref_no_rec	morrisoni BF190	2	Strains	soft
+ref_no_rec	WBT-2	10	Strains	soft
+ref_no_rec	GCA_000161715.1	9	Assemblies	soft
+ref_no_rec	GCA_001598095.1	9	Assemblies	soft
+ref_no_rec	GCA_002147315.1	9	Assemblies	soft
+ref_no_rec	GCA_002147325.1	7	Assemblies	soft
+ref_no_rec	GCA_002893565.1	10	Assemblies	soft
+ref_no_rec	mogi K4	5	Strains	soft
+ref_no_rec	ARP220	1	Strains	soft
+ref_no_rec	NRRL B-21934	1	Strains	strict
+ref_no_rec	K3	2	Strains	soft
+ref_no_rec	PS158C2	2	Strains	soft
+ref_no_rec	NRRL B-21934	1	Strains	soft
+ref_no_rec	ARP191	1	Strains	strict
+ref_no_rec	ARP191	1	Strains	soft
+ref_no_rec	31-5	1	Strains	strict
+ref_no_rec	B0195	2	Strains	strict
+ref_no_rec	31-5	1	Strains	soft
+ref_no_rec	B0195	2	Strains	soft
+ref_no_rec	96-OK-85-24	3	Strains	soft
+ref_no_rec	BRI-326	1	Strains	strict
+ref_no_rec	BRI-326	1	Strains	soft
+ref_no_rec	BGSC 4CC1	1	Strains	strict
+ref_no_rec	Sbt030	2	Strains	strict
+ref_no_rec	BGSC 4CC1	1	Strains	strict
+ref_no_rec	BT62	3	Strains	strict
+ref_no_rec	GCA_000161695.1	1	Assemblies	strict
+ref_no_rec	GCA_002146905.1	3	Assemblies	strict
+ref_no_rec	BGSC 4CE1	5	Strains	soft
+ref_no_rec	BGSC 4CC1	1	Strains	soft
+ref_no_rec	Sbt030	2	Strains	soft
+ref_no_rec	BGSC 4CC1	1	Strains	soft
+ref_no_rec	BT62	3	Strains	soft
+ref_no_rec	IPPBIOTSUC-C9F1	2	Strains	soft
+ref_no_rec	GCA_000161695.1	1	Assemblies	soft
+ref_no_rec	GCA_002146905.1	3	Assemblies	soft
+ref_no_rec	BGSC 4U1	5	Strains	soft
+ref_no_rec	Sbt029	2	Strains	strict
+ref_no_rec	Sbt029	2	Strains	soft
+ref_no_rec	ARP193	1	Strains	strict
+ref_no_rec	BRC-ZQL3	1	Strains	strict
+ref_no_rec	B5	1	Strains	strict
+ref_no_rec	GS3	1	Strains	strict
+ref_no_rec	GS72	1	Strains	strict
+ref_no_rec	HYW-8	1	Strains	strict
+ref_no_rec	BTS01099E	2	Strains	strict
+ref_no_rec	ARP193	1	Strains	soft
+ref_no_rec	BRC-ZQL3	1	Strains	soft
+ref_no_rec	SC6H8	5	Strains	soft
+ref_no_rec	B5	1	Strains	soft
+ref_no_rec	GS3	1	Strains	soft
+ref_no_rec	GS72	1	Strains	soft
+ref_no_rec	HYW-8	1	Strains	soft
+ref_no_rec	BTS01099E	2	Strains	soft
+ref_no_rec	kenyae	1	Strains	soft
+ref_no_rec	V4	3	Strains	soft
+ref_no_rec	SVBS18-01	3	Strains	soft
+ref_no_rec	4F4	5	Strains	soft
+ref_no_rec	BGSC 4J5	4	Strains	soft
+ref_no_rec	HD5	4	Strains	soft
+ref_no_rec	4F1	5	Strains	soft
+ref_no_rec	IMBL-B9	5	Strains	soft
+ref_no_rec	4F3	3	Strains	soft
+ref_no_rec	2124	2	Strains	soft
+ref_no_rec	PS81F	1	Strains	soft
+ref_no_rec	BGSC 4M3	1	Strains	soft
+ref_no_rec	4M4	1	Strains	soft
+ref_no_rec	4M1	1	Strains	soft
+ref_no_rec	4M2	1	Strains	soft
+ref_no_rec	BfR-BA-01318	1	Strains	soft
+ref_no_rec	BRC-XQ12	1	Strains	soft
+ref_no_rec	YBT-032	1	Strains	soft
+ref_no_rec	G25-18	1	Strains	soft
+ref_no_rec	FB	4	Strains	soft
+ref_no_rec	S6	2	Strains	soft
+ref_no_rec	Pasteur Institute Standard strain	3	Strains	soft
+ref_no_rec	BfR-BA-01393	2	Strains	soft
+ref_no_rec	HZM2	1	Strains	soft
+ref_no_rec	LBIT-147	1	Strains	soft
+ref_no_rec	BR64	1	Strains	soft
+ref_no_rec	GCA_001548175.1	3	Assemblies	soft
+ref_no_rec	GCA_002147255.1	4	Assemblies	soft
+ref_no_rec	GCA_002147495.1	1	Assemblies	soft
+ref_no_rec	GCA_002147535.1	4	Assemblies	soft
+ref_no_rec	O-V84.2	3	Strains	strict
+ref_no_rec	O-V84.2	3	Strains	soft
+ref_no_rec	Bt2-56	2	Strains	strict
+ref_no_rec	Bt2-56	2	Strains	soft
+ref_no_rec	CH18	2	Strains	strict
+ref_no_rec	CH18	2	Strains	soft
+ref_no_rec	BT62	3	Strains	strict
+ref_no_rec	BT62	3	Strains	strict
+ref_no_rec	BT62	3	Strains	soft
+ref_no_rec	BT62	3	Strains	soft
+ref_no_rec	xl6-1	1	Strains	strict
+ref_no_rec	XL6	7	Strains	soft
+ref_no_rec	HD868	4	Strains	soft
+ref_no_rec	xl6-1	1	Strains	soft
+ref_no_rec	Sbt009	4	Strains	soft
+ref_no_rec	GCA_000161475.1	4	Assemblies	soft
+ref_no_rec	GCA_000774075.2	6	Assemblies	soft
+ref_no_rec	GCA_000774075.2	6	Assemblies	soft
+ref_no_rec	SK-758	1	Strains	strict
+ref_no_rec	C81	1	Strains	strict
+ref_no_rec	SK-758	1	Strains	soft
+ref_no_rec	C81	1	Strains	soft
+ref_no_rec	FCC41	5	Strains	soft
+ref_no_rec	BGSC 4U1	5	Strains	soft
+ref_no_rec	ARP104	1	Strains	strict
+ref_no_rec	ARP104	1	Strains	soft
+ref_no_rec	Bun1-14	4	Strains	soft
+ref_no_rec	O-V84.2	3	Strains	strict
+ref_no_rec	O-V84.2	3	Strains	soft
+ref_no_rec	S6	2	Strains	soft
+ref_no_rec	LY-99	1	Strains	soft
+ref_no_rec	BT8	1	Strains	soft
+ref_no_rec	S2480-1	1	Strains	strict
+ref_no_rec	S2480-1	1	Strains	soft
+ref_no_rec	HD511	1	Strains	strict
+ref_no_rec	HQ122	1	Strains	strict
+ref_no_rec	HQ122	1	Strains	strict
+ref_no_rec	GWS7	1	Strains	strict
+ref_no_rec	GW6	1	Strains	strict
+ref_no_rec	WZ-9	1	Strains	strict
+ref_no_rec	QG-121	1	Strains	strict
+ref_no_rec	BGSC 4AJ1	1	Strains	strict
+ref_no_rec	BGSC 4AC1	1	Strains	strict
+ref_no_rec	BGSC 4AJ1	1	Strains	strict
+ref_no_rec	HD867	1	Strains	strict
+ref_no_rec	HD867	1	Strains	strict
+ref_no_rec	GCA_000161595.1	1	Assemblies	strict
+ref_no_rec	GCA_002146325.1	1	Assemblies	strict
+ref_no_rec	GCA_002146495.1	1	Assemblies	strict
+ref_no_rec	GCA_002147415.1	1	Assemblies	strict
+ref_no_rec	HD511	1	Strains	soft
+ref_no_rec	HQ122	1	Strains	soft
+ref_no_rec	HQ122	1	Strains	soft
+ref_no_rec	GWS7	1	Strains	soft
+ref_no_rec	GW6	1	Strains	soft
+ref_no_rec	WZ-9	1	Strains	soft
+ref_no_rec	QG-121	1	Strains	soft
+ref_no_rec	BGSC 4AJ1	1	Strains	soft
+ref_no_rec	BGSC 4AC1	1	Strains	soft
+ref_no_rec	BGSC 4AJ1	1	Strains	soft
+ref_no_rec	HD867	1	Strains	soft
+ref_no_rec	HD867	1	Strains	soft
+ref_no_rec	GCA_000161595.1	1	Assemblies	soft
+ref_no_rec	GCA_002146325.1	1	Assemblies	soft
+ref_no_rec	GCA_002146495.1	1	Assemblies	soft
+ref_no_rec	GCA_002147415.1	1	Assemblies	soft
+ref_no_rec	BtMC28	7	Strains	soft
+ref_no_rec	MC28	8	Strains	soft
+ref_no_rec	GCA_000300475.1	8	Assemblies	soft
+ref_no_rec	DP7-F11	1	Strains	soft
+ref_no_rec	CH18	2	Strains	strict
+ref_no_rec	CH18	2	Strains	soft
+ref_no_rec	Sbt021	1	Strains	strict
+ref_no_rec	BGSC 4AS1	2	Strains	strict
+ref_no_rec	BGSC 4AS1	2	Strains	strict
+ref_no_rec	GCA_000161635.1	2	Assemblies	strict
+ref_no_rec	GCA_002147835.1	2	Assemblies	strict
+ref_no_rec	Sbt021	1	Strains	soft
+ref_no_rec	BGSC 4AS1	2	Strains	soft
+ref_no_rec	BGSC 4AW1	7	Strains	soft
+ref_no_rec	BGSC 4AS1	2	Strains	soft
+ref_no_rec	GCA_000161635.1	2	Assemblies	soft
+ref_no_rec	GCA_002147835.1	2	Assemblies	soft
+ref_no_rec	Bt173	2	Strains	soft
+ref_no_rec	IBL02897	9	Strains	soft
+ref_no_rec	BGSC 4N1	9	Strains	soft
+ref_no_rec	IBL00090	9	Strains	soft
+ref_no_rec	IBL00171	9	Strains	soft
+ref_no_rec	IBL 200	10	Strains	soft
+ref_no_rec	HD12	11	Strains	soft
+ref_no_rec	WBT-2	10	Strains	soft
+ref_no_rec	GR007	10	Strains	soft
+ref_no_rec	G25-97	11	Strains	soft
+ref_no_rec	G25-93	10	Strains	soft
+ref_no_rec	BR30	2	Strains	soft
+ref_no_rec	FH21	4	Strains	soft
+ref_no_rec	GCA_000161715.1	9	Assemblies	soft
+ref_no_rec	GCA_001598095.1	9	Assemblies	soft
+ref_no_rec	GCA_002147315.1	9	Assemblies	soft
+ref_no_rec	GCA_002893565.1	10	Assemblies	soft
+ref_no_rec	IBL02897	9	Strains	soft
+ref_no_rec	BGSC 4N1	9	Strains	soft
+ref_no_rec	IBL00090	9	Strains	soft
+ref_no_rec	IBL00171	9	Strains	soft
+ref_no_rec	IBL 200	10	Strains	soft
+ref_no_rec	HD12	11	Strains	soft
+ref_no_rec	WBT-2	10	Strains	soft
+ref_no_rec	GR007	10	Strains	soft
+ref_no_rec	G25-97	11	Strains	soft
+ref_no_rec	G25-93	10	Strains	soft
+ref_no_rec	FH21	4	Strains	soft
+ref_no_rec	EG 5847	2	Strains	soft
+ref_no_rec	AFS015413	2	Strains	soft
+ref_no_rec	GCA_000161715.1	9	Assemblies	soft
+ref_no_rec	GCA_001598095.1	9	Assemblies	soft
+ref_no_rec	GCA_002147315.1	9	Assemblies	soft
+ref_no_rec	GCA_002893565.1	10	Assemblies	soft
+ref_no_rec	GCA_002561465.1	2	Assemblies	soft
+ref_no_rec	VD154	4	Strains	soft
+ref_no_rec	T13001	4	Strains	soft
+ref_no_rec	Sbt003	4	Strains	soft
+ref_no_rec	GCA_000161555.1	4	Assemblies	soft
+ref_no_rec	GCA_000878525.1	4	Assemblies	soft
+ref_no_rec	AFS089089	3	Strains	strict
+ref_no_rec	GCA_002551615.1	3	Assemblies	strict
+ref_no_rec	AFS089089	3	Strains	soft
+ref_no_rec	GCA_002551615.1	3	Assemblies	soft
+ref_no_rec	INA288	2	Strains	strict
+ref_no_rec	INA288	2	Strains	soft
+ref_no_rec	BGSC 4AT1	4	Strains	soft
+ref_no_rec	BGSC 4AR1	4	Strains	soft
+ref_no_rec	T03B001	5	Strains	soft
+ref_no_rec	BGSC 4AO1	6	Strains	soft
+ref_no_rec	4M5	3	Strains	soft
+ref_no_rec	BC-01	2	Strains	soft
+ref_no_rec	BGSC 4AP1	5	Strains	soft
+ref_no_rec	ARP058	1	Strains	soft
+ref_no_rec	BN23-5	5	Strains	soft
+ref_no_rec	BTC007	1	Strains	soft
+ref_no_rec	ARP131	1	Strains	soft
+ref_no_rec	GCA_002146405.1	6	Assemblies	soft
+ref_no_rec	GCA_002146425.1	5	Assemblies	soft
+ref_no_rec	GCA_002146445.1	4	Assemblies	soft
+ref_no_rec	GCA_002146545.1	4	Assemblies	soft
+ref_no_rec	B-SC5	1	Strains	strict
+ref_no_rec	SC5(D4)	1	Strains	strict
+ref_no_rec	NBIN-866	13	Strains	soft
+ref_no_rec	HD-525	12	Strains	soft
+ref_no_rec	BGSC 4G1	12	Strains	soft
+ref_no_rec	BGSC 4CB1	12	Strains	soft
+ref_no_rec	BGSC 4AE1	12	Strains	soft
+ref_no_rec	B-SC5	1	Strains	soft
+ref_no_rec	SC5(D4)	1	Strains	soft
+ref_no_rec	GCA_002146315.1	12	Assemblies	soft
+ref_no_rec	GCA_002147085.1	12	Assemblies	soft
+ref_no_rec	GCA_002147105.1	12	Assemblies	soft
+ref_no_rec	GCA_002147375.1	12	Assemblies	soft
+ref_no_rec	BTy41	6	Strains	soft
+ref_no_rec	M019	3	Strains	strict
+ref_no_rec	92-10	1	Strains	strict
+ref_no_rec	CL91	1	Strains	strict
+ref_no_rec	B0195	2	Strains	strict
+ref_no_rec	84-HS-1-11	1	Strains	strict
+ref_no_rec	CL91	1	Strains	strict
+ref_no_rec	M15	1	Strains	strict
+ref_no_rec	79-25	1	Strains	strict
+ref_no_rec	M019	3	Strains	soft
+ref_no_rec	92-10	1	Strains	soft
+ref_no_rec	CL91	1	Strains	soft
+ref_no_rec	B0195	2	Strains	soft
+ref_no_rec	84-HS-1-11	1	Strains	soft
+ref_no_rec	CL91	1	Strains	soft
+ref_no_rec	M15	1	Strains	soft
+ref_no_rec	79-25	1	Strains	soft
+ref_no_rec	64-1-94	1	Strains	strict
+ref_no_rec	M019	3	Strains	strict
+ref_no_rec	64-1-94	1	Strains	soft
+ref_no_rec	M019	3	Strains	soft
+ref_no_rec	BN23-5	5	Strains	soft
+ref_no_rec	Buibui	2	Strains	soft
+ref_no_rec	BGSC 4AF1	1	Strains	strict
+ref_no_rec	Sbt054	1	Strains	strict
+ref_no_rec	BGSC 4AF1	1	Strains	soft
+ref_no_rec	Sbt054	1	Strains	soft
+ref_no_rec	AFS005140	8	Strains	soft
+ref_no_rec	AFS013213	8	Strains	soft
+ref_no_rec	AFS088016	8	Strains	soft
+ref_no_rec	AFS059039	8	Strains	soft
+ref_no_rec	AFS030866	7	Strains	soft
+ref_no_rec	Sbt030	2	Strains	strict
+ref_no_rec	HW-11	1	Strains	strict
+ref_no_rec	ARP124	1	Strains	strict
+ref_no_rec	GCA_002146905.1	3	Assemblies	strict
+ref_no_rec	btsu4	3	Strains	soft
+ref_no_rec	BGSC 4CE1	5	Strains	soft
+ref_no_rec	Sbt030	2	Strains	soft
+ref_no_rec	HW-11	1	Strains	soft
+ref_no_rec	ARP124	1	Strains	soft
+ref_no_rec	GCA_002146905.1	3	Assemblies	soft
+ref_no_rec	LBIT 1189	1	Strains	soft
+ref_no_rec	LBIT-1189	1	Strains	soft
+ref_no_rec	HD395	2	Strains	soft
+ref_no_rec	IBL00055	1	Strains	soft
+ref_no_rec	ARP080	1	Strains	soft
+ref_no_rec	IBL00210	1	Strains	soft
+ref_no_rec	IBL00144	1	Strains	soft
+ref_no_rec	CMBLBT-5	1	Strains	strict
+ref_no_rec	WB10	1	Strains	strict
+ref_no_rec	SY-11	1	Strains	strict
+ref_no_rec	IBL02897	9	Strains	soft
+ref_no_rec	BGSC 4N1	9	Strains	soft
+ref_no_rec	IBL00090	9	Strains	soft
+ref_no_rec	IBL00171	9	Strains	soft
+ref_no_rec	IBL 200	10	Strains	soft
+ref_no_rec	HD12	11	Strains	soft
+ref_no_rec	GR007	10	Strains	soft
+ref_no_rec	G25-97	11	Strains	soft
+ref_no_rec	G25-93	10	Strains	soft
+ref_no_rec	BGSC 4O1	7	Strains	soft
+ref_no_rec	BR30	2	Strains	soft
+ref_no_rec	NBIN-866	13	Strains	soft
+ref_no_rec	BGSC 4G4	11	Strains	soft
+ref_no_rec	HD29	10	Strains	soft
+ref_no_rec	CMBLBT-5	1	Strains	soft
+ref_no_rec	WB10	1	Strains	soft
+ref_no_rec	CMBL-BT2	2	Strains	soft
+ref_no_rec	SY-11	1	Strains	soft
+ref_no_rec	GCA_000161715.1	9	Assemblies	soft
+ref_no_rec	GCA_001598095.1	9	Assemblies	soft
+ref_no_rec	GCA_002147315.1	9	Assemblies	soft
+ref_no_rec	GCA_002147325.1	7	Assemblies	soft
+ref_no_rec	GCA_000600315.1	12	Assemblies	soft
+ref_no_rec	fukuokaensis	1	Strains	strict
+ref_no_rec	fukuokaensis	1	Strains	soft
+ref_no_rec	ARP212	1	Strains	strict
+ref_no_rec	ARP212	1	Strains	soft
+ref_no_rec	AFS089089	3	Strains	strict
+ref_no_rec	GCA_002551615.1	3	Assemblies	strict
+ref_no_rec	AFS089089	3	Strains	soft
+ref_no_rec	GCA_002551615.1	3	Assemblies	soft
+ref_no_rec	mogi K4	5	Strains	soft
+ref_no_rec	DB27	3	Strains	strict
+ref_no_rec	G25-87	2	Strains	strict
+ref_no_rec	G25-91	1	Strains	strict
+ref_no_rec	G25-78	2	Strains	strict
+ref_no_rec	DB27	3	Strains	soft
+ref_no_rec	G25-87	2	Strains	soft
+ref_no_rec	G25-91	1	Strains	soft
+ref_no_rec	G25-78	2	Strains	soft
+ref_no_rec	Gnyt1	4	Strains	soft
+ref_no_rec	ARP132	1	Strains	strict
+ref_no_rec	ARP132	1	Strains	soft
+ref_no_rec	DP1019	2	Strains	soft
+ref_no_rec	DP1019	2	Strains	soft
+ref_no_rec	BtMC28	7	Strains	soft
+ref_no_rec	MC28	8	Strains	soft
+ref_no_rec	GCA_000300475.1	8	Assemblies	soft
+ref_no_rec	ARP110	1	Strains	strict
+ref_no_rec	GCA_002146905.1	3	Assemblies	strict
+ref_no_rec	BGSC 4CE1	5	Strains	soft
+ref_no_rec	ARP110	1	Strains	soft
+ref_no_rec	GCA_002146905.1	3	Assemblies	soft
+ref_no_rec	BTS02761A	1	Strains	strict
+ref_no_rec	BTS02761A	1	Strains	soft
+ref_no_rec	ARP158	1	Strains	strict
+ref_no_rec	ST8	3	Strains	soft
+ref_no_rec	INTA Fr7-4	3	Strains	soft
+ref_no_rec	BGSC 4BF1	3	Strains	soft
+ref_no_rec	ARP158	1	Strains	soft
+ref_no_rec	GCA_001968805.1	3	Assemblies	soft
+ref_no_rec	GCA_002147055.1	3	Assemblies	soft
+ref_no_rec	ARP229	1	Strains	strict
+ref_no_rec	ARP229	1	Strains	soft
+ref_no_rec	LBIT-113	1	Strains	strict
+ref_no_rec	LBIT-113	1	Strains	soft
+ref_no_rec	HS18-1	10	Strains	soft
+ref_no_rec	HS18-1	10	Strains	soft
+ref_no_rec	BN7-5	1	Strains	soft
+ref_no_rec	G7-1	2	Strains	soft
+ref_no_rec	Ywc2-8	3	Strains	soft
+ref_no_rec	GCA_001182785.1	9	Assemblies	soft
+ref_no_rec	HS18-1	10	Strains	soft
+ref_no_rec	HS18-1	10	Strains	soft
+ref_no_rec	S2160-1	7	Strains	soft
+ref_no_rec	BN15-6	2	Strains	soft
+ref_no_rec	S2160-1	7	Strains	soft
+ref_no_rec	GCA_001182785.1	9	Assemblies	soft
+ref_no_rec	Bt9	1	Strains	strict
+ref_no_rec	IBL 4222	2	Strains	strict
+ref_no_rec	4H5	2	Strains	strict
+ref_no_rec	147	2	Strains	strict
+ref_no_rec	Root11	2	Strains	strict
+ref_no_rec	BB56-3	3	Strains	strict
+ref_no_rec	Root131	2	Strains	strict
+ref_no_rec	18_483	2	Strains	strict
+ref_no_rec	AG102	2	Strains	strict
+ref_no_rec	DE0030	2	Strains	strict
+ref_no_rec	18_484	2	Strains	strict
+ref_no_rec	GPL-O901	2	Strains	strict
+ref_no_rec	L_1B0_5	1	Strains	strict
+ref_no_rec	L_1B0_8	1	Strains	strict
+ref_no_rec	s8	1	Strains	strict
+ref_no_rec	1230	1	Strains	strict
+ref_no_rec	IBL 4222	2	Strains	strict
+ref_no_rec	BRC-LLP29	3	Strains	strict
+ref_no_rec	Bt.B2.1KSM	1	Strains	strict
+ref_no_rec	GCA_000161735.1	2	Assemblies	strict
+ref_no_rec	Bt9	1	Strains	soft
+ref_no_rec	DAB-Bt2	3	Strains	soft
+ref_no_rec	BR58	3	Strains	soft
+ref_no_rec	AM65-52	4	Strains	soft
+ref_no_rec	HD-789	4	Strains	soft
+ref_no_rec	T0139	4	Strains	soft
+ref_no_rec	T0131	4	Strains	soft
+ref_no_rec	T0137	4	Strains	soft
+ref_no_rec	JW-1	4	Strains	soft
+ref_no_rec	BT-59	4	Strains	soft
+ref_no_rec	KNU-26	4	Strains	soft
+ref_no_rec	1.24	4	Strains	soft
+ref_no_rec	FDAARGOS_796	4	Strains	soft
+ref_no_rec	BMP144	4	Strains	soft
+ref_no_rec	IBL00427	4	Strains	soft
+ref_no_rec	Bti	4	Strains	soft
+ref_no_rec	AK8	4	Strains	soft
+ref_no_rec	BGSC 4AX1	4	Strains	soft
+ref_no_rec	HD522	4	Strains	soft
+ref_no_rec	IBL 4222	2	Strains	soft
+ref_no_rec	4H5	2	Strains	soft
+ref_no_rec	147	2	Strains	soft
+ref_no_rec	Root11	2	Strains	soft
+ref_no_rec	BB56-3	3	Strains	soft
+ref_no_rec	Root131	2	Strains	soft
+ref_no_rec	18_483	2	Strains	soft
+ref_no_rec	AG102	2	Strains	soft
+ref_no_rec	DE0030	2	Strains	soft
+ref_no_rec	18_484	2	Strains	soft
+ref_no_rec	GPL-O901	2	Strains	soft
+ref_no_rec	BGSC 4Q1	3	Strains	soft
+ref_no_rec	L_1B0_5	1	Strains	soft
+ref_no_rec	L_1B0_8	1	Strains	soft
+ref_no_rec	s8	1	Strains	soft
+ref_no_rec	1230	1	Strains	soft
+ref_no_rec	AM65-52	4	Strains	soft
+ref_no_rec	IBL 4222	2	Strains	soft
+ref_no_rec	DAB-Bt3	4	Strains	soft
+ref_no_rec	DAB-Bt5	4	Strains	soft
+ref_no_rec	DAB-Bt6	4	Strains	soft
+ref_no_rec	DAB-Bt4	4	Strains	soft
+ref_no_rec	DAB-Bt1	3	Strains	soft
+ref_no_rec	BRC-LLP29	3	Strains	soft
+ref_no_rec	Bt.B2.1KSM	1	Strains	soft
+ref_no_rec	GCA_000161735.1	2	Assemblies	soft
+ref_no_rec	GCA_000292705.1	4	Assemblies	soft
+ref_no_rec	GCA_001402735.1	3	Assemblies	soft
+ref_no_rec	GCA_002146615.1	4	Assemblies	soft
+ref_no_rec	GCA_004194435.2	4	Assemblies	soft
+ref_no_rec	GCA_004354265.1	4	Assemblies	soft
+ref_no_rec	G25-128	1	Strains	strict
+ref_no_rec	ARP215	1	Strains	strict
+ref_no_rec	G25-128	1	Strains	soft
+ref_no_rec	ARP215	1	Strains	soft
+ref_no_rec	btsu4	3	Strains	soft
+ref_no_rec	ARP057	1	Strains	strict
+ref_no_rec	BGSC 4AT1	4	Strains	soft
+ref_no_rec	BGSC 4AR1	4	Strains	soft
+ref_no_rec	T03B001	5	Strains	soft
+ref_no_rec	BGSC 4AO1	6	Strains	soft
+ref_no_rec	BtS02739C	2	Strains	soft
+ref_no_rec	ARP057	1	Strains	soft
+ref_no_rec	GCA_002146405.1	6	Assemblies	soft
+ref_no_rec	GCA_002146445.1	4	Assemblies	soft
+ref_no_rec	GCA_002146545.1	4	Assemblies	soft
+ref_no_rec	G25-42	1	Strains	strict
+ref_no_rec	PS33F2	1	Strains	strict
+ref_no_rec	GCA_004009875.1	1	Assemblies	strict
+ref_no_rec	G25-42	1	Strains	soft
+ref_no_rec	PS33F2	1	Strains	soft
+ref_no_rec	GCA_004009875.1	1	Assemblies	soft
+ref_no_rec	Semadara	2	Strains	strict
+ref_no_rec	Semadara	2	Strains	soft
+ref_no_rec	higo	4	Strains	soft
+ref_no_rec	AFS077661	1	Strains	strict
+ref_no_rec	11MN1	1	Strains	strict
+ref_no_rec	AFS097514	1	Strains	strict
+ref_no_rec	AFS099505	1	Strains	strict
+ref_no_rec	GCA_002552905.1	1	Assemblies	strict
+ref_no_rec	GCA_002552985.1	1	Assemblies	strict
+ref_no_rec	GCA_002566555.1	1	Assemblies	strict
+ref_no_rec	AFS077661	1	Strains	soft
+ref_no_rec	11MN1	1	Strains	soft
+ref_no_rec	AFS097514	1	Strains	soft
+ref_no_rec	AFS099505	1	Strains	soft
+ref_no_rec	GCA_002552905.1	1	Assemblies	soft
+ref_no_rec	GCA_002552985.1	1	Assemblies	soft
+ref_no_rec	GCA_002566555.1	1	Assemblies	soft
+ref_no_rec	BGSC 4CD1	3	Strains	strict
+ref_no_rec	G25-7	2	Strains	strict
+ref_no_rec	Sbt072	3	Strains	strict
+ref_no_rec	GCA_002146885.1	3	Assemblies	strict
+ref_no_rec	BGSC 4CD1	3	Strains	soft
+ref_no_rec	G25-7	2	Strains	soft
+ref_no_rec	Sbt072	3	Strains	soft
+ref_no_rec	GCA_002146885.1	3	Assemblies	soft
+ref_no_rec	L-7601	3	Strains	soft
+ref_no_rec	NBIN-866	13	Strains	soft
+ref_no_rec	HD-525	12	Strains	soft
+ref_no_rec	BGSC 4G1	12	Strains	soft
+ref_no_rec	BGSC 4G4	11	Strains	soft
+ref_no_rec	BGSC 4CB1	12	Strains	soft
+ref_no_rec	4G3	5	Strains	soft
+ref_no_rec	BGSC 4AE1	12	Strains	soft
+ref_no_rec	4G2	6	Strains	soft
+ref_no_rec	AFS045441	1	Strains	soft
+ref_no_rec	AFS098022	2	Strains	soft
+ref_no_rec	K4	1	Strains	soft
+ref_no_rec	834	1	Strains	soft
+ref_no_rec	GCA_000600315.1	12	Assemblies	soft
+ref_no_rec	GCA_002146315.1	12	Assemblies	soft
+ref_no_rec	GCA_002147085.1	12	Assemblies	soft
+ref_no_rec	GCA_002147105.1	12	Assemblies	soft
+ref_no_rec	GCA_002147375.1	12	Assemblies	soft
+ref_no_rec	GCA_002025105.1	3	Assemblies	soft
+ref_no_rec	PS50C(a)	1	Strains	strict
+ref_no_rec	PS50C(a)	1	Strains	soft
+ref_no_rec	ATX 13026	11	Strains	soft
+ref_no_rec	VD154	4	Strains	soft
+ref_no_rec	T13001	4	Strains	soft
+ref_no_rec	Sbt003	4	Strains	soft
+ref_no_rec	GCA_000161555.1	4	Assemblies	soft
+ref_no_rec	GCA_000878525.1	4	Assemblies	soft
+ref_no_rec	C15	5	Strains	soft
+ref_no_rec	GCA_003991175.1	5	Assemblies	soft
+ref_no_rec	BTS02069AA	1	Strains	strict
+ref_no_rec	BTS02069AA	1	Strains	soft
+ref_no_rec	ARP067	1	Strains	strict
+ref_no_rec	ARP067	1	Strains	soft
+ref_no_rec	btsu4	3	Strains	soft
+ref_no_rec	Bt185	4	Strains	soft
+ref_no_rec	VD154	4	Strains	soft
+ref_no_rec	T13001	4	Strains	soft
+ref_no_rec	Sbt003	4	Strains	soft
+ref_no_rec	GCA_000161555.1	4	Assemblies	soft
+ref_no_rec	GCA_000878525.1	4	Assemblies	soft
+ref_no_rec	BGSC 4U1	5	Strains	soft
+ref_no_rec	AFS018331	1	Strains	strict
+ref_no_rec	AFS031210	1	Strains	strict
+ref_no_rec	GCA_002561825.1	1	Assemblies	strict
+ref_no_rec	GCA_002585935.1	1	Assemblies	strict
+ref_no_rec	AFS018331	1	Strains	soft
+ref_no_rec	AFS031210	1	Strains	soft
+ref_no_rec	GCA_002561825.1	1	Assemblies	soft
+ref_no_rec	GCA_002585935.1	1	Assemblies	soft
+ref_no_rec	A1462	3	Strains	soft
+ref_no_rec	ST7	2	Strains	soft
+ref_no_rec	BGSC 4CD1	3	Strains	strict
+ref_no_rec	ARP258	1	Strains	strict
+ref_no_rec	Sbt072	3	Strains	strict
+ref_no_rec	GCA_002146885.1	3	Assemblies	strict
+ref_no_rec	BGSC 4CD1	3	Strains	soft
+ref_no_rec	ARP258	1	Strains	soft
+ref_no_rec	Sbt072	3	Strains	soft
+ref_no_rec	GCA_002146885.1	3	Assemblies	soft
+ref_no_rec	ATCC 14706	1	Strains	strict
+ref_no_rec	ATCC 14706	1	Strains	soft
+ref_no_rec	mgc157-1	2	Strains	soft
+ref_no_rec	BGSC 4CF1	3	Strains	strict
+ref_no_rec	BGSC 4CF1	3	Strains	soft
+ref_no_rec	jegathesan 367	5	Strains	soft
+ref_no_rec	GC-91	6	Strains	soft
+ref_no_rec	T07019	7	Strains	soft
+ref_no_rec	BGSC 4J4	4	Strains	soft
+ref_no_rec	G03	5	Strains	soft
+ref_no_rec	CVUAS2492	5	Strains	soft
+ref_no_rec	CH_65	5	Strains	soft
+ref_no_rec	14-2	3	Strains	soft
+ref_no_rec	Leapi01	4	Strains	soft
+ref_no_rec	AGES_2_27_S	5	Strains	soft
+ref_no_rec	25-6	3	Strains	soft
+ref_no_rec	2122	4	Strains	soft
+ref_no_rec	AGES_6_27_S	6	Strains	soft
+ref_no_rec	CH_748	5	Strains	soft
+ref_no_rec	P01_3	5	Strains	soft
+ref_no_rec	Bt-GS57	5	Strains	soft
+ref_no_rec	CH_733	5	Strains	soft
+ref_no_rec	Staal1-1	5	Strains	soft
+ref_no_rec	B401	6	Strains	soft
+ref_no_rec	CH_72	6	Strains	soft
+ref_no_rec	T07153	6	Strains	soft
+ref_no_rec	26-1	3	Strains	soft
+ref_no_rec	LTS-7	2	Strains	soft
+ref_no_rec	BR37	5	Strains	soft
+ref_no_rec	6/27/S	6	Strains	soft
+ref_no_rec	CVUAS9659	5	Strains	soft
+ref_no_rec	20-1	3	Strains	soft
+ref_no_rec	ABTS-1857	7	Strains	soft
+ref_no_rec	CH_696	5	Strains	soft
+ref_no_rec	777001-1	5	Strains	soft
+ref_no_rec	M100	3	Strains	soft
+ref_no_rec	Hu4-2	6	Strains	soft
+ref_no_rec	T07183	6	Strains	soft
+ref_no_rec	21-1	3	Strains	soft
+ref_no_rec	CH_746	5	Strains	soft
+ref_no_rec	CH_692	5	Strains	soft
+ref_no_rec	I13	6	Strains	soft
+ref_no_rec	kn11	5	Strains	soft
+ref_no_rec	CVUAS9660	5	Strains	soft
+ref_no_rec	30-1	3	Strains	soft
+ref_no_rec	27-3	5	Strains	soft
+ref_no_rec	B4158	2	Strains	soft
+ref_no_rec	MS12	7	Strains	soft
+ref_no_rec	P01_1	5	Strains	soft
+ref_no_rec	B-Hm-16	2	Strains	soft
+ref_no_rec	HD133	6	Strains	soft
+ref_no_rec	1126_1	5	Strains	soft
+ref_no_rec	PT18	5	Strains	soft
+ref_no_rec	777001F-1	5	Strains	soft
+ref_no_rec	007983-6	5	Strains	soft
+ref_no_rec	T07005	6	Strains	soft
+ref_no_rec	RIVM BC 934	6	Strains	soft
+ref_no_rec	CH_709	5	Strains	soft
+ref_no_rec	007986-5	6	Strains	soft
+ref_no_rec	SSK-10	1	Strains	soft
+ref_no_rec	777002-3	5	Strains	soft
+ref_no_rec	007989-3	6	Strains	soft
+ref_no_rec	T07148	7	Strains	soft
+ref_no_rec	30-4	3	Strains	soft
+ref_no_rec	T07128	4	Strains	soft
+ref_no_rec	HD29	10	Strains	soft
+ref_no_rec	Bts	2	Strains	soft
+ref_no_rec	ZK2	1	Strains	soft
+ref_no_rec	Bt4	1	Strains	soft
+ref_no_rec	SC5(E8)	1	Strains	soft
+ref_no_rec	MPU B9	2	Strains	soft
+ref_no_rec	ywc5-4	2	Strains	soft
+ref_no_rec	lyA	1	Strains	soft
+ref_no_rec	Bt11	1	Strains	soft
+ref_no_rec	GCA_000468975.2	4	Assemblies	soft
+ref_no_rec	GCA_000468995.3	6	Assemblies	soft
+ref_no_rec	GCA_000803665.1	7	Assemblies	soft
+ref_no_rec	GCA_001880115.1	4	Assemblies	soft
+ref_no_rec	GCA_002147185.1	5	Assemblies	soft
+ref_no_rec	GCA_002147235.1	4	Assemblies	soft
+ref_no_rec	GCA_002147555.1	5	Assemblies	soft
+ref_no_rec	GCA_002147565.1	7	Assemblies	soft
+ref_no_rec	GCA_002147575.1	6	Assemblies	soft
+ref_no_rec	GCA_002147635.1	4	Assemblies	soft
+ref_no_rec	GCA_002147645.1	7	Assemblies	soft
+ref_no_rec	GCA_002147685.1	6	Assemblies	soft
+ref_no_rec	GCA_002147725.1	5	Assemblies	soft
+ref_no_rec	GCA_002236945.1	5	Assemblies	soft
+ref_no_rec	GCA_002268645.2	5	Assemblies	soft
+ref_no_rec	GCA_002893605.1	5	Assemblies	soft
+ref_no_rec	GCA_003312445.1	5	Assemblies	soft
+ref_no_rec	GCA_004330415.1	7	Assemblies	soft
+ref_no_rec	M019	3	Strains	strict
+ref_no_rec	M019	3	Strains	soft
+ref_no_rec	Bt-ICA/UNMSM10RA	1	Strains	soft
+ref_no_rec	2B	2	Strains	soft
+ref_no_rec	QZL121	1	Strains	soft
+ref_no_rec	HD73	1	Strains	soft
+ref_no_rec	27	4	Strains	soft
+ref_no_rec	4E7	1	Strains	soft
+ref_no_rec	DSIR732	1	Strains	soft
+ref_no_rec	GC-91	6	Strains	soft
+ref_no_rec	1905	4	Strains	soft
+ref_no_rec	YBT-1520	5	Strains	soft
+ref_no_rec	T03a001	1	Strains	soft
+ref_no_rec	BGSC 4X1	4	Strains	soft
+ref_no_rec	T07019	7	Strains	soft
+ref_no_rec	SY27.1	5	Strains	soft
+ref_no_rec	40000000	1	Strains	soft
+ref_no_rec	HD29	10	Strains	soft
+ref_no_rec	HD73	1	Strains	soft
+ref_no_rec	YBT-1520	5	Strains	soft
+ref_no_rec	ABTS-351	5	Strains	soft
+ref_no_rec	PS85A1	1	Strains	soft
+ref_no_rec	A-19-31	3	Strains	soft
+ref_no_rec	LSZ9408	2	Strains	soft
+ref_no_rec	NBIC380	1	Strains	soft
+ref_no_rec	LBIT-418	2	Strains	soft
+ref_no_rec	4F4	5	Strains	soft
+ref_no_rec	BGSC 4J5	4	Strains	soft
+ref_no_rec	MOD1_Bc21	1	Strains	soft
+ref_no_rec	HD5	4	Strains	soft
+ref_no_rec	4F1	5	Strains	soft
+ref_no_rec	4F2	1	Strains	soft
+ref_no_rec	146-158-01	2	Strains	soft
+ref_no_rec	Q-12	1	Strains	soft
+ref_no_rec	B12	1	Strains	soft
+ref_no_rec	QBL-27	2	Strains	soft
+ref_no_rec	TOL651	1	Strains	soft
+ref_no_rec	YC-10	5	Strains	soft
+ref_no_rec	G25-96	5	Strains	soft
+ref_no_rec	IBL03111	5	Strains	soft
+ref_no_rec	IBL00503	5	Strains	soft
+ref_no_rec	IBL01259	5	Strains	soft
+ref_no_rec	IBL01313	5	Strains	soft
+ref_no_rec	HD 1i	6	Strains	soft
+ref_no_rec	ABTS-351	5	Strains	soft
+ref_no_rec	BMG1.7	5	Strains	soft
+ref_no_rec	BGSC 4L3	5	Strains	soft
+ref_no_rec	HD-1	7	Strains	soft
+ref_no_rec	YWC2-8	2	Strains	soft
+ref_no_rec	PS81GG	1	Strains	soft
+ref_no_rec	HD-549	1	Strains	soft
+ref_no_rec	HD-1	7	Strains	soft
+ref_no_rec	HD-1	7	Strains	soft
+ref_no_rec	BRI-144	2	Strains	soft
+ref_no_rec	C1Ac86	1	Strains	soft
+ref_no_rec	SK-784	1	Strains	soft
+ref_no_rec	NRD-12	3	Strains	soft
+ref_no_rec	C-33	2	Strains	soft
+ref_no_rec	BGSC 4AW1	7	Strains	soft
+ref_no_rec	BMB3201	4	Strains	soft
+ref_no_rec	INTA Mo1-12	2	Strains	soft
+ref_no_rec	INTA TA24-6	1	Strains	soft
+ref_no_rec	LBIT1200	1	Strains	soft
+ref_no_rec	BTS89A	1	Strains	soft
+ref_no_rec	S3299-1	1	Strains	soft
+ref_no_rec	BGSC 4BV1	3	Strains	soft
+ref_no_rec	S1478-1	1	Strains	soft
+ref_no_rec	W015	1	Strains	soft
+ref_no_rec	BLB1	2	Strains	soft
+ref_no_rec	H3	1	Strains	soft
+ref_no_rec	SK-711	1	Strains	soft
+ref_no_rec	HD07	1	Strains	soft
+ref_no_rec	C1Ac118	1	Strains	soft
+ref_no_rec	BRI-103	1	Strains	soft
+ref_no_rec	ZQ-89	1	Strains	soft
+ref_no_rec	T15	1	Strains	soft
+ref_no_rec	Tm44-1B	1	Strains	soft
+ref_no_rec	Tm37-6	1	Strains	soft
+ref_no_rec	Tm41-4	1	Strains	soft
+ref_no_rec	02	1	Strains	soft
+ref_no_rec	Ly30	2	Strains	soft
+ref_no_rec	native Taiwanese Bt strain	1	Strains	soft
+ref_no_rec	SK-729	1	Strains	soft
+ref_no_rec	HD-588	1	Strains	soft
+ref_no_rec	SK-783	1	Strains	soft
+ref_no_rec	SK-958	1	Strains	soft
+ref_no_rec	GCA_000161575.1	1	Assemblies	soft
+ref_no_rec	GCA_000338755.1	1	Assemblies	soft
+ref_no_rec	GCA_000803665.1	7	Assemblies	soft
+ref_no_rec	GCA_000969665.1	2	Assemblies	soft
+ref_no_rec	GCA_002147435.1	4	Assemblies	soft
+ref_no_rec	GCA_002147565.1	7	Assemblies	soft
+ref_no_rec	GCA_003046465.1	1	Assemblies	soft
+ref_no_rec	GCA_000688795.1	5	Assemblies	soft
+ref_no_rec	GCA_000747545.1	5	Assemblies	soft
+ref_no_rec	GCA_000747545.1	5	Assemblies	soft
+ref_no_rec	GCA_000717535.1	6	Assemblies	soft
+ref_no_rec	GCA_000835235.1	6	Assemblies	soft
+ref_no_rec	GCA_001017635.1	5	Assemblies	soft
+ref_no_rec	GCA_001420855.1	2	Assemblies	soft
+ref_no_rec	GCA_002147245.1	5	Assemblies	soft
+ref_no_rec	GCA_002146595.1	4	Assemblies	soft
+ref_no_rec	GCA_002147255.1	4	Assemblies	soft
+ref_no_rec	GCA_002147535.1	4	Assemblies	soft
+ref_no_rec	BA04	2	Strains	soft
+ref_no_rec	GCA_002969075.1	2	Assemblies	soft
+ref_no_rec	BRI-225	1	Strains	strict
+ref_no_rec	BRI-225	1	Strains	soft
+ref_no_rec	BGSC 4AS1	2	Strains	strict
+ref_no_rec	GCA_000161635.1	2	Assemblies	strict
+ref_no_rec	GCA_002147835.1	2	Assemblies	strict
+ref_no_rec	BGSC 4AS1	2	Strains	soft
+ref_no_rec	BGSC 4AW1	7	Strains	soft
+ref_no_rec	GCA_000161635.1	2	Assemblies	soft
+ref_no_rec	GCA_002147835.1	2	Assemblies	soft
+ref_no_rec	NRRL B-21941	1	Strains	soft
+ref_no_rec	Bt2-56	2	Strains	strict
+ref_no_rec	Bt2-56	2	Strains	soft
+ref_no_rec	BB56-3	3	Strains	strict
+ref_no_rec	BRC-LLP29	3	Strains	strict
+ref_no_rec	BS-pTAND672-2	2	Strains	strict
+ref_no_rec	TAND672	2	Strains	strict
+ref_no_rec	AM65-52	4	Strains	soft
+ref_no_rec	JW-1	4	Strains	soft
+ref_no_rec	AM65-52	4	Strains	soft
+ref_no_rec	HD-789	4	Strains	soft
+ref_no_rec	T0139	4	Strains	soft
+ref_no_rec	T0131	4	Strains	soft
+ref_no_rec	T0137	4	Strains	soft
+ref_no_rec	JW-1	4	Strains	soft
+ref_no_rec	BT-59	4	Strains	soft
+ref_no_rec	KNU-26	4	Strains	soft
+ref_no_rec	1.24	4	Strains	soft
+ref_no_rec	FDAARGOS_796	4	Strains	soft
+ref_no_rec	BMP144	4	Strains	soft
+ref_no_rec	IBL00427	4	Strains	soft
+ref_no_rec	Bti	4	Strains	soft
+ref_no_rec	AK8	4	Strains	soft
+ref_no_rec	BGSC 4AX1	4	Strains	soft
+ref_no_rec	HD522	4	Strains	soft
+ref_no_rec	BB56-3	3	Strains	soft
+ref_no_rec	BRC-LLP29	3	Strains	soft
+ref_no_rec	BS-pTAND672-2	2	Strains	soft
+ref_no_rec	TAND672	2	Strains	soft
+ref_no_rec	DAB-Bt3	4	Strains	soft
+ref_no_rec	DAB-Bt5	4	Strains	soft
+ref_no_rec	DAB-Bt6	4	Strains	soft
+ref_no_rec	DAB-Bt4	4	Strains	soft
+ref_no_rec	GCA_000292705.1	4	Assemblies	soft
+ref_no_rec	GCA_002146615.1	4	Assemblies	soft
+ref_no_rec	GCA_004194435.2	4	Assemblies	soft
+ref_no_rec	GCA_004354265.1	4	Assemblies	soft
+ref_no_rec	2173	1	Strains	strict
+ref_no_rec	LP1G	1	Strains	strict
+ref_no_rec	2173	1	Strains	soft
+ref_no_rec	LP1G	1	Strains	soft
+ref_no_rec	BtMC28	7	Strains	soft
+ref_no_rec	AFS005140	8	Strains	soft
+ref_no_rec	AFS013213	8	Strains	soft
+ref_no_rec	AFS088016	8	Strains	soft
+ref_no_rec	AFS059039	8	Strains	soft
+ref_no_rec	AFS030866	7	Strains	soft
+ref_no_rec	MC28	8	Strains	soft
+ref_no_rec	GCA_000300475.1	8	Assemblies	soft
+ref_no_rec	GCA_002558015.1	7	Assemblies	soft
+ref_no_rec	GCA_002558525.1	7	Assemblies	soft
+ref_no_rec	GCA_002564505.1	7	Assemblies	soft
+ref_no_rec	GCA_002571305.1	7	Assemblies	soft
+ref_no_rec	GCA_002586085.1	5	Assemblies	soft
+ref_no_rec	ARP179	1	Strains	strict
+ref_no_rec	AFS026137	1	Strains	strict
+ref_no_rec	ARP179	1	Strains	soft
+ref_no_rec	AFS026137	1	Strains	soft
+ref_no_rec	NRRL B-21921	1	Strains	strict
+ref_no_rec	BTS01099E	2	Strains	strict
+ref_no_rec	NRRL B-21921	1	Strains	soft
+ref_no_rec	BTS01099E	2	Strains	soft
+ref_no_rec	ATX 13026	11	Strains	soft
+ref_no_rec	ARP168	1	Strains	strict
+ref_no_rec	ARP168	1	Strains	soft
+ref_no_rec	FCC41	5	Strains	soft
+ref_no_rec	NHA15b	1	Strains	strict
+ref_no_rec	47-6B	1	Strains	strict
+ref_no_rec	IAB59	1	Strains	strict
+ref_no_rec	NHA15b	1	Strains	soft
+ref_no_rec	47-6B	1	Strains	soft
+ref_no_rec	IAB59	1	Strains	soft
+ref_no_rec	PS46L	1	Strains	strict
+ref_no_rec	PS46L	1	Strains	soft
+ref_no_rec	Gnyt1	4	Strains	soft
+ref_no_rec	Q52-7	1	Strains	strict
+ref_no_rec	Q52-7	1	Strains	soft
+ref_no_rec	ARP026	1	Strains	strict
+ref_no_rec	HD395	2	Strains	soft
+ref_no_rec	ARP026	1	Strains	soft
+ref_no_rec	HBF-18	2	Strains	soft
+ref_no_rec	FCD114	2	Strains	soft
+ref_no_rec	GCA_002893505.1	2	Assemblies	soft
+ref_no_rec	GCA_002893585.1	2	Assemblies	soft
+ref_no_rec	T30001	2	Strains	strict
+ref_no_rec	K34	1	Strains	strict
+ref_no_rec	GCA_002148155.1	2	Assemblies	strict
+ref_no_rec	T30001	2	Strains	soft
+ref_no_rec	K34	1	Strains	soft
+ref_no_rec	CIB 163-131	3	Strains	soft
+ref_no_rec	CIB 163-131	3	Strains	soft
+ref_no_rec	GCA_002148155.1	2	Assemblies	soft
+ref_no_rec	T30001	2	Strains	strict
+ref_no_rec	GCA_002148155.1	2	Assemblies	strict
+ref_no_rec	T30001	2	Strains	soft
+ref_no_rec	CIB 163-131	3	Strains	soft
+ref_no_rec	CIB 163-131	3	Strains	soft
+ref_no_rec	GCA_002148155.1	2	Assemblies	soft
+ref_no_rec	ARP203	1	Strains	strict
+ref_no_rec	ARP203	1	Strains	soft
+ref_no_rec	ARP185	1	Strains	strict
+ref_no_rec	AFS033477	1	Strains	strict
+ref_no_rec	ARP185	1	Strains	soft
+ref_no_rec	AFS033477	1	Strains	soft
+ref_no_rec	A32	1	Strains	soft
+ref_no_rec	Sbt053	2	Strains	strict
+ref_no_rec	BGSC 4AD1	1	Strains	strict
+ref_no_rec	BGSC 4AG1	1	Strains	strict
+ref_no_rec	GCA_002146345.1	1	Assemblies	strict
+ref_no_rec	GCA_002146395.1	1	Assemblies	strict
+ref_no_rec	Sbt053	2	Strains	soft
+ref_no_rec	BGSC 4AD1	1	Strains	soft
+ref_no_rec	BGSC 4AG1	1	Strains	soft
+ref_no_rec	GCA_002146345.1	1	Assemblies	soft
+ref_no_rec	GCA_002146395.1	1	Assemblies	soft
+ref_no_rec	PS17	2	Strains	strict
+ref_no_rec	PS17	2	Strains	soft
+ref_no_rec	G25-3	2	Strains	strict
+ref_no_rec	BGSC 4B2	2	Strains	strict
+ref_no_rec	4B1	2	Strains	strict
+ref_no_rec	IBL00971	2	Strains	strict
+ref_no_rec	YBT-020	2	Strains	strict
+ref_no_rec	VKPM B-1166	1	Strains	strict
+ref_no_rec	GCA_000190515.1	2	Assemblies	strict
+ref_no_rec	GCA_002146625.1	2	Assemblies	strict
+ref_no_rec	G25-3	2	Strains	soft
+ref_no_rec	BGSC 4B2	2	Strains	soft
+ref_no_rec	4B1	2	Strains	soft
+ref_no_rec	IBL00971	2	Strains	soft
+ref_no_rec	YBT-020	2	Strains	soft
+ref_no_rec	VKPM B-1166	1	Strains	soft
+ref_no_rec	GCA_000190515.1	2	Assemblies	soft
+ref_no_rec	GCA_002146625.1	2	Assemblies	soft
+ref_no_rec	G25-3	2	Strains	strict
+ref_no_rec	BGSC 4B2	2	Strains	strict
+ref_no_rec	4B1	2	Strains	strict
+ref_no_rec	IBL00971	2	Strains	strict
+ref_no_rec	YBT-020	2	Strains	strict
+ref_no_rec	YBT-020	2	Strains	strict
+ref_no_rec	YBT-020	2	Strains	strict
+ref_no_rec	VKPM B-1161	1	Strains	strict
+ref_no_rec	VKPM B-1161	1	Strains	strict
+ref_no_rec	GCA_000190515.1	2	Assemblies	strict
+ref_no_rec	GCA_002146625.1	2	Assemblies	strict
+ref_no_rec	GCA_002146625.1	2	Assemblies	strict
+ref_no_rec	GCA_002146625.1	2	Assemblies	strict
+ref_no_rec	GCA_000190515.1	2	Assemblies	strict
+ref_no_rec	G25-3	2	Strains	soft
+ref_no_rec	BGSC 4B2	2	Strains	soft
+ref_no_rec	4B1	2	Strains	soft
+ref_no_rec	IBL00971	2	Strains	soft
+ref_no_rec	BGSC 4BR1	2	Strains	soft
+ref_no_rec	YBT-020	2	Strains	soft
+ref_no_rec	YBT-020	2	Strains	soft
+ref_no_rec	YBT-020	2	Strains	soft
+ref_no_rec	VKPM B-1161	1	Strains	soft
+ref_no_rec	VKPM B-1161	1	Strains	soft
+ref_no_rec	GCA_000190515.1	2	Assemblies	soft
+ref_no_rec	GCA_002146625.1	2	Assemblies	soft
+ref_no_rec	GCA_002146625.1	2	Assemblies	soft
+ref_no_rec	GCA_002146625.1	2	Assemblies	soft
+ref_no_rec	GCA_002146785.1	2	Assemblies	soft
+ref_no_rec	GCA_000190515.1	2	Assemblies	soft
+ref_no_rec	87-29	1	Strains	strict
+ref_no_rec	AHG6	1	Strains	strict
+ref_no_rec	B0462	1	Strains	strict
+ref_no_rec	87-29	1	Strains	soft
+ref_no_rec	AHG6	1	Strains	soft
+ref_no_rec	B0462	1	Strains	soft
+ref_no_rec	PS184M1	2	Strains	soft
+ref_no_rec	H1	1	Strains	strict
+ref_no_rec	H1	1	Strains	soft
+ref_no_rec	IEBC-T63 001	1	Strains	strict
+ref_no_rec	AH603	1	Strains	strict
+ref_no_rec	IEBC-T63 001	1	Strains	soft
+ref_no_rec	AH603	1	Strains	soft
+ref_no_rec	BGSC 4BX1	1	Strains	strict
+ref_no_rec	ARP068	1	Strains	strict
+ref_no_rec	Sbt006	1	Strains	strict
+ref_no_rec	GCA_002146825.1	1	Assemblies	strict
+ref_no_rec	GCA_002146825.1	1	Assemblies	strict
+ref_no_rec	GCA_002146825.1	1	Assemblies	strict
+ref_no_rec	GCA_002146825.1	1	Assemblies	strict
+ref_no_rec	BGSC 4BX1	1	Strains	soft
+ref_no_rec	ARP068	1	Strains	soft
+ref_no_rec	Sbt006	1	Strains	soft
+ref_no_rec	GCA_002146825.1	1	Assemblies	soft
+ref_no_rec	GCA_002146825.1	1	Assemblies	soft
+ref_no_rec	GCA_002146825.1	1	Assemblies	soft
+ref_no_rec	GCA_002146825.1	1	Assemblies	soft
+ref_no_rec	X23	1	Strains	strict
+ref_no_rec	X23	1	Strains	soft
+ref_no_rec	FBG-1	1	Strains	strict
+ref_no_rec	yunnanensis	1	Strains	strict
+ref_no_rec	FBG-1	1	Strains	soft
+ref_no_rec	yunnanensis	1	Strains	soft
+ref_no_rec	BT HMM-SLK	1	Strains	soft
+ref_no_rec	BT HMM-SITAB	1	Strains	soft
+ref_no_rec	BP3	1	Strains	strict
+ref_no_rec	BP3	1	Strains	soft
+ref_no_rec	IPPBIOTSUC-C9F1	2	Strains	soft
+ref_no_rec	BGSC 4CF1	3	Strains	strict
+ref_no_rec	GCA_002148045.1	2	Assemblies	strict
+ref_no_rec	BGSC 4CF1	3	Strains	soft
+ref_no_rec	jegathesan 367	5	Strains	soft
+ref_no_rec	GCA_002148045.1	2	Assemblies	soft
+ref_no_rec	N141	1	Strains	strict
+ref_no_rec	H23	1	Strains	strict
+ref_no_rec	BGSC 4AT1	4	Strains	soft
+ref_no_rec	BGSC 4AR1	4	Strains	soft
+ref_no_rec	BC-01	2	Strains	soft
+ref_no_rec	T03B001	5	Strains	soft
+ref_no_rec	T03B001	5	Strains	soft
+ref_no_rec	BGSC 4AO1	6	Strains	soft
+ref_no_rec	N141	1	Strains	soft
+ref_no_rec	BGSC 4AP1	5	Strains	soft
+ref_no_rec	H23	1	Strains	soft
+ref_no_rec	GCA_002146405.1	6	Assemblies	soft
+ref_no_rec	GCA_002146425.1	5	Assemblies	soft
+ref_no_rec	GCA_002146445.1	4	Assemblies	soft
+ref_no_rec	GCA_002146545.1	4	Assemblies	soft
+ref_no_rec	ATX14875	3	Strains	strict
+ref_no_rec	ATX14875	3	Strains	soft
+ref_no_rec	ARP271	1	Strains	strict
+ref_no_rec	XL6	7	Strains	soft
+ref_no_rec	ARP271	1	Strains	soft
+ref_no_rec	GCA_000774075.2	6	Assemblies	soft
+ref_no_rec	GCA_000774075.2	6	Assemblies	soft
+ref_no_rec	ARP135	1	Strains	strict
+ref_no_rec	TS3	1	Strains	strict
+ref_no_rec	F4	2	Strains	strict
+ref_no_rec	ARP135	1	Strains	soft
+ref_no_rec	TS3	1	Strains	soft
+ref_no_rec	F4	2	Strains	soft
+rec	BGSC 4BS1	1	Strains	soft
+rec	GCA_002148015.1	1	Assemblies	soft
+rec	mogi K4	5	Strains	soft
+rec	ARP076	1	Strains	soft
+rec	NBIN-866	13	Strains	soft
+rec	HD-525	12	Strains	soft
+rec	BGSC 4G1	12	Strains	soft
+rec	BGSC 4G4	11	Strains	soft
+rec	BGSC 4CB1	12	Strains	soft
+rec	BGSC 4AE1	12	Strains	soft
+rec	4G2	6	Strains	soft
+rec	B-Pr-88	4	Strains	soft
+rec	GCA_000600315.1	12	Assemblies	soft
+rec	GCA_002146315.1	12	Assemblies	soft
+rec	GCA_002147085.1	12	Assemblies	soft
+rec	GCA_002147105.1	12	Assemblies	soft
+rec	GCA_002147375.1	12	Assemblies	soft
+rec	SC6H8	5	Strains	soft
+rec	LBR2	1	Strains	soft
+rec	PS158C2	2	Strains	soft
+rec	K1	3	Strains	soft
+rec	g9	1	Strains	soft
+rec	FPT-2	1	Strains	soft
+rec	PS63B	1	Strains	strict
+rec	G25-44	3	Strains	soft
+rec	MYBT18246	3	Strains	soft
+rec	PS63B	1	Strains	soft
+rec	GCA_001685565.1	3	Assemblies	soft
+rec	XL6	7	Strains	soft
+rec	HD868	4	Strains	soft
+rec	Sbt009	4	Strains	soft
+rec	xl6-4	1	Strains	soft
+rec	GCA_000161475.1	4	Assemblies	soft
+rec	GCA_000774075.2	6	Assemblies	soft
+rec	GCA_000774075.2	6	Assemblies	soft
+rec	JC291	1	Strains	soft
+rec	M2776	1	Strains	strict
+rec	M2776	1	Strains	soft
+rec	QCM(T1)	1	Strains	strict
+rec	I622	1	Strains	strict
+rec	ST8	3	Strains	soft
+rec	INTA Fr7-4	3	Strains	soft
+rec	BGSC 4BF1	3	Strains	soft
+rec	INTA Fr7-4	3	Strains	soft
+rec	QCM(T1)	1	Strains	soft
+rec	I622	1	Strains	soft
+rec	GCA_001968805.1	3	Assemblies	soft
+rec	GCA_002147055.1	3	Assemblies	soft
+rec	ARP095	1	Strains	strict
+rec	ARP095	1	Strains	soft
+rec	T03B001	5	Strains	soft
+rec	BGSC 4AO1	6	Strains	soft
+rec	BGSC 4AP1	5	Strains	soft
+rec	GCA_002146405.1	6	Assemblies	soft
+rec	GCA_002146425.1	5	Assemblies	soft
+rec	T 20	1	Strains	strict
+rec	T 20	1	Strains	soft
+rec	VD154	4	Strains	soft
+rec	T13001	4	Strains	soft
+rec	Sbt003	4	Strains	soft
+rec	GCA_000161555.1	4	Assemblies	soft
+rec	GCA_000878525.1	4	Assemblies	soft
+rec	FCC41	5	Strains	soft
+rec	FCC41	5	Strains	soft
+rec	AFS034708	3	Strains	soft
+rec	GCA_002584205.1	3	Assemblies	soft
+rec	AFS005140	8	Strains	soft
+rec	AFS013213	8	Strains	soft
+rec	AFS088016	8	Strains	soft
+rec	GCA_002558015.1	7	Assemblies	soft
+rec	GCA_002558525.1	7	Assemblies	soft
+rec	GCA_002564505.1	7	Assemblies	soft
+rec	AFS005140	8	Strains	soft
+rec	AFS013213	8	Strains	soft
+rec	AFS088016	8	Strains	soft
+rec	AFS059039	8	Strains	soft
+rec	AFS030866	7	Strains	soft
+rec	GCA_002558015.1	7	Assemblies	soft
+rec	GCA_002558525.1	7	Assemblies	soft
+rec	GCA_002564505.1	7	Assemblies	soft
+rec	GCA_002571305.1	7	Assemblies	soft
+rec	GCA_002586085.1	5	Assemblies	soft
+rec	IBL 200	10	Strains	soft
+rec	GCA_000161715.1	9	Assemblies	soft
+rec	96-OK-85-24	3	Strains	soft
+rec	Bun1-14	4	Strains	soft
+rec	ARP269	1	Strains	strict
+rec	xl6-7	1	Strains	strict
+rec	XL6	7	Strains	soft
+rec	ARP269	1	Strains	soft
+rec	xl6-7	1	Strains	soft
+rec	GCA_000774075.2	6	Assemblies	soft
+rec	GCA_000774075.2	6	Assemblies	soft
+rec	mgc157-1	2	Strains	soft
+rec	EG4961	1	Strains	soft
+rec	EG5144	1	Strains	soft
+rec	ARP001	1	Strains	strict
+rec	ARP001	1	Strains	soft
+rec	Bm59-2	2	Strains	soft
+rec	mogi K4	5	Strains	soft
+rec	ATX 13026	11	Strains	soft
+rec	jegathesan 367	5	Strains	soft
+rec	BR37	5	Strains	soft
+rec	Hu4-2	6	Strains	soft
+rec	PS81I	3	Strains	soft
+rec	EG6346	1	Strains	soft
+rec	mo3-D10	1	Strains	soft
+rec	mo3-D8	1	Strains	soft
+rec	GCA_000468995.3	6	Assemblies	soft
+rec	C15	5	Strains	soft
+rec	GCA_003991175.1	5	Assemblies	soft
+rec	ARP166	1	Strains	soft
+rec	BTy41	6	Strains	soft
+rec	Btc001	1	Strains	strict
+rec	NBIN-866	13	Strains	soft
+rec	HD-525	12	Strains	soft
+rec	BGSC 4G1	12	Strains	soft
+rec	BGSC 4G4	11	Strains	soft
+rec	BGSC 4CB1	12	Strains	soft
+rec	BGSC 4AE1	12	Strains	soft
+rec	HD29	10	Strains	soft
+rec	Btc001	1	Strains	soft
+rec	Bt87	2	Strains	soft
+rec	GCA_000600315.1	12	Assemblies	soft
+rec	GCA_002146315.1	12	Assemblies	soft
+rec	GCA_002147085.1	12	Assemblies	soft
+rec	GCA_002147105.1	12	Assemblies	soft
+rec	GCA_002147375.1	12	Assemblies	soft
+rec	Bm59-2	2	Strains	soft
+rec	xpz-46	1	Strains	strict
+rec	L-27	1	Strains	strict
+rec	QZL1-2	1	Strains	strict
+rec	Bt185	4	Strains	soft
+rec	78-2	4	Strains	soft
+rec	QZL38	4	Strains	soft
+rec	QHW7-2	2	Strains	soft
+rec	xpz-46	1	Strains	soft
+rec	Bt173	2	Strains	soft
+rec	L-27	1	Strains	soft
+rec	QZL1-2	1	Strains	soft
+rec	B-DLL	2	Strains	soft
+rec	GCA_002893515.1	4	Assemblies	soft
+rec	GCA_003626955.1	4	Assemblies	soft
+rec	B3	1	Strains	strict
+rec	LM1212	4	Strains	soft
+rec	LM1212-W3	3	Strains	soft
+rec	B3	1	Strains	soft
+rec	GCA_003546665.1	4	Assemblies	soft
+rec	BTS02618A	1	Strains	strict
+rec	BTS02618A	1	Strains	soft
+rec	3-1-a	1	Strains	strict
+rec	Bt185	4	Strains	soft
+rec	78-2	4	Strains	soft
+rec	QZL38	4	Strains	soft
+rec	3-1-a	1	Strains	soft
+rec	GCA_001595725.1	2	Assemblies	soft
+rec	GCA_002893515.1	4	Assemblies	soft
+rec	GCA_003626955.1	4	Assemblies	soft
+rec	BTy41	6	Strains	soft
+rec	BtS02739C	2	Strains	soft
+rec	ARP096	1	Strains	soft
+rec	PBT602	1	Strains	strict
+rec	4Q2-72	1	Strains	strict
+rec	HD567-61-9	1	Strains	strict
+rec	BUPM97	1	Strains	strict
+rec	DAB-Bt2	3	Strains	soft
+rec	BR58	3	Strains	soft
+rec	AM65-52	4	Strains	soft
+rec	HD-789	4	Strains	soft
+rec	T0139	4	Strains	soft
+rec	T0131	4	Strains	soft
+rec	T0137	4	Strains	soft
+rec	JW-1	4	Strains	soft
+rec	BT-59	4	Strains	soft
+rec	PBT602	1	Strains	soft
+rec	KNU-26	4	Strains	soft
+rec	1.24	4	Strains	soft
+rec	FDAARGOS_796	4	Strains	soft
+rec	BMP144	4	Strains	soft
+rec	IBL00427	4	Strains	soft
+rec	Bti	4	Strains	soft
+rec	AK8	4	Strains	soft
+rec	BGSC 4AX1	4	Strains	soft
+rec	DAB-Bt3	4	Strains	soft
+rec	DAB-Bt5	4	Strains	soft
+rec	DAB-Bt6	4	Strains	soft
+rec	DAB-Bt4	4	Strains	soft
+rec	DAB-Bt1	3	Strains	soft
+rec	HD522	4	Strains	soft
+rec	4Q2-72	1	Strains	soft
+rec	HD567-61-9	1	Strains	soft
+rec	BUPM97	1	Strains	soft
+rec	GCA_000292705.1	4	Assemblies	soft
+rec	GCA_001402735.1	3	Assemblies	soft
+rec	GCA_002146615.1	4	Assemblies	soft
+rec	GCA_004194435.2	4	Assemblies	soft
+rec	GCA_004354265.1	4	Assemblies	soft
+rec	ML090	1	Strains	soft
+rec	tolworthi 43F	1	Strains	soft
+rec	BtPGSI208	1	Strains	soft
+rec	HS18-1	10	Strains	soft
+rec	HS18-1	10	Strains	soft
+rec	GCA_001182785.1	9	Assemblies	soft
+rec	A1462	3	Strains	soft
+rec	BTy41	6	Strains	soft
+rec	HS18-1	10	Strains	soft
+rec	S2160-1	7	Strains	soft
+rec	S3161-3	1	Strains	soft
+rec	GCA_001182785.1	9	Assemblies	soft
+rec	ARP013	1	Strains	strict
+rec	ARP013	1	Strains	soft
+rec	ARP188	1	Strains	soft
+rec	SK700	3	Strains	soft
+rec	SK700	3	Strains	soft
+rec	PS198Q7	1	Strains	soft
+rec	XL6	7	Strains	soft
+par_strict	27	4	Strains	soft
+par_strict	NBIN-866	13	Strains	soft
+par_strict	HD-525	12	Strains	soft
+par_strict	BGSC 4G1	12	Strains	soft
+par_strict	BGSC 4G4	11	Strains	soft
+par_strict	BGSC 4CB1	12	Strains	soft
+par_strict	4G3	5	Strains	soft
+par_strict	BGSC 4AE1	12	Strains	soft
+par_strict	4G2	6	Strains	soft
+par_strict	11-76	1	Strains	soft
+par_strict	GCA_000600315.1	12	Assemblies	soft
+par_strict	GCA_002146315.1	12	Assemblies	soft
+par_strict	GCA_002147085.1	12	Assemblies	soft
+par_strict	GCA_002147105.1	12	Assemblies	soft
+par_strict	GCA_002147375.1	12	Assemblies	soft
+par_strict	BGSC 4BS1	1	Strains	soft
+par_strict	GCA_002148015.1	1	Assemblies	soft
+par_strict	BUPM109	1	Strains	soft
+par_strict	AFS005140	8	Strains	soft
+par_strict	AFS013213	8	Strains	soft
+par_strict	AFS088016	8	Strains	soft
+par_strict	AFS059039	8	Strains	soft
+par_strict	AFS030866	7	Strains	soft
+par_strict	GCA_002558015.1	7	Assemblies	soft
+par_strict	GCA_002558525.1	7	Assemblies	soft
+par_strict	GCA_002564505.1	7	Assemblies	soft
+par_strict	GCA_002571305.1	7	Assemblies	soft
+par_strict	GCA_002586085.1	5	Assemblies	soft
+par_strict	AFS034708	3	Strains	soft
+par_strict	GCA_002584205.1	3	Assemblies	soft
+par_strict	AFS005140	8	Strains	soft
+par_strict	AFS013213	8	Strains	soft
+par_strict	AFS088016	8	Strains	soft
+par_strict	AFS059039	8	Strains	soft
+par_strict	AFS030866	7	Strains	soft
+par_strict	GCA_002558015.1	7	Assemblies	soft
+par_strict	GCA_002558525.1	7	Assemblies	soft
+par_strict	GCA_002564505.1	7	Assemblies	soft
+par_strict	GCA_002571305.1	7	Assemblies	soft
+par_strict	GCA_002586085.1	5	Assemblies	soft
+par_strict	ARP218	1	Strains	soft
+par_strict	ST7	2	Strains	soft
+par_strict	BGSC 4AT1	4	Strains	soft
+par_strict	BGSC 4AR1	4	Strains	soft
+par_strict	BGSC 4AO1	6	Strains	soft
+par_strict	4M5	3	Strains	soft
+par_strict	BGSC 4AP1	5	Strains	soft
+par_strict	ARP009	1	Strains	soft
+par_strict	ATX 13026	11	Strains	soft
+par_strict	T03B001	5	Strains	soft
+par_strict	BRC-ZYR2	1	Strains	soft
+par_strict	GCA_002146405.1	6	Assemblies	soft
+par_strict	GCA_002146425.1	5	Assemblies	soft
+par_strict	GCA_002146445.1	4	Assemblies	soft
+par_strict	GCA_002146545.1	4	Assemblies	soft
+par_strict	jegathesan 367	5	Strains	soft
+par_strict	LBIT-980	1	Strains	soft
+par_strict	BGSC 4BC1	2	Strains	soft
+par_strict	SCG04-02	2	Strains	soft
+par_strict	BGSC 4BG1	2	Strains	soft
+par_strict	BGSC 4BB1	2	Strains	soft
+par_strict	BGSC 4AL1	2	Strains	soft
+par_strict	BGSC 4BT1	2	Strains	soft
+par_strict	GCA_002146505.1	2	Assemblies	soft
+par_strict	GCA_002146605.1	2	Assemblies	soft
+par_strict	GCA_002146655.1	2	Assemblies	soft
+par_strict	GCA_002146815.1	2	Assemblies	soft
+par_strict	GCA_002147025.1	2	Assemblies	soft
+par_strict	GCA_002173755.1	2	Assemblies	soft
+par_strict	NBIN-866	13	Strains	soft
+par_strict	HD-525	12	Strains	soft
+par_strict	BGSC 4G1	12	Strains	soft
+par_strict	BGSC 4G4	11	Strains	soft
+par_strict	BGSC 4CB1	12	Strains	soft
+par_strict	4G3	5	Strains	soft
+par_strict	BGSC 4AE1	12	Strains	soft
+par_strict	4G2	6	Strains	soft
+par_strict	14	1	Strains	soft
+par_strict	FY-2	1	Strains	soft
+par_strict	HD29	10	Strains	soft
+par_strict	QCL-1	1	Strains	soft
+par_strict	WB9	2	Strains	soft
+par_strict	SBSBT-1	1	Strains	soft
+par_strict	shanghai 1 (S-1)	1	Strains	soft
+par_strict	67-3	1	Strains	soft
+par_strict	LLB6	2	Strains	soft
+par_strict	CMBL-BT3	1	Strains	soft
+par_strict	NRRL B-21944	1	Strains	soft
+par_strict	CMBL-BT1	2	Strains	soft
+par_strict	CMBL-BT2	2	Strains	soft
+par_strict	NEAU 161	1	Strains	soft
+par_strict	GCA_000600315.1	12	Assemblies	soft
+par_strict	GCA_002146315.1	12	Assemblies	soft
+par_strict	GCA_002147085.1	12	Assemblies	soft
+par_strict	GCA_002147105.1	12	Assemblies	soft
+par_strict	GCA_002147375.1	12	Assemblies	soft
+par_strict	AFS081174	1	Strains	soft
+par_strict	AFS081381	1	Strains	soft
+par_strict	AFS083298	1	Strains	soft
+par_strict	AFS017221	1	Strains	soft
+par_strict	AFS045461	1	Strains	soft
+par_strict	AFS083176	1	Strains	soft
+par_strict	AFS001368	1	Strains	soft
+par_strict	ARP277	1	Strains	soft
+par_strict	AFS074325	1	Strains	soft
+par_strict	AFS057443	1	Strains	soft
+par_strict	A1462	3	Strains	soft
+par_strict	HS18-1	10	Strains	soft
+par_strict	HS18-1	10	Strains	soft
+par_strict	S2160-1	7	Strains	soft
+par_strict	G7-1	2	Strains	soft
+par_strict	GCA_001182785.1	9	Assemblies	soft
+par_strict	Bt roskildiensis	1	Strains	soft
+par_strict	FCC41	5	Strains	soft
+par_strict	NBIN-866	13	Strains	soft
+par_strict	HD-525	12	Strains	soft
+par_strict	BGSC 4AE1	12	Strains	soft
+par_strict	HD-525	12	Strains	soft
+par_strict	BGSC 4G1	12	Strains	soft
+par_strict	BGSC 4G4	11	Strains	soft
+par_strict	BGSC 4CB1	12	Strains	soft
+par_strict	B-Pr-88	4	Strains	soft
+par_strict	GCA_000600315.1	12	Assemblies	soft
+par_strict	GCA_002146315.1	12	Assemblies	soft
+par_strict	GCA_002147375.1	12	Assemblies	soft
+par_strict	GCA_002147085.1	12	Assemblies	soft
+par_strict	GCA_002147105.1	12	Assemblies	soft
+par_strict	HS18-1	10	Strains	soft
+par_strict	HS18-1	10	Strains	soft
+par_strict	S2160-1	7	Strains	soft
+par_strict	HS18-1	10	Strains	soft
+par_strict	S2160-1	7	Strains	soft
+par_strict	GCA_001182785.1	9	Assemblies	soft
+par_strict	kunthalaRX28	1	Strains	soft
+par_strict	BLB32	1	Strains	soft
+par_strict	92-KU-149-8	1	Strains	soft
+par_strict	BtMC28	7	Strains	soft
+par_strict	MC28	8	Strains	soft
+par_strict	GCA_000300475.1	8	Assemblies	soft
+par_strict	BfR-BA-01356	2	Strains	soft
+par_strict	4I5	2	Strains	soft
+par_strict	HER1410	1	Strains	soft
+par_strict	IBL01677	2	Strains	soft
+par_strict	HD-110	2	Strains	soft
+par_strict	B13	1	Strains	soft
+par_strict	HD-9	3	Strains	soft
+par_strict	IS5056	6	Strains	soft
+par_strict	IBL00197	4	Strains	soft
+par_strict	AFS057829	5	Strains	soft
+par_strict	CT-43	5	Strains	soft
+par_strict	BfR-BA-01317	1	Strains	soft
+par_strict	BGSC 4A4	1	Strains	soft
+par_strict	4D3	1	Strains	soft
+par_strict	4A1	2	Strains	soft
+par_strict	T01001	2	Strains	soft
+par_strict	S601	1	Strains	soft
+par_strict	NA205-3	4	Strains	soft
+par_strict	G25-85	1	Strains	soft
+par_strict	G25-76	1	Strains	soft
+par_strict	601	1	Strains	soft
+par_strict	ATCC 10792	2	Strains	soft
+par_strict	sfw-12	1	Strains	soft
+par_strict	HD-2	2	Strains	soft
+par_strict	BfR-BA-01312	1	Strains	soft
+par_strict	4A2	2	Strains	soft
+par_strict	T01-328	5	Strains	soft
+par_strict	S601	1	Strains	soft
+par_strict	ATCC 10792	2	Strains	soft
+par_strict	N17-37	1	Strains	soft
+par_strict	UV17	1	Strains	soft
+par_strict	S907	1	Strains	soft
+par_strict	GCA_000161515.1	2	Assemblies	soft
+par_strict	GCA_000161615.1	2	Assemblies	soft
+par_strict	GCA_000193355.1	5	Assemblies	soft
+par_strict	GCA_000341665.1	6	Assemblies	soft
+par_strict	GCA_002119445.1	2	Assemblies	soft
+par_strict	GCA_002146335.1	1	Assemblies	soft
+par_strict	GCA_002574115.1	5	Assemblies	soft
+par_strict	GCA_000387405.2	5	Assemblies	soft
+par_strict	GCA_002146945.1	1	Assemblies	soft
+par_strict	GCA_002243685.1	1	Assemblies	soft
+par_strict	Gnyt1	4	Strains	soft
+par_strict	NB18	1	Strains	soft
+par_strict	YBT-1520	5	Strains	soft
+par_strict	BGSC 4X1	4	Strains	soft
+par_strict	T07019	7	Strains	soft
+par_strict	SY27.1	5	Strains	soft
+par_strict	BGSC 4J4	4	Strains	soft
+par_strict	AGES_6_27_S	6	Strains	soft
+par_strict	CH_72	6	Strains	soft
+par_strict	T07153	6	Strains	soft
+par_strict	6/27/S	6	Strains	soft
+par_strict	ABTS-1857	7	Strains	soft
+par_strict	T07005	6	Strains	soft
+par_strict	RIVM BC 934	6	Strains	soft
+par_strict	007986-5	6	Strains	soft
+par_strict	007989-3	6	Strains	soft
+par_strict	T07128	4	Strains	soft
+par_strict	ly30	4	Strains	soft
+par_strict	HD29	10	Strains	soft
+par_strict	MPU B5	3	Strains	soft
+par_strict	IS5056	6	Strains	soft
+par_strict	KNU-25	5	Strains	soft
+par_strict	IBL00197	4	Strains	soft
+par_strict	ZZQ-130	4	Strains	soft
+par_strict	AFS057829	5	Strains	soft
+par_strict	CT-43	5	Strains	soft
+par_strict	IMBL-B9	5	Strains	soft
+par_strict	IPL7	2	Strains	soft
+par_strict	BfR-BA-01319	5	Strains	soft
+par_strict	BGSC 4J2	5	Strains	soft
+par_strict	A-19-31	3	Strains	soft
+par_strict	NRD-12	3	Strains	soft
+par_strict	FU-2-7	1	Strains	soft
+par_strict	Hu4-2	6	Strains	soft
+par_strict	T07183	6	Strains	soft
+par_strict	I13	6	Strains	soft
+par_strict	MS12	7	Strains	soft
+par_strict	T07148	7	Strains	soft
+par_strict	PS9-D12	1	Strains	soft
+par_strict	HD-1-02	1	Strains	soft
+par_strict	HTS-S-38	2	Strains	soft
+par_strict	YC-10	5	Strains	soft
+par_strict	G25-96	5	Strains	soft
+par_strict	IBL03111	5	Strains	soft
+par_strict	IBL00503	5	Strains	soft
+par_strict	IBL01259	5	Strains	soft
+par_strict	IBL01313	5	Strains	soft
+par_strict	BNS3	3	Strains	soft
+par_strict	HD 1i	6	Strains	soft
+par_strict	x023	4	Strains	soft
+par_strict	PS9-E2	1	Strains	soft
+par_strict	ABTS-351	5	Strains	soft
+par_strict	BMG1.7	5	Strains	soft
+par_strict	BGSC 4L3	5	Strains	soft
+par_strict	D1	1	Strains	soft
+par_strict	SA11	4	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	PS9-C12	2	Strains	soft
+par_strict	C12	1	Strains	soft
+par_strict	INTA Mo1-12	2	Strains	soft
+par_strict	T01-328	5	Strains	soft
+par_strict	LS-R-21	1	Strains	soft
+par_strict	NAIMCC-B-00167	1	Strains	soft
+par_strict	T07030	6	Strains	soft
+par_strict	BLB1	2	Strains	soft
+par_strict	DL	1	Strains	soft
+par_strict	LTS-209	1	Strains	soft
+par_strict	SK-798	1	Strains	soft
+par_strict	Lip	1	Strains	soft
+par_strict	BGSC 4E3	1	Strains	soft
+par_strict	T04001	1	Strains	soft
+par_strict	JSc1	1	Strains	soft
+par_strict	HD-771	1	Strains	soft
+par_strict	T84A1	1	Strains	soft
+par_strict	pMP36	1	Strains	soft
+par_strict	GCA_000161535.1	1	Assemblies	soft
+par_strict	GCA_000292455.1	1	Assemblies	soft
+par_strict	GCA_000193355.1	5	Assemblies	soft
+par_strict	GCA_000341665.1	6	Assemblies	soft
+par_strict	GCA_000688795.1	5	Assemblies	soft
+par_strict	GCA_000747545.1	5	Assemblies	soft
+par_strict	GCA_000803665.1	7	Assemblies	soft
+par_strict	GCA_002147155.1	5	Assemblies	soft
+par_strict	GCA_002147235.1	4	Assemblies	soft
+par_strict	GCA_002147435.1	4	Assemblies	soft
+par_strict	GCA_002147565.1	7	Assemblies	soft
+par_strict	GCA_002147575.1	6	Assemblies	soft
+par_strict	GCA_002147635.1	4	Assemblies	soft
+par_strict	GCA_002147685.1	6	Assemblies	soft
+par_strict	GCA_002574115.1	5	Assemblies	soft
+par_strict	GCA_000387405.2	5	Assemblies	soft
+par_strict	GCA_000468995.3	6	Assemblies	soft
+par_strict	GCA_000717535.1	6	Assemblies	soft
+par_strict	GCA_000835235.1	6	Assemblies	soft
+par_strict	GCA_001017635.1	5	Assemblies	soft
+par_strict	GCA_002147245.1	5	Assemblies	soft
+par_strict	GCA_002147605.1	6	Assemblies	soft
+par_strict	GCA_002147645.1	7	Assemblies	soft
+par_strict	GCA_004330415.1	7	Assemblies	soft
+par_strict	SK700	3	Strains	soft
+par_strict	AFS005140	8	Strains	soft
+par_strict	AFS013213	8	Strains	soft
+par_strict	AFS088016	8	Strains	soft
+par_strict	AFS059039	8	Strains	soft
+par_strict	GCA_002558015.1	7	Assemblies	soft
+par_strict	GCA_002558525.1	7	Assemblies	soft
+par_strict	GCA_002564505.1	7	Assemblies	soft
+par_strict	GCA_002571305.1	7	Assemblies	soft
+par_strict	ST8	3	Strains	soft
+par_strict	INTA Fr7-4	3	Strains	soft
+par_strict	BGSC 4BF1	3	Strains	soft
+par_strict	GCA_001968805.1	3	Assemblies	soft
+par_strict	GCA_002147055.1	3	Assemblies	soft
+par_strict	ARP021	1	Strains	soft
+par_strict	PS184M1	2	Strains	soft
+par_strict	ATXl 5723	1	Strains	soft
+par_strict	BtI109P	1	Strains	soft
+par_strict	HD12	11	Strains	soft
+par_strict	GR007	10	Strains	soft
+par_strict	G25-97	11	Strains	soft
+par_strict	G25-93	10	Strains	soft
+par_strict	BGSC 4O1	7	Strains	soft
+par_strict	WBT-2	10	Strains	soft
+par_strict	NBIN-866	13	Strains	soft
+par_strict	HD-525	12	Strains	soft
+par_strict	BGSC 4G1	12	Strains	soft
+par_strict	BGSC 4G4	11	Strains	soft
+par_strict	BGSC 4CB1	12	Strains	soft
+par_strict	4G3	5	Strains	soft
+par_strict	BGSC 4AE1	12	Strains	soft
+par_strict	4G2	6	Strains	soft
+par_strict	B-Pr-88	4	Strains	soft
+par_strict	INA67	1	Strains	soft
+par_strict	INA67	1	Strains	soft
+par_strict	Bt87	2	Strains	soft
+par_strict	Bt012	1	Strains	soft
+par_strict	GCA_000600315.1	12	Assemblies	soft
+par_strict	GCA_002146315.1	12	Assemblies	soft
+par_strict	GCA_002147085.1	12	Assemblies	soft
+par_strict	GCA_002147105.1	12	Assemblies	soft
+par_strict	GCA_002147375.1	12	Assemblies	soft
+par_strict	GCA_001598095.1	9	Assemblies	soft
+par_strict	GCA_002147325.1	7	Assemblies	soft
+par_strict	GCA_002893565.1	10	Assemblies	soft
+par_strict	YBT-1520	5	Strains	soft
+par_strict	SY27.1	5	Strains	soft
+par_strict	ly30	4	Strains	soft
+par_strict	LBIT-418	2	Strains	soft
+par_strict	4F4	5	Strains	soft
+par_strict	BGSC 4J5	4	Strains	soft
+par_strict	HD5	4	Strains	soft
+par_strict	4F1	5	Strains	soft
+par_strict	YC-10	5	Strains	soft
+par_strict	G25-96	5	Strains	soft
+par_strict	IBL03111	5	Strains	soft
+par_strict	IBL00503	5	Strains	soft
+par_strict	IBL01259	5	Strains	soft
+par_strict	IBL01313	5	Strains	soft
+par_strict	HD 1i	6	Strains	soft
+par_strict	x023	4	Strains	soft
+par_strict	ABTS-351	5	Strains	soft
+par_strict	BMG1.7	5	Strains	soft
+par_strict	BGSC 4L3	5	Strains	soft
+par_strict	SA11	4	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	BGSC 4AW1	7	Strains	soft
+par_strict	IS5056	6	Strains	soft
+par_strict	KNU-25	5	Strains	soft
+par_strict	ZZQ-130	4	Strains	soft
+par_strict	AFS057829	5	Strains	soft
+par_strict	CT-43	5	Strains	soft
+par_strict	IMBL-B9	5	Strains	soft
+par_strict	BMB3201	4	Strains	soft
+par_strict	T01-328	5	Strains	soft
+par_strict	YWC2-8	2	Strains	soft
+par_strict	NA205-3	4	Strains	soft
+par_strict	4F3	3	Strains	soft
+par_strict	4L1	3	Strains	soft
+par_strict	UFT038	3	Strains	soft
+par_strict	ISP2954	3	Strains	soft
+par_strict	QB15	3	Strains	soft
+par_strict	AFS061780	3	Strains	soft
+par_strict	NT06	3	Strains	soft
+par_strict	4N	3	Strains	soft
+par_strict	AFS031473	3	Strains	soft
+par_strict	AK47	3	Strains	soft
+par_strict	TK1	3	Strains	soft
+par_strict	18_218	3	Strains	soft
+par_strict	TB08	3	Strains	soft
+par_strict	SY49-1	3	Strains	soft
+par_strict	4D2	3	Strains	soft
+par_strict	PT02	3	Strains	soft
+par_strict	Staal2-3	3	Strains	soft
+par_strict	7.1o	4	Strains	soft
+par_strict	BR145	3	Strains	soft
+par_strict	BP865	3	Strains	soft
+par_strict	MOD1_Bc30	3	Strains	soft
+par_strict	AFS034084	3	Strains	soft
+par_strict	CH_722	3	Strains	soft
+par_strict	DBG15	3	Strains	soft
+par_strict	CH_698	3	Strains	soft
+par_strict	AFS004414	3	Strains	soft
+par_strict	DE0161	3	Strains	soft
+par_strict	CH_81	3	Strains	soft
+par_strict	CH_684	3	Strains	soft
+par_strict	AFS018409	3	Strains	soft
+par_strict	4D5	3	Strains	soft
+par_strict	MOD1_Bc235	3	Strains	soft
+par_strict	18_216	3	Strains	soft
+par_strict	MOD1_Bc137	3	Strains	soft
+par_strict	T414	3	Strains	soft
+par_strict	CH_69	3	Strains	soft
+par_strict	DE0589	3	Strains	soft
+par_strict	AFS043930	3	Strains	soft
+par_strict	X023PN	3	Strains	soft
+par_strict	18_421	3	Strains	soft
+par_strict	HuB13-1	3	Strains	soft
+par_strict	Staal7-4	3	Strains	soft
+par_strict	18_614	3	Strains	soft
+par_strict	2124	2	Strains	soft
+par_strict	261-1	1	Strains	soft
+par_strict	22-4	1	Strains	soft
+par_strict	T536	1	Strains	soft
+par_strict	BRL34	1	Strains	soft
+par_strict	T527	1	Strains	soft
+par_strict	T32	1	Strains	soft
+par_strict	T405	1	Strains	soft
+par_strict	T532	1	Strains	soft
+par_strict	MOD1_Bc231	2	Strains	soft
+par_strict	V4	3	Strains	soft
+par_strict	146-158-01	2	Strains	soft
+par_strict	SL39	1	Strains	soft
+par_strict	SSy77	2	Strains	soft
+par_strict	BNS3	3	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	Rpp39	1	Strains	soft
+par_strict	MSS8.4	1	Strains	soft
+par_strict	YZ71	1	Strains	soft
+par_strict	4L2	3	Strains	soft
+par_strict	Dongbei 66	1	Strains	soft
+par_strict	4L4	2	Strains	soft
+par_strict	Pasteur Institute Standard strain	3	Strains	soft
+par_strict	MEB4	1	Strains	soft
+par_strict	LS5115-3	1	Strains	soft
+par_strict	Kenyae 4a4c	1	Strains	soft
+par_strict	SY49-1	3	Strains	soft
+par_strict	HD-550	1	Strains	soft
+par_strict	T543	1	Strains	soft
+par_strict	CY29	1	Strains	soft
+par_strict	SKW01-10.2-06	1	Strains	soft
+par_strict	NRRL B-21943	1	Strains	soft
+par_strict	GCA_000193355.1	5	Assemblies	soft
+par_strict	GCA_000341665.1	6	Assemblies	soft
+par_strict	GCA_000387405.2	5	Assemblies	soft
+par_strict	GCA_000688795.1	5	Assemblies	soft
+par_strict	GCA_000710255.1	5	Assemblies	soft
+par_strict	GCA_000747545.1	5	Assemblies	soft
+par_strict	GCA_000835235.1	6	Assemblies	soft
+par_strict	GCA_001017635.1	5	Assemblies	soft
+par_strict	GCA_001420855.1	2	Assemblies	soft
+par_strict	GCA_001880125.1	3	Assemblies	soft
+par_strict	GCA_002146595.1	4	Assemblies	soft
+par_strict	GCA_002147245.1	5	Assemblies	soft
+par_strict	GCA_002147255.1	4	Assemblies	soft
+par_strict	GCA_002147535.1	4	Assemblies	soft
+par_strict	GCA_002555365.1	3	Assemblies	soft
+par_strict	GCA_002572135.1	3	Assemblies	soft
+par_strict	GCA_002574115.1	5	Assemblies	soft
+par_strict	GCA_002581075.1	3	Assemblies	soft
+par_strict	GCA_002589015.1	3	Assemblies	soft
+par_strict	GCA_002589045.1	3	Assemblies	soft
+par_strict	GCA_002893525.1	1	Assemblies	soft
+par_strict	GCA_004167115.1	3	Assemblies	soft
+par_strict	GCA_000717535.1	6	Assemblies	soft
+par_strict	GCA_001548175.1	3	Assemblies	soft
+par_strict	BGSC 4CE1	5	Strains	soft
+par_strict	LM1212	4	Strains	soft
+par_strict	LM1212-DB	2	Strains	soft
+par_strict	LM1212-W3	3	Strains	soft
+par_strict	GCA_003546665.1	4	Assemblies	soft
+par_strict	BGSC 4BP1	3	Strains	soft
+par_strict	GCA_002146755.1	3	Assemblies	soft
+par_strict	nags3	1	Strains	soft
+par_strict	PS81I	3	Strains	soft
+par_strict	PS81RR1	1	Strains	soft
+par_strict	GC-91	6	Strains	soft
+par_strict	T07019	7	Strains	soft
+par_strict	G03	5	Strains	soft
+par_strict	CVUAS2492	5	Strains	soft
+par_strict	CH_65	5	Strains	soft
+par_strict	AGES_2_27_S	5	Strains	soft
+par_strict	AGES_6_27_S	6	Strains	soft
+par_strict	CH_748	5	Strains	soft
+par_strict	P01_3	5	Strains	soft
+par_strict	Bt-GS57	5	Strains	soft
+par_strict	CH_733	5	Strains	soft
+par_strict	Staal1-1	5	Strains	soft
+par_strict	B401	6	Strains	soft
+par_strict	CH_72	6	Strains	soft
+par_strict	T07153	6	Strains	soft
+par_strict	BR37	5	Strains	soft
+par_strict	6/27/S	6	Strains	soft
+par_strict	CVUAS9659	5	Strains	soft
+par_strict	ABTS-1857	7	Strains	soft
+par_strict	CH_696	5	Strains	soft
+par_strict	777001-1	5	Strains	soft
+par_strict	T07183	6	Strains	soft
+par_strict	CH_746	5	Strains	soft
+par_strict	CH_692	5	Strains	soft
+par_strict	I13	6	Strains	soft
+par_strict	kn11	5	Strains	soft
+par_strict	CVUAS9660	5	Strains	soft
+par_strict	27-3	5	Strains	soft
+par_strict	MS12	7	Strains	soft
+par_strict	P01_1	5	Strains	soft
+par_strict	HD133	6	Strains	soft
+par_strict	1126_1	5	Strains	soft
+par_strict	PT18	5	Strains	soft
+par_strict	777001F-1	5	Strains	soft
+par_strict	007983-6	5	Strains	soft
+par_strict	T07005	6	Strains	soft
+par_strict	RIVM BC 934	6	Strains	soft
+par_strict	CH_709	5	Strains	soft
+par_strict	007986-5	6	Strains	soft
+par_strict	777002-3	5	Strains	soft
+par_strict	007989-3	6	Strains	soft
+par_strict	T07148	7	Strains	soft
+par_strict	HD29	10	Strains	soft
+par_strict	MPU B5	3	Strains	soft
+par_strict	BfR-BA-01319	5	Strains	soft
+par_strict	BGSC 4J2	5	Strains	soft
+par_strict	BGSC 4J1	4	Strains	soft
+par_strict	T07030	6	Strains	soft
+par_strict	J8	1	Strains	soft
+par_strict	c002	1	Strains	soft
+par_strict	SP41	3	Strains	soft
+par_strict	G10-01A	1	Strains	soft
+par_strict	Hu4-2	6	Strains	soft
+par_strict	PS81I	3	Strains	soft
+par_strict	C-33	2	Strains	soft
+par_strict	K26-21	1	Strains	soft
+par_strict	LB-R-78	1	Strains	soft
+par_strict	HD-110	2	Strains	soft
+par_strict	mo3-E7	1	Strains	soft
+par_strict	LTS-38	1	Strains	soft
+par_strict	7-29	1	Strains	soft
+par_strict	E05-20a	1	Strains	soft
+par_strict	60.5	1	Strains	soft
+par_strict	LBIT-1217	1	Strains	soft
+par_strict	GCA_000468995.3	6	Assemblies	soft
+par_strict	GCA_000803665.1	7	Assemblies	soft
+par_strict	GCA_001880115.1	4	Assemblies	soft
+par_strict	GCA_002147155.1	5	Assemblies	soft
+par_strict	GCA_002147165.1	4	Assemblies	soft
+par_strict	GCA_002147185.1	5	Assemblies	soft
+par_strict	GCA_002147555.1	5	Assemblies	soft
+par_strict	GCA_002147565.1	7	Assemblies	soft
+par_strict	GCA_002147575.1	6	Assemblies	soft
+par_strict	GCA_002147605.1	6	Assemblies	soft
+par_strict	GCA_002147645.1	7	Assemblies	soft
+par_strict	GCA_002147685.1	6	Assemblies	soft
+par_strict	GCA_002147725.1	5	Assemblies	soft
+par_strict	GCA_002236945.1	5	Assemblies	soft
+par_strict	GCA_002268645.2	5	Assemblies	soft
+par_strict	GCA_002893605.1	5	Assemblies	soft
+par_strict	GCA_003312445.1	5	Assemblies	soft
+par_strict	GCA_004330415.1	7	Assemblies	soft
+par_strict	BGSC 4AU1	2	Strains	soft
+par_strict	higo	4	Strains	soft
+par_strict	GCA_002147895.1	2	Assemblies	soft
+par_strict	LM1212	4	Strains	soft
+par_strict	LM1212-W3	3	Strains	soft
+par_strict	GCA_003546665.1	4	Assemblies	soft
+par_strict	ARP259	1	Strains	soft
+par_strict	ATX 13026	11	Strains	soft
+par_strict	QZL20-1	1	Strains	soft
+par_strict	AFS034708	3	Strains	soft
+par_strict	GCA_002584205.1	3	Assemblies	soft
+par_strict	Gnyt1	4	Strains	soft
+par_strict	IBL02897	9	Strains	soft
+par_strict	BGSC 4N1	9	Strains	soft
+par_strict	IBL00090	9	Strains	soft
+par_strict	IBL00171	9	Strains	soft
+par_strict	IBL 200	10	Strains	soft
+par_strict	HD12	11	Strains	soft
+par_strict	WBT-2	10	Strains	soft
+par_strict	GR007	10	Strains	soft
+par_strict	SVBS18-01	3	Strains	soft
+par_strict	HD12	11	Strains	soft
+par_strict	G25-97	11	Strains	soft
+par_strict	G25-93	10	Strains	soft
+par_strict	ARP146	1	Strains	soft
+par_strict	GCA_000161715.1	9	Assemblies	soft
+par_strict	GCA_001598095.1	9	Assemblies	soft
+par_strict	GCA_002147315.1	9	Assemblies	soft
+par_strict	GCA_002893565.1	10	Assemblies	soft
+par_strict	QZL144-1	1	Strains	soft
+par_strict	Bt185	4	Strains	soft
+par_strict	78-2	4	Strains	soft
+par_strict	QZL38	4	Strains	soft
+par_strict	Bt S185	2	Strains	soft
+par_strict	QZL144-4	1	Strains	soft
+par_strict	GWL	1	Strains	soft
+par_strict	Bt185	4	Strains	soft
+par_strict	WF-H-72	1	Strains	soft
+par_strict	ZK1	1	Strains	soft
+par_strict	xpz-5	1	Strains	soft
+par_strict	HD37	1	Strains	soft
+par_strict	B-DLL	2	Strains	soft
+par_strict	GCA_001595725.1	2	Assemblies	soft
+par_strict	GCA_002893515.1	4	Assemblies	soft
+par_strict	GCA_003626955.1	4	Assemblies	soft
+par_strict	MHB10.6	1	Strains	soft
+par_strict	MHY1.11	1	Strains	soft
+par_strict	MHY1.10	1	Strains	soft
+par_strict	SDS-502	1	Strains	soft
+par_strict	QZL85	1	Strains	soft
+par_strict	MSS2.4	1	Strains	soft
+par_strict	MHB11.3	1	Strains	soft
+par_strict	BGSC 4U1	5	Strains	soft
+par_strict	BTy41	6	Strains	soft
+par_strict	HS18-1	10	Strains	soft
+par_strict	S2160-1	7	Strains	soft
+par_strict	S3161-3	1	Strains	soft
+par_strict	GCA_001182785.1	9	Assemblies	soft
+par_strict	HBF-18	2	Strains	soft
+par_strict	FCD114	2	Strains	soft
+par_strict	bt145	1	Strains	soft
+par_strict	HBF-18	2	Strains	soft
+par_strict	GCA_002893505.1	2	Assemblies	soft
+par_strict	GCA_002893585.1	2	Assemblies	soft
+par_strict	JF19-2	1	Strains	soft
+par_strict	PS198Q7	1	Strains	soft
+par_strict	BtS02072BG	1	Strains	soft
+par_strict	NRRL B-21940	1	Strains	soft
+par_strict	CH426a_13T	1	Strains	soft
+par_strict	LBIC-004	1	Strains	soft
+par_strict	CH460b_14D	1	Strains	soft
+par_strict	CH417_13T	1	Strains	soft
+par_strict	AFS098399	2	Strains	soft
+par_strict	AFS050081	3	Strains	soft
+par_strict	GCA_002550215.1	2	Assemblies	soft
+par_strict	GCA_002576585.1	3	Assemblies	soft
+par_strict	SC6H8	5	Strains	soft
+par_strict	LBR2	1	Strains	soft
+par_strict	PS158C2	2	Strains	soft
+par_strict	K1	3	Strains	soft
+par_strict	g9	1	Strains	soft
+par_strict	NRRL B-18679	2	Strains	soft
+par_strict	G25-46	2	Strains	soft
+par_strict	PS80JJ1	1	Strains	soft
+par_strict	BT HMM	2	Strains	soft
+par_strict	SC-7	1	Strains	soft
+par_strict	SC-13	1	Strains	soft
+par_strict	2B	2	Strains	soft
+par_strict	JHCC4835	1	Strains	soft
+par_strict	GC-91	6	Strains	soft
+par_strict	1905	4	Strains	soft
+par_strict	YBT-1520	5	Strains	soft
+par_strict	BGSC 4X1	4	Strains	soft
+par_strict	T07019	7	Strains	soft
+par_strict	SY27.1	5	Strains	soft
+par_strict	BGSC 4J4	4	Strains	soft
+par_strict	G03	5	Strains	soft
+par_strict	CVUAS2492	5	Strains	soft
+par_strict	CH_65	5	Strains	soft
+par_strict	14-2	3	Strains	soft
+par_strict	Leapi01	4	Strains	soft
+par_strict	AGES_2_27_S	5	Strains	soft
+par_strict	25-6	3	Strains	soft
+par_strict	AGES_6_27_S	6	Strains	soft
+par_strict	CH_748	5	Strains	soft
+par_strict	P01_3	5	Strains	soft
+par_strict	Bt-GS57	5	Strains	soft
+par_strict	CH_733	5	Strains	soft
+par_strict	Staal1-1	5	Strains	soft
+par_strict	B401	6	Strains	soft
+par_strict	CH_72	6	Strains	soft
+par_strict	T07153	6	Strains	soft
+par_strict	26-1	3	Strains	soft
+par_strict	6/27/S	6	Strains	soft
+par_strict	CVUAS9659	5	Strains	soft
+par_strict	20-1	3	Strains	soft
+par_strict	ABTS-1857	7	Strains	soft
+par_strict	CH_696	5	Strains	soft
+par_strict	777001-1	5	Strains	soft
+par_strict	M100	3	Strains	soft
+par_strict	T07183	6	Strains	soft
+par_strict	21-1	3	Strains	soft
+par_strict	CH_746	5	Strains	soft
+par_strict	CH_692	5	Strains	soft
+par_strict	I13	6	Strains	soft
+par_strict	kn11	5	Strains	soft
+par_strict	CVUAS9660	5	Strains	soft
+par_strict	30-1	3	Strains	soft
+par_strict	27-3	5	Strains	soft
+par_strict	B4158	2	Strains	soft
+par_strict	MS12	7	Strains	soft
+par_strict	P01_1	5	Strains	soft
+par_strict	HD133	6	Strains	soft
+par_strict	1126_1	5	Strains	soft
+par_strict	PT18	5	Strains	soft
+par_strict	777001F-1	5	Strains	soft
+par_strict	007983-6	5	Strains	soft
+par_strict	T07005	6	Strains	soft
+par_strict	RIVM BC 934	6	Strains	soft
+par_strict	CH_709	5	Strains	soft
+par_strict	007986-5	6	Strains	soft
+par_strict	777002-3	5	Strains	soft
+par_strict	007989-3	6	Strains	soft
+par_strict	T07148	7	Strains	soft
+par_strict	30-4	3	Strains	soft
+par_strict	T07128	4	Strains	soft
+par_strict	ly30	4	Strains	soft
+par_strict	HD29	10	Strains	soft
+par_strict	YC-10	5	Strains	soft
+par_strict	G25-96	5	Strains	soft
+par_strict	IBL03111	5	Strains	soft
+par_strict	IBL00503	5	Strains	soft
+par_strict	IBL01259	5	Strains	soft
+par_strict	IBL01313	5	Strains	soft
+par_strict	HD 1i	6	Strains	soft
+par_strict	x023	4	Strains	soft
+par_strict	ABTS-351	5	Strains	soft
+par_strict	BMG1.7	5	Strains	soft
+par_strict	BGSC 4L3	5	Strains	soft
+par_strict	SA11	4	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	Pasteur Institute Standard strain	3	Strains	soft
+par_strict	SC6H8	5	Strains	soft
+par_strict	IS5056	6	Strains	soft
+par_strict	KNU-25	5	Strains	soft
+par_strict	IBL00197	4	Strains	soft
+par_strict	ZZQ-130	4	Strains	soft
+par_strict	AFS057829	5	Strains	soft
+par_strict	CT-43	5	Strains	soft
+par_strict	IMBL-B9	5	Strains	soft
+par_strict	BfR-BA-01319	5	Strains	soft
+par_strict	BGSC 4J2	5	Strains	soft
+par_strict	T01-328	5	Strains	soft
+par_strict	NA205-3	4	Strains	soft
+par_strict	4L1	3	Strains	soft
+par_strict	UFT038	3	Strains	soft
+par_strict	ISP2954	3	Strains	soft
+par_strict	QB15	3	Strains	soft
+par_strict	AFS061780	3	Strains	soft
+par_strict	NT06	3	Strains	soft
+par_strict	4N	3	Strains	soft
+par_strict	AFS031473	3	Strains	soft
+par_strict	AK47	3	Strains	soft
+par_strict	TK1	3	Strains	soft
+par_strict	18_218	3	Strains	soft
+par_strict	TB08	3	Strains	soft
+par_strict	TH19	1	Strains	soft
+par_strict	SY49-1	3	Strains	soft
+par_strict	4D2	3	Strains	soft
+par_strict	MPU B9	2	Strains	soft
+par_strict	PT02	3	Strains	soft
+par_strict	Staal2-3	3	Strains	soft
+par_strict	7.1o	4	Strains	soft
+par_strict	BR145	3	Strains	soft
+par_strict	BP865	3	Strains	soft
+par_strict	MOD1_Bc30	3	Strains	soft
+par_strict	AFS034084	3	Strains	soft
+par_strict	CH_722	3	Strains	soft
+par_strict	DBG15	3	Strains	soft
+par_strict	CH_698	3	Strains	soft
+par_strict	AFS004414	3	Strains	soft
+par_strict	DE0161	3	Strains	soft
+par_strict	CH_81	3	Strains	soft
+par_strict	CH_684	3	Strains	soft
+par_strict	BGSC 4J1	4	Strains	soft
+par_strict	AFS018409	3	Strains	soft
+par_strict	4D5	3	Strains	soft
+par_strict	MOD1_Bc235	3	Strains	soft
+par_strict	18_216	3	Strains	soft
+par_strict	IE-1	1	Strains	soft
+par_strict	MOD1_Bc137	3	Strains	soft
+par_strict	T414	3	Strains	soft
+par_strict	INTA Mo1-10	1	Strains	soft
+par_strict	CH_69	3	Strains	soft
+par_strict	DE0589	3	Strains	soft
+par_strict	AFS043930	3	Strains	soft
+par_strict	T07030	6	Strains	soft
+par_strict	X023PN	3	Strains	soft
+par_strict	18_421	3	Strains	soft
+par_strict	HuB13-1	3	Strains	soft
+par_strict	Staal7-4	3	Strains	soft
+par_strict	18_614	3	Strains	soft
+par_strict	INTA H4-3	1	Strains	soft
+par_strict	BGSC 4J4	4	Strains	soft
+par_strict	BR37	5	Strains	soft
+par_strict	Hu4-2	6	Strains	soft
+par_strict	wu2G-12	1	Strains	soft
+par_strict	L-7601	3	Strains	soft
+par_strict	S101	1	Strains	soft
+par_strict	V4	3	Strains	soft
+par_strict	4F4	5	Strains	soft
+par_strict	BGSC 4J5	4	Strains	soft
+par_strict	HD5	4	Strains	soft
+par_strict	4F1	5	Strains	soft
+par_strict	BGSC 4AW1	7	Strains	soft
+par_strict	BMB3201	4	Strains	soft
+par_strict	BfR-BA-01356	2	Strains	soft
+par_strict	HD-9	3	Strains	soft
+par_strict	QBL-27	2	Strains	soft
+par_strict	BNS3	3	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	BRI-144	2	Strains	soft
+par_strict	C1Ia148	1	Strains	soft
+par_strict	FB	4	Strains	soft
+par_strict	wu1E-3	1	Strains	soft
+par_strict	4L2	3	Strains	soft
+par_strict	BfR-BA-01393	2	Strains	soft
+par_strict	BfR-BA-01321	1	Strains	soft
+par_strict	you2E-3	1	Strains	soft
+par_strict	E-1B	1	Strains	soft
+par_strict	wu1H-3	1	Strains	soft
+par_strict	CPB012	1	Strains	soft
+par_strict	you2D-3	1	Strains	soft
+par_strict	BT MX9	1	Strains	soft
+par_strict	BT-MX2	1	Strains	soft
+par_strict	SC-51	1	Strains	soft
+par_strict	61	1	Strains	soft
+par_strict	wu2B-6	1	Strains	soft
+par_strict	E-1A	1	Strains	soft
+par_strict	wu2G-11	1	Strains	soft
+par_strict	you2F-3	1	Strains	soft
+par_strict	AB88	1	Strains	soft
+par_strict	wu1E-4	1	Strains	soft
+par_strict	you1D-9	1	Strains	soft
+par_strict	Ly30	2	Strains	soft
+par_strict	S1451	1	Strains	soft
+par_strict	GCA_000193355.1	5	Assemblies	soft
+par_strict	GCA_000341665.1	6	Assemblies	soft
+par_strict	GCA_000387405.2	5	Assemblies	soft
+par_strict	GCA_000468975.2	4	Assemblies	soft
+par_strict	GCA_000688795.1	5	Assemblies	soft
+par_strict	GCA_000710255.1	5	Assemblies	soft
+par_strict	GCA_000717535.1	6	Assemblies	soft
+par_strict	GCA_000747545.1	5	Assemblies	soft
+par_strict	GCA_000803665.1	7	Assemblies	soft
+par_strict	GCA_000835235.1	6	Assemblies	soft
+par_strict	GCA_001017635.1	5	Assemblies	soft
+par_strict	GCA_001548175.1	3	Assemblies	soft
+par_strict	GCA_001880115.1	4	Assemblies	soft
+par_strict	GCA_001880125.1	3	Assemblies	soft
+par_strict	GCA_002147155.1	5	Assemblies	soft
+par_strict	GCA_002147165.1	4	Assemblies	soft
+par_strict	GCA_002147185.1	5	Assemblies	soft
+par_strict	GCA_002147235.1	4	Assemblies	soft
+par_strict	GCA_002147245.1	5	Assemblies	soft
+par_strict	GCA_002147435.1	4	Assemblies	soft
+par_strict	GCA_002147555.1	5	Assemblies	soft
+par_strict	GCA_002147565.1	7	Assemblies	soft
+par_strict	GCA_002147575.1	6	Assemblies	soft
+par_strict	GCA_002147605.1	6	Assemblies	soft
+par_strict	GCA_002147635.1	4	Assemblies	soft
+par_strict	GCA_002147645.1	7	Assemblies	soft
+par_strict	GCA_002147685.1	6	Assemblies	soft
+par_strict	GCA_002147725.1	5	Assemblies	soft
+par_strict	GCA_002236945.1	5	Assemblies	soft
+par_strict	GCA_002268645.2	5	Assemblies	soft
+par_strict	GCA_002555365.1	3	Assemblies	soft
+par_strict	GCA_002572135.1	3	Assemblies	soft
+par_strict	GCA_002574115.1	5	Assemblies	soft
+par_strict	GCA_002581075.1	3	Assemblies	soft
+par_strict	GCA_002589015.1	3	Assemblies	soft
+par_strict	GCA_002589045.1	3	Assemblies	soft
+par_strict	GCA_002893605.1	5	Assemblies	soft
+par_strict	GCA_003312445.1	5	Assemblies	soft
+par_strict	GCA_004167115.1	3	Assemblies	soft
+par_strict	GCA_004330415.1	7	Assemblies	soft
+par_strict	GCA_000468995.3	6	Assemblies	soft
+par_strict	GCA_002025105.1	3	Assemblies	soft
+par_strict	GCA_002146595.1	4	Assemblies	soft
+par_strict	GCA_002147255.1	4	Assemblies	soft
+par_strict	GCA_002147535.1	4	Assemblies	soft
+par_strict	IBL02897	9	Strains	soft
+par_strict	BGSC 4N1	9	Strains	soft
+par_strict	IBL00090	9	Strains	soft
+par_strict	IBL00171	9	Strains	soft
+par_strict	IBL 200	10	Strains	soft
+par_strict	HD12	11	Strains	soft
+par_strict	GR007	10	Strains	soft
+par_strict	G25-97	11	Strains	soft
+par_strict	G25-93	10	Strains	soft
+par_strict	SVBS18-01	3	Strains	soft
+par_strict	FH21	4	Strains	soft
+par_strict	GC-91	6	Strains	soft
+par_strict	G03	5	Strains	soft
+par_strict	CVUAS2492	5	Strains	soft
+par_strict	CH_65	5	Strains	soft
+par_strict	Leapi01	4	Strains	soft
+par_strict	AGES_2_27_S	5	Strains	soft
+par_strict	2122	4	Strains	soft
+par_strict	AGES_6_27_S	6	Strains	soft
+par_strict	CH_748	5	Strains	soft
+par_strict	P01_3	5	Strains	soft
+par_strict	Bt-GS57	5	Strains	soft
+par_strict	CH_733	5	Strains	soft
+par_strict	Staal1-1	5	Strains	soft
+par_strict	B401	6	Strains	soft
+par_strict	CH_72	6	Strains	soft
+par_strict	T07153	6	Strains	soft
+par_strict	BR37	5	Strains	soft
+par_strict	6/27/S	6	Strains	soft
+par_strict	CVUAS9659	5	Strains	soft
+par_strict	ABTS-1857	7	Strains	soft
+par_strict	CH_696	5	Strains	soft
+par_strict	777001-1	5	Strains	soft
+par_strict	Hu4-2	6	Strains	soft
+par_strict	T07183	6	Strains	soft
+par_strict	CH_746	5	Strains	soft
+par_strict	CH_692	5	Strains	soft
+par_strict	I13	6	Strains	soft
+par_strict	kn11	5	Strains	soft
+par_strict	CVUAS9660	5	Strains	soft
+par_strict	27-3	5	Strains	soft
+par_strict	MS12	7	Strains	soft
+par_strict	P01_1	5	Strains	soft
+par_strict	HD133	6	Strains	soft
+par_strict	1126_1	5	Strains	soft
+par_strict	PT18	5	Strains	soft
+par_strict	777001F-1	5	Strains	soft
+par_strict	007983-6	5	Strains	soft
+par_strict	T07005	6	Strains	soft
+par_strict	RIVM BC 934	6	Strains	soft
+par_strict	CH_709	5	Strains	soft
+par_strict	007986-5	6	Strains	soft
+par_strict	777002-3	5	Strains	soft
+par_strict	007989-3	6	Strains	soft
+par_strict	T07148	7	Strains	soft
+par_strict	HD29	10	Strains	soft
+par_strict	BfR-BA-01319	5	Strains	soft
+par_strict	BGSC 4J2	5	Strains	soft
+par_strict	BGSC 4J1	4	Strains	soft
+par_strict	T07030	6	Strains	soft
+par_strict	SP41	3	Strains	soft
+par_strict	HD-68	1	Strains	soft
+par_strict	T07019	7	Strains	soft
+par_strict	HD12	11	Strains	soft
+par_strict	WBT-2	10	Strains	soft
+par_strict	T25	1	Strains	soft
+par_strict	BLB250	1	Strains	soft
+par_strict	QL75-2	1	Strains	soft
+par_strict	GCA_000161715.1	9	Assemblies	soft
+par_strict	GCA_001598095.1	9	Assemblies	soft
+par_strict	GCA_002147315.1	9	Assemblies	soft
+par_strict	GCA_000468975.2	4	Assemblies	soft
+par_strict	GCA_000468995.3	6	Assemblies	soft
+par_strict	GCA_000803665.1	7	Assemblies	soft
+par_strict	GCA_002147155.1	5	Assemblies	soft
+par_strict	GCA_002147165.1	4	Assemblies	soft
+par_strict	GCA_002147185.1	5	Assemblies	soft
+par_strict	GCA_002147555.1	5	Assemblies	soft
+par_strict	GCA_002147575.1	6	Assemblies	soft
+par_strict	GCA_002147605.1	6	Assemblies	soft
+par_strict	GCA_002147645.1	7	Assemblies	soft
+par_strict	GCA_002147685.1	6	Assemblies	soft
+par_strict	GCA_002147725.1	5	Assemblies	soft
+par_strict	GCA_002236945.1	5	Assemblies	soft
+par_strict	GCA_002268645.2	5	Assemblies	soft
+par_strict	GCA_002893605.1	5	Assemblies	soft
+par_strict	GCA_003312445.1	5	Assemblies	soft
+par_strict	GCA_004330415.1	7	Assemblies	soft
+par_strict	GCA_002147565.1	7	Assemblies	soft
+par_strict	GCA_002893565.1	10	Assemblies	soft
+par_strict	KBAB4	1	Strains	soft
+par_strict	NBIN-866	13	Strains	soft
+par_strict	BGSC 4G1	12	Strains	soft
+par_strict	BGSC 4AE1	12	Strains	soft
+par_strict	HD-525	12	Strains	soft
+par_strict	BGSC 4CB1	12	Strains	soft
+par_strict	BGSC 4AO1	6	Strains	soft
+par_strict	4M5	3	Strains	soft
+par_strict	BGSC 4AP1	5	Strains	soft
+par_strict	SC5(D2)	1	Strains	soft
+par_strict	T03C001	1	Strains	soft
+par_strict	BGSN1	1	Strains	soft
+par_strict	GCA_000600315.1	12	Assemblies	soft
+par_strict	GCA_002146315.1	12	Assemblies	soft
+par_strict	GCA_002147105.1	12	Assemblies	soft
+par_strict	GCA_002146405.1	6	Assemblies	soft
+par_strict	GCA_002146425.1	5	Assemblies	soft
+par_strict	GCA_002147085.1	12	Assemblies	soft
+par_strict	GCA_002147375.1	12	Assemblies	soft
+par_strict	ARP174	1	Strains	soft
+par_strict	HS18-1	10	Strains	soft
+par_strict	S2160-1	7	Strains	soft
+par_strict	BN15-6	2	Strains	soft
+par_strict	S2160-1	7	Strains	soft
+par_strict	Ywc2-8	3	Strains	soft
+par_strict	GCA_001182785.1	9	Assemblies	soft
+par_strict	78-2	4	Strains	soft
+par_strict	QZL38	4	Strains	soft
+par_strict	Bt S185	2	Strains	soft
+par_strict	QZL183-2	1	Strains	soft
+par_strict	QZL26	1	Strains	soft
+par_strict	QWH108	1	Strains	soft
+par_strict	Buibui	2	Strains	soft
+par_strict	FB-32	1	Strains	soft
+par_strict	BJH500	1	Strains	soft
+par_strict	HBF-1	1	Strains	soft
+par_strict	GCA_002893515.1	4	Assemblies	soft
+par_strict	GCA_003626955.1	4	Assemblies	soft
+par_strict	CIB 163-131	3	Strains	soft
+par_strict	BtMC28	7	Strains	soft
+par_strict	MC28	8	Strains	soft
+par_strict	GCA_000300475.1	8	Assemblies	soft
+par_strict	IHBB 10380	1	Strains	soft
+par_strict	BtMC28	7	Strains	soft
+par_strict	MC28	8	Strains	soft
+par_strict	BtMC28	7	Strains	soft
+par_strict	MC28	8	Strains	soft
+par_strict	GCA_000300475.1	8	Assemblies	soft
+par_strict	GCA_000300475.1	8	Assemblies	soft
+par_strict	R36	1	Strains	soft
+par_strict	B-JJX	1	Strains	soft
+par_strict	BN23-5	5	Strains	soft
+par_strict	IBL02897	9	Strains	soft
+par_strict	BGSC 4N1	9	Strains	soft
+par_strict	IBL00090	9	Strains	soft
+par_strict	IBL00171	9	Strains	soft
+par_strict	IBL 200	10	Strains	soft
+par_strict	HD12	11	Strains	soft
+par_strict	WBT-2	10	Strains	soft
+par_strict	GR007	10	Strains	soft
+par_strict	G25-97	11	Strains	soft
+par_strict	G25-93	10	Strains	soft
+par_strict	BGSC 4O1	7	Strains	soft
+par_strict	1905	4	Strains	soft
+par_strict	2122	4	Strains	soft
+par_strict	B401	6	Strains	soft
+par_strict	ABTS-1857	7	Strains	soft
+par_strict	MS12	7	Strains	soft
+par_strict	B-Hm-16	2	Strains	soft
+par_strict	HD133	6	Strains	soft
+par_strict	T07148	7	Strains	soft
+par_strict	HD 1i	6	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	KNU-25	5	Strains	soft
+par_strict	4A1	2	Strains	soft
+par_strict	T01001	2	Strains	soft
+par_strict	ATCC 10792	2	Strains	soft
+par_strict	HD-2	2	Strains	soft
+par_strict	4A2	2	Strains	soft
+par_strict	7.1o	4	Strains	soft
+par_strict	T07030	6	Strains	soft
+par_strict	4I5	2	Strains	soft
+par_strict	IBL01677	2	Strains	soft
+par_strict	SSy141-c	2	Strains	soft
+par_strict	Btc005	1	Strains	soft
+par_strict	BfR-BA-01348	1	Strains	soft
+par_strict	FDAARGOS_801	1	Strains	soft
+par_strict	S93	1	Strains	soft
+par_strict	SP-01-41	1	Strains	soft
+par_strict	A-19-31	3	Strains	soft
+par_strict	HD133	6	Strains	soft
+par_strict	BtS2491Ab	1	Strains	soft
+par_strict	L-7601	3	Strains	soft
+par_strict	ARP102	1	Strains	soft
+par_strict	NBIN-866	13	Strains	soft
+par_strict	BGSC 4CB1	12	Strains	soft
+par_strict	GS36	1	Strains	soft
+par_strict	HD-525	12	Strains	soft
+par_strict	BGSC 4AE1	12	Strains	soft
+par_strict	BGSC 4G1	12	Strains	soft
+par_strict	BGSC 4G4	11	Strains	soft
+par_strict	NEAU B-X5	2	Strains	soft
+par_strict	SSy125-c	2	Strains	soft
+par_strict	SSy111-c	2	Strains	soft
+par_strict	K3	2	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	NRD-12	3	Strains	soft
+par_strict	FB	4	Strains	soft
+par_strict	DOR BT-1	1	Strains	soft
+par_strict	SSy126-c	2	Strains	soft
+par_strict	SSy126-c	2	Strains	soft
+par_strict	BtG7	1	Strains	soft
+par_strict	berliner 1715	1	Strains	soft
+par_strict	BGSC 4Q1	3	Strains	soft
+par_strict	IS5056	6	Strains	soft
+par_strict	SY62.1A	1	Strains	soft
+par_strict	IPL7	2	Strains	soft
+par_strict	WB9	2	Strains	soft
+par_strict	X-2	1	Strains	soft
+par_strict	BGSC 4BV1	3	Strains	soft
+par_strict	B.t-235	1	Strains	soft
+par_strict	BRL14	1	Strains	soft
+par_strict	B.t-227	1	Strains	soft
+par_strict	N32-2-2	1	Strains	soft
+par_strict	LS-R-30	1	Strains	soft
+par_strict	AC-11	1	Strains	soft
+par_strict	4A	1	Strains	soft
+par_strict	native Chilean Bt strain	1	Strains	soft
+par_strict	BtC008	1	Strains	soft
+par_strict	IC1	1	Strains	soft
+par_strict	kunthalaRX24	1	Strains	soft
+par_strict	GCA_000161515.1	2	Assemblies	soft
+par_strict	GCA_000161615.1	2	Assemblies	soft
+par_strict	GCA_000710255.1	5	Assemblies	soft
+par_strict	GCA_000717535.1	6	Assemblies	soft
+par_strict	GCA_000835235.1	6	Assemblies	soft
+par_strict	GCA_002119445.1	2	Assemblies	soft
+par_strict	GCA_002147605.1	6	Assemblies	soft
+par_strict	GCA_002147645.1	7	Assemblies	soft
+par_strict	GCA_004330415.1	7	Assemblies	soft
+par_strict	GCA_000161715.1	9	Assemblies	soft
+par_strict	GCA_001598095.1	9	Assemblies	soft
+par_strict	GCA_002147315.1	9	Assemblies	soft
+par_strict	GCA_002147325.1	7	Assemblies	soft
+par_strict	GCA_002893565.1	10	Assemblies	soft
+par_strict	GCA_000341665.1	6	Assemblies	soft
+par_strict	GCA_000600315.1	12	Assemblies	soft
+par_strict	GCA_002147085.1	12	Assemblies	soft
+par_strict	GCA_002025105.1	3	Assemblies	soft
+par_strict	GCA_002146315.1	12	Assemblies	soft
+par_strict	GCA_002147375.1	12	Assemblies	soft
+par_strict	GCA_002147105.1	12	Assemblies	soft
+par_strict	IBL02897	9	Strains	soft
+par_strict	BGSC 4N1	9	Strains	soft
+par_strict	IBL00090	9	Strains	soft
+par_strict	IBL00171	9	Strains	soft
+par_strict	IBL 200	10	Strains	soft
+par_strict	HD12	11	Strains	soft
+par_strict	WBT-2	10	Strains	soft
+par_strict	GR007	10	Strains	soft
+par_strict	G25-97	11	Strains	soft
+par_strict	BGSC 4O1	7	Strains	soft
+par_strict	EG 5847	2	Strains	soft
+par_strict	IBL 200	10	Strains	soft
+par_strict	FH21	4	Strains	soft
+par_strict	WBT-2	10	Strains	soft
+par_strict	GCA_000161715.1	9	Assemblies	soft
+par_strict	GCA_001598095.1	9	Assemblies	soft
+par_strict	GCA_002147315.1	9	Assemblies	soft
+par_strict	GCA_002147325.1	7	Assemblies	soft
+par_strict	GCA_002893565.1	10	Assemblies	soft
+par_strict	XL6	7	Strains	soft
+par_strict	BTy41	6	Strains	soft
+par_strict	S725	1	Strains	soft
+par_strict	Bun1-14	4	Strains	soft
+par_strict	LBIT-107	2	Strains	soft
+par_strict	BN23-5	5	Strains	soft
+par_strict	CMCC P0021	2	Strains	soft
+par_strict	CMCC P0011	2	Strains	soft
+par_strict	14-1	1	Strains	soft
+par_strict	27	4	Strains	soft
+par_strict	GC-91	6	Strains	soft
+par_strict	1905	4	Strains	soft
+par_strict	YBT-1520	5	Strains	soft
+par_strict	BGSC 4X1	4	Strains	soft
+par_strict	T07019	7	Strains	soft
+par_strict	SY27.1	5	Strains	soft
+par_strict	BGSC 4J4	4	Strains	soft
+par_strict	G03	5	Strains	soft
+par_strict	CVUAS2492	5	Strains	soft
+par_strict	CH_65	5	Strains	soft
+par_strict	14-2	3	Strains	soft
+par_strict	Leapi01	4	Strains	soft
+par_strict	AGES_2_27_S	5	Strains	soft
+par_strict	25-6	3	Strains	soft
+par_strict	2122	4	Strains	soft
+par_strict	AGES_6_27_S	6	Strains	soft
+par_strict	CH_748	5	Strains	soft
+par_strict	P01_3	5	Strains	soft
+par_strict	Bt-GS57	5	Strains	soft
+par_strict	CH_733	5	Strains	soft
+par_strict	Staal1-1	5	Strains	soft
+par_strict	B401	6	Strains	soft
+par_strict	CH_72	6	Strains	soft
+par_strict	T07153	6	Strains	soft
+par_strict	26-1	3	Strains	soft
+par_strict	LTS-7	2	Strains	soft
+par_strict	6/27/S	6	Strains	soft
+par_strict	CVUAS9659	5	Strains	soft
+par_strict	20-1	3	Strains	soft
+par_strict	ABTS-1857	7	Strains	soft
+par_strict	CH_696	5	Strains	soft
+par_strict	777001-1	5	Strains	soft
+par_strict	M100	3	Strains	soft
+par_strict	T07183	6	Strains	soft
+par_strict	21-1	3	Strains	soft
+par_strict	CH_746	5	Strains	soft
+par_strict	CH_692	5	Strains	soft
+par_strict	I13	6	Strains	soft
+par_strict	kn11	5	Strains	soft
+par_strict	CVUAS9660	5	Strains	soft
+par_strict	30-1	3	Strains	soft
+par_strict	27-3	5	Strains	soft
+par_strict	MS12	7	Strains	soft
+par_strict	P01_1	5	Strains	soft
+par_strict	HD133	6	Strains	soft
+par_strict	1126_1	5	Strains	soft
+par_strict	PT18	5	Strains	soft
+par_strict	777001F-1	5	Strains	soft
+par_strict	007983-6	5	Strains	soft
+par_strict	T07005	6	Strains	soft
+par_strict	RIVM BC 934	6	Strains	soft
+par_strict	CH_709	5	Strains	soft
+par_strict	007986-5	6	Strains	soft
+par_strict	777002-3	5	Strains	soft
+par_strict	007989-3	6	Strains	soft
+par_strict	T07148	7	Strains	soft
+par_strict	30-4	3	Strains	soft
+par_strict	T07128	4	Strains	soft
+par_strict	HD29	10	Strains	soft
+par_strict	YC-10	5	Strains	soft
+par_strict	G25-96	5	Strains	soft
+par_strict	IBL03111	5	Strains	soft
+par_strict	IBL00503	5	Strains	soft
+par_strict	IBL01259	5	Strains	soft
+par_strict	IBL01313	5	Strains	soft
+par_strict	HD 1i	6	Strains	soft
+par_strict	x023	4	Strains	soft
+par_strict	ABTS-351	5	Strains	soft
+par_strict	BMG1.7	5	Strains	soft
+par_strict	BGSC 4L3	5	Strains	soft
+par_strict	SA11	4	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	BGSC 4C1	2	Strains	soft
+par_strict	IS5056	6	Strains	soft
+par_strict	KNU-25	5	Strains	soft
+par_strict	IBL00197	4	Strains	soft
+par_strict	ZZQ-130	4	Strains	soft
+par_strict	AFS057829	5	Strains	soft
+par_strict	CT-43	5	Strains	soft
+par_strict	IMBL-B9	5	Strains	soft
+par_strict	BfR-BA-01319	5	Strains	soft
+par_strict	BGSC 4J2	5	Strains	soft
+par_strict	T01-328	5	Strains	soft
+par_strict	NA205-3	4	Strains	soft
+par_strict	UFT038	3	Strains	soft
+par_strict	ISP2954	3	Strains	soft
+par_strict	QB15	3	Strains	soft
+par_strict	AFS061780	3	Strains	soft
+par_strict	NT06	3	Strains	soft
+par_strict	4N	3	Strains	soft
+par_strict	AFS031473	3	Strains	soft
+par_strict	AK47	3	Strains	soft
+par_strict	TK1	3	Strains	soft
+par_strict	18_218	3	Strains	soft
+par_strict	TB08	3	Strains	soft
+par_strict	SY49-1	3	Strains	soft
+par_strict	4D2	3	Strains	soft
+par_strict	PT02	3	Strains	soft
+par_strict	Staal2-3	3	Strains	soft
+par_strict	7.1o	4	Strains	soft
+par_strict	BR145	3	Strains	soft
+par_strict	BP865	3	Strains	soft
+par_strict	MOD1_Bc30	3	Strains	soft
+par_strict	AFS034084	3	Strains	soft
+par_strict	CH_722	3	Strains	soft
+par_strict	DBG15	3	Strains	soft
+par_strict	CH_698	3	Strains	soft
+par_strict	AFS004414	3	Strains	soft
+par_strict	DE0161	3	Strains	soft
+par_strict	CH_81	3	Strains	soft
+par_strict	CH_684	3	Strains	soft
+par_strict	BGSC 4J1	4	Strains	soft
+par_strict	AFS018409	3	Strains	soft
+par_strict	4D5	3	Strains	soft
+par_strict	MOD1_Bc235	3	Strains	soft
+par_strict	18_216	3	Strains	soft
+par_strict	MOD1_Bc137	3	Strains	soft
+par_strict	T414	3	Strains	soft
+par_strict	CH_69	3	Strains	soft
+par_strict	DE0589	3	Strains	soft
+par_strict	AFS043930	3	Strains	soft
+par_strict	T07030	6	Strains	soft
+par_strict	X023PN	3	Strains	soft
+par_strict	18_421	3	Strains	soft
+par_strict	HuB13-1	3	Strains	soft
+par_strict	Staal7-4	3	Strains	soft
+par_strict	18_614	3	Strains	soft
+par_strict	SK-793	1	Strains	soft
+par_strict	HD-9	3	Strains	soft
+par_strict	SP41	3	Strains	soft
+par_strict	MOD1_Bc231	2	Strains	soft
+par_strict	BJH406	1	Strains	soft
+par_strict	BTC002	1	Strains	soft
+par_strict	DS415	1	Strains	soft
+par_strict	C2Ab148	1	Strains	soft
+par_strict	BRI-258	1	Strains	soft
+par_strict	BRI-258	1	Strains	soft
+par_strict	C2Ab86	1	Strains	soft
+par_strict	BRI-258	1	Strains	soft
+par_strict	C2Ab118	1	Strains	soft
+par_strict	LSZ9408	2	Strains	soft
+par_strict	NBIN-866	13	Strains	soft
+par_strict	HD-525	12	Strains	soft
+par_strict	BGSC 4G1	12	Strains	soft
+par_strict	BGSC 4G4	11	Strains	soft
+par_strict	AFS098022	2	Strains	soft
+par_strict	4F4	5	Strains	soft
+par_strict	4F1	5	Strains	soft
+par_strict	FB	4	Strains	soft
+par_strict	4L2	3	Strains	soft
+par_strict	4L4	2	Strains	soft
+par_strict	BGSC 4AW1	7	Strains	soft
+par_strict	B-Pr-88	4	Strains	soft
+par_strict	BMB3201	4	Strains	soft
+par_strict	4F3	3	Strains	soft
+par_strict	4L1	3	Strains	soft
+par_strict	HD-525	12	Strains	soft
+par_strict	BGSC 4CB1	12	Strains	soft
+par_strict	BGSC 4AE1	12	Strains	soft
+par_strict	BGSC 4CB1	12	Strains	soft
+par_strict	BGSC 4AE1	12	Strains	soft
+par_strict	BGSC 4CB1	12	Strains	soft
+par_strict	BGSC 4AE1	12	Strains	soft
+par_strict	ly30	4	Strains	soft
+par_strict	BN23-5	5	Strains	soft
+par_strict	NEAU B-X5	2	Strains	soft
+par_strict	CYZ-4	1	Strains	soft
+par_strict	WB2	1	Strains	soft
+par_strict	SSy125-c	2	Strains	soft
+par_strict	SSy111-c	2	Strains	soft
+par_strict	SSy77	2	Strains	soft
+par_strict	2260	1	Strains	soft
+par_strict	HTS-S-38	2	Strains	soft
+par_strict	HD-1	7	Strains	soft
+par_strict	Bts	2	Strains	soft
+par_strict	YY1	1	Strains	soft
+par_strict	PS9-C12	2	Strains	soft
+par_strict	SSy126-c	2	Strains	soft
+par_strict	SSy126-c	2	Strains	soft
+par_strict	MPU B5	3	Strains	soft
+par_strict	lyD	1	Strains	soft
+par_strict	lyL	1	Strains	soft
+par_strict	MnD	1	Strains	soft
+par_strict	WZ-7	1	Strains	soft
+par_strict	SSy60-b	1	Strains	soft
+par_strict	SSy60-b	1	Strains	soft
+par_strict	ywc5-4	2	Strains	soft
+par_strict	SSy141-c	2	Strains	soft
+par_strict	LLB6	2	Strains	soft
+par_strict	CMBL-BT1	2	Strains	soft
+par_strict	GCA_000193355.1	5	Assemblies	soft
+par_strict	GCA_000341665.1	6	Assemblies	soft
+par_strict	GCA_000387405.2	5	Assemblies	soft
+par_strict	GCA_000468975.2	4	Assemblies	soft
+par_strict	GCA_000688795.1	5	Assemblies	soft
+par_strict	GCA_000710255.1	5	Assemblies	soft
+par_strict	GCA_000747545.1	5	Assemblies	soft
+par_strict	GCA_000803665.1	7	Assemblies	soft
+par_strict	GCA_000835235.1	6	Assemblies	soft
+par_strict	GCA_000969665.1	2	Assemblies	soft
+par_strict	GCA_001017635.1	5	Assemblies	soft
+par_strict	GCA_001640965.1	2	Assemblies	soft
+par_strict	GCA_001880115.1	4	Assemblies	soft
+par_strict	GCA_001880125.1	3	Assemblies	soft
+par_strict	GCA_002146845.1	1	Assemblies	soft
+par_strict	GCA_002147155.1	5	Assemblies	soft
+par_strict	GCA_002147165.1	4	Assemblies	soft
+par_strict	GCA_002147185.1	5	Assemblies	soft
+par_strict	GCA_002147235.1	4	Assemblies	soft
+par_strict	GCA_002147245.1	5	Assemblies	soft
+par_strict	GCA_002147435.1	4	Assemblies	soft
+par_strict	GCA_002147555.1	5	Assemblies	soft
+par_strict	GCA_002147565.1	7	Assemblies	soft
+par_strict	GCA_002147575.1	6	Assemblies	soft
+par_strict	GCA_002147605.1	6	Assemblies	soft
+par_strict	GCA_002147635.1	4	Assemblies	soft
+par_strict	GCA_002147645.1	7	Assemblies	soft
+par_strict	GCA_002147685.1	6	Assemblies	soft
+par_strict	GCA_002147725.1	5	Assemblies	soft
+par_strict	GCA_002236945.1	5	Assemblies	soft
+par_strict	GCA_002268645.2	5	Assemblies	soft
+par_strict	GCA_002555365.1	3	Assemblies	soft
+par_strict	GCA_002572135.1	3	Assemblies	soft
+par_strict	GCA_002574115.1	5	Assemblies	soft
+par_strict	GCA_002581075.1	3	Assemblies	soft
+par_strict	GCA_002589015.1	3	Assemblies	soft
+par_strict	GCA_002589045.1	3	Assemblies	soft
+par_strict	GCA_002893605.1	5	Assemblies	soft
+par_strict	GCA_003312445.1	5	Assemblies	soft
+par_strict	GCA_004167115.1	3	Assemblies	soft
+par_strict	GCA_004330415.1	7	Assemblies	soft
+par_strict	GCA_000600315.1	12	Assemblies	soft
+par_strict	GCA_002146595.1	4	Assemblies	soft
+par_strict	GCA_002147105.1	12	Assemblies	soft
+par_strict	GCA_002147375.1	12	Assemblies	soft
+par_strict	GCA_000717535.1	6	Assemblies	soft
+par_strict	GCA_002146315.1	12	Assemblies	soft
+par_strict	GCA_002147085.1	12	Assemblies	soft
+par_strict	GCA_002146315.1	12	Assemblies	soft
+par_strict	GCA_002147085.1	12	Assemblies	soft
+par_strict	GCA_002147375.1	12	Assemblies	soft
+par_strict	S2096-2	1	Strains	soft
+par_strict	BGSC 4U1	5	Strains	soft
+par_strict	NRRL B-18679	2	Strains	soft
+par_strict	G25-46	2	Strains	soft
+par_strict	NRRL B-18679	2	Strains	soft
+par_strict	C15	5	Strains	soft
+par_strict	G25-47	1	Strains	soft
+par_strict	LBIT-107	2	Strains	soft
+par_strict	PS167P	1	Strains	soft
+par_strict	GCA_003991175.1	5	Assemblies	soft
+par_strict	ARP242	1	Strains	soft
+par_strict	PS81A2	1	Strains	soft
+par_strict	AFS005140	8	Strains	soft
+par_strict	AFS013213	8	Strains	soft
+par_strict	AFS088016	8	Strains	soft
+par_strict	AFS059039	8	Strains	soft
+par_strict	AFS030866	7	Strains	soft
+par_strict	GCA_002558015.1	7	Assemblies	soft
+par_strict	GCA_002558525.1	7	Assemblies	soft
+par_strict	GCA_002564505.1	7	Assemblies	soft
+par_strict	GCA_002571305.1	7	Assemblies	soft
+par_strict	GCA_002586085.1	5	Assemblies	soft
+par_strict	SWK1	1	Strains	soft
+par_strict	Bun1-14	4	Strains	soft
+par_strict	ARP166	1	Strains	soft
+par_strict	BTH-13	1	Strains	soft
+par_strict	DP1019	2	Strains	soft
+par_strict	HS18-1	10	Strains	soft
+par_strict	HS18-1	10	Strains	soft
+par_strict	pms45-2	1	Strains	soft
+par_strict	GCA_001182785.1	9	Assemblies	soft
+par_strict	EG5092	1	Strains	soft
+par_strict	HD12	11	Strains	soft
+par_strict	G25-97	11	Strains	soft
+par_strict	BGSC 4O1	7	Strains	soft
+par_strict	WBT-2	10	Strains	soft
+par_strict	GR007	10	Strains	soft
+par_strict	G25-93	10	Strains	soft
+par_strict	FDAARGOS_800	2	Strains	soft
+par_strict	HD 600	2	Strains	soft
+par_strict	WBT-2	10	Strains	soft
+par_strict	G25-93	10	Strains	soft
+par_strict	FDAARGOS_800	2	Strains	soft
+par_strict	HD 600	2	Strains	soft
+par_strict	morrisoni BF190	2	Strains	soft
+par_strict	morrisoni BF190	2	Strains	soft
+par_strict	GCA_000833655.1	2	Assemblies	soft
+par_strict	GCA_002147325.1	7	Assemblies	soft
+par_strict	GCA_002893565.1	10	Assemblies	soft
+par_strict	ARP256	1	Strains	soft
+par_strict	kunthalaRX27	1	Strains	soft
+par_strict	G25-44	3	Strains	soft
+par_strict	MYBT18246	3	Strains	soft
+par_strict	GCA_001685565.1	3	Assemblies	soft
+par_strict	96-OK-85-24	3	Strains	soft
+par_strict	jegathesan 367	5	Strains	soft
+par_all	11-76	1	Strains	strict
+par_all	27	4	Strains	soft
+par_all	NBIN-866	13	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4G1	12	Strains	soft
+par_all	BGSC 4G4	11	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	4G3	5	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	4G2	6	Strains	soft
+par_all	11-76	1	Strains	soft
+par_all	GCA_000600315.1	12	Assemblies	soft
+par_all	GCA_002146315.1	12	Assemblies	soft
+par_all	GCA_002147085.1	12	Assemblies	soft
+par_all	GCA_002147105.1	12	Assemblies	soft
+par_all	GCA_002147375.1	12	Assemblies	soft
+par_all	BGSC 4BS1	1	Strains	strict
+par_all	GCA_002148015.1	1	Assemblies	strict
+par_all	BGSC 4BS1	1	Strains	soft
+par_all	GCA_002148015.1	1	Assemblies	soft
+par_all	B-Pr-88	4	Strains	strict
+par_all	NBIN-866	13	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4G1	12	Strains	soft
+par_all	BGSC 4G4	11	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	4G2	6	Strains	soft
+par_all	B-Pr-88	4	Strains	soft
+par_all	GCA_000600315.1	12	Assemblies	soft
+par_all	GCA_002146315.1	12	Assemblies	soft
+par_all	GCA_002147085.1	12	Assemblies	soft
+par_all	GCA_002147105.1	12	Assemblies	soft
+par_all	GCA_002147375.1	12	Assemblies	soft
+par_all	BUPM109	1	Strains	strict
+par_all	BUPM109	1	Strains	soft
+par_all	AFS005140	8	Strains	soft
+par_all	AFS013213	8	Strains	soft
+par_all	AFS088016	8	Strains	soft
+par_all	AFS059039	8	Strains	soft
+par_all	AFS030866	7	Strains	soft
+par_all	GCA_002558015.1	7	Assemblies	soft
+par_all	GCA_002558525.1	7	Assemblies	soft
+par_all	GCA_002564505.1	7	Assemblies	soft
+par_all	GCA_002571305.1	7	Assemblies	soft
+par_all	GCA_002586085.1	5	Assemblies	soft
+par_all	AFS034708	3	Strains	strict
+par_all	GCA_002584205.1	3	Assemblies	strict
+par_all	AFS034708	3	Strains	soft
+par_all	GCA_002584205.1	3	Assemblies	soft
+par_all	S6	2	Strains	soft
+par_all	LY-99	1	Strains	soft
+par_all	BT8	1	Strains	soft
+par_all	AFS005140	8	Strains	soft
+par_all	AFS013213	8	Strains	soft
+par_all	AFS088016	8	Strains	soft
+par_all	AFS059039	8	Strains	soft
+par_all	AFS030866	7	Strains	soft
+par_all	GCA_002558015.1	7	Assemblies	soft
+par_all	GCA_002558525.1	7	Assemblies	soft
+par_all	GCA_002564505.1	7	Assemblies	soft
+par_all	GCA_002571305.1	7	Assemblies	soft
+par_all	GCA_002586085.1	5	Assemblies	soft
+par_all	EG4961	1	Strains	strict
+par_all	EG5144	1	Strains	strict
+par_all	EG4961	1	Strains	soft
+par_all	EG5144	1	Strains	soft
+par_all	ARP218	1	Strains	strict
+par_all	ARP218	1	Strains	soft
+par_all	ST7	2	Strains	soft
+par_all	ARP009	1	Strains	strict
+par_all	BRC-ZYR2	1	Strains	strict
+par_all	BGSC 4AT1	4	Strains	soft
+par_all	BGSC 4AR1	4	Strains	soft
+par_all	BGSC 4AO1	6	Strains	soft
+par_all	4M5	3	Strains	soft
+par_all	BGSC 4AP1	5	Strains	soft
+par_all	ARP009	1	Strains	soft
+par_all	ATX 13026	11	Strains	soft
+par_all	T03B001	5	Strains	soft
+par_all	BRC-ZYR2	1	Strains	soft
+par_all	GCA_002146405.1	6	Assemblies	soft
+par_all	GCA_002146425.1	5	Assemblies	soft
+par_all	GCA_002146445.1	4	Assemblies	soft
+par_all	GCA_002146545.1	4	Assemblies	soft
+par_all	btsu4	3	Strains	soft
+par_all	Bt185	4	Strains	soft
+par_all	jegathesan 367	5	Strains	soft
+par_all	LBIT-980	1	Strains	strict
+par_all	LBIT-980	1	Strains	soft
+par_all	BGSC 4U1	5	Strains	soft
+par_all	BGSC 4BC1	2	Strains	soft
+par_all	SCG04-02	2	Strains	soft
+par_all	BGSC 4BG1	2	Strains	soft
+par_all	BGSC 4BB1	2	Strains	soft
+par_all	BGSC 4AL1	2	Strains	soft
+par_all	BGSC 4BT1	2	Strains	soft
+par_all	GCA_002146505.1	2	Assemblies	soft
+par_all	GCA_002146605.1	2	Assemblies	soft
+par_all	GCA_002146655.1	2	Assemblies	soft
+par_all	GCA_002146815.1	2	Assemblies	soft
+par_all	GCA_002147025.1	2	Assemblies	soft
+par_all	GCA_002173755.1	2	Assemblies	soft
+par_all	14	1	Strains	strict
+par_all	FY-2	1	Strains	strict
+par_all	QCL-1	1	Strains	strict
+par_all	WB9	2	Strains	strict
+par_all	SBSBT-1	1	Strains	strict
+par_all	shanghai 1 (S-1)	1	Strains	strict
+par_all	67-3	1	Strains	strict
+par_all	LLB6	2	Strains	strict
+par_all	CMBL-BT3	1	Strains	strict
+par_all	NRRL B-21944	1	Strains	strict
+par_all	CMBL-BT1	2	Strains	strict
+par_all	NEAU 161	1	Strains	strict
+par_all	NBIN-866	13	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4G1	12	Strains	soft
+par_all	BGSC 4G4	11	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	4G3	5	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	4G2	6	Strains	soft
+par_all	14	1	Strains	soft
+par_all	FY-2	1	Strains	soft
+par_all	HD29	10	Strains	soft
+par_all	QCL-1	1	Strains	soft
+par_all	WB9	2	Strains	soft
+par_all	SBSBT-1	1	Strains	soft
+par_all	shanghai 1 (S-1)	1	Strains	soft
+par_all	67-3	1	Strains	soft
+par_all	LLB6	2	Strains	soft
+par_all	CMBL-BT3	1	Strains	soft
+par_all	NRRL B-21944	1	Strains	soft
+par_all	CMBL-BT1	2	Strains	soft
+par_all	CMBL-BT2	2	Strains	soft
+par_all	NEAU 161	1	Strains	soft
+par_all	GCA_000600315.1	12	Assemblies	soft
+par_all	GCA_002146315.1	12	Assemblies	soft
+par_all	GCA_002147085.1	12	Assemblies	soft
+par_all	GCA_002147105.1	12	Assemblies	soft
+par_all	GCA_002147375.1	12	Assemblies	soft
+par_all	DP7-F11	1	Strains	soft
+par_all	AFS081174	1	Strains	strict
+par_all	AFS081381	1	Strains	strict
+par_all	AFS083298	1	Strains	strict
+par_all	AFS017221	1	Strains	strict
+par_all	AFS045461	1	Strains	strict
+par_all	AFS083176	1	Strains	strict
+par_all	AFS001368	1	Strains	strict
+par_all	ARP277	1	Strains	strict
+par_all	AFS074325	1	Strains	strict
+par_all	AFS057443	1	Strains	strict
+par_all	AFS081174	1	Strains	soft
+par_all	AFS081381	1	Strains	soft
+par_all	AFS083298	1	Strains	soft
+par_all	AFS017221	1	Strains	soft
+par_all	AFS045461	1	Strains	soft
+par_all	AFS083176	1	Strains	soft
+par_all	AFS001368	1	Strains	soft
+par_all	ARP277	1	Strains	soft
+par_all	AFS074325	1	Strains	soft
+par_all	AFS057443	1	Strains	soft
+par_all	A1462	3	Strains	soft
+par_all	HS18-1	10	Strains	soft
+par_all	HS18-1	10	Strains	soft
+par_all	S2160-1	7	Strains	soft
+par_all	G7-1	2	Strains	soft
+par_all	GCA_001182785.1	9	Assemblies	soft
+par_all	Bt roskildiensis	1	Strains	strict
+par_all	Bt roskildiensis	1	Strains	soft
+par_all	FCC41	5	Strains	soft
+par_all	B-Pr-88	4	Strains	strict
+par_all	NBIN-866	13	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4G1	12	Strains	soft
+par_all	BGSC 4G4	11	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	B-Pr-88	4	Strains	soft
+par_all	GCA_000600315.1	12	Assemblies	soft
+par_all	GCA_002146315.1	12	Assemblies	soft
+par_all	GCA_002147375.1	12	Assemblies	soft
+par_all	GCA_002147085.1	12	Assemblies	soft
+par_all	GCA_002147105.1	12	Assemblies	soft
+par_all	HS18-1	10	Strains	soft
+par_all	HS18-1	10	Strains	soft
+par_all	S2160-1	7	Strains	soft
+par_all	HS18-1	10	Strains	soft
+par_all	S2160-1	7	Strains	soft
+par_all	GCA_001182785.1	9	Assemblies	soft
+par_all	kunthalaRX28	1	Strains	strict
+par_all	kunthalaRX28	1	Strains	soft
+par_all	BLB32	1	Strains	strict
+par_all	BLB32	1	Strains	soft
+par_all	92-KU-149-8	1	Strains	strict
+par_all	92-KU-149-8	1	Strains	soft
+par_all	IBL02897	9	Strains	soft
+par_all	BGSC 4N1	9	Strains	soft
+par_all	IBL00090	9	Strains	soft
+par_all	IBL00171	9	Strains	soft
+par_all	IBL 200	10	Strains	soft
+par_all	HD12	11	Strains	soft
+par_all	WBT-2	10	Strains	soft
+par_all	GR007	10	Strains	soft
+par_all	G25-97	11	Strains	soft
+par_all	G25-93	10	Strains	soft
+par_all	BR30	2	Strains	soft
+par_all	FH21	4	Strains	soft
+par_all	GCA_000161715.1	9	Assemblies	soft
+par_all	GCA_001598095.1	9	Assemblies	soft
+par_all	GCA_002147315.1	9	Assemblies	soft
+par_all	GCA_002893565.1	10	Assemblies	soft
+par_all	IBL02897	9	Strains	soft
+par_all	BGSC 4N1	9	Strains	soft
+par_all	IBL00090	9	Strains	soft
+par_all	IBL00171	9	Strains	soft
+par_all	IBL 200	10	Strains	soft
+par_all	HD12	11	Strains	soft
+par_all	WBT-2	10	Strains	soft
+par_all	GR007	10	Strains	soft
+par_all	G25-97	11	Strains	soft
+par_all	G25-93	10	Strains	soft
+par_all	FH21	4	Strains	soft
+par_all	EG 5847	2	Strains	soft
+par_all	AFS015413	2	Strains	soft
+par_all	GCA_000161715.1	9	Assemblies	soft
+par_all	GCA_001598095.1	9	Assemblies	soft
+par_all	GCA_002147315.1	9	Assemblies	soft
+par_all	GCA_002893565.1	10	Assemblies	soft
+par_all	GCA_002561465.1	2	Assemblies	soft
+par_all	BtMC28	7	Strains	soft
+par_all	MC28	8	Strains	soft
+par_all	GCA_000300475.1	8	Assemblies	soft
+par_all	C18	1	Strains	soft
+par_all	BfR-BA-01356	2	Strains	strict
+par_all	4I5	2	Strains	strict
+par_all	HER1410	1	Strains	strict
+par_all	IBL01677	2	Strains	strict
+par_all	HD-110	2	Strains	strict
+par_all	B13	1	Strains	strict
+par_all	HD-9	3	Strains	strict
+par_all	IS5056	6	Strains	strict
+par_all	IBL00197	4	Strains	strict
+par_all	AFS057829	5	Strains	strict
+par_all	CT-43	5	Strains	strict
+par_all	BfR-BA-01317	1	Strains	strict
+par_all	BGSC 4A4	1	Strains	strict
+par_all	4D3	1	Strains	strict
+par_all	4A1	2	Strains	strict
+par_all	T01001	2	Strains	strict
+par_all	S601	1	Strains	strict
+par_all	NA205-3	4	Strains	strict
+par_all	G25-85	1	Strains	strict
+par_all	G25-76	1	Strains	strict
+par_all	601	1	Strains	strict
+par_all	ATCC 10792	2	Strains	strict
+par_all	sfw-12	1	Strains	strict
+par_all	HD-2	2	Strains	strict
+par_all	BfR-BA-01312	1	Strains	strict
+par_all	4A2	2	Strains	strict
+par_all	T01-328	5	Strains	strict
+par_all	S601	1	Strains	strict
+par_all	ATCC 10792	2	Strains	strict
+par_all	N17-37	1	Strains	strict
+par_all	UV17	1	Strains	strict
+par_all	S907	1	Strains	strict
+par_all	GCA_000161515.1	2	Assemblies	strict
+par_all	GCA_000161615.1	2	Assemblies	strict
+par_all	GCA_000193355.1	5	Assemblies	strict
+par_all	GCA_000341665.1	6	Assemblies	strict
+par_all	GCA_002119445.1	2	Assemblies	strict
+par_all	GCA_002146335.1	1	Assemblies	strict
+par_all	GCA_002574115.1	5	Assemblies	strict
+par_all	GCA_000387405.2	5	Assemblies	strict
+par_all	GCA_002146945.1	1	Assemblies	strict
+par_all	GCA_002243685.1	1	Assemblies	strict
+par_all	BfR-BA-01356	2	Strains	soft
+par_all	4I5	2	Strains	soft
+par_all	HER1410	1	Strains	soft
+par_all	IBL01677	2	Strains	soft
+par_all	HD-110	2	Strains	soft
+par_all	B13	1	Strains	soft
+par_all	HD-9	3	Strains	soft
+par_all	IS5056	6	Strains	soft
+par_all	IBL00197	4	Strains	soft
+par_all	AFS057829	5	Strains	soft
+par_all	CT-43	5	Strains	soft
+par_all	BfR-BA-01317	1	Strains	soft
+par_all	BGSC 4A4	1	Strains	soft
+par_all	4D3	1	Strains	soft
+par_all	4A1	2	Strains	soft
+par_all	T01001	2	Strains	soft
+par_all	S601	1	Strains	soft
+par_all	NA205-3	4	Strains	soft
+par_all	G25-85	1	Strains	soft
+par_all	G25-76	1	Strains	soft
+par_all	601	1	Strains	soft
+par_all	ATCC 10792	2	Strains	soft
+par_all	sfw-12	1	Strains	soft
+par_all	HD-2	2	Strains	soft
+par_all	BfR-BA-01312	1	Strains	soft
+par_all	4A2	2	Strains	soft
+par_all	T01-328	5	Strains	soft
+par_all	S601	1	Strains	soft
+par_all	ATCC 10792	2	Strains	soft
+par_all	N17-37	1	Strains	soft
+par_all	UV17	1	Strains	soft
+par_all	S907	1	Strains	soft
+par_all	GCA_000161515.1	2	Assemblies	soft
+par_all	GCA_000161615.1	2	Assemblies	soft
+par_all	GCA_000193355.1	5	Assemblies	soft
+par_all	GCA_000341665.1	6	Assemblies	soft
+par_all	GCA_002119445.1	2	Assemblies	soft
+par_all	GCA_002146335.1	1	Assemblies	soft
+par_all	GCA_002574115.1	5	Assemblies	soft
+par_all	GCA_000387405.2	5	Assemblies	soft
+par_all	GCA_002146945.1	1	Assemblies	soft
+par_all	GCA_002243685.1	1	Assemblies	soft
+par_all	Gnyt1	4	Strains	soft
+par_all	NB18	1	Strains	strict
+par_all	ly30	4	Strains	strict
+par_all	MPU B5	3	Strains	strict
+par_all	IS5056	6	Strains	strict
+par_all	KNU-25	5	Strains	strict
+par_all	IBL00197	4	Strains	strict
+par_all	ZZQ-130	4	Strains	strict
+par_all	AFS057829	5	Strains	strict
+par_all	CT-43	5	Strains	strict
+par_all	IPL7	2	Strains	strict
+par_all	BfR-BA-01319	5	Strains	strict
+par_all	BGSC 4J2	5	Strains	strict
+par_all	FU-2-7	1	Strains	strict
+par_all	PS9-D12	1	Strains	strict
+par_all	HD-1-02	1	Strains	strict
+par_all	HTS-S-38	2	Strains	strict
+par_all	BNS3	3	Strains	strict
+par_all	x023	4	Strains	strict
+par_all	PS9-E2	1	Strains	strict
+par_all	D1	1	Strains	strict
+par_all	SA11	4	Strains	strict
+par_all	PS9-C12	2	Strains	strict
+par_all	C12	1	Strains	strict
+par_all	T01-328	5	Strains	strict
+par_all	LS-R-21	1	Strains	strict
+par_all	NAIMCC-B-00167	1	Strains	strict
+par_all	T07030	6	Strains	strict
+par_all	DL	1	Strains	strict
+par_all	LTS-209	1	Strains	strict
+par_all	SK-798	1	Strains	strict
+par_all	Lip	1	Strains	strict
+par_all	BGSC 4E3	1	Strains	strict
+par_all	T04001	1	Strains	strict
+par_all	JSc1	1	Strains	strict
+par_all	HD-771	1	Strains	strict
+par_all	T84A1	1	Strains	strict
+par_all	pMP36	1	Strains	strict
+par_all	GCA_000161535.1	1	Assemblies	strict
+par_all	GCA_000292455.1	1	Assemblies	strict
+par_all	GCA_000193355.1	5	Assemblies	strict
+par_all	GCA_000341665.1	6	Assemblies	strict
+par_all	GCA_002147155.1	5	Assemblies	strict
+par_all	GCA_002574115.1	5	Assemblies	strict
+par_all	GCA_000387405.2	5	Assemblies	strict
+par_all	GCA_002147605.1	6	Assemblies	strict
+par_all	NB18	1	Strains	soft
+par_all	YBT-1520	5	Strains	soft
+par_all	BGSC 4X1	4	Strains	soft
+par_all	T07019	7	Strains	soft
+par_all	SY27.1	5	Strains	soft
+par_all	BGSC 4J4	4	Strains	soft
+par_all	AGES_6_27_S	6	Strains	soft
+par_all	CH_72	6	Strains	soft
+par_all	T07153	6	Strains	soft
+par_all	6/27/S	6	Strains	soft
+par_all	ABTS-1857	7	Strains	soft
+par_all	T07005	6	Strains	soft
+par_all	RIVM BC 934	6	Strains	soft
+par_all	007986-5	6	Strains	soft
+par_all	007989-3	6	Strains	soft
+par_all	T07128	4	Strains	soft
+par_all	ly30	4	Strains	soft
+par_all	HD29	10	Strains	soft
+par_all	MPU B5	3	Strains	soft
+par_all	IS5056	6	Strains	soft
+par_all	KNU-25	5	Strains	soft
+par_all	IBL00197	4	Strains	soft
+par_all	ZZQ-130	4	Strains	soft
+par_all	AFS057829	5	Strains	soft
+par_all	CT-43	5	Strains	soft
+par_all	IMBL-B9	5	Strains	soft
+par_all	IPL7	2	Strains	soft
+par_all	BfR-BA-01319	5	Strains	soft
+par_all	BGSC 4J2	5	Strains	soft
+par_all	A-19-31	3	Strains	soft
+par_all	NRD-12	3	Strains	soft
+par_all	FU-2-7	1	Strains	soft
+par_all	Hu4-2	6	Strains	soft
+par_all	T07183	6	Strains	soft
+par_all	I13	6	Strains	soft
+par_all	MS12	7	Strains	soft
+par_all	T07148	7	Strains	soft
+par_all	PS9-D12	1	Strains	soft
+par_all	HD-1-02	1	Strains	soft
+par_all	HTS-S-38	2	Strains	soft
+par_all	YC-10	5	Strains	soft
+par_all	G25-96	5	Strains	soft
+par_all	IBL03111	5	Strains	soft
+par_all	IBL00503	5	Strains	soft
+par_all	IBL01259	5	Strains	soft
+par_all	IBL01313	5	Strains	soft
+par_all	BNS3	3	Strains	soft
+par_all	HD 1i	6	Strains	soft
+par_all	x023	4	Strains	soft
+par_all	PS9-E2	1	Strains	soft
+par_all	ABTS-351	5	Strains	soft
+par_all	BMG1.7	5	Strains	soft
+par_all	BGSC 4L3	5	Strains	soft
+par_all	D1	1	Strains	soft
+par_all	SA11	4	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	PS9-C12	2	Strains	soft
+par_all	C12	1	Strains	soft
+par_all	INTA Mo1-12	2	Strains	soft
+par_all	T01-328	5	Strains	soft
+par_all	LS-R-21	1	Strains	soft
+par_all	NAIMCC-B-00167	1	Strains	soft
+par_all	T07030	6	Strains	soft
+par_all	BLB1	2	Strains	soft
+par_all	DL	1	Strains	soft
+par_all	LTS-209	1	Strains	soft
+par_all	SK-798	1	Strains	soft
+par_all	Lip	1	Strains	soft
+par_all	BGSC 4E3	1	Strains	soft
+par_all	T04001	1	Strains	soft
+par_all	JSc1	1	Strains	soft
+par_all	HD-771	1	Strains	soft
+par_all	T84A1	1	Strains	soft
+par_all	pMP36	1	Strains	soft
+par_all	GCA_000161535.1	1	Assemblies	soft
+par_all	GCA_000292455.1	1	Assemblies	soft
+par_all	GCA_000193355.1	5	Assemblies	soft
+par_all	GCA_000341665.1	6	Assemblies	soft
+par_all	GCA_000688795.1	5	Assemblies	soft
+par_all	GCA_000747545.1	5	Assemblies	soft
+par_all	GCA_000803665.1	7	Assemblies	soft
+par_all	GCA_002147155.1	5	Assemblies	soft
+par_all	GCA_002147235.1	4	Assemblies	soft
+par_all	GCA_002147435.1	4	Assemblies	soft
+par_all	GCA_002147565.1	7	Assemblies	soft
+par_all	GCA_002147575.1	6	Assemblies	soft
+par_all	GCA_002147635.1	4	Assemblies	soft
+par_all	GCA_002147685.1	6	Assemblies	soft
+par_all	GCA_002574115.1	5	Assemblies	soft
+par_all	GCA_000387405.2	5	Assemblies	soft
+par_all	GCA_000468995.3	6	Assemblies	soft
+par_all	GCA_000717535.1	6	Assemblies	soft
+par_all	GCA_000835235.1	6	Assemblies	soft
+par_all	GCA_001017635.1	5	Assemblies	soft
+par_all	GCA_002147245.1	5	Assemblies	soft
+par_all	GCA_002147605.1	6	Assemblies	soft
+par_all	GCA_002147645.1	7	Assemblies	soft
+par_all	GCA_004330415.1	7	Assemblies	soft
+par_all	SK700	3	Strains	soft
+par_all	AFS005140	8	Strains	soft
+par_all	AFS013213	8	Strains	soft
+par_all	AFS088016	8	Strains	soft
+par_all	AFS059039	8	Strains	soft
+par_all	GCA_002558015.1	7	Assemblies	soft
+par_all	GCA_002558525.1	7	Assemblies	soft
+par_all	GCA_002564505.1	7	Assemblies	soft
+par_all	GCA_002571305.1	7	Assemblies	soft
+par_all	ST8	3	Strains	soft
+par_all	INTA Fr7-4	3	Strains	soft
+par_all	BGSC 4BF1	3	Strains	soft
+par_all	GCA_001968805.1	3	Assemblies	soft
+par_all	GCA_002147055.1	3	Assemblies	soft
+par_all	ARP021	1	Strains	strict
+par_all	ATXl 5723	1	Strains	strict
+par_all	ARP021	1	Strains	soft
+par_all	PS184M1	2	Strains	soft
+par_all	ATXl 5723	1	Strains	soft
+par_all	BtI109P	1	Strains	strict
+par_all	BtI109P	1	Strains	soft
+par_all	B-Pr-88	4	Strains	strict
+par_all	INA67	1	Strains	strict
+par_all	INA67	1	Strains	strict
+par_all	Bt87	2	Strains	strict
+par_all	Bt012	1	Strains	strict
+par_all	HD12	11	Strains	soft
+par_all	GR007	10	Strains	soft
+par_all	G25-97	11	Strains	soft
+par_all	G25-93	10	Strains	soft
+par_all	BGSC 4O1	7	Strains	soft
+par_all	WBT-2	10	Strains	soft
+par_all	NBIN-866	13	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4G1	12	Strains	soft
+par_all	BGSC 4G4	11	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	4G3	5	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	4G2	6	Strains	soft
+par_all	B-Pr-88	4	Strains	soft
+par_all	INA67	1	Strains	soft
+par_all	INA67	1	Strains	soft
+par_all	Bt87	2	Strains	soft
+par_all	Bt012	1	Strains	soft
+par_all	GCA_000600315.1	12	Assemblies	soft
+par_all	GCA_002146315.1	12	Assemblies	soft
+par_all	GCA_002147085.1	12	Assemblies	soft
+par_all	GCA_002147105.1	12	Assemblies	soft
+par_all	GCA_002147375.1	12	Assemblies	soft
+par_all	GCA_001598095.1	9	Assemblies	soft
+par_all	GCA_002147325.1	7	Assemblies	soft
+par_all	GCA_002893565.1	10	Assemblies	soft
+par_all	ly30	4	Strains	strict
+par_all	x023	4	Strains	strict
+par_all	SA11	4	Strains	strict
+par_all	IS5056	6	Strains	strict
+par_all	KNU-25	5	Strains	strict
+par_all	ZZQ-130	4	Strains	strict
+par_all	AFS057829	5	Strains	strict
+par_all	CT-43	5	Strains	strict
+par_all	T01-328	5	Strains	strict
+par_all	NA205-3	4	Strains	strict
+par_all	4L1	3	Strains	strict
+par_all	UFT038	3	Strains	strict
+par_all	ISP2954	3	Strains	strict
+par_all	QB15	3	Strains	strict
+par_all	AFS061780	3	Strains	strict
+par_all	NT06	3	Strains	strict
+par_all	4N	3	Strains	strict
+par_all	AFS031473	3	Strains	strict
+par_all	AK47	3	Strains	strict
+par_all	TK1	3	Strains	strict
+par_all	18_218	3	Strains	strict
+par_all	TB08	3	Strains	strict
+par_all	SY49-1	3	Strains	strict
+par_all	4D2	3	Strains	strict
+par_all	PT02	3	Strains	strict
+par_all	Staal2-3	3	Strains	strict
+par_all	7.1o	4	Strains	strict
+par_all	BR145	3	Strains	strict
+par_all	BP865	3	Strains	strict
+par_all	MOD1_Bc30	3	Strains	strict
+par_all	AFS034084	3	Strains	strict
+par_all	CH_722	3	Strains	strict
+par_all	DBG15	3	Strains	strict
+par_all	CH_698	3	Strains	strict
+par_all	AFS004414	3	Strains	strict
+par_all	DE0161	3	Strains	strict
+par_all	CH_81	3	Strains	strict
+par_all	CH_684	3	Strains	strict
+par_all	AFS018409	3	Strains	strict
+par_all	4D5	3	Strains	strict
+par_all	MOD1_Bc235	3	Strains	strict
+par_all	18_216	3	Strains	strict
+par_all	MOD1_Bc137	3	Strains	strict
+par_all	T414	3	Strains	strict
+par_all	CH_69	3	Strains	strict
+par_all	DE0589	3	Strains	strict
+par_all	AFS043930	3	Strains	strict
+par_all	X023PN	3	Strains	strict
+par_all	18_421	3	Strains	strict
+par_all	HuB13-1	3	Strains	strict
+par_all	Staal7-4	3	Strains	strict
+par_all	18_614	3	Strains	strict
+par_all	261-1	1	Strains	strict
+par_all	22-4	1	Strains	strict
+par_all	T536	1	Strains	strict
+par_all	BRL34	1	Strains	strict
+par_all	T527	1	Strains	strict
+par_all	T32	1	Strains	strict
+par_all	T405	1	Strains	strict
+par_all	T532	1	Strains	strict
+par_all	MOD1_Bc231	2	Strains	strict
+par_all	SL39	1	Strains	strict
+par_all	SSy77	2	Strains	strict
+par_all	BNS3	3	Strains	strict
+par_all	Rpp39	1	Strains	strict
+par_all	MSS8.4	1	Strains	strict
+par_all	YZ71	1	Strains	strict
+par_all	4L2	3	Strains	strict
+par_all	Dongbei 66	1	Strains	strict
+par_all	4L4	2	Strains	strict
+par_all	MEB4	1	Strains	strict
+par_all	LS5115-3	1	Strains	strict
+par_all	Kenyae 4a4c	1	Strains	strict
+par_all	SY49-1	3	Strains	strict
+par_all	HD-550	1	Strains	strict
+par_all	T543	1	Strains	strict
+par_all	CY29	1	Strains	strict
+par_all	SKW01-10.2-06	1	Strains	strict
+par_all	NRRL B-21943	1	Strains	strict
+par_all	GCA_000193355.1	5	Assemblies	strict
+par_all	GCA_000341665.1	6	Assemblies	strict
+par_all	GCA_000387405.2	5	Assemblies	strict
+par_all	GCA_000710255.1	5	Assemblies	strict
+par_all	GCA_001880125.1	3	Assemblies	strict
+par_all	GCA_002555365.1	3	Assemblies	strict
+par_all	GCA_002572135.1	3	Assemblies	strict
+par_all	GCA_002574115.1	5	Assemblies	strict
+par_all	GCA_002581075.1	3	Assemblies	strict
+par_all	GCA_002589015.1	3	Assemblies	strict
+par_all	GCA_002589045.1	3	Assemblies	strict
+par_all	GCA_002893525.1	1	Assemblies	strict
+par_all	GCA_004167115.1	3	Assemblies	strict
+par_all	YBT-1520	5	Strains	soft
+par_all	SY27.1	5	Strains	soft
+par_all	ly30	4	Strains	soft
+par_all	LBIT-418	2	Strains	soft
+par_all	4F4	5	Strains	soft
+par_all	BGSC 4J5	4	Strains	soft
+par_all	HD5	4	Strains	soft
+par_all	4F1	5	Strains	soft
+par_all	YC-10	5	Strains	soft
+par_all	G25-96	5	Strains	soft
+par_all	IBL03111	5	Strains	soft
+par_all	IBL00503	5	Strains	soft
+par_all	IBL01259	5	Strains	soft
+par_all	IBL01313	5	Strains	soft
+par_all	HD 1i	6	Strains	soft
+par_all	x023	4	Strains	soft
+par_all	ABTS-351	5	Strains	soft
+par_all	BMG1.7	5	Strains	soft
+par_all	BGSC 4L3	5	Strains	soft
+par_all	SA11	4	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	BGSC 4AW1	7	Strains	soft
+par_all	IS5056	6	Strains	soft
+par_all	KNU-25	5	Strains	soft
+par_all	ZZQ-130	4	Strains	soft
+par_all	AFS057829	5	Strains	soft
+par_all	CT-43	5	Strains	soft
+par_all	IMBL-B9	5	Strains	soft
+par_all	BMB3201	4	Strains	soft
+par_all	T01-328	5	Strains	soft
+par_all	YWC2-8	2	Strains	soft
+par_all	NA205-3	4	Strains	soft
+par_all	4F3	3	Strains	soft
+par_all	4L1	3	Strains	soft
+par_all	UFT038	3	Strains	soft
+par_all	ISP2954	3	Strains	soft
+par_all	QB15	3	Strains	soft
+par_all	AFS061780	3	Strains	soft
+par_all	NT06	3	Strains	soft
+par_all	4N	3	Strains	soft
+par_all	AFS031473	3	Strains	soft
+par_all	AK47	3	Strains	soft
+par_all	TK1	3	Strains	soft
+par_all	18_218	3	Strains	soft
+par_all	TB08	3	Strains	soft
+par_all	SY49-1	3	Strains	soft
+par_all	4D2	3	Strains	soft
+par_all	PT02	3	Strains	soft
+par_all	Staal2-3	3	Strains	soft
+par_all	7.1o	4	Strains	soft
+par_all	BR145	3	Strains	soft
+par_all	BP865	3	Strains	soft
+par_all	MOD1_Bc30	3	Strains	soft
+par_all	AFS034084	3	Strains	soft
+par_all	CH_722	3	Strains	soft
+par_all	DBG15	3	Strains	soft
+par_all	CH_698	3	Strains	soft
+par_all	AFS004414	3	Strains	soft
+par_all	DE0161	3	Strains	soft
+par_all	CH_81	3	Strains	soft
+par_all	CH_684	3	Strains	soft
+par_all	AFS018409	3	Strains	soft
+par_all	4D5	3	Strains	soft
+par_all	MOD1_Bc235	3	Strains	soft
+par_all	18_216	3	Strains	soft
+par_all	MOD1_Bc137	3	Strains	soft
+par_all	T414	3	Strains	soft
+par_all	CH_69	3	Strains	soft
+par_all	DE0589	3	Strains	soft
+par_all	AFS043930	3	Strains	soft
+par_all	X023PN	3	Strains	soft
+par_all	18_421	3	Strains	soft
+par_all	HuB13-1	3	Strains	soft
+par_all	Staal7-4	3	Strains	soft
+par_all	18_614	3	Strains	soft
+par_all	2124	2	Strains	soft
+par_all	261-1	1	Strains	soft
+par_all	22-4	1	Strains	soft
+par_all	T536	1	Strains	soft
+par_all	BRL34	1	Strains	soft
+par_all	T527	1	Strains	soft
+par_all	T32	1	Strains	soft
+par_all	T405	1	Strains	soft
+par_all	T532	1	Strains	soft
+par_all	MOD1_Bc231	2	Strains	soft
+par_all	V4	3	Strains	soft
+par_all	146-158-01	2	Strains	soft
+par_all	SL39	1	Strains	soft
+par_all	SSy77	2	Strains	soft
+par_all	BNS3	3	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	Rpp39	1	Strains	soft
+par_all	MSS8.4	1	Strains	soft
+par_all	YZ71	1	Strains	soft
+par_all	4L2	3	Strains	soft
+par_all	Dongbei 66	1	Strains	soft
+par_all	4L4	2	Strains	soft
+par_all	Pasteur Institute Standard strain	3	Strains	soft
+par_all	MEB4	1	Strains	soft
+par_all	LS5115-3	1	Strains	soft
+par_all	Kenyae 4a4c	1	Strains	soft
+par_all	SY49-1	3	Strains	soft
+par_all	HD-550	1	Strains	soft
+par_all	T543	1	Strains	soft
+par_all	CY29	1	Strains	soft
+par_all	SKW01-10.2-06	1	Strains	soft
+par_all	NRRL B-21943	1	Strains	soft
+par_all	GCA_000193355.1	5	Assemblies	soft
+par_all	GCA_000341665.1	6	Assemblies	soft
+par_all	GCA_000387405.2	5	Assemblies	soft
+par_all	GCA_000688795.1	5	Assemblies	soft
+par_all	GCA_000710255.1	5	Assemblies	soft
+par_all	GCA_000747545.1	5	Assemblies	soft
+par_all	GCA_000835235.1	6	Assemblies	soft
+par_all	GCA_001017635.1	5	Assemblies	soft
+par_all	GCA_001420855.1	2	Assemblies	soft
+par_all	GCA_001880125.1	3	Assemblies	soft
+par_all	GCA_002146595.1	4	Assemblies	soft
+par_all	GCA_002147245.1	5	Assemblies	soft
+par_all	GCA_002147255.1	4	Assemblies	soft
+par_all	GCA_002147535.1	4	Assemblies	soft
+par_all	GCA_002555365.1	3	Assemblies	soft
+par_all	GCA_002572135.1	3	Assemblies	soft
+par_all	GCA_002574115.1	5	Assemblies	soft
+par_all	GCA_002581075.1	3	Assemblies	soft
+par_all	GCA_002589015.1	3	Assemblies	soft
+par_all	GCA_002589045.1	3	Assemblies	soft
+par_all	GCA_002893525.1	1	Assemblies	soft
+par_all	GCA_004167115.1	3	Assemblies	soft
+par_all	GCA_000717535.1	6	Assemblies	soft
+par_all	GCA_001548175.1	3	Assemblies	soft
+par_all	ARP076	1	Strains	strict
+par_all	ARP076	1	Strains	soft
+par_all	xl6-4	1	Strains	strict
+par_all	XL6	7	Strains	soft
+par_all	HD868	4	Strains	soft
+par_all	Sbt009	4	Strains	soft
+par_all	xl6-4	1	Strains	soft
+par_all	GCA_000161475.1	4	Assemblies	soft
+par_all	GCA_000774075.2	6	Assemblies	soft
+par_all	GCA_000774075.2	6	Assemblies	soft
+par_all	BGSC 4CE1	5	Strains	soft
+par_all	JC291	1	Strains	strict
+par_all	JC291	1	Strains	soft
+par_all	LM1212	4	Strains	strict
+par_all	LM1212-DB	2	Strains	strict
+par_all	LM1212-W3	3	Strains	strict
+par_all	GCA_003546665.1	4	Assemblies	strict
+par_all	LM1212	4	Strains	soft
+par_all	LM1212-DB	2	Strains	soft
+par_all	LM1212-W3	3	Strains	soft
+par_all	GCA_003546665.1	4	Assemblies	soft
+par_all	BGSC 4BP1	3	Strains	soft
+par_all	GCA_002146755.1	3	Assemblies	soft
+par_all	nags3	1	Strains	strict
+par_all	nags3	1	Strains	soft
+par_all	PS81I	3	Strains	strict
+par_all	PS81RR1	1	Strains	strict
+par_all	PS81I	3	Strains	soft
+par_all	PS81RR1	1	Strains	soft
+par_all	MPU B5	3	Strains	strict
+par_all	BfR-BA-01319	5	Strains	strict
+par_all	BGSC 4J2	5	Strains	strict
+par_all	BGSC 4J1	4	Strains	strict
+par_all	T07030	6	Strains	strict
+par_all	J8	1	Strains	strict
+par_all	c002	1	Strains	strict
+par_all	SP41	3	Strains	strict
+par_all	G10-01A	1	Strains	strict
+par_all	PS81I	3	Strains	strict
+par_all	K26-21	1	Strains	strict
+par_all	LB-R-78	1	Strains	strict
+par_all	HD-110	2	Strains	strict
+par_all	mo3-E7	1	Strains	strict
+par_all	LTS-38	1	Strains	strict
+par_all	7-29	1	Strains	strict
+par_all	E05-20a	1	Strains	strict
+par_all	60.5	1	Strains	strict
+par_all	LBIT-1217	1	Strains	strict
+par_all	GCA_002147155.1	5	Assemblies	strict
+par_all	GCA_002147165.1	4	Assemblies	strict
+par_all	GCA_002147605.1	6	Assemblies	strict
+par_all	GC-91	6	Strains	soft
+par_all	T07019	7	Strains	soft
+par_all	G03	5	Strains	soft
+par_all	CVUAS2492	5	Strains	soft
+par_all	CH_65	5	Strains	soft
+par_all	AGES_2_27_S	5	Strains	soft
+par_all	AGES_6_27_S	6	Strains	soft
+par_all	CH_748	5	Strains	soft
+par_all	P01_3	5	Strains	soft
+par_all	Bt-GS57	5	Strains	soft
+par_all	CH_733	5	Strains	soft
+par_all	Staal1-1	5	Strains	soft
+par_all	B401	6	Strains	soft
+par_all	CH_72	6	Strains	soft
+par_all	T07153	6	Strains	soft
+par_all	BR37	5	Strains	soft
+par_all	6/27/S	6	Strains	soft
+par_all	CVUAS9659	5	Strains	soft
+par_all	ABTS-1857	7	Strains	soft
+par_all	CH_696	5	Strains	soft
+par_all	777001-1	5	Strains	soft
+par_all	T07183	6	Strains	soft
+par_all	CH_746	5	Strains	soft
+par_all	CH_692	5	Strains	soft
+par_all	I13	6	Strains	soft
+par_all	kn11	5	Strains	soft
+par_all	CVUAS9660	5	Strains	soft
+par_all	27-3	5	Strains	soft
+par_all	MS12	7	Strains	soft
+par_all	P01_1	5	Strains	soft
+par_all	HD133	6	Strains	soft
+par_all	1126_1	5	Strains	soft
+par_all	PT18	5	Strains	soft
+par_all	777001F-1	5	Strains	soft
+par_all	007983-6	5	Strains	soft
+par_all	T07005	6	Strains	soft
+par_all	RIVM BC 934	6	Strains	soft
+par_all	CH_709	5	Strains	soft
+par_all	007986-5	6	Strains	soft
+par_all	777002-3	5	Strains	soft
+par_all	007989-3	6	Strains	soft
+par_all	T07148	7	Strains	soft
+par_all	HD29	10	Strains	soft
+par_all	MPU B5	3	Strains	soft
+par_all	BfR-BA-01319	5	Strains	soft
+par_all	BGSC 4J2	5	Strains	soft
+par_all	BGSC 4J1	4	Strains	soft
+par_all	T07030	6	Strains	soft
+par_all	J8	1	Strains	soft
+par_all	c002	1	Strains	soft
+par_all	SP41	3	Strains	soft
+par_all	G10-01A	1	Strains	soft
+par_all	Hu4-2	6	Strains	soft
+par_all	PS81I	3	Strains	soft
+par_all	C-33	2	Strains	soft
+par_all	K26-21	1	Strains	soft
+par_all	LB-R-78	1	Strains	soft
+par_all	HD-110	2	Strains	soft
+par_all	mo3-E7	1	Strains	soft
+par_all	LTS-38	1	Strains	soft
+par_all	7-29	1	Strains	soft
+par_all	E05-20a	1	Strains	soft
+par_all	60.5	1	Strains	soft
+par_all	LBIT-1217	1	Strains	soft
+par_all	GCA_000468995.3	6	Assemblies	soft
+par_all	GCA_000803665.1	7	Assemblies	soft
+par_all	GCA_001880115.1	4	Assemblies	soft
+par_all	GCA_002147155.1	5	Assemblies	soft
+par_all	GCA_002147165.1	4	Assemblies	soft
+par_all	GCA_002147185.1	5	Assemblies	soft
+par_all	GCA_002147555.1	5	Assemblies	soft
+par_all	GCA_002147565.1	7	Assemblies	soft
+par_all	GCA_002147575.1	6	Assemblies	soft
+par_all	GCA_002147605.1	6	Assemblies	soft
+par_all	GCA_002147645.1	7	Assemblies	soft
+par_all	GCA_002147685.1	6	Assemblies	soft
+par_all	GCA_002147725.1	5	Assemblies	soft
+par_all	GCA_002236945.1	5	Assemblies	soft
+par_all	GCA_002268645.2	5	Assemblies	soft
+par_all	GCA_002893605.1	5	Assemblies	soft
+par_all	GCA_003312445.1	5	Assemblies	soft
+par_all	GCA_004330415.1	7	Assemblies	soft
+par_all	BGSC 4AU1	2	Strains	soft
+par_all	higo	4	Strains	soft
+par_all	GCA_002147895.1	2	Assemblies	soft
+par_all	BGSC 4AT1	4	Strains	soft
+par_all	BGSC 4AR1	4	Strains	soft
+par_all	T03B001	5	Strains	soft
+par_all	BGSC 4AO1	6	Strains	soft
+par_all	4M5	3	Strains	soft
+par_all	BC-01	2	Strains	soft
+par_all	BGSC 4AP1	5	Strains	soft
+par_all	ARP058	1	Strains	soft
+par_all	BN23-5	5	Strains	soft
+par_all	BTC007	1	Strains	soft
+par_all	ARP131	1	Strains	soft
+par_all	GCA_002146405.1	6	Assemblies	soft
+par_all	GCA_002146425.1	5	Assemblies	soft
+par_all	GCA_002146445.1	4	Assemblies	soft
+par_all	GCA_002146545.1	4	Assemblies	soft
+par_all	BGSC 4BR1	2	Strains	soft
+par_all	NB176	1	Strains	soft
+par_all	VKPM B-3276	1	Strains	soft
+par_all	INTA Mo4-4	1	Strains	soft
+par_all	Bt22	1	Strains	soft
+par_all	4K5	1	Strains	soft
+par_all	BGSC 4AA1	2	Strains	soft
+par_all	EG2158	1	Strains	soft
+par_all	NB176	1	Strains	soft
+par_all	YM-03	1	Strains	soft
+par_all	886	1	Strains	soft
+par_all	Mm2	1	Strains	soft
+par_all	UTD-001	1	Strains	soft
+par_all	GCA_002146785.1	2	Assemblies	soft
+par_all	GCA_003719805.1	1	Assemblies	soft
+par_all	LM1212	4	Strains	strict
+par_all	LM1212-W3	3	Strains	strict
+par_all	GCA_003546665.1	4	Assemblies	strict
+par_all	LM1212	4	Strains	soft
+par_all	LM1212-W3	3	Strains	soft
+par_all	GCA_003546665.1	4	Assemblies	soft
+par_all	ARP259	1	Strains	strict
+par_all	ARP259	1	Strains	soft
+par_all	ATX 13026	11	Strains	soft
+par_all	QZL20-1	1	Strains	strict
+par_all	QZL20-1	1	Strains	soft
+par_all	GC-91	6	Strains	soft
+par_all	T07019	7	Strains	soft
+par_all	BGSC 4J4	4	Strains	soft
+par_all	G03	5	Strains	soft
+par_all	CVUAS2492	5	Strains	soft
+par_all	CH_65	5	Strains	soft
+par_all	14-2	3	Strains	soft
+par_all	Leapi01	4	Strains	soft
+par_all	AGES_2_27_S	5	Strains	soft
+par_all	25-6	3	Strains	soft
+par_all	2122	4	Strains	soft
+par_all	AGES_6_27_S	6	Strains	soft
+par_all	CH_748	5	Strains	soft
+par_all	P01_3	5	Strains	soft
+par_all	Bt-GS57	5	Strains	soft
+par_all	CH_733	5	Strains	soft
+par_all	Staal1-1	5	Strains	soft
+par_all	B401	6	Strains	soft
+par_all	CH_72	6	Strains	soft
+par_all	T07153	6	Strains	soft
+par_all	26-1	3	Strains	soft
+par_all	LTS-7	2	Strains	soft
+par_all	BR37	5	Strains	soft
+par_all	6/27/S	6	Strains	soft
+par_all	CVUAS9659	5	Strains	soft
+par_all	20-1	3	Strains	soft
+par_all	ABTS-1857	7	Strains	soft
+par_all	CH_696	5	Strains	soft
+par_all	777001-1	5	Strains	soft
+par_all	M100	3	Strains	soft
+par_all	Hu4-2	6	Strains	soft
+par_all	T07183	6	Strains	soft
+par_all	21-1	3	Strains	soft
+par_all	CH_746	5	Strains	soft
+par_all	CH_692	5	Strains	soft
+par_all	I13	6	Strains	soft
+par_all	kn11	5	Strains	soft
+par_all	CVUAS9660	5	Strains	soft
+par_all	30-1	3	Strains	soft
+par_all	27-3	5	Strains	soft
+par_all	B4158	2	Strains	soft
+par_all	MS12	7	Strains	soft
+par_all	P01_1	5	Strains	soft
+par_all	B-Hm-16	2	Strains	soft
+par_all	HD133	6	Strains	soft
+par_all	1126_1	5	Strains	soft
+par_all	PT18	5	Strains	soft
+par_all	777001F-1	5	Strains	soft
+par_all	007983-6	5	Strains	soft
+par_all	T07005	6	Strains	soft
+par_all	RIVM BC 934	6	Strains	soft
+par_all	CH_709	5	Strains	soft
+par_all	007986-5	6	Strains	soft
+par_all	SSK-10	1	Strains	soft
+par_all	777002-3	5	Strains	soft
+par_all	007989-3	6	Strains	soft
+par_all	T07148	7	Strains	soft
+par_all	30-4	3	Strains	soft
+par_all	T07128	4	Strains	soft
+par_all	HD29	10	Strains	soft
+par_all	Bts	2	Strains	soft
+par_all	ZK2	1	Strains	soft
+par_all	Bt4	1	Strains	soft
+par_all	SC5(E8)	1	Strains	soft
+par_all	MPU B9	2	Strains	soft
+par_all	ywc5-4	2	Strains	soft
+par_all	lyA	1	Strains	soft
+par_all	Bt11	1	Strains	soft
+par_all	GCA_000468975.2	4	Assemblies	soft
+par_all	GCA_000468995.3	6	Assemblies	soft
+par_all	GCA_000803665.1	7	Assemblies	soft
+par_all	GCA_001880115.1	4	Assemblies	soft
+par_all	GCA_002147185.1	5	Assemblies	soft
+par_all	GCA_002147235.1	4	Assemblies	soft
+par_all	GCA_002147555.1	5	Assemblies	soft
+par_all	GCA_002147565.1	7	Assemblies	soft
+par_all	GCA_002147575.1	6	Assemblies	soft
+par_all	GCA_002147635.1	4	Assemblies	soft
+par_all	GCA_002147645.1	7	Assemblies	soft
+par_all	GCA_002147685.1	6	Assemblies	soft
+par_all	GCA_002147725.1	5	Assemblies	soft
+par_all	GCA_002236945.1	5	Assemblies	soft
+par_all	GCA_002268645.2	5	Assemblies	soft
+par_all	GCA_002893605.1	5	Assemblies	soft
+par_all	GCA_003312445.1	5	Assemblies	soft
+par_all	GCA_004330415.1	7	Assemblies	soft
+par_all	BTy41	6	Strains	soft
+par_all	AFS034708	3	Strains	strict
+par_all	GCA_002584205.1	3	Assemblies	strict
+par_all	AFS034708	3	Strains	soft
+par_all	GCA_002584205.1	3	Assemblies	soft
+par_all	Gnyt1	4	Strains	soft
+par_all	ARP146	1	Strains	strict
+par_all	IBL02897	9	Strains	soft
+par_all	BGSC 4N1	9	Strains	soft
+par_all	IBL00090	9	Strains	soft
+par_all	IBL00171	9	Strains	soft
+par_all	IBL 200	10	Strains	soft
+par_all	HD12	11	Strains	soft
+par_all	WBT-2	10	Strains	soft
+par_all	GR007	10	Strains	soft
+par_all	SVBS18-01	3	Strains	soft
+par_all	HD12	11	Strains	soft
+par_all	G25-97	11	Strains	soft
+par_all	G25-93	10	Strains	soft
+par_all	ARP146	1	Strains	soft
+par_all	GCA_000161715.1	9	Assemblies	soft
+par_all	GCA_001598095.1	9	Assemblies	soft
+par_all	GCA_002147315.1	9	Assemblies	soft
+par_all	GCA_002893565.1	10	Assemblies	soft
+par_all	QZL144-1	1	Strains	strict
+par_all	78-2	4	Strains	strict
+par_all	QZL38	4	Strains	strict
+par_all	Bt S185	2	Strains	strict
+par_all	QZL144-4	1	Strains	strict
+par_all	GWL	1	Strains	strict
+par_all	WF-H-72	1	Strains	strict
+par_all	ZK1	1	Strains	strict
+par_all	xpz-5	1	Strains	strict
+par_all	HD37	1	Strains	strict
+par_all	B-DLL	2	Strains	strict
+par_all	GCA_001595725.1	2	Assemblies	strict
+par_all	GCA_002893515.1	4	Assemblies	strict
+par_all	GCA_003626955.1	4	Assemblies	strict
+par_all	QZL144-1	1	Strains	soft
+par_all	Bt185	4	Strains	soft
+par_all	78-2	4	Strains	soft
+par_all	QZL38	4	Strains	soft
+par_all	Bt S185	2	Strains	soft
+par_all	QZL144-4	1	Strains	soft
+par_all	GWL	1	Strains	soft
+par_all	Bt185	4	Strains	soft
+par_all	WF-H-72	1	Strains	soft
+par_all	ZK1	1	Strains	soft
+par_all	xpz-5	1	Strains	soft
+par_all	HD37	1	Strains	soft
+par_all	B-DLL	2	Strains	soft
+par_all	GCA_001595725.1	2	Assemblies	soft
+par_all	GCA_002893515.1	4	Assemblies	soft
+par_all	GCA_003626955.1	4	Assemblies	soft
+par_all	MHB10.6	1	Strains	strict
+par_all	MHY1.11	1	Strains	strict
+par_all	MHY1.10	1	Strains	strict
+par_all	SDS-502	1	Strains	strict
+par_all	QZL85	1	Strains	strict
+par_all	MSS2.4	1	Strains	strict
+par_all	MHB11.3	1	Strains	strict
+par_all	MHB10.6	1	Strains	soft
+par_all	MHY1.11	1	Strains	soft
+par_all	MHY1.10	1	Strains	soft
+par_all	SDS-502	1	Strains	soft
+par_all	QZL85	1	Strains	soft
+par_all	MSS2.4	1	Strains	soft
+par_all	MHB11.3	1	Strains	soft
+par_all	ARP096	1	Strains	strict
+par_all	ARP096	1	Strains	soft
+par_all	Bt-ICA/UNMSM10RA	1	Strains	soft
+par_all	2B	2	Strains	soft
+par_all	QZL121	1	Strains	soft
+par_all	HD73	1	Strains	soft
+par_all	27	4	Strains	soft
+par_all	4E7	1	Strains	soft
+par_all	DSIR732	1	Strains	soft
+par_all	GC-91	6	Strains	soft
+par_all	1905	4	Strains	soft
+par_all	YBT-1520	5	Strains	soft
+par_all	T03a001	1	Strains	soft
+par_all	BGSC 4X1	4	Strains	soft
+par_all	T07019	7	Strains	soft
+par_all	SY27.1	5	Strains	soft
+par_all	40000000	1	Strains	soft
+par_all	HD29	10	Strains	soft
+par_all	HD73	1	Strains	soft
+par_all	YBT-1520	5	Strains	soft
+par_all	ABTS-351	5	Strains	soft
+par_all	PS85A1	1	Strains	soft
+par_all	A-19-31	3	Strains	soft
+par_all	LSZ9408	2	Strains	soft
+par_all	NBIC380	1	Strains	soft
+par_all	LBIT-418	2	Strains	soft
+par_all	4F4	5	Strains	soft
+par_all	BGSC 4J5	4	Strains	soft
+par_all	MOD1_Bc21	1	Strains	soft
+par_all	HD5	4	Strains	soft
+par_all	4F1	5	Strains	soft
+par_all	4F2	1	Strains	soft
+par_all	146-158-01	2	Strains	soft
+par_all	Q-12	1	Strains	soft
+par_all	B12	1	Strains	soft
+par_all	QBL-27	2	Strains	soft
+par_all	TOL651	1	Strains	soft
+par_all	YC-10	5	Strains	soft
+par_all	G25-96	5	Strains	soft
+par_all	IBL03111	5	Strains	soft
+par_all	IBL00503	5	Strains	soft
+par_all	IBL01259	5	Strains	soft
+par_all	IBL01313	5	Strains	soft
+par_all	HD 1i	6	Strains	soft
+par_all	ABTS-351	5	Strains	soft
+par_all	BMG1.7	5	Strains	soft
+par_all	BGSC 4L3	5	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	YWC2-8	2	Strains	soft
+par_all	PS81GG	1	Strains	soft
+par_all	HD-549	1	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	BRI-144	2	Strains	soft
+par_all	C1Ac86	1	Strains	soft
+par_all	SK-784	1	Strains	soft
+par_all	NRD-12	3	Strains	soft
+par_all	C-33	2	Strains	soft
+par_all	BGSC 4AW1	7	Strains	soft
+par_all	BMB3201	4	Strains	soft
+par_all	INTA Mo1-12	2	Strains	soft
+par_all	INTA TA24-6	1	Strains	soft
+par_all	LBIT1200	1	Strains	soft
+par_all	BTS89A	1	Strains	soft
+par_all	S3299-1	1	Strains	soft
+par_all	BGSC 4BV1	3	Strains	soft
+par_all	S1478-1	1	Strains	soft
+par_all	W015	1	Strains	soft
+par_all	BLB1	2	Strains	soft
+par_all	H3	1	Strains	soft
+par_all	SK-711	1	Strains	soft
+par_all	HD07	1	Strains	soft
+par_all	C1Ac118	1	Strains	soft
+par_all	BRI-103	1	Strains	soft
+par_all	ZQ-89	1	Strains	soft
+par_all	T15	1	Strains	soft
+par_all	Tm44-1B	1	Strains	soft
+par_all	Tm37-6	1	Strains	soft
+par_all	Tm41-4	1	Strains	soft
+par_all	02	1	Strains	soft
+par_all	Ly30	2	Strains	soft
+par_all	native Taiwanese Bt strain	1	Strains	soft
+par_all	SK-729	1	Strains	soft
+par_all	HD-588	1	Strains	soft
+par_all	SK-783	1	Strains	soft
+par_all	SK-958	1	Strains	soft
+par_all	GCA_000161575.1	1	Assemblies	soft
+par_all	GCA_000338755.1	1	Assemblies	soft
+par_all	GCA_000803665.1	7	Assemblies	soft
+par_all	GCA_000969665.1	2	Assemblies	soft
+par_all	GCA_002147435.1	4	Assemblies	soft
+par_all	GCA_002147565.1	7	Assemblies	soft
+par_all	GCA_003046465.1	1	Assemblies	soft
+par_all	GCA_000688795.1	5	Assemblies	soft
+par_all	GCA_000747545.1	5	Assemblies	soft
+par_all	GCA_000747545.1	5	Assemblies	soft
+par_all	GCA_000717535.1	6	Assemblies	soft
+par_all	GCA_000835235.1	6	Assemblies	soft
+par_all	GCA_001017635.1	5	Assemblies	soft
+par_all	GCA_001420855.1	2	Assemblies	soft
+par_all	GCA_002147245.1	5	Assemblies	soft
+par_all	GCA_002146595.1	4	Assemblies	soft
+par_all	GCA_002147255.1	4	Assemblies	soft
+par_all	GCA_002147535.1	4	Assemblies	soft
+par_all	BGSC 4U1	5	Strains	soft
+par_all	BA04	2	Strains	soft
+par_all	GCA_002969075.1	2	Assemblies	soft
+par_all	LBIT 1189	1	Strains	soft
+par_all	LBIT-1189	1	Strains	soft
+par_all	HD395	2	Strains	soft
+par_all	IBL00055	1	Strains	soft
+par_all	ARP080	1	Strains	soft
+par_all	IBL00210	1	Strains	soft
+par_all	IBL00144	1	Strains	soft
+par_all	S3161-3	1	Strains	strict
+par_all	BTy41	6	Strains	soft
+par_all	HS18-1	10	Strains	soft
+par_all	S2160-1	7	Strains	soft
+par_all	S3161-3	1	Strains	soft
+par_all	GCA_001182785.1	9	Assemblies	soft
+par_all	bt145	1	Strains	strict
+par_all	HBF-18	2	Strains	soft
+par_all	FCD114	2	Strains	soft
+par_all	bt145	1	Strains	soft
+par_all	HBF-18	2	Strains	soft
+par_all	GCA_002893505.1	2	Assemblies	soft
+par_all	GCA_002893585.1	2	Assemblies	soft
+par_all	JF19-2	1	Strains	strict
+par_all	JF19-2	1	Strains	soft
+par_all	ARP188	1	Strains	strict
+par_all	ARP188	1	Strains	soft
+par_all	NRRL B-21941	1	Strains	soft
+par_all	PS198Q7	1	Strains	strict
+par_all	PS198Q7	1	Strains	soft
+par_all	BtS02072BG	1	Strains	strict
+par_all	NRRL B-21940	1	Strains	strict
+par_all	BtS02072BG	1	Strains	soft
+par_all	NRRL B-21940	1	Strains	soft
+par_all	CH426a_13T	1	Strains	strict
+par_all	LBIC-004	1	Strains	strict
+par_all	CH460b_14D	1	Strains	strict
+par_all	CH417_13T	1	Strains	strict
+par_all	CH426a_13T	1	Strains	soft
+par_all	LBIC-004	1	Strains	soft
+par_all	CH460b_14D	1	Strains	soft
+par_all	CH417_13T	1	Strains	soft
+par_all	AFS098399	2	Strains	soft
+par_all	AFS050081	3	Strains	soft
+par_all	GCA_002550215.1	2	Assemblies	soft
+par_all	GCA_002576585.1	3	Assemblies	soft
+par_all	LBR2	1	Strains	strict
+par_all	g9	1	Strains	strict
+par_all	SC6H8	5	Strains	soft
+par_all	LBR2	1	Strains	soft
+par_all	PS158C2	2	Strains	soft
+par_all	K1	3	Strains	soft
+par_all	g9	1	Strains	soft
+par_all	NRRL B-18679	2	Strains	strict
+par_all	G25-46	2	Strains	strict
+par_all	PS80JJ1	1	Strains	strict
+par_all	NRRL B-18679	2	Strains	soft
+par_all	G25-46	2	Strains	soft
+par_all	PS80JJ1	1	Strains	soft
+par_all	BT HMM	2	Strains	strict
+par_all	BT HMM	2	Strains	soft
+par_all	FPT-2	1	Strains	strict
+par_all	FPT-2	1	Strains	soft
+par_all	SC-7	1	Strains	strict
+par_all	SC-13	1	Strains	strict
+par_all	JHCC4835	1	Strains	strict
+par_all	ly30	4	Strains	strict
+par_all	x023	4	Strains	strict
+par_all	SA11	4	Strains	strict
+par_all	IS5056	6	Strains	strict
+par_all	KNU-25	5	Strains	strict
+par_all	IBL00197	4	Strains	strict
+par_all	ZZQ-130	4	Strains	strict
+par_all	AFS057829	5	Strains	strict
+par_all	CT-43	5	Strains	strict
+par_all	BfR-BA-01319	5	Strains	strict
+par_all	BGSC 4J2	5	Strains	strict
+par_all	T01-328	5	Strains	strict
+par_all	NA205-3	4	Strains	strict
+par_all	4L1	3	Strains	strict
+par_all	UFT038	3	Strains	strict
+par_all	ISP2954	3	Strains	strict
+par_all	QB15	3	Strains	strict
+par_all	AFS061780	3	Strains	strict
+par_all	NT06	3	Strains	strict
+par_all	4N	3	Strains	strict
+par_all	AFS031473	3	Strains	strict
+par_all	AK47	3	Strains	strict
+par_all	TK1	3	Strains	strict
+par_all	18_218	3	Strains	strict
+par_all	TB08	3	Strains	strict
+par_all	TH19	1	Strains	strict
+par_all	SY49-1	3	Strains	strict
+par_all	4D2	3	Strains	strict
+par_all	PT02	3	Strains	strict
+par_all	Staal2-3	3	Strains	strict
+par_all	7.1o	4	Strains	strict
+par_all	BR145	3	Strains	strict
+par_all	BP865	3	Strains	strict
+par_all	MOD1_Bc30	3	Strains	strict
+par_all	AFS034084	3	Strains	strict
+par_all	CH_722	3	Strains	strict
+par_all	DBG15	3	Strains	strict
+par_all	CH_698	3	Strains	strict
+par_all	AFS004414	3	Strains	strict
+par_all	DE0161	3	Strains	strict
+par_all	CH_81	3	Strains	strict
+par_all	CH_684	3	Strains	strict
+par_all	BGSC 4J1	4	Strains	strict
+par_all	AFS018409	3	Strains	strict
+par_all	4D5	3	Strains	strict
+par_all	MOD1_Bc235	3	Strains	strict
+par_all	18_216	3	Strains	strict
+par_all	IE-1	1	Strains	strict
+par_all	MOD1_Bc137	3	Strains	strict
+par_all	T414	3	Strains	strict
+par_all	INTA Mo1-10	1	Strains	strict
+par_all	CH_69	3	Strains	strict
+par_all	DE0589	3	Strains	strict
+par_all	AFS043930	3	Strains	strict
+par_all	T07030	6	Strains	strict
+par_all	X023PN	3	Strains	strict
+par_all	18_421	3	Strains	strict
+par_all	HuB13-1	3	Strains	strict
+par_all	Staal7-4	3	Strains	strict
+par_all	18_614	3	Strains	strict
+par_all	INTA H4-3	1	Strains	strict
+par_all	wu2G-12	1	Strains	strict
+par_all	S101	1	Strains	strict
+par_all	BfR-BA-01356	2	Strains	strict
+par_all	HD-9	3	Strains	strict
+par_all	BNS3	3	Strains	strict
+par_all	C1Ia148	1	Strains	strict
+par_all	wu1E-3	1	Strains	strict
+par_all	4L2	3	Strains	strict
+par_all	BfR-BA-01321	1	Strains	strict
+par_all	you2E-3	1	Strains	strict
+par_all	E-1B	1	Strains	strict
+par_all	wu1H-3	1	Strains	strict
+par_all	CPB012	1	Strains	strict
+par_all	you2D-3	1	Strains	strict
+par_all	BT MX9	1	Strains	strict
+par_all	BT-MX2	1	Strains	strict
+par_all	SC-51	1	Strains	strict
+par_all	61	1	Strains	strict
+par_all	wu2B-6	1	Strains	strict
+par_all	E-1A	1	Strains	strict
+par_all	wu2G-11	1	Strains	strict
+par_all	you2F-3	1	Strains	strict
+par_all	AB88	1	Strains	strict
+par_all	wu1E-4	1	Strains	strict
+par_all	you1D-9	1	Strains	strict
+par_all	S1451	1	Strains	strict
+par_all	GCA_000193355.1	5	Assemblies	strict
+par_all	GCA_000341665.1	6	Assemblies	strict
+par_all	GCA_000387405.2	5	Assemblies	strict
+par_all	GCA_000710255.1	5	Assemblies	strict
+par_all	GCA_001880125.1	3	Assemblies	strict
+par_all	GCA_002147155.1	5	Assemblies	strict
+par_all	GCA_002147165.1	4	Assemblies	strict
+par_all	GCA_002147605.1	6	Assemblies	strict
+par_all	GCA_002555365.1	3	Assemblies	strict
+par_all	GCA_002572135.1	3	Assemblies	strict
+par_all	GCA_002574115.1	5	Assemblies	strict
+par_all	GCA_002581075.1	3	Assemblies	strict
+par_all	GCA_002589015.1	3	Assemblies	strict
+par_all	GCA_002589045.1	3	Assemblies	strict
+par_all	GCA_004167115.1	3	Assemblies	strict
+par_all	SC-7	1	Strains	soft
+par_all	SC-13	1	Strains	soft
+par_all	2B	2	Strains	soft
+par_all	JHCC4835	1	Strains	soft
+par_all	GC-91	6	Strains	soft
+par_all	1905	4	Strains	soft
+par_all	YBT-1520	5	Strains	soft
+par_all	BGSC 4X1	4	Strains	soft
+par_all	T07019	7	Strains	soft
+par_all	SY27.1	5	Strains	soft
+par_all	BGSC 4J4	4	Strains	soft
+par_all	G03	5	Strains	soft
+par_all	CVUAS2492	5	Strains	soft
+par_all	CH_65	5	Strains	soft
+par_all	14-2	3	Strains	soft
+par_all	Leapi01	4	Strains	soft
+par_all	AGES_2_27_S	5	Strains	soft
+par_all	25-6	3	Strains	soft
+par_all	AGES_6_27_S	6	Strains	soft
+par_all	CH_748	5	Strains	soft
+par_all	P01_3	5	Strains	soft
+par_all	Bt-GS57	5	Strains	soft
+par_all	CH_733	5	Strains	soft
+par_all	Staal1-1	5	Strains	soft
+par_all	B401	6	Strains	soft
+par_all	CH_72	6	Strains	soft
+par_all	T07153	6	Strains	soft
+par_all	26-1	3	Strains	soft
+par_all	6/27/S	6	Strains	soft
+par_all	CVUAS9659	5	Strains	soft
+par_all	20-1	3	Strains	soft
+par_all	ABTS-1857	7	Strains	soft
+par_all	CH_696	5	Strains	soft
+par_all	777001-1	5	Strains	soft
+par_all	M100	3	Strains	soft
+par_all	T07183	6	Strains	soft
+par_all	21-1	3	Strains	soft
+par_all	CH_746	5	Strains	soft
+par_all	CH_692	5	Strains	soft
+par_all	I13	6	Strains	soft
+par_all	kn11	5	Strains	soft
+par_all	CVUAS9660	5	Strains	soft
+par_all	30-1	3	Strains	soft
+par_all	27-3	5	Strains	soft
+par_all	B4158	2	Strains	soft
+par_all	MS12	7	Strains	soft
+par_all	P01_1	5	Strains	soft
+par_all	HD133	6	Strains	soft
+par_all	1126_1	5	Strains	soft
+par_all	PT18	5	Strains	soft
+par_all	777001F-1	5	Strains	soft
+par_all	007983-6	5	Strains	soft
+par_all	T07005	6	Strains	soft
+par_all	RIVM BC 934	6	Strains	soft
+par_all	CH_709	5	Strains	soft
+par_all	007986-5	6	Strains	soft
+par_all	777002-3	5	Strains	soft
+par_all	007989-3	6	Strains	soft
+par_all	T07148	7	Strains	soft
+par_all	30-4	3	Strains	soft
+par_all	T07128	4	Strains	soft
+par_all	ly30	4	Strains	soft
+par_all	HD29	10	Strains	soft
+par_all	YC-10	5	Strains	soft
+par_all	G25-96	5	Strains	soft
+par_all	IBL03111	5	Strains	soft
+par_all	IBL00503	5	Strains	soft
+par_all	IBL01259	5	Strains	soft
+par_all	IBL01313	5	Strains	soft
+par_all	HD 1i	6	Strains	soft
+par_all	x023	4	Strains	soft
+par_all	ABTS-351	5	Strains	soft
+par_all	BMG1.7	5	Strains	soft
+par_all	BGSC 4L3	5	Strains	soft
+par_all	SA11	4	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	Pasteur Institute Standard strain	3	Strains	soft
+par_all	SC6H8	5	Strains	soft
+par_all	IS5056	6	Strains	soft
+par_all	KNU-25	5	Strains	soft
+par_all	IBL00197	4	Strains	soft
+par_all	ZZQ-130	4	Strains	soft
+par_all	AFS057829	5	Strains	soft
+par_all	CT-43	5	Strains	soft
+par_all	IMBL-B9	5	Strains	soft
+par_all	BfR-BA-01319	5	Strains	soft
+par_all	BGSC 4J2	5	Strains	soft
+par_all	T01-328	5	Strains	soft
+par_all	NA205-3	4	Strains	soft
+par_all	4L1	3	Strains	soft
+par_all	UFT038	3	Strains	soft
+par_all	ISP2954	3	Strains	soft
+par_all	QB15	3	Strains	soft
+par_all	AFS061780	3	Strains	soft
+par_all	NT06	3	Strains	soft
+par_all	4N	3	Strains	soft
+par_all	AFS031473	3	Strains	soft
+par_all	AK47	3	Strains	soft
+par_all	TK1	3	Strains	soft
+par_all	18_218	3	Strains	soft
+par_all	TB08	3	Strains	soft
+par_all	TH19	1	Strains	soft
+par_all	SY49-1	3	Strains	soft
+par_all	4D2	3	Strains	soft
+par_all	MPU B9	2	Strains	soft
+par_all	PT02	3	Strains	soft
+par_all	Staal2-3	3	Strains	soft
+par_all	7.1o	4	Strains	soft
+par_all	BR145	3	Strains	soft
+par_all	BP865	3	Strains	soft
+par_all	MOD1_Bc30	3	Strains	soft
+par_all	AFS034084	3	Strains	soft
+par_all	CH_722	3	Strains	soft
+par_all	DBG15	3	Strains	soft
+par_all	CH_698	3	Strains	soft
+par_all	AFS004414	3	Strains	soft
+par_all	DE0161	3	Strains	soft
+par_all	CH_81	3	Strains	soft
+par_all	CH_684	3	Strains	soft
+par_all	BGSC 4J1	4	Strains	soft
+par_all	AFS018409	3	Strains	soft
+par_all	4D5	3	Strains	soft
+par_all	MOD1_Bc235	3	Strains	soft
+par_all	18_216	3	Strains	soft
+par_all	IE-1	1	Strains	soft
+par_all	MOD1_Bc137	3	Strains	soft
+par_all	T414	3	Strains	soft
+par_all	INTA Mo1-10	1	Strains	soft
+par_all	CH_69	3	Strains	soft
+par_all	DE0589	3	Strains	soft
+par_all	AFS043930	3	Strains	soft
+par_all	T07030	6	Strains	soft
+par_all	X023PN	3	Strains	soft
+par_all	18_421	3	Strains	soft
+par_all	HuB13-1	3	Strains	soft
+par_all	Staal7-4	3	Strains	soft
+par_all	18_614	3	Strains	soft
+par_all	INTA H4-3	1	Strains	soft
+par_all	BGSC 4J4	4	Strains	soft
+par_all	BR37	5	Strains	soft
+par_all	Hu4-2	6	Strains	soft
+par_all	wu2G-12	1	Strains	soft
+par_all	L-7601	3	Strains	soft
+par_all	S101	1	Strains	soft
+par_all	V4	3	Strains	soft
+par_all	4F4	5	Strains	soft
+par_all	BGSC 4J5	4	Strains	soft
+par_all	HD5	4	Strains	soft
+par_all	4F1	5	Strains	soft
+par_all	BGSC 4AW1	7	Strains	soft
+par_all	BMB3201	4	Strains	soft
+par_all	BfR-BA-01356	2	Strains	soft
+par_all	HD-9	3	Strains	soft
+par_all	QBL-27	2	Strains	soft
+par_all	BNS3	3	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	BRI-144	2	Strains	soft
+par_all	C1Ia148	1	Strains	soft
+par_all	FB	4	Strains	soft
+par_all	wu1E-3	1	Strains	soft
+par_all	4L2	3	Strains	soft
+par_all	BfR-BA-01393	2	Strains	soft
+par_all	BfR-BA-01321	1	Strains	soft
+par_all	you2E-3	1	Strains	soft
+par_all	E-1B	1	Strains	soft
+par_all	wu1H-3	1	Strains	soft
+par_all	CPB012	1	Strains	soft
+par_all	you2D-3	1	Strains	soft
+par_all	BT MX9	1	Strains	soft
+par_all	BT-MX2	1	Strains	soft
+par_all	SC-51	1	Strains	soft
+par_all	61	1	Strains	soft
+par_all	wu2B-6	1	Strains	soft
+par_all	E-1A	1	Strains	soft
+par_all	wu2G-11	1	Strains	soft
+par_all	you2F-3	1	Strains	soft
+par_all	AB88	1	Strains	soft
+par_all	wu1E-4	1	Strains	soft
+par_all	you1D-9	1	Strains	soft
+par_all	Ly30	2	Strains	soft
+par_all	S1451	1	Strains	soft
+par_all	GCA_000193355.1	5	Assemblies	soft
+par_all	GCA_000341665.1	6	Assemblies	soft
+par_all	GCA_000387405.2	5	Assemblies	soft
+par_all	GCA_000468975.2	4	Assemblies	soft
+par_all	GCA_000688795.1	5	Assemblies	soft
+par_all	GCA_000710255.1	5	Assemblies	soft
+par_all	GCA_000717535.1	6	Assemblies	soft
+par_all	GCA_000747545.1	5	Assemblies	soft
+par_all	GCA_000803665.1	7	Assemblies	soft
+par_all	GCA_000835235.1	6	Assemblies	soft
+par_all	GCA_001017635.1	5	Assemblies	soft
+par_all	GCA_001548175.1	3	Assemblies	soft
+par_all	GCA_001880115.1	4	Assemblies	soft
+par_all	GCA_001880125.1	3	Assemblies	soft
+par_all	GCA_002147155.1	5	Assemblies	soft
+par_all	GCA_002147165.1	4	Assemblies	soft
+par_all	GCA_002147185.1	5	Assemblies	soft
+par_all	GCA_002147235.1	4	Assemblies	soft
+par_all	GCA_002147245.1	5	Assemblies	soft
+par_all	GCA_002147435.1	4	Assemblies	soft
+par_all	GCA_002147555.1	5	Assemblies	soft
+par_all	GCA_002147565.1	7	Assemblies	soft
+par_all	GCA_002147575.1	6	Assemblies	soft
+par_all	GCA_002147605.1	6	Assemblies	soft
+par_all	GCA_002147635.1	4	Assemblies	soft
+par_all	GCA_002147645.1	7	Assemblies	soft
+par_all	GCA_002147685.1	6	Assemblies	soft
+par_all	GCA_002147725.1	5	Assemblies	soft
+par_all	GCA_002236945.1	5	Assemblies	soft
+par_all	GCA_002268645.2	5	Assemblies	soft
+par_all	GCA_002555365.1	3	Assemblies	soft
+par_all	GCA_002572135.1	3	Assemblies	soft
+par_all	GCA_002574115.1	5	Assemblies	soft
+par_all	GCA_002581075.1	3	Assemblies	soft
+par_all	GCA_002589015.1	3	Assemblies	soft
+par_all	GCA_002589045.1	3	Assemblies	soft
+par_all	GCA_002893605.1	5	Assemblies	soft
+par_all	GCA_003312445.1	5	Assemblies	soft
+par_all	GCA_004167115.1	3	Assemblies	soft
+par_all	GCA_004330415.1	7	Assemblies	soft
+par_all	GCA_000468995.3	6	Assemblies	soft
+par_all	GCA_002025105.1	3	Assemblies	soft
+par_all	GCA_002146595.1	4	Assemblies	soft
+par_all	GCA_002147255.1	4	Assemblies	soft
+par_all	GCA_002147535.1	4	Assemblies	soft
+par_all	BfR-BA-01319	5	Strains	strict
+par_all	BGSC 4J2	5	Strains	strict
+par_all	BGSC 4J1	4	Strains	strict
+par_all	T07030	6	Strains	strict
+par_all	SP41	3	Strains	strict
+par_all	HD-68	1	Strains	strict
+par_all	T25	1	Strains	strict
+par_all	BLB250	1	Strains	strict
+par_all	QL75-2	1	Strains	strict
+par_all	GCA_002147155.1	5	Assemblies	strict
+par_all	GCA_002147165.1	4	Assemblies	strict
+par_all	GCA_002147605.1	6	Assemblies	strict
+par_all	IBL02897	9	Strains	soft
+par_all	BGSC 4N1	9	Strains	soft
+par_all	IBL00090	9	Strains	soft
+par_all	IBL00171	9	Strains	soft
+par_all	IBL 200	10	Strains	soft
+par_all	HD12	11	Strains	soft
+par_all	GR007	10	Strains	soft
+par_all	G25-97	11	Strains	soft
+par_all	G25-93	10	Strains	soft
+par_all	SVBS18-01	3	Strains	soft
+par_all	FH21	4	Strains	soft
+par_all	GC-91	6	Strains	soft
+par_all	G03	5	Strains	soft
+par_all	CVUAS2492	5	Strains	soft
+par_all	CH_65	5	Strains	soft
+par_all	Leapi01	4	Strains	soft
+par_all	AGES_2_27_S	5	Strains	soft
+par_all	2122	4	Strains	soft
+par_all	AGES_6_27_S	6	Strains	soft
+par_all	CH_748	5	Strains	soft
+par_all	P01_3	5	Strains	soft
+par_all	Bt-GS57	5	Strains	soft
+par_all	CH_733	5	Strains	soft
+par_all	Staal1-1	5	Strains	soft
+par_all	B401	6	Strains	soft
+par_all	CH_72	6	Strains	soft
+par_all	T07153	6	Strains	soft
+par_all	BR37	5	Strains	soft
+par_all	6/27/S	6	Strains	soft
+par_all	CVUAS9659	5	Strains	soft
+par_all	ABTS-1857	7	Strains	soft
+par_all	CH_696	5	Strains	soft
+par_all	777001-1	5	Strains	soft
+par_all	Hu4-2	6	Strains	soft
+par_all	T07183	6	Strains	soft
+par_all	CH_746	5	Strains	soft
+par_all	CH_692	5	Strains	soft
+par_all	I13	6	Strains	soft
+par_all	kn11	5	Strains	soft
+par_all	CVUAS9660	5	Strains	soft
+par_all	27-3	5	Strains	soft
+par_all	MS12	7	Strains	soft
+par_all	P01_1	5	Strains	soft
+par_all	HD133	6	Strains	soft
+par_all	1126_1	5	Strains	soft
+par_all	PT18	5	Strains	soft
+par_all	777001F-1	5	Strains	soft
+par_all	007983-6	5	Strains	soft
+par_all	T07005	6	Strains	soft
+par_all	RIVM BC 934	6	Strains	soft
+par_all	CH_709	5	Strains	soft
+par_all	007986-5	6	Strains	soft
+par_all	777002-3	5	Strains	soft
+par_all	007989-3	6	Strains	soft
+par_all	T07148	7	Strains	soft
+par_all	HD29	10	Strains	soft
+par_all	BfR-BA-01319	5	Strains	soft
+par_all	BGSC 4J2	5	Strains	soft
+par_all	BGSC 4J1	4	Strains	soft
+par_all	T07030	6	Strains	soft
+par_all	SP41	3	Strains	soft
+par_all	HD-68	1	Strains	soft
+par_all	T07019	7	Strains	soft
+par_all	HD12	11	Strains	soft
+par_all	WBT-2	10	Strains	soft
+par_all	T25	1	Strains	soft
+par_all	BLB250	1	Strains	soft
+par_all	QL75-2	1	Strains	soft
+par_all	GCA_000161715.1	9	Assemblies	soft
+par_all	GCA_001598095.1	9	Assemblies	soft
+par_all	GCA_002147315.1	9	Assemblies	soft
+par_all	GCA_000468975.2	4	Assemblies	soft
+par_all	GCA_000468995.3	6	Assemblies	soft
+par_all	GCA_000803665.1	7	Assemblies	soft
+par_all	GCA_002147155.1	5	Assemblies	soft
+par_all	GCA_002147165.1	4	Assemblies	soft
+par_all	GCA_002147185.1	5	Assemblies	soft
+par_all	GCA_002147555.1	5	Assemblies	soft
+par_all	GCA_002147575.1	6	Assemblies	soft
+par_all	GCA_002147605.1	6	Assemblies	soft
+par_all	GCA_002147645.1	7	Assemblies	soft
+par_all	GCA_002147685.1	6	Assemblies	soft
+par_all	GCA_002147725.1	5	Assemblies	soft
+par_all	GCA_002236945.1	5	Assemblies	soft
+par_all	GCA_002268645.2	5	Assemblies	soft
+par_all	GCA_002893605.1	5	Assemblies	soft
+par_all	GCA_003312445.1	5	Assemblies	soft
+par_all	GCA_004330415.1	7	Assemblies	soft
+par_all	GCA_002147565.1	7	Assemblies	soft
+par_all	GCA_002893565.1	10	Assemblies	soft
+par_all	Gnyt1	4	Strains	soft
+par_all	KBAB4	1	Strains	strict
+par_all	KBAB4	1	Strains	soft
+par_all	SC5(D2)	1	Strains	strict
+par_all	T03C001	1	Strains	strict
+par_all	BGSN1	1	Strains	strict
+par_all	NBIN-866	13	Strains	soft
+par_all	BGSC 4G1	12	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	BGSC 4AO1	6	Strains	soft
+par_all	4M5	3	Strains	soft
+par_all	BGSC 4AP1	5	Strains	soft
+par_all	SC5(D2)	1	Strains	soft
+par_all	T03C001	1	Strains	soft
+par_all	BGSN1	1	Strains	soft
+par_all	GCA_000600315.1	12	Assemblies	soft
+par_all	GCA_002146315.1	12	Assemblies	soft
+par_all	GCA_002147105.1	12	Assemblies	soft
+par_all	GCA_002146405.1	6	Assemblies	soft
+par_all	GCA_002146425.1	5	Assemblies	soft
+par_all	GCA_002147085.1	12	Assemblies	soft
+par_all	GCA_002147375.1	12	Assemblies	soft
+par_all	ARP174	1	Strains	strict
+par_all	ARP174	1	Strains	soft
+par_all	HS18-1	10	Strains	soft
+par_all	S2160-1	7	Strains	soft
+par_all	BN15-6	2	Strains	soft
+par_all	S2160-1	7	Strains	soft
+par_all	Ywc2-8	3	Strains	soft
+par_all	GCA_001182785.1	9	Assemblies	soft
+par_all	78-2	4	Strains	strict
+par_all	QZL38	4	Strains	strict
+par_all	Bt S185	2	Strains	strict
+par_all	QZL183-2	1	Strains	strict
+par_all	QZL26	1	Strains	strict
+par_all	QWH108	1	Strains	strict
+par_all	FB-32	1	Strains	strict
+par_all	BJH500	1	Strains	strict
+par_all	HBF-1	1	Strains	strict
+par_all	GCA_002893515.1	4	Assemblies	strict
+par_all	GCA_003626955.1	4	Assemblies	strict
+par_all	78-2	4	Strains	soft
+par_all	QZL38	4	Strains	soft
+par_all	Bt S185	2	Strains	soft
+par_all	QZL183-2	1	Strains	soft
+par_all	QZL26	1	Strains	soft
+par_all	QWH108	1	Strains	soft
+par_all	Buibui	2	Strains	soft
+par_all	FB-32	1	Strains	soft
+par_all	BJH500	1	Strains	soft
+par_all	HBF-1	1	Strains	soft
+par_all	GCA_002893515.1	4	Assemblies	soft
+par_all	GCA_003626955.1	4	Assemblies	soft
+par_all	CIB 163-131	3	Strains	soft
+par_all	Bm59-2	2	Strains	strict
+par_all	Bm59-2	2	Strains	soft
+par_all	PS81I	3	Strains	strict
+par_all	EG6346	1	Strains	strict
+par_all	mo3-D10	1	Strains	strict
+par_all	mo3-D8	1	Strains	strict
+par_all	BR37	5	Strains	soft
+par_all	Hu4-2	6	Strains	soft
+par_all	PS81I	3	Strains	soft
+par_all	EG6346	1	Strains	soft
+par_all	mo3-D10	1	Strains	soft
+par_all	mo3-D8	1	Strains	soft
+par_all	GCA_000468995.3	6	Assemblies	soft
+par_all	BtMC28	7	Strains	soft
+par_all	MC28	8	Strains	soft
+par_all	GCA_000300475.1	8	Assemblies	soft
+par_all	IHBB 10380	1	Strains	strict
+par_all	IHBB 10380	1	Strains	soft
+par_all	BtMC28	7	Strains	soft
+par_all	MC28	8	Strains	soft
+par_all	BtMC28	7	Strains	soft
+par_all	MC28	8	Strains	soft
+par_all	GCA_000300475.1	8	Assemblies	soft
+par_all	GCA_000300475.1	8	Assemblies	soft
+par_all	R36	1	Strains	strict
+par_all	R36	1	Strains	soft
+par_all	B-JJX	1	Strains	strict
+par_all	B-JJX	1	Strains	soft
+par_all	SC6H8	5	Strains	soft
+par_all	C006	1	Strains	soft
+par_all	K1	3	Strains	soft
+par_all	ARP220	1	Strains	soft
+par_all	ML090	1	Strains	strict
+par_all	tolworthi 43F	1	Strains	strict
+par_all	BtPGSI208	1	Strains	strict
+par_all	ML090	1	Strains	soft
+par_all	tolworthi 43F	1	Strains	soft
+par_all	BtPGSI208	1	Strains	soft
+par_all	A32	1	Strains	soft
+par_all	BN23-5	5	Strains	soft
+par_all	KNU-25	5	Strains	strict
+par_all	4A1	2	Strains	strict
+par_all	T01001	2	Strains	strict
+par_all	ATCC 10792	2	Strains	strict
+par_all	HD-2	2	Strains	strict
+par_all	4A2	2	Strains	strict
+par_all	7.1o	4	Strains	strict
+par_all	T07030	6	Strains	strict
+par_all	4I5	2	Strains	strict
+par_all	IBL01677	2	Strains	strict
+par_all	SSy141-c	2	Strains	strict
+par_all	Btc005	1	Strains	strict
+par_all	BfR-BA-01348	1	Strains	strict
+par_all	FDAARGOS_801	1	Strains	strict
+par_all	S93	1	Strains	strict
+par_all	SP-01-41	1	Strains	strict
+par_all	BtS2491Ab	1	Strains	strict
+par_all	ARP102	1	Strains	strict
+par_all	GS36	1	Strains	strict
+par_all	NEAU B-X5	2	Strains	strict
+par_all	SSy125-c	2	Strains	strict
+par_all	SSy111-c	2	Strains	strict
+par_all	DOR BT-1	1	Strains	strict
+par_all	SSy126-c	2	Strains	strict
+par_all	SSy126-c	2	Strains	strict
+par_all	BtG7	1	Strains	strict
+par_all	berliner 1715	1	Strains	strict
+par_all	IS5056	6	Strains	strict
+par_all	SY62.1A	1	Strains	strict
+par_all	IPL7	2	Strains	strict
+par_all	WB9	2	Strains	strict
+par_all	X-2	1	Strains	strict
+par_all	B.t-235	1	Strains	strict
+par_all	BRL14	1	Strains	strict
+par_all	B.t-227	1	Strains	strict
+par_all	N32-2-2	1	Strains	strict
+par_all	LS-R-30	1	Strains	strict
+par_all	AC-11	1	Strains	strict
+par_all	4A	1	Strains	strict
+par_all	native Chilean Bt strain	1	Strains	strict
+par_all	BtC008	1	Strains	strict
+par_all	IC1	1	Strains	strict
+par_all	kunthalaRX24	1	Strains	strict
+par_all	GCA_000161515.1	2	Assemblies	strict
+par_all	GCA_000161615.1	2	Assemblies	strict
+par_all	GCA_000710255.1	5	Assemblies	strict
+par_all	GCA_002119445.1	2	Assemblies	strict
+par_all	GCA_002147605.1	6	Assemblies	strict
+par_all	GCA_000341665.1	6	Assemblies	strict
+par_all	IBL02897	9	Strains	soft
+par_all	BGSC 4N1	9	Strains	soft
+par_all	IBL00090	9	Strains	soft
+par_all	IBL00171	9	Strains	soft
+par_all	IBL 200	10	Strains	soft
+par_all	HD12	11	Strains	soft
+par_all	WBT-2	10	Strains	soft
+par_all	GR007	10	Strains	soft
+par_all	G25-97	11	Strains	soft
+par_all	G25-93	10	Strains	soft
+par_all	BGSC 4O1	7	Strains	soft
+par_all	1905	4	Strains	soft
+par_all	2122	4	Strains	soft
+par_all	B401	6	Strains	soft
+par_all	ABTS-1857	7	Strains	soft
+par_all	MS12	7	Strains	soft
+par_all	B-Hm-16	2	Strains	soft
+par_all	HD133	6	Strains	soft
+par_all	T07148	7	Strains	soft
+par_all	HD 1i	6	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	KNU-25	5	Strains	soft
+par_all	4A1	2	Strains	soft
+par_all	T01001	2	Strains	soft
+par_all	ATCC 10792	2	Strains	soft
+par_all	HD-2	2	Strains	soft
+par_all	4A2	2	Strains	soft
+par_all	7.1o	4	Strains	soft
+par_all	T07030	6	Strains	soft
+par_all	4I5	2	Strains	soft
+par_all	IBL01677	2	Strains	soft
+par_all	SSy141-c	2	Strains	soft
+par_all	Btc005	1	Strains	soft
+par_all	BfR-BA-01348	1	Strains	soft
+par_all	FDAARGOS_801	1	Strains	soft
+par_all	S93	1	Strains	soft
+par_all	SP-01-41	1	Strains	soft
+par_all	A-19-31	3	Strains	soft
+par_all	HD133	6	Strains	soft
+par_all	BtS2491Ab	1	Strains	soft
+par_all	L-7601	3	Strains	soft
+par_all	ARP102	1	Strains	soft
+par_all	NBIN-866	13	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	GS36	1	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	BGSC 4G1	12	Strains	soft
+par_all	BGSC 4G4	11	Strains	soft
+par_all	NEAU B-X5	2	Strains	soft
+par_all	SSy125-c	2	Strains	soft
+par_all	SSy111-c	2	Strains	soft
+par_all	K3	2	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	NRD-12	3	Strains	soft
+par_all	FB	4	Strains	soft
+par_all	DOR BT-1	1	Strains	soft
+par_all	SSy126-c	2	Strains	soft
+par_all	SSy126-c	2	Strains	soft
+par_all	BtG7	1	Strains	soft
+par_all	berliner 1715	1	Strains	soft
+par_all	BGSC 4Q1	3	Strains	soft
+par_all	IS5056	6	Strains	soft
+par_all	SY62.1A	1	Strains	soft
+par_all	IPL7	2	Strains	soft
+par_all	WB9	2	Strains	soft
+par_all	X-2	1	Strains	soft
+par_all	BGSC 4BV1	3	Strains	soft
+par_all	B.t-235	1	Strains	soft
+par_all	BRL14	1	Strains	soft
+par_all	B.t-227	1	Strains	soft
+par_all	N32-2-2	1	Strains	soft
+par_all	LS-R-30	1	Strains	soft
+par_all	AC-11	1	Strains	soft
+par_all	4A	1	Strains	soft
+par_all	native Chilean Bt strain	1	Strains	soft
+par_all	BtC008	1	Strains	soft
+par_all	IC1	1	Strains	soft
+par_all	kunthalaRX24	1	Strains	soft
+par_all	GCA_000161515.1	2	Assemblies	soft
+par_all	GCA_000161615.1	2	Assemblies	soft
+par_all	GCA_000710255.1	5	Assemblies	soft
+par_all	GCA_000717535.1	6	Assemblies	soft
+par_all	GCA_000835235.1	6	Assemblies	soft
+par_all	GCA_002119445.1	2	Assemblies	soft
+par_all	GCA_002147605.1	6	Assemblies	soft
+par_all	GCA_002147645.1	7	Assemblies	soft
+par_all	GCA_004330415.1	7	Assemblies	soft
+par_all	GCA_000161715.1	9	Assemblies	soft
+par_all	GCA_001598095.1	9	Assemblies	soft
+par_all	GCA_002147315.1	9	Assemblies	soft
+par_all	GCA_002147325.1	7	Assemblies	soft
+par_all	GCA_002893565.1	10	Assemblies	soft
+par_all	GCA_000341665.1	6	Assemblies	soft
+par_all	GCA_000600315.1	12	Assemblies	soft
+par_all	GCA_002147085.1	12	Assemblies	soft
+par_all	GCA_002025105.1	3	Assemblies	soft
+par_all	GCA_002146315.1	12	Assemblies	soft
+par_all	GCA_002147375.1	12	Assemblies	soft
+par_all	GCA_002147105.1	12	Assemblies	soft
+par_all	IBL02897	9	Strains	soft
+par_all	BGSC 4N1	9	Strains	soft
+par_all	IBL00090	9	Strains	soft
+par_all	IBL00171	9	Strains	soft
+par_all	IBL 200	10	Strains	soft
+par_all	HD12	11	Strains	soft
+par_all	WBT-2	10	Strains	soft
+par_all	GR007	10	Strains	soft
+par_all	G25-97	11	Strains	soft
+par_all	BGSC 4O1	7	Strains	soft
+par_all	EG 5847	2	Strains	soft
+par_all	IBL 200	10	Strains	soft
+par_all	FH21	4	Strains	soft
+par_all	WBT-2	10	Strains	soft
+par_all	GCA_000161715.1	9	Assemblies	soft
+par_all	GCA_001598095.1	9	Assemblies	soft
+par_all	GCA_002147315.1	9	Assemblies	soft
+par_all	GCA_002147325.1	7	Assemblies	soft
+par_all	GCA_002893565.1	10	Assemblies	soft
+par_all	XL6	7	Strains	soft
+par_all	BTy41	6	Strains	soft
+par_all	S725	1	Strains	strict
+par_all	S725	1	Strains	soft
+par_all	Bun1-14	4	Strains	soft
+par_all	LBIT-107	2	Strains	strict
+par_all	LBIT-107	2	Strains	soft
+par_all	BN23-5	5	Strains	soft
+par_all	CMCC P0021	2	Strains	strict
+par_all	CMCC P0011	2	Strains	strict
+par_all	CMCC P0021	2	Strains	soft
+par_all	CMCC P0011	2	Strains	soft
+par_all	HS18-1	10	Strains	soft
+par_all	HS18-1	10	Strains	soft
+par_all	BN7-5	1	Strains	soft
+par_all	G7-1	2	Strains	soft
+par_all	Ywc2-8	3	Strains	soft
+par_all	GCA_001182785.1	9	Assemblies	soft
+par_all	14-1	1	Strains	strict
+par_all	x023	4	Strains	strict
+par_all	SA11	4	Strains	strict
+par_all	BGSC 4C1	2	Strains	strict
+par_all	IS5056	6	Strains	strict
+par_all	KNU-25	5	Strains	strict
+par_all	IBL00197	4	Strains	strict
+par_all	ZZQ-130	4	Strains	strict
+par_all	AFS057829	5	Strains	strict
+par_all	CT-43	5	Strains	strict
+par_all	BfR-BA-01319	5	Strains	strict
+par_all	BGSC 4J2	5	Strains	strict
+par_all	T01-328	5	Strains	strict
+par_all	NA205-3	4	Strains	strict
+par_all	UFT038	3	Strains	strict
+par_all	ISP2954	3	Strains	strict
+par_all	QB15	3	Strains	strict
+par_all	AFS061780	3	Strains	strict
+par_all	NT06	3	Strains	strict
+par_all	4N	3	Strains	strict
+par_all	AFS031473	3	Strains	strict
+par_all	AK47	3	Strains	strict
+par_all	TK1	3	Strains	strict
+par_all	18_218	3	Strains	strict
+par_all	TB08	3	Strains	strict
+par_all	SY49-1	3	Strains	strict
+par_all	4D2	3	Strains	strict
+par_all	PT02	3	Strains	strict
+par_all	Staal2-3	3	Strains	strict
+par_all	7.1o	4	Strains	strict
+par_all	BR145	3	Strains	strict
+par_all	BP865	3	Strains	strict
+par_all	MOD1_Bc30	3	Strains	strict
+par_all	AFS034084	3	Strains	strict
+par_all	CH_722	3	Strains	strict
+par_all	DBG15	3	Strains	strict
+par_all	CH_698	3	Strains	strict
+par_all	AFS004414	3	Strains	strict
+par_all	DE0161	3	Strains	strict
+par_all	CH_81	3	Strains	strict
+par_all	CH_684	3	Strains	strict
+par_all	BGSC 4J1	4	Strains	strict
+par_all	AFS018409	3	Strains	strict
+par_all	4D5	3	Strains	strict
+par_all	MOD1_Bc235	3	Strains	strict
+par_all	18_216	3	Strains	strict
+par_all	MOD1_Bc137	3	Strains	strict
+par_all	T414	3	Strains	strict
+par_all	CH_69	3	Strains	strict
+par_all	DE0589	3	Strains	strict
+par_all	AFS043930	3	Strains	strict
+par_all	T07030	6	Strains	strict
+par_all	X023PN	3	Strains	strict
+par_all	18_421	3	Strains	strict
+par_all	HuB13-1	3	Strains	strict
+par_all	Staal7-4	3	Strains	strict
+par_all	18_614	3	Strains	strict
+par_all	SK-793	1	Strains	strict
+par_all	HD-9	3	Strains	strict
+par_all	SP41	3	Strains	strict
+par_all	MOD1_Bc231	2	Strains	strict
+par_all	BJH406	1	Strains	strict
+par_all	BTC002	1	Strains	strict
+par_all	DS415	1	Strains	strict
+par_all	C2Ab148	1	Strains	strict
+par_all	BRI-258	1	Strains	strict
+par_all	BRI-258	1	Strains	strict
+par_all	C2Ab86	1	Strains	strict
+par_all	BRI-258	1	Strains	strict
+par_all	C2Ab118	1	Strains	strict
+par_all	4L2	3	Strains	strict
+par_all	4L4	2	Strains	strict
+par_all	B-Pr-88	4	Strains	strict
+par_all	4L1	3	Strains	strict
+par_all	ly30	4	Strains	strict
+par_all	NEAU B-X5	2	Strains	strict
+par_all	CYZ-4	1	Strains	strict
+par_all	WB2	1	Strains	strict
+par_all	SSy125-c	2	Strains	strict
+par_all	SSy111-c	2	Strains	strict
+par_all	SSy77	2	Strains	strict
+par_all	2260	1	Strains	strict
+par_all	HTS-S-38	2	Strains	strict
+par_all	YY1	1	Strains	strict
+par_all	PS9-C12	2	Strains	strict
+par_all	SSy126-c	2	Strains	strict
+par_all	SSy126-c	2	Strains	strict
+par_all	MPU B5	3	Strains	strict
+par_all	lyD	1	Strains	strict
+par_all	lyL	1	Strains	strict
+par_all	MnD	1	Strains	strict
+par_all	WZ-7	1	Strains	strict
+par_all	SSy60-b	1	Strains	strict
+par_all	SSy60-b	1	Strains	strict
+par_all	SSy141-c	2	Strains	strict
+par_all	LLB6	2	Strains	strict
+par_all	CMBL-BT1	2	Strains	strict
+par_all	GCA_000193355.1	5	Assemblies	strict
+par_all	GCA_000341665.1	6	Assemblies	strict
+par_all	GCA_000387405.2	5	Assemblies	strict
+par_all	GCA_000710255.1	5	Assemblies	strict
+par_all	GCA_001640965.1	2	Assemblies	strict
+par_all	GCA_001880125.1	3	Assemblies	strict
+par_all	GCA_002146845.1	1	Assemblies	strict
+par_all	GCA_002147155.1	5	Assemblies	strict
+par_all	GCA_002147165.1	4	Assemblies	strict
+par_all	GCA_002147605.1	6	Assemblies	strict
+par_all	GCA_002555365.1	3	Assemblies	strict
+par_all	GCA_002572135.1	3	Assemblies	strict
+par_all	GCA_002574115.1	5	Assemblies	strict
+par_all	GCA_002581075.1	3	Assemblies	strict
+par_all	GCA_002589015.1	3	Assemblies	strict
+par_all	GCA_002589045.1	3	Assemblies	strict
+par_all	GCA_004167115.1	3	Assemblies	strict
+par_all	14-1	1	Strains	soft
+par_all	27	4	Strains	soft
+par_all	GC-91	6	Strains	soft
+par_all	1905	4	Strains	soft
+par_all	YBT-1520	5	Strains	soft
+par_all	BGSC 4X1	4	Strains	soft
+par_all	T07019	7	Strains	soft
+par_all	SY27.1	5	Strains	soft
+par_all	BGSC 4J4	4	Strains	soft
+par_all	G03	5	Strains	soft
+par_all	CVUAS2492	5	Strains	soft
+par_all	CH_65	5	Strains	soft
+par_all	14-2	3	Strains	soft
+par_all	Leapi01	4	Strains	soft
+par_all	AGES_2_27_S	5	Strains	soft
+par_all	25-6	3	Strains	soft
+par_all	2122	4	Strains	soft
+par_all	AGES_6_27_S	6	Strains	soft
+par_all	CH_748	5	Strains	soft
+par_all	P01_3	5	Strains	soft
+par_all	Bt-GS57	5	Strains	soft
+par_all	CH_733	5	Strains	soft
+par_all	Staal1-1	5	Strains	soft
+par_all	B401	6	Strains	soft
+par_all	CH_72	6	Strains	soft
+par_all	T07153	6	Strains	soft
+par_all	26-1	3	Strains	soft
+par_all	LTS-7	2	Strains	soft
+par_all	6/27/S	6	Strains	soft
+par_all	CVUAS9659	5	Strains	soft
+par_all	20-1	3	Strains	soft
+par_all	ABTS-1857	7	Strains	soft
+par_all	CH_696	5	Strains	soft
+par_all	777001-1	5	Strains	soft
+par_all	M100	3	Strains	soft
+par_all	T07183	6	Strains	soft
+par_all	21-1	3	Strains	soft
+par_all	CH_746	5	Strains	soft
+par_all	CH_692	5	Strains	soft
+par_all	I13	6	Strains	soft
+par_all	kn11	5	Strains	soft
+par_all	CVUAS9660	5	Strains	soft
+par_all	30-1	3	Strains	soft
+par_all	27-3	5	Strains	soft
+par_all	MS12	7	Strains	soft
+par_all	P01_1	5	Strains	soft
+par_all	HD133	6	Strains	soft
+par_all	1126_1	5	Strains	soft
+par_all	PT18	5	Strains	soft
+par_all	777001F-1	5	Strains	soft
+par_all	007983-6	5	Strains	soft
+par_all	T07005	6	Strains	soft
+par_all	RIVM BC 934	6	Strains	soft
+par_all	CH_709	5	Strains	soft
+par_all	007986-5	6	Strains	soft
+par_all	777002-3	5	Strains	soft
+par_all	007989-3	6	Strains	soft
+par_all	T07148	7	Strains	soft
+par_all	30-4	3	Strains	soft
+par_all	T07128	4	Strains	soft
+par_all	HD29	10	Strains	soft
+par_all	YC-10	5	Strains	soft
+par_all	G25-96	5	Strains	soft
+par_all	IBL03111	5	Strains	soft
+par_all	IBL00503	5	Strains	soft
+par_all	IBL01259	5	Strains	soft
+par_all	IBL01313	5	Strains	soft
+par_all	HD 1i	6	Strains	soft
+par_all	x023	4	Strains	soft
+par_all	ABTS-351	5	Strains	soft
+par_all	BMG1.7	5	Strains	soft
+par_all	BGSC 4L3	5	Strains	soft
+par_all	SA11	4	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	BGSC 4C1	2	Strains	soft
+par_all	IS5056	6	Strains	soft
+par_all	KNU-25	5	Strains	soft
+par_all	IBL00197	4	Strains	soft
+par_all	ZZQ-130	4	Strains	soft
+par_all	AFS057829	5	Strains	soft
+par_all	CT-43	5	Strains	soft
+par_all	IMBL-B9	5	Strains	soft
+par_all	BfR-BA-01319	5	Strains	soft
+par_all	BGSC 4J2	5	Strains	soft
+par_all	T01-328	5	Strains	soft
+par_all	NA205-3	4	Strains	soft
+par_all	UFT038	3	Strains	soft
+par_all	ISP2954	3	Strains	soft
+par_all	QB15	3	Strains	soft
+par_all	AFS061780	3	Strains	soft
+par_all	NT06	3	Strains	soft
+par_all	4N	3	Strains	soft
+par_all	AFS031473	3	Strains	soft
+par_all	AK47	3	Strains	soft
+par_all	TK1	3	Strains	soft
+par_all	18_218	3	Strains	soft
+par_all	TB08	3	Strains	soft
+par_all	SY49-1	3	Strains	soft
+par_all	4D2	3	Strains	soft
+par_all	PT02	3	Strains	soft
+par_all	Staal2-3	3	Strains	soft
+par_all	7.1o	4	Strains	soft
+par_all	BR145	3	Strains	soft
+par_all	BP865	3	Strains	soft
+par_all	MOD1_Bc30	3	Strains	soft
+par_all	AFS034084	3	Strains	soft
+par_all	CH_722	3	Strains	soft
+par_all	DBG15	3	Strains	soft
+par_all	CH_698	3	Strains	soft
+par_all	AFS004414	3	Strains	soft
+par_all	DE0161	3	Strains	soft
+par_all	CH_81	3	Strains	soft
+par_all	CH_684	3	Strains	soft
+par_all	BGSC 4J1	4	Strains	soft
+par_all	AFS018409	3	Strains	soft
+par_all	4D5	3	Strains	soft
+par_all	MOD1_Bc235	3	Strains	soft
+par_all	18_216	3	Strains	soft
+par_all	MOD1_Bc137	3	Strains	soft
+par_all	T414	3	Strains	soft
+par_all	CH_69	3	Strains	soft
+par_all	DE0589	3	Strains	soft
+par_all	AFS043930	3	Strains	soft
+par_all	T07030	6	Strains	soft
+par_all	X023PN	3	Strains	soft
+par_all	18_421	3	Strains	soft
+par_all	HuB13-1	3	Strains	soft
+par_all	Staal7-4	3	Strains	soft
+par_all	18_614	3	Strains	soft
+par_all	SK-793	1	Strains	soft
+par_all	HD-9	3	Strains	soft
+par_all	SP41	3	Strains	soft
+par_all	MOD1_Bc231	2	Strains	soft
+par_all	BJH406	1	Strains	soft
+par_all	BTC002	1	Strains	soft
+par_all	DS415	1	Strains	soft
+par_all	C2Ab148	1	Strains	soft
+par_all	BRI-258	1	Strains	soft
+par_all	BRI-258	1	Strains	soft
+par_all	C2Ab86	1	Strains	soft
+par_all	BRI-258	1	Strains	soft
+par_all	C2Ab118	1	Strains	soft
+par_all	LSZ9408	2	Strains	soft
+par_all	NBIN-866	13	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4G1	12	Strains	soft
+par_all	BGSC 4G4	11	Strains	soft
+par_all	AFS098022	2	Strains	soft
+par_all	4F4	5	Strains	soft
+par_all	4F1	5	Strains	soft
+par_all	FB	4	Strains	soft
+par_all	4L2	3	Strains	soft
+par_all	4L4	2	Strains	soft
+par_all	BGSC 4AW1	7	Strains	soft
+par_all	B-Pr-88	4	Strains	soft
+par_all	BMB3201	4	Strains	soft
+par_all	4F3	3	Strains	soft
+par_all	4L1	3	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	ly30	4	Strains	soft
+par_all	BN23-5	5	Strains	soft
+par_all	NEAU B-X5	2	Strains	soft
+par_all	CYZ-4	1	Strains	soft
+par_all	WB2	1	Strains	soft
+par_all	SSy125-c	2	Strains	soft
+par_all	SSy111-c	2	Strains	soft
+par_all	SSy77	2	Strains	soft
+par_all	2260	1	Strains	soft
+par_all	HTS-S-38	2	Strains	soft
+par_all	HD-1	7	Strains	soft
+par_all	Bts	2	Strains	soft
+par_all	YY1	1	Strains	soft
+par_all	PS9-C12	2	Strains	soft
+par_all	SSy126-c	2	Strains	soft
+par_all	SSy126-c	2	Strains	soft
+par_all	MPU B5	3	Strains	soft
+par_all	lyD	1	Strains	soft
+par_all	lyL	1	Strains	soft
+par_all	MnD	1	Strains	soft
+par_all	WZ-7	1	Strains	soft
+par_all	SSy60-b	1	Strains	soft
+par_all	SSy60-b	1	Strains	soft
+par_all	ywc5-4	2	Strains	soft
+par_all	SSy141-c	2	Strains	soft
+par_all	LLB6	2	Strains	soft
+par_all	CMBL-BT1	2	Strains	soft
+par_all	GCA_000193355.1	5	Assemblies	soft
+par_all	GCA_000341665.1	6	Assemblies	soft
+par_all	GCA_000387405.2	5	Assemblies	soft
+par_all	GCA_000468975.2	4	Assemblies	soft
+par_all	GCA_000688795.1	5	Assemblies	soft
+par_all	GCA_000710255.1	5	Assemblies	soft
+par_all	GCA_000747545.1	5	Assemblies	soft
+par_all	GCA_000803665.1	7	Assemblies	soft
+par_all	GCA_000835235.1	6	Assemblies	soft
+par_all	GCA_000969665.1	2	Assemblies	soft
+par_all	GCA_001017635.1	5	Assemblies	soft
+par_all	GCA_001640965.1	2	Assemblies	soft
+par_all	GCA_001880115.1	4	Assemblies	soft
+par_all	GCA_001880125.1	3	Assemblies	soft
+par_all	GCA_002146845.1	1	Assemblies	soft
+par_all	GCA_002147155.1	5	Assemblies	soft
+par_all	GCA_002147165.1	4	Assemblies	soft
+par_all	GCA_002147185.1	5	Assemblies	soft
+par_all	GCA_002147235.1	4	Assemblies	soft
+par_all	GCA_002147245.1	5	Assemblies	soft
+par_all	GCA_002147435.1	4	Assemblies	soft
+par_all	GCA_002147555.1	5	Assemblies	soft
+par_all	GCA_002147565.1	7	Assemblies	soft
+par_all	GCA_002147575.1	6	Assemblies	soft
+par_all	GCA_002147605.1	6	Assemblies	soft
+par_all	GCA_002147635.1	4	Assemblies	soft
+par_all	GCA_002147645.1	7	Assemblies	soft
+par_all	GCA_002147685.1	6	Assemblies	soft
+par_all	GCA_002147725.1	5	Assemblies	soft
+par_all	GCA_002236945.1	5	Assemblies	soft
+par_all	GCA_002268645.2	5	Assemblies	soft
+par_all	GCA_002555365.1	3	Assemblies	soft
+par_all	GCA_002572135.1	3	Assemblies	soft
+par_all	GCA_002574115.1	5	Assemblies	soft
+par_all	GCA_002581075.1	3	Assemblies	soft
+par_all	GCA_002589015.1	3	Assemblies	soft
+par_all	GCA_002589045.1	3	Assemblies	soft
+par_all	GCA_002893605.1	5	Assemblies	soft
+par_all	GCA_003312445.1	5	Assemblies	soft
+par_all	GCA_004167115.1	3	Assemblies	soft
+par_all	GCA_004330415.1	7	Assemblies	soft
+par_all	GCA_000600315.1	12	Assemblies	soft
+par_all	GCA_002146595.1	4	Assemblies	soft
+par_all	GCA_002147105.1	12	Assemblies	soft
+par_all	GCA_002147375.1	12	Assemblies	soft
+par_all	GCA_000717535.1	6	Assemblies	soft
+par_all	GCA_002146315.1	12	Assemblies	soft
+par_all	GCA_002147085.1	12	Assemblies	soft
+par_all	GCA_002146315.1	12	Assemblies	soft
+par_all	GCA_002147085.1	12	Assemblies	soft
+par_all	GCA_002147375.1	12	Assemblies	soft
+par_all	S2096-2	1	Strains	strict
+par_all	S2096-2	1	Strains	soft
+par_all	BGSC 4U1	5	Strains	soft
+par_all	NRRL B-18679	2	Strains	strict
+par_all	G25-46	2	Strains	strict
+par_all	NRRL B-18679	2	Strains	strict
+par_all	G25-47	1	Strains	strict
+par_all	LBIT-107	2	Strains	strict
+par_all	PS167P	1	Strains	strict
+par_all	NRRL B-18679	2	Strains	soft
+par_all	G25-46	2	Strains	soft
+par_all	NRRL B-18679	2	Strains	soft
+par_all	C15	5	Strains	soft
+par_all	G25-47	1	Strains	soft
+par_all	LBIT-107	2	Strains	soft
+par_all	PS167P	1	Strains	soft
+par_all	GCA_003991175.1	5	Assemblies	soft
+par_all	ARP242	1	Strains	strict
+par_all	ARP242	1	Strains	soft
+par_all	PS81A2	1	Strains	strict
+par_all	PS81A2	1	Strains	soft
+par_all	AFS005140	8	Strains	soft
+par_all	AFS013213	8	Strains	soft
+par_all	AFS088016	8	Strains	soft
+par_all	AFS059039	8	Strains	soft
+par_all	AFS030866	7	Strains	soft
+par_all	GCA_002558015.1	7	Assemblies	soft
+par_all	GCA_002558525.1	7	Assemblies	soft
+par_all	GCA_002564505.1	7	Assemblies	soft
+par_all	GCA_002571305.1	7	Assemblies	soft
+par_all	GCA_002586085.1	5	Assemblies	soft
+par_all	btsu4	3	Strains	soft
+par_all	SWK1	1	Strains	strict
+par_all	SWK1	1	Strains	soft
+par_all	BT HMM-SLK	1	Strains	soft
+par_all	BT HMM-SITAB	1	Strains	soft
+par_all	kenyae	1	Strains	soft
+par_all	V4	3	Strains	soft
+par_all	SVBS18-01	3	Strains	soft
+par_all	4F4	5	Strains	soft
+par_all	BGSC 4J5	4	Strains	soft
+par_all	HD5	4	Strains	soft
+par_all	4F1	5	Strains	soft
+par_all	IMBL-B9	5	Strains	soft
+par_all	4F3	3	Strains	soft
+par_all	2124	2	Strains	soft
+par_all	PS81F	1	Strains	soft
+par_all	BGSC 4M3	1	Strains	soft
+par_all	4M4	1	Strains	soft
+par_all	4M1	1	Strains	soft
+par_all	4M2	1	Strains	soft
+par_all	BfR-BA-01318	1	Strains	soft
+par_all	BRC-XQ12	1	Strains	soft
+par_all	YBT-032	1	Strains	soft
+par_all	G25-18	1	Strains	soft
+par_all	FB	4	Strains	soft
+par_all	S6	2	Strains	soft
+par_all	Pasteur Institute Standard strain	3	Strains	soft
+par_all	BfR-BA-01393	2	Strains	soft
+par_all	HZM2	1	Strains	soft
+par_all	LBIT-147	1	Strains	soft
+par_all	BR64	1	Strains	soft
+par_all	GCA_001548175.1	3	Assemblies	soft
+par_all	GCA_002147255.1	4	Assemblies	soft
+par_all	GCA_002147495.1	1	Assemblies	soft
+par_all	GCA_002147535.1	4	Assemblies	soft
+par_all	Bun1-14	4	Strains	soft
+par_all	ARP166	1	Strains	strict
+par_all	ARP166	1	Strains	soft
+par_all	IPPBIOTSUC-C9F1	2	Strains	soft
+par_all	BTH-13	1	Strains	strict
+par_all	BTH-13	1	Strains	soft
+par_all	DP1019	2	Strains	soft
+par_all	pms45-2	1	Strains	strict
+par_all	HS18-1	10	Strains	soft
+par_all	HS18-1	10	Strains	soft
+par_all	pms45-2	1	Strains	soft
+par_all	GCA_001182785.1	9	Assemblies	soft
+par_all	EG5092	1	Strains	strict
+par_all	EG5092	1	Strains	soft
+par_all	FDAARGOS_800	2	Strains	strict
+par_all	HD 600	2	Strains	strict
+par_all	FDAARGOS_800	2	Strains	strict
+par_all	HD 600	2	Strains	strict
+par_all	GCA_000833655.1	2	Assemblies	strict
+par_all	HD12	11	Strains	soft
+par_all	G25-97	11	Strains	soft
+par_all	BGSC 4O1	7	Strains	soft
+par_all	WBT-2	10	Strains	soft
+par_all	GR007	10	Strains	soft
+par_all	G25-93	10	Strains	soft
+par_all	FDAARGOS_800	2	Strains	soft
+par_all	HD 600	2	Strains	soft
+par_all	WBT-2	10	Strains	soft
+par_all	G25-93	10	Strains	soft
+par_all	FDAARGOS_800	2	Strains	soft
+par_all	HD 600	2	Strains	soft
+par_all	morrisoni BF190	2	Strains	soft
+par_all	morrisoni BF190	2	Strains	soft
+par_all	GCA_000833655.1	2	Assemblies	soft
+par_all	GCA_002147325.1	7	Assemblies	soft
+par_all	GCA_002893565.1	10	Assemblies	soft
+par_all	ARP256	1	Strains	strict
+par_all	ARP256	1	Strains	soft
+par_all	kunthalaRX27	1	Strains	strict
+par_all	kunthalaRX27	1	Strains	soft
+par_all	G25-44	3	Strains	strict
+par_all	MYBT18246	3	Strains	strict
+par_all	GCA_001685565.1	3	Assemblies	strict
+par_all	G25-44	3	Strains	soft
+par_all	MYBT18246	3	Strains	soft
+par_all	GCA_001685565.1	3	Assemblies	soft
+par_all	BGSC 4U1	5	Strains	soft
+par_all	L-7601	3	Strains	soft
+par_all	NBIN-866	13	Strains	soft
+par_all	HD-525	12	Strains	soft
+par_all	BGSC 4G1	12	Strains	soft
+par_all	BGSC 4G4	11	Strains	soft
+par_all	BGSC 4CB1	12	Strains	soft
+par_all	4G3	5	Strains	soft
+par_all	BGSC 4AE1	12	Strains	soft
+par_all	4G2	6	Strains	soft
+par_all	AFS045441	1	Strains	soft
+par_all	AFS098022	2	Strains	soft
+par_all	K4	1	Strains	soft
+par_all	834	1	Strains	soft
+par_all	GCA_000600315.1	12	Assemblies	soft
+par_all	GCA_002146315.1	12	Assemblies	soft
+par_all	GCA_002147085.1	12	Assemblies	soft
+par_all	GCA_002147105.1	12	Assemblies	soft
+par_all	GCA_002147375.1	12	Assemblies	soft
+par_all	GCA_002025105.1	3	Assemblies	soft
+par_all	96-OK-85-24	3	Strains	soft
+par_all	jegathesan 367	5	Strains	soft

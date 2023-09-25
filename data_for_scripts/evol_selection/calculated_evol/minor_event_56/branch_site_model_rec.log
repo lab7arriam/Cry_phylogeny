@@ -1,0 +1,129 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~3a81d214078e1806dfbe057f188dd129)
+  - processing model bsA (bsA~b5ed44c83330f366fe48f8954da62650)
+       marking branches 5
+
+          ((BT_Cry8Db1,BT_Cry8Da1),(((NOV_Cry8Ab1_80.3_AFP44678.1,NOV_Cry8Ab1_80.0_AMR06151.1),BT_Cry8Ab1),BT_Cry8Ac1),BT_Cry9Ca1 #1);
+
+  - processing model bsA1 (bsA1~aee5ee85117dceb29a94d944f17f1dff)
+       marking branches 5
+
+          ((BT_Cry8Db1,BT_Cry8Da1),(((NOV_Cry8Ab1_80.3_AFP44678.1,NOV_Cry8Ab1_80.0_AMR06151.1),BT_Cry8Ab1),BT_Cry8Ac1),BT_Cry9Ca1 #1);
+
+  - processing model bsB (bsB~182563325ca16a57a3a3fd77f096b9af)
+       marking branches 5
+
+          ((BT_Cry8Db1,BT_Cry8Da1),(((NOV_Cry8Ab1_80.3_AFP44678.1,NOV_Cry8Ab1_80.0_AMR06151.1),BT_Cry8Ab1),BT_Cry8Ac1),BT_Cry9Ca1 #1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~3a81d214078e1806dfbe057f188dd129 |      bsA.5-1~5dfb15986539e2d490bf89f715ca1631 | 0.000000**
+                M0~3a81d214078e1806dfbe057f188dd129 |     bsA1.5-1~c6abd3d494de1ca79a4e299e029ee8dd | 0.000000**
+                M0~3a81d214078e1806dfbe057f188dd129 |      bsB.5-1~be1aa2d4e306725fa10f0a55f3f04da7 | 0.000000**
+           bsA.5-1~5dfb15986539e2d490bf89f715ca1631 |      bsB.5-1~be1aa2d4e306725fa10f0a55f3f04da7 | 0.104145
+          bsA1.5-1~c6abd3d494de1ca79a4e299e029ee8dd |      bsA.5-1~5dfb15986539e2d490bf89f715ca1631 | 0.057048
+          bsA1.5-1~c6abd3d494de1ca79a4e299e029ee8dd |      bsB.5-1~be1aa2d4e306725fa10f0a55f3f04da7 | 0.043672*
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.211
+
+ - Model bsA.5-1
+   * Marked branches
+      ((BT_Cry8Db1,BT_Cry8Da1),(((NOV_Cry8Ab1_80.3_AFP44678.1,NOV_Cry8Ab1_80.0_AMR06151.1),BT_Cry8Ab1),BT_Cry8Ac1),BT_Cry9Ca1 #1);
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                 2   |   Conserved (probability > 0.95)
+                 6   |   Conserved (probability > 0.95)
+            9-  10   |   Conserved (probability > 0.95)
+                12   |   Conserved (probability > 0.95)
+                19   |   Conserved (probability > 0.95)
+                27   |   Conserved (probability > 0.95)
+                30   |   Conserved (probability > 0.95)
+           33-  34   |   Conserved (probability > 0.95)
+                36   |   Conserved (probability > 0.95)
+                39   |   Conserved (probability > 0.95)
+           41-  42   |   Conserved (probability > 0.95)
+                46   |   Conserved (probability > 0.95)
+                49   |   Conserved (probability > 0.95)
+                51   |   Conserved (probability > 0.95)
+                53   |   Conserved (probability > 0.95)
+           55-  57   |   Conserved (probability > 0.95)
+           62-  63   |   Conserved (probability > 0.95)
+           66-  67   |   Conserved (probability > 0.95)
+           75-  76   |   Conserved (probability > 0.95)
+                78   |   Conserved (probability > 0.95)
+           81-  83   |   Conserved (probability > 0.95)
+                86   |   Conserved (probability > 0.95)
+           89-  90   |   Conserved (probability > 0.95)
+           92-  95   |   Conserved (probability > 0.95)
+           98-  99   |   Conserved (probability > 0.95)
+          101- 102   |   Conserved (probability > 0.95)
+               105   |   Conserved (probability > 0.95)
+          108- 110   |   Conserved (probability > 0.95)
+          113- 117   |   Conserved (probability > 0.95)
+               119   |   Conserved (probability > 0.95)
+          121- 125   |   Conserved (probability > 0.95)
+          127- 129   |   Conserved (probability > 0.95)
+          131- 132   |   Conserved (probability > 0.95)
+          136- 137   |   Conserved (probability > 0.95)
+          141- 142   |   Conserved (probability > 0.95)
+               146   |   Conserved (probability > 0.95)
+          148- 149   |   Conserved (probability > 0.95)
+          159- 160   |   Conserved (probability > 0.95)
+               164   |   Conserved (probability > 0.95)
+          166- 168   |   Conserved (probability > 0.95)
+               171   |   Conserved (probability > 0.95)
+          173- 174   |   Conserved (probability > 0.95)
+          182- 185   |   Conserved (probability > 0.95)
+          187- 188   |   Conserved (probability > 0.95)
+               189   |   Conserved (probability > 0.99)
+               190   |   Conserved (probability > 0.95)
+          193- 195   |   Conserved (probability > 0.95)
+          197- 201   |   Conserved (probability > 0.95)
+
+ - Model bsA1.5-1
+   * Marked branches
+      ((BT_Cry8Db1,BT_Cry8Da1),(((NOV_Cry8Ab1_80.3_AFP44678.1,NOV_Cry8Ab1_80.0_AMR06151.1),BT_Cry8Ab1),BT_Cry8Ac1),BT_Cry9Ca1 #1);
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                 2   |   Relaxed (probability > 0.95)
+                 6   |   Relaxed (probability > 0.95)
+                 9   |   Relaxed (probability > 0.95)
+                27   |   Relaxed (probability > 0.95)
+           41-  42   |   Relaxed (probability > 0.95)
+                49   |   Relaxed (probability > 0.95)
+                51   |   Relaxed (probability > 0.95)
+                55   |   Relaxed (probability > 0.95)
+                57   |   Relaxed (probability > 0.95)
+                75   |   Relaxed (probability > 0.95)
+                81   |   Relaxed (probability > 0.95)
+           93-  94   |   Relaxed (probability > 0.95)
+          101- 102   |   Relaxed (probability > 0.95)
+               115   |   Relaxed (probability > 0.95)
+               117   |   Relaxed (probability > 0.95)
+               128   |   Relaxed (probability > 0.95)
+          131- 132   |   Relaxed (probability > 0.95)
+               136   |   Relaxed (probability > 0.95)
+          141- 142   |   Relaxed (probability > 0.95)
+               189   |   Relaxed (probability > 0.95)
+               195   |   Relaxed (probability > 0.95)
+               200   |   Relaxed (probability > 0.95)
+
+ - Model bsB.5-1
+   * Marked branches
+      ((BT_Cry8Db1,BT_Cry8Da1),(((NOV_Cry8Ab1_80.3_AFP44678.1,NOV_Cry8Ab1_80.0_AMR06151.1),BT_Cry8Ab1),BT_Cry8Ac1),BT_Cry9Ca1 #1);
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                 6   |   Conserved (probability > 0.95)
+                41   |   Conserved (probability > 0.95)

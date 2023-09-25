@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~994a8951329197047353fe9ab3c929ae)
+  - processing model b_free (b_free~a3238b5b80d182d6516639e3a6e6d13e)
+       marking branches 7
+
+          (((BT_Cry65Aa2 #1,((BT_Cry21Aa1,BT_Cry21Ba1),BT_Cry5Ba1)),BT_Cry5Ea2),BT_Cry5Ac1,BT_Cry5Ab1);
+
+  - processing model b_neut (b_neut~027f2f553c4e12d655a14d9236da2ed8)
+       marking branches 7
+
+          (((BT_Cry65Aa2 #1,((BT_Cry21Aa1,BT_Cry21Ba1),BT_Cry5Ba1)),BT_Cry5Ea2),BT_Cry5Ac1,BT_Cry5Ab1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~994a8951329197047353fe9ab3c929ae |   b_free.7-1~44eb25a840aca8f9c7bfba6b545a3886 | 0.056401
+        b_neut.7-1~9b55b29d32a404d1846c98b05a536a42 |   b_free.7-1~44eb25a840aca8f9c7bfba6b545a3886 | 0.000018**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.161
+
+ - Model b_free.7-1
+   * Marked branches
+      (((BT_Cry65Aa2 #1,((BT_Cry21Aa1,BT_Cry21Ba1),BT_Cry5Ba1)),BT_Cry5Ea2),BT_Cry5Ac1,BT_Cry5Ab1);
+
+        Branches  =>   omega
+      background  =>   0.168
+              #1  =>   0.007
+
+ - Model b_neut.7-1
+   * Marked branches
+      (((BT_Cry65Aa2 #1,((BT_Cry21Aa1,BT_Cry21Ba1),BT_Cry5Ba1)),BT_Cry5Ea2),BT_Cry5Ac1,BT_Cry5Ab1);
+
+        Branches  =>   omega
+      background  =>   0.160
+              #1  =>   1.000

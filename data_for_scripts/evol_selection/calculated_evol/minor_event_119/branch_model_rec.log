@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~7fd60e7bbede32a9930e47036fdce136)
+  - processing model b_free (b_free~ce168a0bb38fc8962cde763f08c071e3)
+       marking branches 3
+
+          ((BT_Cry14Aa1,(NOV_Cry14Aa1_41.1_PGW46198.1,(BT_Cry13Aa1,(NOV_Cry13Aa1_50.1_ANS46780.1,(NOV_Cry14Ab1_42.4_PGW46196.1,NOV_Cry14Aa1_44.0_PGW42274.1))))),BT_Cry14Ab1 #1,NOV_Cry14Ab1_85.6_AXE15628.1);
+
+  - processing model b_neut (b_neut~43e8d9a623973de3b938aabd768be595)
+       marking branches 3
+
+          ((BT_Cry14Aa1,(NOV_Cry14Aa1_41.1_PGW46198.1,(BT_Cry13Aa1,(NOV_Cry13Aa1_50.1_ANS46780.1,(NOV_Cry14Ab1_42.4_PGW46196.1,NOV_Cry14Aa1_44.0_PGW42274.1))))),BT_Cry14Ab1 #1,NOV_Cry14Ab1_85.6_AXE15628.1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~7fd60e7bbede32a9930e47036fdce136 |   b_free.3-1~88ebfd4bb4673f862c7d2b4ed0e8932b | 0.463534
+        b_neut.3-1~ac468977572c4f8bd17bc02845923001 |   b_free.3-1~88ebfd4bb4673f862c7d2b4ed0e8932b | 0.076652
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.231
+
+ - Model b_free.3-1
+   * Marked branches
+      ((BT_Cry14Aa1,(NOV_Cry14Aa1_41.1_PGW46198.1,(BT_Cry13Aa1,(NOV_Cry13Aa1_50.1_ANS46780.1,(NOV_Cry14Ab1_42.4_PGW46196.1,NOV_Cry14Aa1_44.0_PGW42274.1))))),BT_Cry14Ab1 #1,NOV_Cry14Ab1_85.6_AXE15628.1);
+
+        Branches  =>   omega
+              #1  =>   0.341
+      background  =>   0.227
+
+ - Model b_neut.3-1
+   * Marked branches
+      ((BT_Cry14Aa1,(NOV_Cry14Aa1_41.1_PGW46198.1,(BT_Cry13Aa1,(NOV_Cry13Aa1_50.1_ANS46780.1,(NOV_Cry14Ab1_42.4_PGW46196.1,NOV_Cry14Aa1_44.0_PGW42274.1))))),BT_Cry14Ab1 #1,NOV_Cry14Ab1_85.6_AXE15628.1);
+
+        Branches  =>   omega
+              #1  =>   1.000
+      background  =>   0.225

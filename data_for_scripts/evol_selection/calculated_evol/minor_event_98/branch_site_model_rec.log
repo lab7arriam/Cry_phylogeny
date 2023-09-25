@@ -1,0 +1,81 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~466ac3e294726e75e170ddd3ece98803)
+  - processing model bsA (bsA~86c467cef092bd6ea7acfb3b5ec653f7)
+       marking branches 5, 4, 20
+
+          (((NOV_Cry8Ha1_89.4_ABB29866.1,BT_Cry8Ha1),BT_Cry8Hb1),NOV_Cry8Ha1_89.8_ATY50148.1,(NOV_Cry8Da1_43.7_ANC11094.1,(((BT_Cry1Ig1,BT_Cry1Ka2),BT_Cry1Fa1),(BT_Cry8Da1,(BT_Cry3Bb1 #1,BT_Cry3Ba1 #1) #1))));
+
+  - processing model bsA1 (bsA1~9b0dc00a5cd90fbb84bdc4fe899700b1)
+       marking branches 5, 4, 20
+
+          (((NOV_Cry8Ha1_89.4_ABB29866.1,BT_Cry8Ha1),BT_Cry8Hb1),NOV_Cry8Ha1_89.8_ATY50148.1,(NOV_Cry8Da1_43.7_ANC11094.1,(((BT_Cry1Ig1,BT_Cry1Ka2),BT_Cry1Fa1),(BT_Cry8Da1,(BT_Cry3Bb1 #1,BT_Cry3Ba1 #1) #1))));
+
+  - processing model bsB (bsB~30e66f944d1b6317ae2fcf729d232b51)
+       marking branches 5, 4, 20
+
+          (((NOV_Cry8Ha1_89.4_ABB29866.1,BT_Cry8Ha1),BT_Cry8Hb1),NOV_Cry8Ha1_89.8_ATY50148.1,(NOV_Cry8Da1_43.7_ANC11094.1,(((BT_Cry1Ig1,BT_Cry1Ka2),BT_Cry1Fa1),(BT_Cry8Da1,(BT_Cry3Bb1 #1,BT_Cry3Ba1 #1) #1))));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~466ac3e294726e75e170ddd3ece98803 | bsA.5_4_20-1~ad80917c4853522a92d0837f1ef959b9 | 0.000000**
+                M0~466ac3e294726e75e170ddd3ece98803 | bsA1.5_4_20-~efb444584cfa37271f2aef6b59a2c2b9 | 0.000000**
+                M0~466ac3e294726e75e170ddd3ece98803 | bsB.5_4_20-1~d810b5c8ac44044e93d68ee39b3f18a5 | 0.000000**
+      bsA.5_4_20-1~ad80917c4853522a92d0837f1ef959b9 | bsB.5_4_20-1~d810b5c8ac44044e93d68ee39b3f18a5 | 0.013068*
+      bsA1.5_4_20-~efb444584cfa37271f2aef6b59a2c2b9 | bsA.5_4_20-1~ad80917c4853522a92d0837f1ef959b9 | 1.000000
+      bsA1.5_4_20-~efb444584cfa37271f2aef6b59a2c2b9 | bsB.5_4_20-1~d810b5c8ac44044e93d68ee39b3f18a5 | 0.045961*
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.169
+
+ - Model bsA.5_4_20-1_1_1
+   * Marked branches
+      (((NOV_Cry8Ha1_89.4_ABB29866.1,BT_Cry8Ha1),BT_Cry8Hb1),NOV_Cry8Ha1_89.8_ATY50148.1,(NOV_Cry8Da1_43.7_ANC11094.1,(((BT_Cry1Ig1,BT_Cry1Ka2),BT_Cry1Fa1),(BT_Cry8Da1,(BT_Cry3Bb1 #1,BT_Cry3Ba1 #1) #1))));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+           39-  40   |   Positively-selected (probability > 0.95)
+                42   |   Positively-selected (probability > 0.95)
+                77   |   Positively-selected (probability > 0.95)
+                80   |   Positively-selected (probability > 0.99)
+                82   |   Positively-selected (probability > 0.95)
+                84   |   Positively-selected (probability > 0.95)
+               108   |   Positively-selected (probability > 0.95)
+          112- 113   |   Positively-selected (probability > 0.95)
+               120   |   Positively-selected (probability > 0.95)
+
+ - Model bsA1.5_4_20-1_1_1
+   * Marked branches
+      (((NOV_Cry8Ha1_89.4_ABB29866.1,BT_Cry8Ha1),BT_Cry8Hb1),NOV_Cry8Ha1_89.8_ATY50148.1,(NOV_Cry8Da1_43.7_ANC11094.1,(((BT_Cry1Ig1,BT_Cry1Ka2),BT_Cry1Fa1),(BT_Cry8Da1,(BT_Cry3Bb1 #1,BT_Cry3Ba1 #1) #1))));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                40   |   Relaxed (probability > 0.95)
+                77   |   Relaxed (probability > 0.95)
+                80   |   Relaxed (probability > 0.95)
+                82   |   Relaxed (probability > 0.95)
+                84   |   Relaxed (probability > 0.95)
+          112- 113   |   Relaxed (probability > 0.95)
+               120   |   Relaxed (probability > 0.95)
+
+ - Model bsB.5_4_20-1_1_1
+   * Marked branches
+      (((NOV_Cry8Ha1_89.4_ABB29866.1,BT_Cry8Ha1),BT_Cry8Hb1),NOV_Cry8Ha1_89.8_ATY50148.1,(NOV_Cry8Da1_43.7_ANC11094.1,(((BT_Cry1Ig1,BT_Cry1Ka2),BT_Cry1Fa1),(BT_Cry8Da1,(BT_Cry3Bb1 #1,BT_Cry3Ba1 #1) #1))));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+           39-  40   |   Positively-selected (probability > 0.95)
+                42   |   Positively-selected (probability > 0.95)
+                80   |   Positively-selected (probability > 0.99)
+                82   |   Positively-selected (probability > 0.95)
+                84   |   Positively-selected (probability > 0.95)
+               108   |   Positively-selected (probability > 0.95)
+          112- 113   |   Positively-selected (probability > 0.95)
+               120   |   Positively-selected (probability > 0.95)

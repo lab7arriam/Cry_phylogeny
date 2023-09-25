@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~0ea05eb96f7a510d17dd85d95901e3c7)
+  - processing model b_free (b_free~9b2599071b22feec90d20cac0d6ec2c2)
+       marking branches 4
+
+          (((NOV_Cry4Ba1_63.8_OUB35623.1 #1,NOV_Cry4Ba1_63.7_AJW76684.1),NOV_Cry4Ba1_98.5_ABR22238.1),BT_Cry4Ba1,((BT_Cry4Ba3,NOV_Cry4Ba1_98.9_ABR22237.1),(NOV_Cry4Ba1_96.9_ABR22239.1,NOV_Cry4Ba1_98.9_ABR22236.1)));
+
+  - processing model b_neut (b_neut~30abd9a9a6d927000f11465768545670)
+       marking branches 4
+
+          (((NOV_Cry4Ba1_63.8_OUB35623.1 #1,NOV_Cry4Ba1_63.7_AJW76684.1),NOV_Cry4Ba1_98.5_ABR22238.1),BT_Cry4Ba1,((BT_Cry4Ba3,NOV_Cry4Ba1_98.9_ABR22237.1),(NOV_Cry4Ba1_96.9_ABR22239.1,NOV_Cry4Ba1_98.9_ABR22236.1)));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~0ea05eb96f7a510d17dd85d95901e3c7 |   b_free.4-1~75d57e74518c78443483cdae5a13d759 | 0.854428
+        b_neut.4-1~b4850777c67134b561ba4af5d20ec8ab |   b_free.4-1~75d57e74518c78443483cdae5a13d759 | 0.292377
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.418
+
+ - Model b_free.4-1
+   * Marked branches
+      (((NOV_Cry4Ba1_63.8_OUB35623.1 #1,NOV_Cry4Ba1_63.7_AJW76684.1),NOV_Cry4Ba1_98.5_ABR22238.1),BT_Cry4Ba1,((BT_Cry4Ba3,NOV_Cry4Ba1_98.9_ABR22237.1),(NOV_Cry4Ba1_96.9_ABR22239.1,NOV_Cry4Ba1_98.9_ABR22236.1)));
+
+        Branches  =>   omega
+      background  =>   0.424
+              #1  =>   0.360
+
+ - Model b_neut.4-1
+   * Marked branches
+      (((NOV_Cry4Ba1_63.8_OUB35623.1 #1,NOV_Cry4Ba1_63.7_AJW76684.1),NOV_Cry4Ba1_98.5_ABR22238.1),BT_Cry4Ba1,((BT_Cry4Ba3,NOV_Cry4Ba1_98.9_ABR22237.1),(NOV_Cry4Ba1_96.9_ABR22239.1,NOV_Cry4Ba1_98.9_ABR22236.1)));
+
+        Branches  =>   omega
+      background  =>   0.401
+              #1  =>   1.000

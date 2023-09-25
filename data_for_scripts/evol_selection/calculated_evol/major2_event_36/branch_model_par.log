@@ -1,0 +1,41 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~0c7ca434c6392e24191198fbc6e860f8)
+  - processing model b_free (b_free~3c52572c0fa77a270b32789fc41e00e8)
+       marking branches 12, 2, 1, 3, 13, 14, 18, 15, 7, 4, 10, 6, 16, 17, 8, 5, 9, 11
+
+          ((BT_Cry32Wa1 #1,(((NOV_Cry32Wa1_39.0_PEE63029.1 #1,((NOV_Cry32Ma1_37.1_PFJ62899.1 #1,NOV_Cry32Wa1_39.2_PGR92655.1 #1) #1,NOV_Cry32Wa1_39.2_PFK99360.1 #1) #1) #1,NOV_Cry32Wa1_39.0_PGU92045.1 #1) #1,(BT_Cry73Aa1 #1,NOV_Cry73Aa1_88.4_AQM56942.1 #1) #1) #1) #1,BT_Cry32Mb1 #1,BT_Cry32Ma1 #1) #1;
+
+  - processing model b_neut (b_neut~a1d38e58a51a6e3fb55863d31f780283)
+       marking branches 12, 2, 1, 3, 13, 14, 18, 15, 7, 4, 10, 6, 16, 17, 8, 5, 9, 11
+
+          ((BT_Cry32Wa1 #1,(((NOV_Cry32Wa1_39.0_PEE63029.1 #1,((NOV_Cry32Ma1_37.1_PFJ62899.1 #1,NOV_Cry32Wa1_39.2_PGR92655.1 #1) #1,NOV_Cry32Wa1_39.2_PFK99360.1 #1) #1) #1,NOV_Cry32Wa1_39.0_PGU92045.1 #1) #1,(BT_Cry73Aa1 #1,NOV_Cry73Aa1_88.4_AQM56942.1 #1) #1) #1) #1,BT_Cry32Mb1 #1,BT_Cry32Ma1 #1) #1;
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~0c7ca434c6392e24191198fbc6e860f8 | b_free.12_2_~71118391e0920c34ebc12b664c855f67 | 1.000000
+      b_neut.12_2_~afbee5b1954603d2bdc47a7381a9d9d2 | b_free.12_2_~71118391e0920c34ebc12b664c855f67 | 0.000000**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.234
+
+ - Model b_free.12_2_1_3_13_14_18_15_7_4_10_6_16_17_8_5_9_11-1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((BT_Cry32Wa1 #1,(((NOV_Cry32Wa1_39.0_PEE63029.1 #1,((NOV_Cry32Ma1_37.1_PFJ62899.1 #1,NOV_Cry32Wa1_39.2_PGR92655.1 #1) #1,NOV_Cry32Wa1_39.2_PFK99360.1 #1) #1) #1,NOV_Cry32Wa1_39.0_PGU92045.1 #1) #1,(BT_Cry73Aa1 #1,NOV_Cry73Aa1_88.4_AQM56942.1 #1) #1) #1) #1,BT_Cry32Mb1 #1,BT_Cry32Ma1 #1) #1;
+
+        Branches  =>   omega
+              #1  =>   0.234
+
+ - Model b_neut.12_2_1_3_13_14_18_15_7_4_10_6_16_17_8_5_9_11-1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((BT_Cry32Wa1 #1,(((NOV_Cry32Wa1_39.0_PEE63029.1 #1,((NOV_Cry32Ma1_37.1_PFJ62899.1 #1,NOV_Cry32Wa1_39.2_PGR92655.1 #1) #1,NOV_Cry32Wa1_39.2_PFK99360.1 #1) #1) #1,NOV_Cry32Wa1_39.0_PGU92045.1 #1) #1,(BT_Cry73Aa1 #1,NOV_Cry73Aa1_88.4_AQM56942.1 #1) #1) #1) #1,BT_Cry32Mb1 #1,BT_Cry32Ma1 #1) #1;
+
+        Branches  =>   omega
+              #1  =>   1.000

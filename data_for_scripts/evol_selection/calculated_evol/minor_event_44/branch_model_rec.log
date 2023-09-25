@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~33b9d43bebfd193ac5ee1c58234ba749)
+  - processing model b_free (b_free~8c1073b60ac781356e6bc2cfcd28b6af)
+       marking branches 15
+
+          (((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,BT_Cry1Jb1)),(BT_Cry9Ec1,(((((BT_Cry9Da1,BT_Cry9Eb1),BT_Cry9Db1),(BT_Cry9Bb1,BT_Cry9Ee1 #1)),BT_Cry1Ba1),BT_Cry9Ed1)),(BT_Cry9Ca1,(BT_Cry9Ba1,BT_Cry9Dc1)));
+
+  - processing model b_neut (b_neut~ef43917ff2afb2b6b425f8fdcc3afd31)
+       marking branches 15
+
+          (((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,BT_Cry1Jb1)),(BT_Cry9Ec1,(((((BT_Cry9Da1,BT_Cry9Eb1),BT_Cry9Db1),(BT_Cry9Bb1,BT_Cry9Ee1 #1)),BT_Cry1Ba1),BT_Cry9Ed1)),(BT_Cry9Ca1,(BT_Cry9Ba1,BT_Cry9Dc1)));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~33b9d43bebfd193ac5ee1c58234ba749 |  b_free.15-1~bb5cba97cba5c82afd49a9d6345681c9 | 0.741916
+       b_neut.15-1~b78d02e2b9e82f31741f843c7d1d877b |  b_free.15-1~bb5cba97cba5c82afd49a9d6345681c9 | 0.260302
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.386
+
+ - Model b_free.15-1
+   * Marked branches
+      (((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,BT_Cry1Jb1)),(BT_Cry9Ec1,(((((BT_Cry9Da1,BT_Cry9Eb1),BT_Cry9Db1),(BT_Cry9Bb1,BT_Cry9Ee1 #1)),BT_Cry1Ba1),BT_Cry9Ed1)),(BT_Cry9Ca1,(BT_Cry9Ba1,BT_Cry9Dc1)));
+
+        Branches  =>   omega
+              #1  =>   0.463
+      background  =>   0.383
+
+ - Model b_neut.15-1
+   * Marked branches
+      (((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,BT_Cry1Jb1)),(BT_Cry9Ec1,(((((BT_Cry9Da1,BT_Cry9Eb1),BT_Cry9Db1),(BT_Cry9Bb1,BT_Cry9Ee1 #1)),BT_Cry1Ba1),BT_Cry9Ed1)),(BT_Cry9Ca1,(BT_Cry9Ba1,BT_Cry9Dc1)));
+
+        Branches  =>   omega
+      background  =>   0.378
+              #1  =>   1.000

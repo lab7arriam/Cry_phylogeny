@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~aa8ec59fddf8704e6ed74d8c7d0e11cc)
+  - processing model b_free (b_free~85042ca3cba767396234a6ca0ca7ef38)
+       marking branches 2
+
+          (((NOV_Cry9Ga1_58.0_AJS57594.1,NOV_Cry9Ga1_57.2_PEU81077.1),(BT_Cry9Aa1 #1,BT_Cry9Ga1)),((NOV_Cry68Aa1_80.1_PEU91245.1,BT_Cry68Aa1),NOV_Cry68Aa1_74.8_WP_103592020.1),NOV_Cry68Aa1_46.2_ARJ25655.1);
+
+  - processing model b_neut (b_neut~55c0cf87585cd8abd0d7f308b43ad646)
+       marking branches 2
+
+          (((NOV_Cry9Ga1_58.0_AJS57594.1,NOV_Cry9Ga1_57.2_PEU81077.1),(BT_Cry9Aa1 #1,BT_Cry9Ga1)),((NOV_Cry68Aa1_80.1_PEU91245.1,BT_Cry68Aa1),NOV_Cry68Aa1_74.8_WP_103592020.1),NOV_Cry68Aa1_46.2_ARJ25655.1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~aa8ec59fddf8704e6ed74d8c7d0e11cc |   b_free.2-1~ae1fca0576a75109fc989c1a2e81410d | 0.011421*
+        b_neut.2-1~5c1e72210ccba2db7dd8726ee96fa788 |   b_free.2-1~ae1fca0576a75109fc989c1a2e81410d | 0.000092**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.224
+
+ - Model b_free.2-1
+   * Marked branches
+      (((NOV_Cry9Ga1_58.0_AJS57594.1,NOV_Cry9Ga1_57.2_PEU81077.1),(BT_Cry9Aa1 #1,BT_Cry9Ga1)),((NOV_Cry68Aa1_80.1_PEU91245.1,BT_Cry68Aa1),NOV_Cry68Aa1_74.8_WP_103592020.1),NOV_Cry68Aa1_46.2_ARJ25655.1);
+
+        Branches  =>   omega
+              #1  =>   0.052
+      background  =>   0.242
+
+ - Model b_neut.2-1
+   * Marked branches
+      (((NOV_Cry9Ga1_58.0_AJS57594.1,NOV_Cry9Ga1_57.2_PEU81077.1),(BT_Cry9Aa1 #1,BT_Cry9Ga1)),((NOV_Cry68Aa1_80.1_PEU91245.1,BT_Cry68Aa1),NOV_Cry68Aa1_74.8_WP_103592020.1),NOV_Cry68Aa1_46.2_ARJ25655.1);
+
+        Branches  =>   omega
+      background  =>   0.219
+              #1  =>   1.000

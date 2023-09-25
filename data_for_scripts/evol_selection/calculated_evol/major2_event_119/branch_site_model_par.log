@@ -1,0 +1,56 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~1700a028bbb16214f4e10c592fbae24b)
+  - processing model bsA (bsA~b1ef9ef0de5d609b7b9f8c9308d63080)
+       marking branches 1
+
+          ((((BT_Cry21Aa1,BT_Cry21Ba1),NOV_Cry21Aa2_44.6_AZR80772.1),(BT_Cry14Ab1,BT_Cry14Aa1 #1)),BT_Cry30Da1,BT_Cry30Db1);
+
+  - processing model bsA1 (bsA1~0d6af1917f7538eb3b036795cad51b5f)
+       marking branches 1
+
+          ((((BT_Cry21Aa1,BT_Cry21Ba1),NOV_Cry21Aa2_44.6_AZR80772.1),(BT_Cry14Ab1,BT_Cry14Aa1 #1)),BT_Cry30Da1,BT_Cry30Db1);
+
+  - processing model bsB (bsB~1bf95d25bdafac11e037672e52f3f86f)
+       marking branches 1
+
+          ((((BT_Cry21Aa1,BT_Cry21Ba1),NOV_Cry21Aa2_44.6_AZR80772.1),(BT_Cry14Ab1,BT_Cry14Aa1 #1)),BT_Cry30Da1,BT_Cry30Db1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~1700a028bbb16214f4e10c592fbae24b |      bsA.1-1~ae83c7a801bcbca655a663a20c9b9698 | 0.000000**
+                M0~1700a028bbb16214f4e10c592fbae24b |     bsA1.1-1~d41680d4c5526f7e1fdb71f03e29ba23 | 0.000000**
+                M0~1700a028bbb16214f4e10c592fbae24b |      bsB.1-1~0e2dd9c624f460777b0ed26a7d7472ce | 0.000000**
+           bsA.1-1~ae83c7a801bcbca655a663a20c9b9698 |      bsB.1-1~0e2dd9c624f460777b0ed26a7d7472ce | 0.012195*
+          bsA1.1-1~d41680d4c5526f7e1fdb71f03e29ba23 |      bsA.1-1~ae83c7a801bcbca655a663a20c9b9698 | 1.000000
+          bsA1.1-1~d41680d4c5526f7e1fdb71f03e29ba23 |      bsB.1-1~0e2dd9c624f460777b0ed26a7d7472ce | 0.043233*
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.182
+
+ - Model bsA.1-1
+   * Marked branches
+      ((((BT_Cry21Aa1,BT_Cry21Ba1),NOV_Cry21Aa2_44.6_AZR80772.1),(BT_Cry14Ab1,BT_Cry14Aa1 #1)),BT_Cry30Da1,BT_Cry30Db1);
+
+ - Model bsA1.1-1
+   * Marked branches
+      ((((BT_Cry21Aa1,BT_Cry21Ba1),NOV_Cry21Aa2_44.6_AZR80772.1),(BT_Cry14Ab1,BT_Cry14Aa1 #1)),BT_Cry30Da1,BT_Cry30Db1);
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            1- 157   |   Relaxed (probability > 0.99)
+
+ - Model bsB.1-1
+   * Marked branches
+      ((((BT_Cry21Aa1,BT_Cry21Ba1),NOV_Cry21Aa2_44.6_AZR80772.1),(BT_Cry14Ab1,BT_Cry14Aa1 #1)),BT_Cry30Da1,BT_Cry30Db1);
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            1- 157   |   Positively-selected (probability > 0.99)

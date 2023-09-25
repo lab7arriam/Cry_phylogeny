@@ -1,0 +1,79 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~7343b1278c3cd67741ec5605286ea15e)
+  - processing model M1 (M1~94d5c37ceb2764ffcae93e5830e8ba41)
+  - processing model M2 (M2~cc40cbca80ded75da686a48fadfe96eb)
+  - processing model M3 (M3~a61de1d031f2725643c34a8c3426d4b4)
+  - processing model M7 (M7~3730f6da935a1252222b905cb9ce47d2)
+  - processing model M8 (M8~43ee00a7ce4a2d943aa3cf31578fadfd)
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~7343b1278c3cd67741ec5605286ea15e |           M1~94d5c37ceb2764ffcae93e5830e8ba41 | 0.000000**
+                M0~7343b1278c3cd67741ec5605286ea15e |           M2~cc40cbca80ded75da686a48fadfe96eb | 0.000000**
+                M0~7343b1278c3cd67741ec5605286ea15e |           M3~a61de1d031f2725643c34a8c3426d4b4 | 0.000000**
+                M0~7343b1278c3cd67741ec5605286ea15e |           M7~3730f6da935a1252222b905cb9ce47d2 | 0.000000**
+                M0~7343b1278c3cd67741ec5605286ea15e |           M8~43ee00a7ce4a2d943aa3cf31578fadfd | 0.000000**
+                M1~94d5c37ceb2764ffcae93e5830e8ba41 |           M2~cc40cbca80ded75da686a48fadfe96eb | 0.143605
+                M1~94d5c37ceb2764ffcae93e5830e8ba41 |           M3~a61de1d031f2725643c34a8c3426d4b4 | 0.258707
+                M1~94d5c37ceb2764ffcae93e5830e8ba41 |           M8~43ee00a7ce4a2d943aa3cf31578fadfd | 0.135844
+                M2~cc40cbca80ded75da686a48fadfe96eb |           M3~a61de1d031f2725643c34a8c3426d4b4 | 0.704069
+                M7~3730f6da935a1252222b905cb9ce47d2 |           M2~cc40cbca80ded75da686a48fadfe96eb | 0.057231
+                M7~3730f6da935a1252222b905cb9ce47d2 |           M3~a61de1d031f2725643c34a8c3426d4b4 | 0.118336
+                M7~3730f6da935a1252222b905cb9ce47d2 |           M8~43ee00a7ce4a2d943aa3cf31578fadfd | 0.054138
+                M8~43ee00a7ce4a2d943aa3cf31578fadfd |           M3~a61de1d031f2725643c34a8c3426d4b4 | 0.855505
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.571
+
+ - Model M1
+   * Average omega for all tree: 0.563
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                14   |   Relaxed (probability > 0.99)
+                24   |   Relaxed (probability > 0.95)
+                55   |   Relaxed (probability > 0.99)
+                74   |   Relaxed (probability > 0.95)
+                75   |   Relaxed (probability > 0.99)
+           82-  83   |   Relaxed (probability > 0.99)
+           86-  87   |   Relaxed (probability > 0.99)
+                91   |   Relaxed (probability > 0.99)
+                93   |   Relaxed (probability > 0.99)
+                99   |   Relaxed (probability > 0.95)
+               101   |   Relaxed (probability > 0.99)
+          103- 104   |   Relaxed (probability > 0.99)
+               107   |   Relaxed (probability > 0.99)
+          108- 109   |   Relaxed (probability > 0.95)
+               110   |   Relaxed (probability > 0.99)
+               112   |   Relaxed (probability > 0.99)
+               113   |   Relaxed (probability > 0.95)
+               116   |   Relaxed (probability > 0.99)
+               118   |   Relaxed (probability > 0.95)
+               119   |   Relaxed (probability > 0.99)
+               125   |   Relaxed (probability > 0.99)
+               131   |   Relaxed (probability > 0.95)
+               133   |   Relaxed (probability > 0.99)
+               137   |   Relaxed (probability > 0.99)
+               175   |   Relaxed (probability > 0.95)
+               178   |   Relaxed (probability > 0.95)
+               179   |   Relaxed (probability > 0.99)
+               188   |   Relaxed (probability > 0.99)
+
+ - Model M2
+   * Average omega for all tree: 0.750
+
+ - Model M3
+   * Average omega for all tree: 0.742
+
+ - Model M7
+   * Average omega for all tree: 0.567
+
+ - Model M8
+   * Average omega for all tree: 0.743

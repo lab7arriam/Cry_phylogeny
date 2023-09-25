@@ -1,0 +1,180 @@
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta
+  Tree:       Maximum likelihood
+    file:           -
+  #taxa:            8
+  #sites:           648
+  #patterns:        307
+  Max. thread mem:  1 MB
+
+Output:
+  Log:           /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta.log
+  Starting tree: /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta.tree
+  Results:       /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta.out
+
+Selection options:
+  # dna schemes:      11
+  # dna models:       88
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: true
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          1/36
+  RNG seed:         12345
+  subtree repeats:  enabled
+--------------------------------------------------------------------------------
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TPM3uf+G4          6     -3825.5079      7774.0196         0.0000    0.8598
+       2  TPM3uf+I+G4        7     -3825.1607      7779.7991         5.7795    0.0478
+       3  TIM3+G4            7     -3825.4160      7780.3099         6.2902    0.0370
+       4  HKY+G4             5     -3831.9734      7780.4769         6.4573    0.0341
+       5  TPM1uf+G4          6     -3830.4182      7783.8403         9.8207    0.0063
+       6  TPM3uf+I           6     -3830.6323      7784.2686        10.2490    0.0051
+       7  TIM3+I+G4          8     -3825.0720      7786.0956        12.0760    0.0021
+       8  TrN+G4             6     -3831.6404      7786.2846        12.2650    0.0019
+       9  TVM+G4             8     -3825.3062      7786.5640        12.5444    0.0016
+      10  HKY+I+G4           6     -3831.8482      7786.7003        12.6806    0.0015
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              TPM3uf+G4
+lnL:                -3825.5079
+Frequencies:        0.3257 0.1646 0.1769 0.3328
+Subst. Rates:       1.7602 2.7310 1.0000 1.7602 2.7310 1.0000 
+Inv. sites prop:    -
+Gamma shape:        1.3155
+Score:              7774.0196
+Weight:             0.8598
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0056
+Gamma:              0.9425
+Gamma-Inv:          0.0519
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.2224
+Alpha:              1.3154
+Alpha-P.Inv:        2.3242
+P.Inv-Alpha:        0.1127
+Frequencies:        0.3256 0.1653 0.1768 0.3322 
+
+Commands:
+  > phyml  -i /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta -m 012012 -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta -m GTRGAMMAX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta --model TPM3uf+G4
+  > paup -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta
+  > iqtree -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta -m TPM3uf+G4
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TPM3uf+G4          6     -3825.5079      7689.0157         0.0000    0.3967
+       2  TPM3uf+I+G4        7     -3825.1607      7690.3213         1.3056    0.2065
+       3  TIM3+G4            7     -3825.4160      7690.8321         1.8163    0.1600
+       4  TIM3+I+G4          8     -3825.0720      7692.1439         3.1282    0.0830
+       5  TVM+G4             8     -3825.3062      7692.6123         3.5966    0.0657
+       6  TVM+I+G4           9     -3824.9918      7693.9836         4.9679    0.0331
+       7  GTR+G4             9     -3825.2061      7694.4121         5.3964    0.0267
+       8  GTR+I+G4          10     -3824.9059      7695.8119         6.7962    0.0133
+       9  TPM1uf+G4          6     -3830.4182      7698.8364         9.8207    0.0029
+      10  TPM3uf+I           6     -3830.6323      7699.2647        10.2490    0.0024
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              TPM3uf+G4
+lnL:                -3825.5079
+Frequencies:        0.3257 0.1646 0.1769 0.3328
+Subst. Rates:       1.7602 2.7310 1.0000 1.7602 2.7310 1.0000 
+Inv. sites prop:    -
+Gamma shape:        1.3155
+Score:              7689.0157
+Weight:             0.3967
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0039
+Gamma:              0.6570
+Gamma-Inv:          0.3392
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.2222
+Alpha:              1.3156
+Alpha-P.Inv:        2.3128
+P.Inv-Alpha:        0.1119
+Frequencies:        0.3253 0.1649 0.1762 0.3336 
+
+Commands:
+  > phyml  -i /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta -m 012012 -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta -m GTRGAMMAX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta --model TPM3uf+G4
+  > paup -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta
+  > iqtree -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta -m TPM3uf+G4
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TPM3uf+G4          6     -3825.5079      7690.0157         0.0000    0.3967
+       2  TPM3uf+I+G4        7     -3825.1607      7691.3213         1.3056    0.2065
+       3  TIM3+G4            7     -3825.4160      7691.8321         1.8163    0.1600
+       4  TIM3+I+G4          8     -3825.0720      7693.1439         3.1282    0.0830
+       5  TVM+G4             8     -3825.3062      7693.6123         3.5966    0.0657
+       6  TVM+I+G4           9     -3824.9918      7694.9836         4.9679    0.0331
+       7  GTR+G4             9     -3825.2061      7695.4121         5.3964    0.0267
+       8  GTR+I+G4          10     -3824.9059      7696.8119         6.7962    0.0133
+       9  TPM1uf+G4          6     -3830.4182      7699.8364         9.8207    0.0029
+      10  TPM3uf+I           6     -3830.6323      7700.2647        10.2490    0.0024
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              TPM3uf+G4
+lnL:                -3825.5079
+Frequencies:        0.3257 0.1646 0.1769 0.3328
+Subst. Rates:       1.7602 2.7310 1.0000 1.7602 2.7310 1.0000 
+Inv. sites prop:    -
+Gamma shape:        1.3155
+Score:              7690.0157
+Weight:             0.3967
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.0039
+Gamma:              0.6570
+Gamma-Inv:          0.3392
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.2222
+Alpha:              1.3156
+Alpha-P.Inv:        2.3128
+P.Inv-Alpha:        0.1119
+Frequencies:        0.3253 0.1649 0.1762 0.3336 
+
+Commands:
+  > phyml  -i /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta -m 012012 -f m -v 0 -a e -c 4 -o tlr
+  > raxmlHPC-SSE3 -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta -m GTRGAMMAX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta --model TPM3uf+G4
+  > paup -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta
+  > iqtree -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/minor_event_107/minor_event_107_nucl_reported.fasta -m TPM3uf+G4
+Done

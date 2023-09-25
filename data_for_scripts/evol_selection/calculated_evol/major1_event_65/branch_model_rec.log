@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~249a907a13017101948939e0549e9ff4)
+  - processing model b_free (b_free~45831bfa5ce80698bd7e1a20a491413b)
+       marking branches 15, 16, 3, 7, 4, 9, 14
+
+          ((BT_Cry30Fa1,(BT_Cry30Aa1,BT_Cry30Ea1)),(NOV_Cry30Ca1_66.6_BAD00052.1,BT_Cry30Ca1),((BT_Cry30Da1 #1,BT_Cry30Ga1 #1) #1,(BT_Cry30Db1 #1,NOV_Cry30Ga2_64.5_ARJ25665.1 #1) #1) #1);
+
+  - processing model b_neut (b_neut~2d2c63d0275b18b50606df292c0f8996)
+       marking branches 15, 16, 3, 7, 4, 9, 14
+
+          ((BT_Cry30Fa1,(BT_Cry30Aa1,BT_Cry30Ea1)),(NOV_Cry30Ca1_66.6_BAD00052.1,BT_Cry30Ca1),((BT_Cry30Da1 #1,BT_Cry30Ga1 #1) #1,(BT_Cry30Db1 #1,NOV_Cry30Ga2_64.5_ARJ25665.1 #1) #1) #1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~249a907a13017101948939e0549e9ff4 | b_free.15_16~db17ff496dec7a076749ee016cd1647a | 0.102091
+      b_neut.15_16~6c0fc0aced41efa217cc56280b47c9f5 | b_free.15_16~db17ff496dec7a076749ee016cd1647a | 0.000001**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.528
+
+ - Model b_free.15_16_3_7_4_9_14-1_1_1_1_1_1_1
+   * Marked branches
+      ((BT_Cry30Fa1,(BT_Cry30Aa1,BT_Cry30Ea1)),(NOV_Cry30Ca1_66.6_BAD00052.1,BT_Cry30Ca1),((BT_Cry30Da1 #1,BT_Cry30Ga1 #1) #1,(BT_Cry30Db1 #1,NOV_Cry30Ga2_64.5_ARJ25665.1 #1) #1) #1);
+
+        Branches  =>   omega
+              #1  =>   0.435
+      background  =>   0.623
+
+ - Model b_neut.15_16_3_7_4_9_14-1_1_1_1_1_1_1
+   * Marked branches
+      ((BT_Cry30Fa1,(BT_Cry30Aa1,BT_Cry30Ea1)),(NOV_Cry30Ca1_66.6_BAD00052.1,BT_Cry30Ca1),((BT_Cry30Da1 #1,BT_Cry30Ga1 #1) #1,(BT_Cry30Db1 #1,NOV_Cry30Ga2_64.5_ARJ25665.1 #1) #1) #1);
+
+        Branches  =>   omega
+              #1  =>   1.000
+      background  =>   0.620

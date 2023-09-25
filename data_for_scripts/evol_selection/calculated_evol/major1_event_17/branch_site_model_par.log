@@ -1,0 +1,153 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~74617396bd7717ab22c77312e283daa1)
+  - processing model bsA (bsA~9e59468791d87d82699c174b320ec474)
+       marking branches 22
+
+          (((BT_Cry1Ac33,(NOV_Cry1Ac11_99.8_ACB05715.1,(NOV_Cry1Ac23_90.7_CAQ03747.1,BT_Cry1Ac25))),(NOV_Cry1Ac5_99.7_ADD12104.1,(((((((NOV_Cry1Ab12_91.4_AAK14338.1,BT_Cry1Af1),BT_Cry1Ab2),BT_Cry1Ab12),BT_Cry1Ab33),(BT_Cry1A-like,(NOV_Cry1Ea10_93.2_AAX86871.1,(BT_Cry1Eb1,BT_Cry1Ea10)))),NOV_Cry1Ab32_92.7_AAK14337.1),(BT_Cry1Aa24,(BT_Cry1Aa10,(((NOV_Cry1Aa12_99.9_OUA40850.1,BT_Cry1Ai1),NOV_Cry1Aa11_99.8_ADD14591.1),(BT_Cry1Aa21,BT_Cry1Ag1))))))),(((BT_Cry1Ah2,NOV_Cry1Ad2_87.7_AIW52617.1),(((((BT_Cry1La1,(BT_Cry1Ga2,NOV_Cry1Ga1_77.9_AX098669.1)),BT_Cry1Gb1),((BT_Cry1Ha1,(BT_Cry1Hb1,NOV_Cry1Ha1_85.7_AIW52616.1)),NOV_Cry1Da1_84.8_ABK35074.1)),(BT_Cry1Fb1 #1,BT_Cry1Fa1)),((BT_Cry1Db1,NOV_Cry1Da1_83.2_AIW52615.1),BT_Cry1Da1))),(BT_Cry1Ab34,(BT_Cry1Ad1,NOV_Cry1Ae1_99.9_WP_063676659.1))),BT_Cry1Ac39);
+
+  - processing model bsA1 (bsA1~f8cba25035652aec83140a7ffd8a08da)
+       marking branches 22
+
+          (((BT_Cry1Ac33,(NOV_Cry1Ac11_99.8_ACB05715.1,(NOV_Cry1Ac23_90.7_CAQ03747.1,BT_Cry1Ac25))),(NOV_Cry1Ac5_99.7_ADD12104.1,(((((((NOV_Cry1Ab12_91.4_AAK14338.1,BT_Cry1Af1),BT_Cry1Ab2),BT_Cry1Ab12),BT_Cry1Ab33),(BT_Cry1A-like,(NOV_Cry1Ea10_93.2_AAX86871.1,(BT_Cry1Eb1,BT_Cry1Ea10)))),NOV_Cry1Ab32_92.7_AAK14337.1),(BT_Cry1Aa24,(BT_Cry1Aa10,(((NOV_Cry1Aa12_99.9_OUA40850.1,BT_Cry1Ai1),NOV_Cry1Aa11_99.8_ADD14591.1),(BT_Cry1Aa21,BT_Cry1Ag1))))))),(((BT_Cry1Ah2,NOV_Cry1Ad2_87.7_AIW52617.1),(((((BT_Cry1La1,(BT_Cry1Ga2,NOV_Cry1Ga1_77.9_AX098669.1)),BT_Cry1Gb1),((BT_Cry1Ha1,(BT_Cry1Hb1,NOV_Cry1Ha1_85.7_AIW52616.1)),NOV_Cry1Da1_84.8_ABK35074.1)),(BT_Cry1Fb1 #1,BT_Cry1Fa1)),((BT_Cry1Db1,NOV_Cry1Da1_83.2_AIW52615.1),BT_Cry1Da1))),(BT_Cry1Ab34,(BT_Cry1Ad1,NOV_Cry1Ae1_99.9_WP_063676659.1))),BT_Cry1Ac39);
+
+  - processing model bsB (bsB~f7fda836a71ef2ab77e93da7e4affecc)
+       marking branches 22
+
+          (((BT_Cry1Ac33,(NOV_Cry1Ac11_99.8_ACB05715.1,(NOV_Cry1Ac23_90.7_CAQ03747.1,BT_Cry1Ac25))),(NOV_Cry1Ac5_99.7_ADD12104.1,(((((((NOV_Cry1Ab12_91.4_AAK14338.1,BT_Cry1Af1),BT_Cry1Ab2),BT_Cry1Ab12),BT_Cry1Ab33),(BT_Cry1A-like,(NOV_Cry1Ea10_93.2_AAX86871.1,(BT_Cry1Eb1,BT_Cry1Ea10)))),NOV_Cry1Ab32_92.7_AAK14337.1),(BT_Cry1Aa24,(BT_Cry1Aa10,(((NOV_Cry1Aa12_99.9_OUA40850.1,BT_Cry1Ai1),NOV_Cry1Aa11_99.8_ADD14591.1),(BT_Cry1Aa21,BT_Cry1Ag1))))))),(((BT_Cry1Ah2,NOV_Cry1Ad2_87.7_AIW52617.1),(((((BT_Cry1La1,(BT_Cry1Ga2,NOV_Cry1Ga1_77.9_AX098669.1)),BT_Cry1Gb1),((BT_Cry1Ha1,(BT_Cry1Hb1,NOV_Cry1Ha1_85.7_AIW52616.1)),NOV_Cry1Da1_84.8_ABK35074.1)),(BT_Cry1Fb1 #1,BT_Cry1Fa1)),((BT_Cry1Db1,NOV_Cry1Da1_83.2_AIW52615.1),BT_Cry1Da1))),(BT_Cry1Ab34,(BT_Cry1Ad1,NOV_Cry1Ae1_99.9_WP_063676659.1))),BT_Cry1Ac39);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~74617396bd7717ab22c77312e283daa1 |     bsA.22-1~c2c65c707611d6f16283141309cc0901 | 0.000000**
+                M0~74617396bd7717ab22c77312e283daa1 |    bsA1.22-1~f6fd930a3725fe7ecfa43919dd283e16 | 0.000000**
+                M0~74617396bd7717ab22c77312e283daa1 |     bsB.22-1~19fa4864b4a0c1993a70f091b8056568 | 0.000000**
+          bsA.22-1~c2c65c707611d6f16283141309cc0901 |     bsB.22-1~19fa4864b4a0c1993a70f091b8056568 | 0.000000**
+         bsA1.22-1~f6fd930a3725fe7ecfa43919dd283e16 |     bsA.22-1~c2c65c707611d6f16283141309cc0901 | 0.997743
+         bsA1.22-1~f6fd930a3725fe7ecfa43919dd283e16 |     bsB.22-1~19fa4864b4a0c1993a70f091b8056568 | 0.000000**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.202
+
+ - Model bsA.22-1
+   * Marked branches
+      (((BT_Cry1Ac33,(NOV_Cry1Ac11_99.8_ACB05715.1,(NOV_Cry1Ac23_90.7_CAQ03747.1,BT_Cry1Ac25))),(NOV_Cry1Ac5_99.7_ADD12104.1,(((((((NOV_Cry1Ab12_91.4_AAK14338.1,BT_Cry1Af1),BT_Cry1Ab2),BT_Cry1Ab12),BT_Cry1Ab33),(BT_Cry1A-like,(NOV_Cry1Ea10_93.2_AAX86871.1,(BT_Cry1Eb1,BT_Cry1Ea10)))),NOV_Cry1Ab32_92.7_AAK14337.1),(BT_Cry1Aa24,(BT_Cry1Aa10,(((NOV_Cry1Aa12_99.9_OUA40850.1,BT_Cry1Ai1),NOV_Cry1Aa11_99.8_ADD14591.1),(BT_Cry1Aa21,BT_Cry1Ag1))))))),(((BT_Cry1Ah2,NOV_Cry1Ad2_87.7_AIW52617.1),(((((BT_Cry1La1,(BT_Cry1Ga2,NOV_Cry1Ga1_77.9_AX098669.1)),BT_Cry1Gb1),((BT_Cry1Ha1,(BT_Cry1Hb1,NOV_Cry1Ha1_85.7_AIW52616.1)),NOV_Cry1Da1_84.8_ABK35074.1)),(BT_Cry1Fb1 #1,BT_Cry1Fa1)),((BT_Cry1Db1,NOV_Cry1Da1_83.2_AIW52615.1),BT_Cry1Da1))),(BT_Cry1Ab34,(BT_Cry1Ad1,NOV_Cry1Ae1_99.9_WP_063676659.1))),BT_Cry1Ac39);
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            2-   5   |   Conserved (probability > 0.95)
+            7-   8   |   Conserved (probability > 0.95)
+           10-  14   |   Conserved (probability > 0.95)
+           16-  21   |   Conserved (probability > 0.95)
+                23   |   Conserved (probability > 0.95)
+                25   |   Conserved (probability > 0.95)
+                27   |   Conserved (probability > 0.95)
+           29-  30   |   Conserved (probability > 0.95)
+           32-  37   |   Conserved (probability > 0.95)
+           39-  41   |   Conserved (probability > 0.95)
+                43   |   Conserved (probability > 0.95)
+           46-  48   |   Conserved (probability > 0.95)
+           50-  51   |   Conserved (probability > 0.95)
+           56-  57   |   Conserved (probability > 0.95)
+           60-  61   |   Conserved (probability > 0.95)
+           64-  65   |   Conserved (probability > 0.95)
+                68   |   Conserved (probability > 0.95)
+           71-  76   |   Conserved (probability > 0.95)
+           78-  84   |   Conserved (probability > 0.95)
+           86-  93   |   Conserved (probability > 0.95)
+           95-  99   |   Conserved (probability > 0.95)
+          101- 104   |   Conserved (probability > 0.95)
+               108   |   Conserved (probability > 0.95)
+          111- 128   |   Conserved (probability > 0.95)
+          130- 133   |   Conserved (probability > 0.95)
+          136- 138   |   Conserved (probability > 0.95)
+               141   |   Conserved (probability > 0.95)
+               143   |   Conserved (probability > 0.95)
+               147   |   Conserved (probability > 0.95)
+          149- 150   |   Conserved (probability > 0.95)
+          152- 156   |   Conserved (probability > 0.95)
+               159   |   Conserved (probability > 0.95)
+          162- 163   |   Conserved (probability > 0.95)
+          165- 167   |   Conserved (probability > 0.95)
+          170- 171   |   Conserved (probability > 0.95)
+          173- 174   |   Conserved (probability > 0.95)
+               177   |   Conserved (probability > 0.95)
+               179   |   Conserved (probability > 0.95)
+               186   |   Conserved (probability > 0.95)
+               189   |   Conserved (probability > 0.95)
+          192- 194   |   Conserved (probability > 0.95)
+          196- 197   |   Conserved (probability > 0.95)
+          199- 207   |   Conserved (probability > 0.95)
+               210   |   Conserved (probability > 0.95)
+
+ - Model bsA1.22-1
+   * Marked branches
+      (((BT_Cry1Ac33,(NOV_Cry1Ac11_99.8_ACB05715.1,(NOV_Cry1Ac23_90.7_CAQ03747.1,BT_Cry1Ac25))),(NOV_Cry1Ac5_99.7_ADD12104.1,(((((((NOV_Cry1Ab12_91.4_AAK14338.1,BT_Cry1Af1),BT_Cry1Ab2),BT_Cry1Ab12),BT_Cry1Ab33),(BT_Cry1A-like,(NOV_Cry1Ea10_93.2_AAX86871.1,(BT_Cry1Eb1,BT_Cry1Ea10)))),NOV_Cry1Ab32_92.7_AAK14337.1),(BT_Cry1Aa24,(BT_Cry1Aa10,(((NOV_Cry1Aa12_99.9_OUA40850.1,BT_Cry1Ai1),NOV_Cry1Aa11_99.8_ADD14591.1),(BT_Cry1Aa21,BT_Cry1Ag1))))))),(((BT_Cry1Ah2,NOV_Cry1Ad2_87.7_AIW52617.1),(((((BT_Cry1La1,(BT_Cry1Ga2,NOV_Cry1Ga1_77.9_AX098669.1)),BT_Cry1Gb1),((BT_Cry1Ha1,(BT_Cry1Hb1,NOV_Cry1Ha1_85.7_AIW52616.1)),NOV_Cry1Da1_84.8_ABK35074.1)),(BT_Cry1Fb1 #1,BT_Cry1Fa1)),((BT_Cry1Db1,NOV_Cry1Da1_83.2_AIW52615.1),BT_Cry1Da1))),(BT_Cry1Ab34,(BT_Cry1Ad1,NOV_Cry1Ae1_99.9_WP_063676659.1))),BT_Cry1Ac39);
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            2-   8   |   Relaxed (probability > 0.99)
+           10-  21   |   Relaxed (probability > 0.99)
+           23-  25   |   Relaxed (probability > 0.99)
+                27   |   Relaxed (probability > 0.99)
+                28   |   Relaxed (probability > 0.95)
+           29-  37   |   Relaxed (probability > 0.99)
+                38   |   Relaxed (probability > 0.95)
+           39-  41   |   Relaxed (probability > 0.99)
+                43   |   Relaxed (probability > 0.99)
+           46-  48   |   Relaxed (probability > 0.99)
+                49   |   Relaxed (probability > 0.95)
+           50-  51   |   Relaxed (probability > 0.99)
+           55-  57   |   Relaxed (probability > 0.99)
+                58   |   Relaxed (probability > 0.95)
+           60-  62   |   Relaxed (probability > 0.99)
+                63   |   Relaxed (probability > 0.95)
+           64-  65   |   Relaxed (probability > 0.99)
+           67-  68   |   Relaxed (probability > 0.99)
+           71-  76   |   Relaxed (probability > 0.99)
+                77   |   Relaxed (probability > 0.95)
+           78-  84   |   Relaxed (probability > 0.99)
+                85   |   Relaxed (probability > 0.95)
+           86-  93   |   Relaxed (probability > 0.99)
+           95-  99   |   Relaxed (probability > 0.99)
+               100   |   Relaxed (probability > 0.95)
+          101- 104   |   Relaxed (probability > 0.99)
+          105- 107   |   Relaxed (probability > 0.95)
+               108   |   Relaxed (probability > 0.99)
+          109- 110   |   Relaxed (probability > 0.95)
+          111- 128   |   Relaxed (probability > 0.99)
+          130- 133   |   Relaxed (probability > 0.99)
+          134- 135   |   Relaxed (probability > 0.95)
+          136- 138   |   Relaxed (probability > 0.99)
+               139   |   Relaxed (probability > 0.95)
+          141- 143   |   Relaxed (probability > 0.99)
+               146   |   Relaxed (probability > 0.95)
+               147   |   Relaxed (probability > 0.99)
+          149- 150   |   Relaxed (probability > 0.99)
+          152- 156   |   Relaxed (probability > 0.99)
+               159   |   Relaxed (probability > 0.99)
+               160   |   Relaxed (probability > 0.95)
+          161- 167   |   Relaxed (probability > 0.99)
+               168   |   Relaxed (probability > 0.95)
+          169- 171   |   Relaxed (probability > 0.99)
+               172   |   Relaxed (probability > 0.95)
+          173- 174   |   Relaxed (probability > 0.99)
+               175   |   Relaxed (probability > 0.95)
+          177- 182   |   Relaxed (probability > 0.99)
+               185   |   Relaxed (probability > 0.95)
+               186   |   Relaxed (probability > 0.99)
+               188   |   Relaxed (probability > 0.95)
+               189   |   Relaxed (probability > 0.99)
+               190   |   Relaxed (probability > 0.95)
+          191- 207   |   Relaxed (probability > 0.99)
+               210   |   Relaxed (probability > 0.99)
+
+ - Model bsB.22-1
+   * Marked branches
+      (((BT_Cry1Ac33,(NOV_Cry1Ac11_99.8_ACB05715.1,(NOV_Cry1Ac23_90.7_CAQ03747.1,BT_Cry1Ac25))),(NOV_Cry1Ac5_99.7_ADD12104.1,(((((((NOV_Cry1Ab12_91.4_AAK14338.1,BT_Cry1Af1),BT_Cry1Ab2),BT_Cry1Ab12),BT_Cry1Ab33),(BT_Cry1A-like,(NOV_Cry1Ea10_93.2_AAX86871.1,(BT_Cry1Eb1,BT_Cry1Ea10)))),NOV_Cry1Ab32_92.7_AAK14337.1),(BT_Cry1Aa24,(BT_Cry1Aa10,(((NOV_Cry1Aa12_99.9_OUA40850.1,BT_Cry1Ai1),NOV_Cry1Aa11_99.8_ADD14591.1),(BT_Cry1Aa21,BT_Cry1Ag1))))))),(((BT_Cry1Ah2,NOV_Cry1Ad2_87.7_AIW52617.1),(((((BT_Cry1La1,(BT_Cry1Ga2,NOV_Cry1Ga1_77.9_AX098669.1)),BT_Cry1Gb1),((BT_Cry1Ha1,(BT_Cry1Hb1,NOV_Cry1Ha1_85.7_AIW52616.1)),NOV_Cry1Da1_84.8_ABK35074.1)),(BT_Cry1Fb1 #1,BT_Cry1Fa1)),((BT_Cry1Db1,NOV_Cry1Da1_83.2_AIW52615.1),BT_Cry1Da1))),(BT_Cry1Ab34,(BT_Cry1Ad1,NOV_Cry1Ae1_99.9_WP_063676659.1))),BT_Cry1Ac39);

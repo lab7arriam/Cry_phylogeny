@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~5b433e6257721886a2b28e56b8b5d118)
+  - processing model b_free (b_free~ec861d2fd72ac1167a72e68043c2b364)
+       marking branches 3
+
+          ((BT_Cry1Bb1,NOV_Cry1Ie5_79.3_PQQ47595.1),((NOV_Cry1Da3_99.9_OTZ53868.1,(BT_Cry1Da1,BT_Cry1Db1 #1)),NOV_Cry1Da1_83.2_AIW52615.1),NOV_Cry1Ha1_85.7_AIW52616.1);
+
+  - processing model b_neut (b_neut~2a4be2c2becc6097223625518f02f56f)
+       marking branches 3
+
+          ((BT_Cry1Bb1,NOV_Cry1Ie5_79.3_PQQ47595.1),((NOV_Cry1Da3_99.9_OTZ53868.1,(BT_Cry1Da1,BT_Cry1Db1 #1)),NOV_Cry1Da1_83.2_AIW52615.1),NOV_Cry1Ha1_85.7_AIW52616.1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~5b433e6257721886a2b28e56b8b5d118 |   b_free.3-1~236776a5fc425e22de73e52418a1ba6c | 0.838852
+        b_neut.3-1~f139291083c756f8b19f35d13dc1d7d7 |   b_free.3-1~236776a5fc425e22de73e52418a1ba6c | 0.115598
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.310
+
+ - Model b_free.3-1
+   * Marked branches
+      ((BT_Cry1Bb1,NOV_Cry1Ie5_79.3_PQQ47595.1),((NOV_Cry1Da3_99.9_OTZ53868.1,(BT_Cry1Da1,BT_Cry1Db1 #1)),NOV_Cry1Da1_83.2_AIW52615.1),NOV_Cry1Ha1_85.7_AIW52616.1);
+
+        Branches  =>   omega
+              #1  =>   0.263
+      background  =>   0.311
+
+ - Model b_neut.3-1
+   * Marked branches
+      ((BT_Cry1Bb1,NOV_Cry1Ie5_79.3_PQQ47595.1),((NOV_Cry1Da3_99.9_OTZ53868.1,(BT_Cry1Da1,BT_Cry1Db1 #1)),NOV_Cry1Da1_83.2_AIW52615.1),NOV_Cry1Ha1_85.7_AIW52616.1);
+
+        Branches  =>   omega
+              #1  =>   1.000
+      background  =>   0.311

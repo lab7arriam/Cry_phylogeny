@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~90026b989f13046a01f3ba17b804be07)
+  - processing model b_free (b_free~fe849999bc25a5a32c5d620ee2515f79)
+       marking branches 14
+
+          (((BT_Cry9Aa1,BT_Cry9Ga1),NOV_Cry9Ga1_57.2_PEU81077.1),((((BT_Cry40Ca1,BT_Cry40Ba1),((BT_Cry40Da1,(NOV_Cry40Da1_77.3_ARJ25823.1,NOV_Cry40Da1_81.5_AIN76756.1)),(NOV_Cry40Aa1_67.9_CQ868314.1,BT_Cry40Aa1))),BT_Cry59Ba1),(NOV_Cry40Da1_65.0_CAH33957.1,NOV_Cry40Da1_66.9_PEU78339.1)),NOV_Cry9Ga1_58.0_AJS57594.1 #1);
+
+  - processing model b_neut (b_neut~c3bc5d4a02c29a3bd8ce913980edb3c7)
+       marking branches 14
+
+          (((BT_Cry9Aa1,BT_Cry9Ga1),NOV_Cry9Ga1_57.2_PEU81077.1),((((BT_Cry40Ca1,BT_Cry40Ba1),((BT_Cry40Da1,(NOV_Cry40Da1_77.3_ARJ25823.1,NOV_Cry40Da1_81.5_AIN76756.1)),(NOV_Cry40Aa1_67.9_CQ868314.1,BT_Cry40Aa1))),BT_Cry59Ba1),(NOV_Cry40Da1_65.0_CAH33957.1,NOV_Cry40Da1_66.9_PEU78339.1)),NOV_Cry9Ga1_58.0_AJS57594.1 #1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~90026b989f13046a01f3ba17b804be07 |  b_free.14-1~e2e08597cbceaa3f4c5e4b06c0dcb741 | 0.033964*
+       b_neut.14-1~69ffffe8312262b8aacaf9e100455f29 |  b_free.14-1~e2e08597cbceaa3f4c5e4b06c0dcb741 | 0.001056**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.520
+
+ - Model b_free.14-1
+   * Marked branches
+      (((BT_Cry9Aa1,BT_Cry9Ga1),NOV_Cry9Ga1_57.2_PEU81077.1),((((BT_Cry40Ca1,BT_Cry40Ba1),((BT_Cry40Da1,(NOV_Cry40Da1_77.3_ARJ25823.1,NOV_Cry40Da1_81.5_AIN76756.1)),(NOV_Cry40Aa1_67.9_CQ868314.1,BT_Cry40Aa1))),BT_Cry59Ba1),(NOV_Cry40Da1_65.0_CAH33957.1,NOV_Cry40Da1_66.9_PEU78339.1)),NOV_Cry9Ga1_58.0_AJS57594.1 #1);
+
+        Branches  =>   omega
+      background  =>   0.550
+              #1  =>   0.222
+
+ - Model b_neut.14-1
+   * Marked branches
+      (((BT_Cry9Aa1,BT_Cry9Ga1),NOV_Cry9Ga1_57.2_PEU81077.1),((((BT_Cry40Ca1,BT_Cry40Ba1),((BT_Cry40Da1,(NOV_Cry40Da1_77.3_ARJ25823.1,NOV_Cry40Da1_81.5_AIN76756.1)),(NOV_Cry40Aa1_67.9_CQ868314.1,BT_Cry40Aa1))),BT_Cry59Ba1),(NOV_Cry40Da1_65.0_CAH33957.1,NOV_Cry40Da1_66.9_PEU78339.1)),NOV_Cry9Ga1_58.0_AJS57594.1 #1);
+
+        Branches  =>   omega
+      background  =>   0.526
+              #1  =>   1.000

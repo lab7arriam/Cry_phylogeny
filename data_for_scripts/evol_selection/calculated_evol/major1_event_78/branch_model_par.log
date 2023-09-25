@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~5a53d96aadcc8e4f54f62a0f78e01b02)
+  - processing model b_free (b_free~144c0739c0a51d7e832a504bdbcc0cec)
+       marking branches 10
+
+          ((NOV_Cry56Aa4_56.4_PEU80288.1 #1,NOV_Cry56Aa2_56.0_AGV55019.1),(((((BT_Cry27Aa1,NOV_Cry27Aa1_80.8_AGV55018.1),(BT_Cry17Aa1,BT_Cry16Aa1)),NOV_Cry19Aa1_29.2_PEA88281.1),(NOV_Cry29Aa1_96.4_OUC03129.1,BT_Cry29Aa1)),NOV_Cry56Aa4_77.6_ARJ25668.1),(NOV_Cry56Aa4_79.3_WP_103592286.1,BT_Cry56Aa1));
+
+  - processing model b_neut (b_neut~cbe356cf28fc223374cfa41bc5f1378c)
+       marking branches 10
+
+          ((NOV_Cry56Aa4_56.4_PEU80288.1 #1,NOV_Cry56Aa2_56.0_AGV55019.1),(((((BT_Cry27Aa1,NOV_Cry27Aa1_80.8_AGV55018.1),(BT_Cry17Aa1,BT_Cry16Aa1)),NOV_Cry19Aa1_29.2_PEA88281.1),(NOV_Cry29Aa1_96.4_OUC03129.1,BT_Cry29Aa1)),NOV_Cry56Aa4_77.6_ARJ25668.1),(NOV_Cry56Aa4_79.3_WP_103592286.1,BT_Cry56Aa1));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~5a53d96aadcc8e4f54f62a0f78e01b02 |  b_free.10-1~64a9d03d2ffc1535236038cf3ee8cfde | 0.013719*
+       b_neut.10-1~1e4fc769db41bf10e71ada355149464d |  b_free.10-1~64a9d03d2ffc1535236038cf3ee8cfde | 0.088010
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.302
+
+ - Model b_free.10-1
+   * Marked branches
+      ((NOV_Cry56Aa4_56.4_PEU80288.1 #1,NOV_Cry56Aa2_56.0_AGV55019.1),(((((BT_Cry27Aa1,NOV_Cry27Aa1_80.8_AGV55018.1),(BT_Cry17Aa1,BT_Cry16Aa1)),NOV_Cry19Aa1_29.2_PEA88281.1),(NOV_Cry29Aa1_96.4_OUC03129.1,BT_Cry29Aa1)),NOV_Cry56Aa4_77.6_ARJ25668.1),(NOV_Cry56Aa4_79.3_WP_103592286.1,BT_Cry56Aa1));
+
+        Branches  =>   omega
+      background  =>   0.270
+              #1  =>   0.581
+
+ - Model b_neut.10-1
+   * Marked branches
+      ((NOV_Cry56Aa4_56.4_PEU80288.1 #1,NOV_Cry56Aa2_56.0_AGV55019.1),(((((BT_Cry27Aa1,NOV_Cry27Aa1_80.8_AGV55018.1),(BT_Cry17Aa1,BT_Cry16Aa1)),NOV_Cry19Aa1_29.2_PEA88281.1),(NOV_Cry29Aa1_96.4_OUC03129.1,BT_Cry29Aa1)),NOV_Cry56Aa4_77.6_ARJ25668.1),(NOV_Cry56Aa4_79.3_WP_103592286.1,BT_Cry56Aa1));
+
+        Branches  =>   omega
+              #1  =>   1.000
+      background  =>   0.269

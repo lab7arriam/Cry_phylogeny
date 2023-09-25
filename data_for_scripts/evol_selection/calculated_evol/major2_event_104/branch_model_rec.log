@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~0a60e7a17d9499ad1e3cb694d2ce8877)
+  - processing model b_free (b_free~55af53269b09f0f7ca39c658e8cd03b9)
+       marking branches 2
+
+          ((((BT_Cry52Ca1,NOV_Cry52Ca1_62.9_AZJ24464.1),NOV_Cry21Aa2_44.6_AZR80772.1 #1),(NOV_Cry21Fa1_31.0_OTW70091.1,NOV_Cry21Fa1_47.3_OTY57628.1)),NOV_Cry21Ca2_65.9_AZR80774.1,NOV_Cry21Ca2_64.6_AZR80780.1);
+
+  - processing model b_neut (b_neut~55215dfc26be9f25ffd0bda4146c174d)
+       marking branches 2
+
+          ((((BT_Cry52Ca1,NOV_Cry52Ca1_62.9_AZJ24464.1),NOV_Cry21Aa2_44.6_AZR80772.1 #1),(NOV_Cry21Fa1_31.0_OTW70091.1,NOV_Cry21Fa1_47.3_OTY57628.1)),NOV_Cry21Ca2_65.9_AZR80774.1,NOV_Cry21Ca2_64.6_AZR80780.1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~0a60e7a17d9499ad1e3cb694d2ce8877 |   b_free.2-1~9549e995c7d9ecee8e871fb735b8a850 | 0.127458
+        b_neut.2-1~bb355d6343a9924f7446d4a15be69c04 |   b_free.2-1~9549e995c7d9ecee8e871fb735b8a850 | 0.000670**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.171
+
+ - Model b_free.2-1
+   * Marked branches
+      ((((BT_Cry52Ca1,NOV_Cry52Ca1_62.9_AZJ24464.1),NOV_Cry21Aa2_44.6_AZR80772.1 #1),(NOV_Cry21Fa1_31.0_OTW70091.1,NOV_Cry21Fa1_47.3_OTY57628.1)),NOV_Cry21Ca2_65.9_AZR80774.1,NOV_Cry21Ca2_64.6_AZR80780.1);
+
+        Branches  =>   omega
+              #1  =>   0.008
+      background  =>   0.177
+
+ - Model b_neut.2-1
+   * Marked branches
+      ((((BT_Cry52Ca1,NOV_Cry52Ca1_62.9_AZJ24464.1),NOV_Cry21Aa2_44.6_AZR80772.1 #1),(NOV_Cry21Fa1_31.0_OTW70091.1,NOV_Cry21Fa1_47.3_OTY57628.1)),NOV_Cry21Ca2_65.9_AZR80774.1,NOV_Cry21Ca2_64.6_AZR80780.1);
+
+        Branches  =>   omega
+      background  =>   0.171
+              #1  =>   1.000

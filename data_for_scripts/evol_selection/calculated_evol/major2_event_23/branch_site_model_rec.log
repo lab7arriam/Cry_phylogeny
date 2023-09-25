@@ -1,0 +1,158 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~90dc54b93981bfd31f135baf32ec7b03)
+  - processing model bsA (bsA~5a33bfa60672bdb5233b88d18dea5511)
+       marking branches 5
+
+          (((NOV_Cry19Ba1_74.0_AGV55021.1,BT_Cry19Ca1),BT_Cry19Ba1),BT_Cry19Aa1,((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),((((BT_Cry7Ba1,(BT_Cry7Bb1,NOV_Cry7Ba1_84.3_AFI42043.1)),(BT_Cry8La1,(NOV_Cry8Ma3_96.0_ATY50149.1,NOV_Cry8Ma2_96.0_WP_103622989.1))),(BT_Cry54Aa1,NOV_Cry54Aa1_88.1_AFU17344.1)),(BT_Cry52Ba1 #1,BT_Cry52Aa1))));
+
+  - processing model bsA1 (bsA1~4c07956ce74dc847d69996e1986d7f47)
+       marking branches 5
+
+          (((NOV_Cry19Ba1_74.0_AGV55021.1,BT_Cry19Ca1),BT_Cry19Ba1),BT_Cry19Aa1,((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),((((BT_Cry7Ba1,(BT_Cry7Bb1,NOV_Cry7Ba1_84.3_AFI42043.1)),(BT_Cry8La1,(NOV_Cry8Ma3_96.0_ATY50149.1,NOV_Cry8Ma2_96.0_WP_103622989.1))),(BT_Cry54Aa1,NOV_Cry54Aa1_88.1_AFU17344.1)),(BT_Cry52Ba1 #1,BT_Cry52Aa1))));
+
+  - processing model bsB (bsB~c29c3fbd10e9f12c1b0289705ffc5df3)
+       marking branches 5
+
+          (((NOV_Cry19Ba1_74.0_AGV55021.1,BT_Cry19Ca1),BT_Cry19Ba1),BT_Cry19Aa1,((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),((((BT_Cry7Ba1,(BT_Cry7Bb1,NOV_Cry7Ba1_84.3_AFI42043.1)),(BT_Cry8La1,(NOV_Cry8Ma3_96.0_ATY50149.1,NOV_Cry8Ma2_96.0_WP_103622989.1))),(BT_Cry54Aa1,NOV_Cry54Aa1_88.1_AFU17344.1)),(BT_Cry52Ba1 #1,BT_Cry52Aa1))));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~90dc54b93981bfd31f135baf32ec7b03 |      bsA.5-1~3635110e17cf56575b475a6e2a11e28b | 0.000000**
+                M0~90dc54b93981bfd31f135baf32ec7b03 |     bsA1.5-1~db9cf2d9ce83f5a395a851464263f549 | 0.000000**
+                M0~90dc54b93981bfd31f135baf32ec7b03 |      bsB.5-1~21f00be0adad3b2a708f955bffb86f8b | 0.000000**
+           bsA.5-1~3635110e17cf56575b475a6e2a11e28b |      bsB.5-1~21f00be0adad3b2a708f955bffb86f8b | 0.000000**
+          bsA1.5-1~db9cf2d9ce83f5a395a851464263f549 |      bsA.5-1~3635110e17cf56575b475a6e2a11e28b | 0.000000**
+          bsA1.5-1~db9cf2d9ce83f5a395a851464263f549 |      bsB.5-1~21f00be0adad3b2a708f955bffb86f8b | 0.000000**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.230
+
+ - Model bsA.5-1
+   * Marked branches
+      (((NOV_Cry19Ba1_74.0_AGV55021.1,BT_Cry19Ca1),BT_Cry19Ba1),BT_Cry19Aa1,((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),((((BT_Cry7Ba1,(BT_Cry7Bb1,NOV_Cry7Ba1_84.3_AFI42043.1)),(BT_Cry8La1,(NOV_Cry8Ma3_96.0_ATY50149.1,NOV_Cry8Ma2_96.0_WP_103622989.1))),(BT_Cry54Aa1,NOV_Cry54Aa1_88.1_AFU17344.1)),(BT_Cry52Ba1 #1,BT_Cry52Aa1))));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                55   |   Positively-selected (probability > 0.95)
+                61   |   Positively-selected (probability > 0.95)
+                67   |   Positively-selected (probability > 0.95)
+                72   |   Positively-selected (probability > 0.95)
+                77   |   Positively-selected (probability > 0.95)
+                78   |   Positively-selected (probability > 0.99)
+           79-  80   |   Positively-selected (probability > 0.95)
+                81   |   Positively-selected (probability > 0.99)
+                83   |   Positively-selected (probability > 0.95)
+                84   |   Positively-selected (probability > 0.99)
+                89   |   Positively-selected (probability > 0.95)
+                90   |   Positively-selected (probability > 0.99)
+                91   |   Positively-selected (probability > 0.95)
+           93-  94   |   Positively-selected (probability > 0.99)
+                98   |   Positively-selected (probability > 0.99)
+               100   |   Positively-selected (probability > 0.99)
+               101   |   Positively-selected (probability > 0.95)
+          102- 104   |   Positively-selected (probability > 0.99)
+               105   |   Positively-selected (probability > 0.95)
+               107   |   Positively-selected (probability > 0.99)
+               108   |   Positively-selected (probability > 0.95)
+               109   |   Positively-selected (probability > 0.99)
+               111   |   Positively-selected (probability > 0.99)
+               112   |   Positively-selected (probability > 0.95)
+               114   |   Positively-selected (probability > 0.95)
+          116- 121   |   Positively-selected (probability > 0.99)
+          124- 125   |   Positively-selected (probability > 0.95)
+               126   |   Positively-selected (probability > 0.99)
+               127   |   Positively-selected (probability > 0.95)
+               128   |   Positively-selected (probability > 0.99)
+               131   |   Positively-selected (probability > 0.95)
+               134   |   Positively-selected (probability > 0.99)
+          135- 136   |   Positively-selected (probability > 0.95)
+          137- 138   |   Positively-selected (probability > 0.99)
+               139   |   Positively-selected (probability > 0.95)
+          140- 141   |   Positively-selected (probability > 0.99)
+               145   |   Positively-selected (probability > 0.99)
+               146   |   Positively-selected (probability > 0.95)
+          161- 162   |   Positively-selected (probability > 0.95)
+               200   |   Positively-selected (probability > 0.99)
+
+ - Model bsA1.5-1
+   * Marked branches
+      (((NOV_Cry19Ba1_74.0_AGV55021.1,BT_Cry19Ca1),BT_Cry19Ba1),BT_Cry19Aa1,((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),((((BT_Cry7Ba1,(BT_Cry7Bb1,NOV_Cry7Ba1_84.3_AFI42043.1)),(BT_Cry8La1,(NOV_Cry8Ma3_96.0_ATY50149.1,NOV_Cry8Ma2_96.0_WP_103622989.1))),(BT_Cry54Aa1,NOV_Cry54Aa1_88.1_AFU17344.1)),(BT_Cry52Ba1 #1,BT_Cry52Aa1))));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                81   |   Relaxed (probability > 0.95)
+                84   |   Relaxed (probability > 0.95)
+               116   |   Relaxed (probability > 0.95)
+               126   |   Relaxed (probability > 0.95)
+
+ - Model bsB.5-1
+   * Marked branches
+      (((NOV_Cry19Ba1_74.0_AGV55021.1,BT_Cry19Ca1),BT_Cry19Ba1),BT_Cry19Aa1,((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),((((BT_Cry7Ba1,(BT_Cry7Bb1,NOV_Cry7Ba1_84.3_AFI42043.1)),(BT_Cry8La1,(NOV_Cry8Ma3_96.0_ATY50149.1,NOV_Cry8Ma2_96.0_WP_103622989.1))),(BT_Cry54Aa1,NOV_Cry54Aa1_88.1_AFU17344.1)),(BT_Cry52Ba1 #1,BT_Cry52Aa1))));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            2-   3   |   Conserved (probability > 0.95)
+                 5   |   Conserved (probability > 0.95)
+                 6   |   Conserved (probability > 0.99)
+                 7   |   Conserved (probability > 0.95)
+                 8   |   Conserved (probability > 0.99)
+            9-  11   |   Conserved (probability > 0.95)
+                13   |   Conserved (probability > 0.95)
+           15-  16   |   Conserved (probability > 0.95)
+                39   |   Conserved (probability > 0.95)
+                46   |   Conserved (probability > 0.99)
+           48-  49   |   Conserved (probability > 0.95)
+                51   |   Conserved (probability > 0.99)
+                55   |   Positively-selected (probability > 0.95)
+                57   |   Conserved (probability > 0.95)
+                59   |   Conserved (probability > 0.95)
+                61   |   Positively-selected (probability > 0.99)
+           67-  68   |   Positively-selected (probability > 0.95)
+                74   |   Conserved (probability > 0.95)
+           77-  78   |   Positively-selected (probability > 0.99)
+                81   |   Positively-selected (probability > 0.99)
+           83-  84   |   Positively-selected (probability > 0.99)
+                86   |   Positively-selected (probability > 0.95)
+                88   |   Positively-selected (probability > 0.95)
+           89-  91   |   Positively-selected (probability > 0.99)
+                92   |   Positively-selected (probability > 0.95)
+           93-  94   |   Positively-selected (probability > 0.99)
+                96   |   Positively-selected (probability > 0.95)
+                97   |   Conserved (probability > 0.95)
+                98   |   Positively-selected (probability > 0.99)
+          100- 104   |   Positively-selected (probability > 0.99)
+               105   |   Positively-selected (probability > 0.95)
+          106- 109   |   Positively-selected (probability > 0.99)
+               110   |   Positively-selected (probability > 0.95)
+          111- 112   |   Positively-selected (probability > 0.99)
+               113   |   Positively-selected (probability > 0.95)
+               114   |   Positively-selected (probability > 0.99)
+          116- 121   |   Positively-selected (probability > 0.99)
+               122   |   Positively-selected (probability > 0.95)
+               124   |   Positively-selected (probability > 0.95)
+          126- 128   |   Positively-selected (probability > 0.99)
+               132   |   Positively-selected (probability > 0.99)
+          134- 135   |   Positively-selected (probability > 0.99)
+          137- 138   |   Positively-selected (probability > 0.99)
+          140- 141   |   Positively-selected (probability > 0.99)
+          144- 145   |   Positively-selected (probability > 0.99)
+               156   |   Conserved (probability > 0.95)
+               162   |   Positively-selected (probability > 0.95)
+               170   |   Conserved (probability > 0.95)
+               185   |   Conserved (probability > 0.95)
+          188- 189   |   Conserved (probability > 0.95)
+               193   |   Conserved (probability > 0.95)
+               195   |   Conserved (probability > 0.95)
+               197   |   Conserved (probability > 0.99)
+               200   |   Positively-selected (probability > 0.95)
+          219- 220   |   Conserved (probability > 0.95)
+          222- 224   |   Conserved (probability > 0.95)
+               225   |   Conserved (probability > 0.99)

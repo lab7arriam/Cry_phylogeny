@@ -1,0 +1,41 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~cafb84d4384f95b8206dd581ea7f0732)
+  - processing model b_free (b_free~2468db87f6c5391d02c99e034174cc70)
+       marking branches 10, 11, 7, 1, 6, 12, 2, 3, 13, 14, 4, 5, 8, 9
+
+          ((BT_Cry1Ca11 #1,NOV_Cry1Ca2_99.9_CAA00882.1 #1) #1,((BT_Cry1Ja1 #1,((BT_Cry1Jd1 #1,NOV_Cry1Jc1_99.1_AAS93799.1 #1) #1,BT_Cry1Jb1 #1) #1) #1,BT_Cry1Cb1 #1) #1,NOV_Cry1Ca4_99.9_QBO56621.1 #1) #1;
+
+  - processing model b_neut (b_neut~65d03412741c0c5ac69917ecbfdbe767)
+       marking branches 10, 11, 7, 1, 6, 12, 2, 3, 13, 14, 4, 5, 8, 9
+
+          ((BT_Cry1Ca11 #1,NOV_Cry1Ca2_99.9_CAA00882.1 #1) #1,((BT_Cry1Ja1 #1,((BT_Cry1Jd1 #1,NOV_Cry1Jc1_99.1_AAS93799.1 #1) #1,BT_Cry1Jb1 #1) #1) #1,BT_Cry1Cb1 #1) #1,NOV_Cry1Ca4_99.9_QBO56621.1 #1) #1;
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~cafb84d4384f95b8206dd581ea7f0732 | b_free.10_11~b7efea4d6793c62d7efad64b368063d7 | 1.000000
+      b_neut.10_11~38bfb695055d2bee4f34424a19232048 | b_free.10_11~b7efea4d6793c62d7efad64b368063d7 | 0.000000**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.262
+
+ - Model b_free.10_11_7_1_6_12_2_3_13_14_4_5_8_9-1_1_1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((BT_Cry1Ca11 #1,NOV_Cry1Ca2_99.9_CAA00882.1 #1) #1,((BT_Cry1Ja1 #1,((BT_Cry1Jd1 #1,NOV_Cry1Jc1_99.1_AAS93799.1 #1) #1,BT_Cry1Jb1 #1) #1) #1,BT_Cry1Cb1 #1) #1,NOV_Cry1Ca4_99.9_QBO56621.1 #1) #1;
+
+        Branches  =>   omega
+              #1  =>   0.262
+
+ - Model b_neut.10_11_7_1_6_12_2_3_13_14_4_5_8_9-1_1_1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((BT_Cry1Ca11 #1,NOV_Cry1Ca2_99.9_CAA00882.1 #1) #1,((BT_Cry1Ja1 #1,((BT_Cry1Jd1 #1,NOV_Cry1Jc1_99.1_AAS93799.1 #1) #1,BT_Cry1Jb1 #1) #1) #1,BT_Cry1Cb1 #1) #1,NOV_Cry1Ca4_99.9_QBO56621.1 #1) #1;
+
+        Branches  =>   omega
+              #1  =>   1.000

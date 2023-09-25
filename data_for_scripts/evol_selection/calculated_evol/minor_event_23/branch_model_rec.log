@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~b3651e5f093ff36dcfe6ad2cdc41072f)
+  - processing model b_free (b_free~f062de4be48654d1cd3b2ed49b4ec3d9)
+       marking branches 15
+
+          (((NOV_Cry4Ba1_98.1_ABR22240.1,(BT_Cry4Ba1,(((BT_Cry32Ua1,BT_Cry32Da1),((BT_Cry32Wa1,BT_Cry32Pa1),(((BT_Cry24Ca1,BT_Cry40Ba1),NOV_Cry24Aa1_98.3_WP_086403584.1),(BT_Cry24Da1,(BT_Cry44Aa1,(((((((NOV_Cry40Da1_81.5_AIN76756.1,(BT_Cry40Da1,NOV_Cry40Da1_66.9_PEU78339.1)),NOV_Cry40Da1_77.3_ARJ25823.1),BT_Cry40Ca1),BT_Cry40Aa1),(BT_Cry52Aa1,BT_Cry52Ca1)),BT_Cry52Ba1 #1),NOV_Cry40Da1_65.0_CAH33957.1)))))),BT_Cry4Ba3))),NOV_Cry4Ba1_98.5_ABR22238.1),NOV_Cry4Ba1_98.9_ABR22237.1,NOV_Cry4Ba1_98.9_ABR22236.1);
+
+  - processing model b_neut (b_neut~7f29e2ae5c72a69502ac25c9f31e2fcf)
+       marking branches 15
+
+          (((NOV_Cry4Ba1_98.1_ABR22240.1,(BT_Cry4Ba1,(((BT_Cry32Ua1,BT_Cry32Da1),((BT_Cry32Wa1,BT_Cry32Pa1),(((BT_Cry24Ca1,BT_Cry40Ba1),NOV_Cry24Aa1_98.3_WP_086403584.1),(BT_Cry24Da1,(BT_Cry44Aa1,(((((((NOV_Cry40Da1_81.5_AIN76756.1,(BT_Cry40Da1,NOV_Cry40Da1_66.9_PEU78339.1)),NOV_Cry40Da1_77.3_ARJ25823.1),BT_Cry40Ca1),BT_Cry40Aa1),(BT_Cry52Aa1,BT_Cry52Ca1)),BT_Cry52Ba1 #1),NOV_Cry40Da1_65.0_CAH33957.1)))))),BT_Cry4Ba3))),NOV_Cry4Ba1_98.5_ABR22238.1),NOV_Cry4Ba1_98.9_ABR22237.1,NOV_Cry4Ba1_98.9_ABR22236.1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~b3651e5f093ff36dcfe6ad2cdc41072f |  b_free.15-1~4b96c1527ff715474cc7ded63fa7f155 | 0.457458
+       b_neut.15-1~8791ca9758148eead71a39caf85c4c45 |  b_free.15-1~4b96c1527ff715474cc7ded63fa7f155 | 0.396519
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.446
+
+ - Model b_free.15-1
+   * Marked branches
+      (((NOV_Cry4Ba1_98.1_ABR22240.1,(BT_Cry4Ba1,(((BT_Cry32Ua1,BT_Cry32Da1),((BT_Cry32Wa1,BT_Cry32Pa1),(((BT_Cry24Ca1,BT_Cry40Ba1),NOV_Cry24Aa1_98.3_WP_086403584.1),(BT_Cry24Da1,(BT_Cry44Aa1,(((((((NOV_Cry40Da1_81.5_AIN76756.1,(BT_Cry40Da1,NOV_Cry40Da1_66.9_PEU78339.1)),NOV_Cry40Da1_77.3_ARJ25823.1),BT_Cry40Ca1),BT_Cry40Aa1),(BT_Cry52Aa1,BT_Cry52Ca1)),BT_Cry52Ba1 #1),NOV_Cry40Da1_65.0_CAH33957.1)))))),BT_Cry4Ba3))),NOV_Cry4Ba1_98.5_ABR22238.1),NOV_Cry4Ba1_98.9_ABR22237.1,NOV_Cry4Ba1_98.9_ABR22236.1);
+
+        Branches  =>   omega
+              #1  =>   0.640
+      background  =>   0.442
+
+ - Model b_neut.15-1
+   * Marked branches
+      (((NOV_Cry4Ba1_98.1_ABR22240.1,(BT_Cry4Ba1,(((BT_Cry32Ua1,BT_Cry32Da1),((BT_Cry32Wa1,BT_Cry32Pa1),(((BT_Cry24Ca1,BT_Cry40Ba1),NOV_Cry24Aa1_98.3_WP_086403584.1),(BT_Cry24Da1,(BT_Cry44Aa1,(((((((NOV_Cry40Da1_81.5_AIN76756.1,(BT_Cry40Da1,NOV_Cry40Da1_66.9_PEU78339.1)),NOV_Cry40Da1_77.3_ARJ25823.1),BT_Cry40Ca1),BT_Cry40Aa1),(BT_Cry52Aa1,BT_Cry52Ca1)),BT_Cry52Ba1 #1),NOV_Cry40Da1_65.0_CAH33957.1)))))),BT_Cry4Ba3))),NOV_Cry4Ba1_98.5_ABR22238.1),NOV_Cry4Ba1_98.9_ABR22237.1,NOV_Cry4Ba1_98.9_ABR22236.1);
+
+        Branches  =>   omega
+      background  =>   0.441
+              #1  =>   1.000

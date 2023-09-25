@@ -1,0 +1,76 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~11ee97425df7b9c5e5923d3f8496fb0b)
+  - processing model bsA (bsA~c0e6ab6c97d2a44635e21e715f24052e)
+       marking branches 2
+
+          ((NOV_Cry7Ca1_86.8_AGM39664.1,NOV_Cry7Ca1_99.7_ABR67863.2),((NOV_Cry7Ba1_84.3_AFI42043.1,BT_Cry7Ba1 #1),NOV_Cry7Ea2_99.9_AFI42038.1),((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),BT_Cry7Cb1));
+
+  - processing model bsA1 (bsA1~ad88c8918a8d45eb642e8dd6826bcc54)
+       marking branches 2
+
+          ((NOV_Cry7Ca1_86.8_AGM39664.1,NOV_Cry7Ca1_99.7_ABR67863.2),((NOV_Cry7Ba1_84.3_AFI42043.1,BT_Cry7Ba1 #1),NOV_Cry7Ea2_99.9_AFI42038.1),((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),BT_Cry7Cb1));
+
+  - processing model bsB (bsB~a1215b75c365bd5c2c2f21be0476c8c6)
+       marking branches 2
+
+          ((NOV_Cry7Ca1_86.8_AGM39664.1,NOV_Cry7Ca1_99.7_ABR67863.2),((NOV_Cry7Ba1_84.3_AFI42043.1,BT_Cry7Ba1 #1),NOV_Cry7Ea2_99.9_AFI42038.1),((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),BT_Cry7Cb1));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~11ee97425df7b9c5e5923d3f8496fb0b |      bsA.2-1~1cfb4dfd7e1c0597d2986ae947f99498 | 0.000000**
+                M0~11ee97425df7b9c5e5923d3f8496fb0b |     bsA1.2-1~4367b815e249da4aa26d207b00bcf710 | 0.000000**
+                M0~11ee97425df7b9c5e5923d3f8496fb0b |      bsB.2-1~78f021adcdd6a94fa30208513977bc40 | 0.000000**
+           bsA.2-1~1cfb4dfd7e1c0597d2986ae947f99498 |      bsB.2-1~78f021adcdd6a94fa30208513977bc40 | 0.329312
+          bsA1.2-1~4367b815e249da4aa26d207b00bcf710 |      bsA.2-1~1cfb4dfd7e1c0597d2986ae947f99498 | 0.002353**
+          bsA1.2-1~4367b815e249da4aa26d207b00bcf710 |      bsB.2-1~78f021adcdd6a94fa30208513977bc40 | 0.006088**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.367
+
+ - Model bsA.2-1
+   * Marked branches
+      ((NOV_Cry7Ca1_86.8_AGM39664.1,NOV_Cry7Ca1_99.7_ABR67863.2),((NOV_Cry7Ba1_84.3_AFI42043.1,BT_Cry7Ba1 #1),NOV_Cry7Ea2_99.9_AFI42038.1),((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),BT_Cry7Cb1));
+
+ - Model bsA1.2-1
+   * Marked branches
+      ((NOV_Cry7Ca1_86.8_AGM39664.1,NOV_Cry7Ca1_99.7_ABR67863.2),((NOV_Cry7Ba1_84.3_AFI42043.1,BT_Cry7Ba1 #1),NOV_Cry7Ea2_99.9_AFI42038.1),((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),BT_Cry7Cb1));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            1- 235   |   Relaxed (probability > 0.99)
+
+ - Model bsB.2-1
+   * Marked branches
+      ((NOV_Cry7Ca1_86.8_AGM39664.1,NOV_Cry7Ca1_99.7_ABR67863.2),((NOV_Cry7Ba1_84.3_AFI42043.1,BT_Cry7Ba1 #1),NOV_Cry7Ea2_99.9_AFI42038.1),((NOV_Cry52Ca1_62.9_AZJ24464.1,BT_Cry52Ca1),BT_Cry7Cb1));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                 5   |   Conserved (probability > 0.95)
+                 8   |   Conserved (probability > 0.95)
+                10   |   Conserved (probability > 0.95)
+                13   |   Conserved (probability > 0.95)
+                16   |   Conserved (probability > 0.95)
+                68   |   Positively-selected (probability > 0.95)
+                83   |   Conserved (probability > 0.95)
+               116   |   Conserved (probability > 0.95)
+               118   |   Conserved (probability > 0.95)
+          121- 122   |   Conserved (probability > 0.95)
+               150   |   Positively-selected (probability > 0.95)
+               156   |   Conserved (probability > 0.95)
+               157   |   Positively-selected (probability > 0.95)
+               163   |   Conserved (probability > 0.95)
+               175   |   Positively-selected (probability > 0.95)
+               178   |   Positively-selected (probability > 0.95)
+               191   |   Conserved (probability > 0.95)
+               195   |   Conserved (probability > 0.95)
+               201   |   Conserved (probability > 0.95)
+               233   |   Conserved (probability > 0.95)
+               235   |   Conserved (probability > 0.95)

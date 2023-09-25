@@ -1,0 +1,180 @@
+--------------------------------------------------------------------------------
+ModelTest-NG v0.1.7
+
+Input data:
+  MSA:        /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta
+  Tree:       Maximum likelihood
+    file:           -
+  #taxa:            12
+  #sites:           612
+  #patterns:        238
+  Max. thread mem:  1 MB
+
+Output:
+  Log:           /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta.log
+  Starting tree: /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta.tree
+  Results:       /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta.out
+
+Selection options:
+  # dna schemes:      11
+  # dna models:       88
+  include model parameters:
+    Uniform:         true
+    p-inv (+I):      true
+    gamma (+G):      true
+    both (+I+G):     true
+    free rates (+R): false
+    fixed freqs:     true
+    estimated freqs: true
+    #categories:     4
+  gamma rates mode:   mean
+  asc bias:           none
+  epsilon (opt):      0.01
+  epsilon (par):      0.05
+  keep branches:      false
+
+Additional options:
+  verbosity:        very low
+  threads:          1/36
+  RNG seed:         12345
+  subtree repeats:  enabled
+--------------------------------------------------------------------------------
+
+BIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  HKY+I              5     -3007.1821      6181.1993         0.0000    0.4894
+       2  HKY+G4             5     -3008.1883      6183.2115         2.0123    0.1790
+       3  TPM3uf+I           6     -3005.3680      6183.9877         2.7884    0.1214
+       4  TPM2uf+I           6     -3006.2968      6185.8454         4.6461    0.0480
+       5  HKY+I+G4           6     -3006.6966      6186.6450         5.4457    0.0321
+       6  TPM3uf+G4          6     -3006.7994      6186.8506         5.6513    0.0290
+       7  TPM2uf+G4          6     -3007.1226      6187.4969         6.2977    0.0210
+       8  TPM1uf+I           6     -3007.1354      6187.5225         6.3232    0.0207
+       9  TrN+I              6     -3007.1720      6187.5957         6.3965    0.0200
+      10  TPM3uf+I+G4        7     -3004.9207      6189.5100         8.3107    0.0077
+--------------------------------------------------------------------------------
+Best model according to BIC
+---------------------------
+Model:              HKY+I
+lnL:                -3007.1821
+Frequencies:        0.3050 0.2019 0.1852 0.3079
+Subst. Rates:       1.0000 2.2516 1.0000 1.0000 2.2516 1.0000 
+Inv. sites prop:    0.3008
+Gamma shape:        -
+Score:              6181.1993
+Weight:             0.4894
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.7080
+Gamma:              0.2459
+Gamma-Inv:          0.0461
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.3009
+Alpha:              1.0000
+Alpha-P.Inv:        3.8578
+P.Inv-Alpha:        0.2319
+Frequencies:        0.3042 0.2015 0.1858 0.3085 
+
+Commands:
+  > phyml  -i /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta -m 010010 -f m -v e -a 0 -c 1 -o tlr
+  > raxmlHPC-SSE3 -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta -c 1 -m GTRCATIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta --model HKY+I
+  > paup -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta
+  > iqtree -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta -m HKY+I
+
+AIC       model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TPM3uf+I           6     -3005.3680      6064.7359         0.0000    0.1650
+       2  TPM3uf+I+G4        7     -3004.9207      6065.8415         1.1055    0.0950
+       3  HKY+I              5     -3007.1821      6066.3642         1.6283    0.0731
+       4  TPM2uf+I           6     -3006.2968      6066.5936         1.8577    0.0652
+       5  TIM3+I             7     -3005.3310      6066.6621         1.9261    0.0630
+       6  TVM+I              8     -3004.4733      6066.9466         2.2106    0.0546
+       7  HKY+I+G4           6     -3006.6966      6067.3932         2.6573    0.0437
+       8  TPM2uf+I+G4        7     -3005.7954      6067.5907         2.8548    0.0396
+       9  TPM3uf+G4          6     -3006.7994      6067.5989         2.8629    0.0394
+      10  TIM3+I+G4          8     -3005.0117      6068.0234         3.2875    0.0319
+--------------------------------------------------------------------------------
+Best model according to AIC
+---------------------------
+Model:              TPM3uf+I
+lnL:                -3005.3680
+Frequencies:        0.3048 0.1949 0.1851 0.3152
+Subst. Rates:       1.4020 2.6062 1.0000 1.4020 2.6062 1.0000 
+Inv. sites prop:    0.3016
+Gamma shape:        -
+Score:              6064.7359
+Weight:             0.1650
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.5331
+Gamma:              0.1643
+Gamma-Inv:          0.3026
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.3003
+Alpha:              1.0000
+Alpha-P.Inv:        4.1182
+P.Inv-Alpha:        0.2353
+Frequencies:        0.3030 0.1987 0.1871 0.3111 
+
+Commands:
+  > phyml  -i /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta -m 012012 -f m -v e -a 0 -c 1 -o tlr
+  > raxmlHPC-SSE3 -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta -c 1 -m GTRCATIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta --model TPM3uf+I
+  > paup -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta
+  > iqtree -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta -m TPM3uf+I
+
+AICc      model              K            lnL          score          delta    weight
+--------------------------------------------------------------------------------
+       1  TPM3uf+I           6     -3005.3680      6066.7359         0.0000    0.1695
+       2  TPM3uf+I+G4        7     -3004.9207      6067.8415         1.1055    0.0975
+       3  HKY+I              5     -3007.1821      6068.3642         1.6283    0.0751
+       4  TPM2uf+I           6     -3006.2968      6068.5936         1.8577    0.0669
+       5  TIM3+I             7     -3005.3310      6068.6621         1.9261    0.0647
+       6  TVM+I              8     -3004.4733      6068.9466         2.2106    0.0561
+       7  HKY+I+G4           6     -3006.6966      6069.3932         2.6573    0.0449
+       8  TPM2uf+I+G4        7     -3005.7954      6069.5907         2.8548    0.0407
+       9  TPM3uf+G4          6     -3006.7994      6069.5989         2.8629    0.0405
+      10  TIM3+I+G4          8     -3005.0117      6070.0234         3.2875    0.0328
+--------------------------------------------------------------------------------
+Best model according to AICc
+---------------------------
+Model:              TPM3uf+I
+lnL:                -3005.3680
+Frequencies:        0.3048 0.1949 0.1851 0.3152
+Subst. Rates:       1.4020 2.6062 1.0000 1.4020 2.6062 1.0000 
+Inv. sites prop:    0.3016
+Gamma shape:        -
+Score:              6066.7359
+Weight:             0.1695
+---------------------------
+Parameter importances
+---------------------------
+P.Inv:              0.5387
+Gamma:              0.1664
+Gamma-Inv:          0.2949
+Frequencies:        1.0000
+---------------------------
+Model averaged estimates
+---------------------------
+P.Inv:              0.3004
+Alpha:              1.0000
+Alpha-P.Inv:        4.1360
+P.Inv-Alpha:        0.2357
+Frequencies:        0.3031 0.1988 0.1870 0.3110 
+
+Commands:
+  > phyml  -i /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta -m 012012 -f m -v e -a 0 -c 1 -o tlr
+  > raxmlHPC-SSE3 -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta -c 1 -m GTRCATIX -n EXEC_NAME -p PARSIMONY_SEED
+  > raxml-ng --msa /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta --model TPM3uf+I
+  > paup -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta
+  > iqtree -s /shared/lab_7/phyl_pipeline/evol_anal/NO_PAT/testing_evol/major2_event_2/major2_event_2_nucl_reported.fasta -m TPM3uf+I
+Done

@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~7fd60e7bbede32a9930e47036fdce136)
+  - processing model b_free (b_free~ce168a0bb38fc8962cde763f08c071e3)
+       marking branches 7
+
+          ((BT_Cry14Aa1,(NOV_Cry14Aa1_41.1_PGW46198.1,(BT_Cry13Aa1,(NOV_Cry13Aa1_50.1_ANS46780.1,(NOV_Cry14Ab1_42.4_PGW46196.1 #1,NOV_Cry14Aa1_44.0_PGW42274.1))))),BT_Cry14Ab1,NOV_Cry14Ab1_85.6_AXE15628.1);
+
+  - processing model b_neut (b_neut~43e8d9a623973de3b938aabd768be595)
+       marking branches 7
+
+          ((BT_Cry14Aa1,(NOV_Cry14Aa1_41.1_PGW46198.1,(BT_Cry13Aa1,(NOV_Cry13Aa1_50.1_ANS46780.1,(NOV_Cry14Ab1_42.4_PGW46196.1 #1,NOV_Cry14Aa1_44.0_PGW42274.1))))),BT_Cry14Ab1,NOV_Cry14Ab1_85.6_AXE15628.1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~7fd60e7bbede32a9930e47036fdce136 |   b_free.7-1~eb9731b9a5a3cf3df34e6af9ffb9a95e | 0.000000**
+        b_neut.7-1~a915ad0a288f6bc98f26873dcfdec337 |   b_free.7-1~eb9731b9a5a3cf3df34e6af9ffb9a95e | 0.000000**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.231
+
+ - Model b_free.7-1
+   * Marked branches
+      ((BT_Cry14Aa1,(NOV_Cry14Aa1_41.1_PGW46198.1,(BT_Cry13Aa1,(NOV_Cry13Aa1_50.1_ANS46780.1,(NOV_Cry14Ab1_42.4_PGW46196.1 #1,NOV_Cry14Aa1_44.0_PGW42274.1))))),BT_Cry14Ab1,NOV_Cry14Ab1_85.6_AXE15628.1);
+
+        Branches  =>   omega
+      background  =>   0.287
+              #1  =>   0.046
+
+ - Model b_neut.7-1
+   * Marked branches
+      ((BT_Cry14Aa1,(NOV_Cry14Aa1_41.1_PGW46198.1,(BT_Cry13Aa1,(NOV_Cry13Aa1_50.1_ANS46780.1,(NOV_Cry14Ab1_42.4_PGW46196.1 #1,NOV_Cry14Aa1_44.0_PGW42274.1))))),BT_Cry14Ab1,NOV_Cry14Ab1_85.6_AXE15628.1);
+
+        Branches  =>   omega
+              #1  =>   1.000
+      background  =>   0.231

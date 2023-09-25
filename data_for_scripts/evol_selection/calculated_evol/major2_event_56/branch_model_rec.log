@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~290a1acfaa7a8b065bb0d3c10aef2ee6)
+  - processing model b_free (b_free~62e7d0413e0a889d9a140108143ede64)
+       marking branches 20
+
+          ((BT_Cry1Ba1,((BT_Cry9Ee1,BT_Cry9Bb1),((BT_Cry9Eb1,BT_Cry9Da1),BT_Cry9Db1))),BT_Cry9Ed1,((((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,(((BT_Cry1Bb1,NOV_Cry1Ie5_79.3_PQQ47595.1),((BT_Cry1Id1,((BT_Cry1Ie4,BT_Cry1Ie3),(((((BT_Cry1Ib1,BT_Cry1Ic1),BT_Cry1Ib4),BT_Cry1Ib2),(((BT_Cry1Ia26,BT_Cry1Ia12),BT_Cry1Ia11),NOV_Cry1Ia11_96.7_AXE42967.1)),BT_Cry1Ia7))),(BT_Cry1Ia18,BT_Cry1Ib8))),BT_Cry1Jb1))),(BT_Cry9Ca1 #1,(BT_Cry9Dc1,BT_Cry9Ba1))),BT_Cry9Ec1));
+
+  - processing model b_neut (b_neut~aab7629c9769ee584868ea3311704669)
+       marking branches 20
+
+          ((BT_Cry1Ba1,((BT_Cry9Ee1,BT_Cry9Bb1),((BT_Cry9Eb1,BT_Cry9Da1),BT_Cry9Db1))),BT_Cry9Ed1,((((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,(((BT_Cry1Bb1,NOV_Cry1Ie5_79.3_PQQ47595.1),((BT_Cry1Id1,((BT_Cry1Ie4,BT_Cry1Ie3),(((((BT_Cry1Ib1,BT_Cry1Ic1),BT_Cry1Ib4),BT_Cry1Ib2),(((BT_Cry1Ia26,BT_Cry1Ia12),BT_Cry1Ia11),NOV_Cry1Ia11_96.7_AXE42967.1)),BT_Cry1Ia7))),(BT_Cry1Ia18,BT_Cry1Ib8))),BT_Cry1Jb1))),(BT_Cry9Ca1 #1,(BT_Cry9Dc1,BT_Cry9Ba1))),BT_Cry9Ec1));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~290a1acfaa7a8b065bb0d3c10aef2ee6 |  b_free.20-1~b88f5dab8f4035a2e7701064a65a21da | 0.599654
+       b_neut.20-1~a3d95c4530f9a52a0610195e367dc442 |  b_free.20-1~b88f5dab8f4035a2e7701064a65a21da | 0.004678**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.337
+
+ - Model b_free.20-1
+   * Marked branches
+      ((BT_Cry1Ba1,((BT_Cry9Ee1,BT_Cry9Bb1),((BT_Cry9Eb1,BT_Cry9Da1),BT_Cry9Db1))),BT_Cry9Ed1,((((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,(((BT_Cry1Bb1,NOV_Cry1Ie5_79.3_PQQ47595.1),((BT_Cry1Id1,((BT_Cry1Ie4,BT_Cry1Ie3),(((((BT_Cry1Ib1,BT_Cry1Ic1),BT_Cry1Ib4),BT_Cry1Ib2),(((BT_Cry1Ia26,BT_Cry1Ia12),BT_Cry1Ia11),NOV_Cry1Ia11_96.7_AXE42967.1)),BT_Cry1Ia7))),(BT_Cry1Ia18,BT_Cry1Ib8))),BT_Cry1Jb1))),(BT_Cry9Ca1 #1,(BT_Cry9Dc1,BT_Cry9Ba1))),BT_Cry9Ec1));
+
+        Branches  =>   omega
+      background  =>   0.334
+              #1  =>   0.394
+
+ - Model b_neut.20-1
+   * Marked branches
+      ((BT_Cry1Ba1,((BT_Cry9Ee1,BT_Cry9Bb1),((BT_Cry9Eb1,BT_Cry9Da1),BT_Cry9Db1))),BT_Cry9Ed1,((((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,(((BT_Cry1Bb1,NOV_Cry1Ie5_79.3_PQQ47595.1),((BT_Cry1Id1,((BT_Cry1Ie4,BT_Cry1Ie3),(((((BT_Cry1Ib1,BT_Cry1Ic1),BT_Cry1Ib4),BT_Cry1Ib2),(((BT_Cry1Ia26,BT_Cry1Ia12),BT_Cry1Ia11),NOV_Cry1Ia11_96.7_AXE42967.1)),BT_Cry1Ia7))),(BT_Cry1Ia18,BT_Cry1Ib8))),BT_Cry1Jb1))),(BT_Cry9Ca1 #1,(BT_Cry9Dc1,BT_Cry9Ba1))),BT_Cry9Ec1));
+
+        Branches  =>   omega
+      background  =>   0.331
+              #1  =>   1.000

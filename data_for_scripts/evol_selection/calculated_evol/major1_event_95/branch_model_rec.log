@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~b3c93a1851b7a89fd100fa587e4ee41f)
+  - processing model b_free (b_free~8a93a5c6c8adaac72239e59d4a8dc068)
+       marking branches 28
+
+          ((((NOV_Cry2Ab16_96.7_AIW52614.1,(((((((NOV_Cry2Ak1_76.8_AX513524.1,(BT_Cry2Ac2,(BT_Cry2Ac10,((NOV_Cry2Ac6_99.4_AUN50234.1,BT_Cry2Ac12),NOV_Cry2Ac6_99.7_ACA52278.1)))),BT_Cry2Af1),(((BT_Cry18Ba1,BT_Cry18Ca1),BT_Cry18Aa1),BT_Cry2Ba2)),((BT_Cry2Al1,(((BT_Cry2Aa14,(BT_Cry2Aa5,NOV_Cry2Aa1_99.2_AJA30268.1)),BT_Cry2Ai1),(BT_Cry2Aa13,BT_Cry2Aa17))),BT_Cry2Aa3)),(BT_Cry2Ad4,BT_Cry2Ad5)),((BT_Cry2Ah3,NOV_Cry2Ah2_92.7_AX098631.1),BT_Cry2Ak1)),NOV_Cry2Ab4_93.2_AIT70915.1 #1)),BT_Cry2Ab15),((BT_Cry2Ab20,BT_Cry2Ab12),BT_Cry2Ab30)),BT_Cry2Ag1,NOV_Cry2Ab16_98.9_AKO73582.1);
+
+  - processing model b_neut (b_neut~7fc9c7b76ad6ac953aac0b99e887e642)
+       marking branches 28
+
+          ((((NOV_Cry2Ab16_96.7_AIW52614.1,(((((((NOV_Cry2Ak1_76.8_AX513524.1,(BT_Cry2Ac2,(BT_Cry2Ac10,((NOV_Cry2Ac6_99.4_AUN50234.1,BT_Cry2Ac12),NOV_Cry2Ac6_99.7_ACA52278.1)))),BT_Cry2Af1),(((BT_Cry18Ba1,BT_Cry18Ca1),BT_Cry18Aa1),BT_Cry2Ba2)),((BT_Cry2Al1,(((BT_Cry2Aa14,(BT_Cry2Aa5,NOV_Cry2Aa1_99.2_AJA30268.1)),BT_Cry2Ai1),(BT_Cry2Aa13,BT_Cry2Aa17))),BT_Cry2Aa3)),(BT_Cry2Ad4,BT_Cry2Ad5)),((BT_Cry2Ah3,NOV_Cry2Ah2_92.7_AX098631.1),BT_Cry2Ak1)),NOV_Cry2Ab4_93.2_AIT70915.1 #1)),BT_Cry2Ab15),((BT_Cry2Ab20,BT_Cry2Ab12),BT_Cry2Ab30)),BT_Cry2Ag1,NOV_Cry2Ab16_98.9_AKO73582.1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~b3c93a1851b7a89fd100fa587e4ee41f |  b_free.28-1~c6fbd5a33e9418472e8717047a08fe2c | 0.728718
+       b_neut.28-1~c0ac232a10d7073d96188f6827aad3e2 |  b_free.28-1~c6fbd5a33e9418472e8717047a08fe2c | 0.048505*
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.335
+
+ - Model b_free.28-1
+   * Marked branches
+      ((((NOV_Cry2Ab16_96.7_AIW52614.1,(((((((NOV_Cry2Ak1_76.8_AX513524.1,(BT_Cry2Ac2,(BT_Cry2Ac10,((NOV_Cry2Ac6_99.4_AUN50234.1,BT_Cry2Ac12),NOV_Cry2Ac6_99.7_ACA52278.1)))),BT_Cry2Af1),(((BT_Cry18Ba1,BT_Cry18Ca1),BT_Cry18Aa1),BT_Cry2Ba2)),((BT_Cry2Al1,(((BT_Cry2Aa14,(BT_Cry2Aa5,NOV_Cry2Aa1_99.2_AJA30268.1)),BT_Cry2Ai1),(BT_Cry2Aa13,BT_Cry2Aa17))),BT_Cry2Aa3)),(BT_Cry2Ad4,BT_Cry2Ad5)),((BT_Cry2Ah3,NOV_Cry2Ah2_92.7_AX098631.1),BT_Cry2Ak1)),NOV_Cry2Ab4_93.2_AIT70915.1 #1)),BT_Cry2Ab15),((BT_Cry2Ab20,BT_Cry2Ab12),BT_Cry2Ab30)),BT_Cry2Ag1,NOV_Cry2Ab16_98.9_AKO73582.1);
+
+        Branches  =>   omega
+      background  =>   0.336
+              #1  =>   0.272
+
+ - Model b_neut.28-1
+   * Marked branches
+      ((((NOV_Cry2Ab16_96.7_AIW52614.1,(((((((NOV_Cry2Ak1_76.8_AX513524.1,(BT_Cry2Ac2,(BT_Cry2Ac10,((NOV_Cry2Ac6_99.4_AUN50234.1,BT_Cry2Ac12),NOV_Cry2Ac6_99.7_ACA52278.1)))),BT_Cry2Af1),(((BT_Cry18Ba1,BT_Cry18Ca1),BT_Cry18Aa1),BT_Cry2Ba2)),((BT_Cry2Al1,(((BT_Cry2Aa14,(BT_Cry2Aa5,NOV_Cry2Aa1_99.2_AJA30268.1)),BT_Cry2Ai1),(BT_Cry2Aa13,BT_Cry2Aa17))),BT_Cry2Aa3)),(BT_Cry2Ad4,BT_Cry2Ad5)),((BT_Cry2Ah3,NOV_Cry2Ah2_92.7_AX098631.1),BT_Cry2Ak1)),NOV_Cry2Ab4_93.2_AIT70915.1 #1)),BT_Cry2Ab15),((BT_Cry2Ab20,BT_Cry2Ab12),BT_Cry2Ab30)),BT_Cry2Ag1,NOV_Cry2Ab16_98.9_AKO73582.1);
+
+        Branches  =>   omega
+      background  =>   0.335
+              #1  =>   1.000

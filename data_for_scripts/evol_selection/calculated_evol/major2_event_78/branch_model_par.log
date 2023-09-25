@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~0a46075d51e41dd8d50a90cf57a13634)
+  - processing model b_free (b_free~2cd642a33a9b1e0ef6cc09043fdf86a7)
+       marking branches 16, 9, 8, 5, 15
+
+          ((BT_Cry1Bf1,(BT_Cry1Eb1,((((NOV_Cry56Aa4_77.6_ARJ25668.1 #1,BT_Cry56Aa1 #1) #1,NOV_Cry56Aa4_79.3_WP_103592286.1 #1) #1,NOV_Cry56Aa4_56.4_PEU80288.1),NOV_Cry56Aa2_56.0_AGV55019.1))),BT_Cry1Bg1,BT_Cry1Be1);
+
+  - processing model b_neut (b_neut~61e3d1befcdaa557c260165f1389a76e)
+       marking branches 16, 9, 8, 5, 15
+
+          ((BT_Cry1Bf1,(BT_Cry1Eb1,((((NOV_Cry56Aa4_77.6_ARJ25668.1 #1,BT_Cry56Aa1 #1) #1,NOV_Cry56Aa4_79.3_WP_103592286.1 #1) #1,NOV_Cry56Aa4_56.4_PEU80288.1),NOV_Cry56Aa2_56.0_AGV55019.1))),BT_Cry1Bg1,BT_Cry1Be1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~0a46075d51e41dd8d50a90cf57a13634 | b_free.16_9_~3499a5ad4274e792e232bf61ceddc82d | 0.021026*
+      b_neut.16_9_~40fbdc3466ae49cd15e8dc306548e74a | b_free.16_9_~3499a5ad4274e792e232bf61ceddc82d | 0.870821
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.606
+
+ - Model b_free.16_9_8_5_15-1_1_1_1_1
+   * Marked branches
+      ((BT_Cry1Bf1,(BT_Cry1Eb1,((((NOV_Cry56Aa4_77.6_ARJ25668.1 #1,BT_Cry56Aa1 #1) #1,NOV_Cry56Aa4_79.3_WP_103592286.1 #1) #1,NOV_Cry56Aa4_56.4_PEU80288.1),NOV_Cry56Aa2_56.0_AGV55019.1))),BT_Cry1Bg1,BT_Cry1Be1);
+
+        Branches  =>   omega
+      background  =>   0.450
+              #1  =>   0.958
+
+ - Model b_neut.16_9_8_5_15-1_1_1_1_1
+   * Marked branches
+      ((BT_Cry1Bf1,(BT_Cry1Eb1,((((NOV_Cry56Aa4_77.6_ARJ25668.1 #1,BT_Cry56Aa1 #1) #1,NOV_Cry56Aa4_79.3_WP_103592286.1 #1) #1,NOV_Cry56Aa4_56.4_PEU80288.1),NOV_Cry56Aa2_56.0_AGV55019.1))),BT_Cry1Bg1,BT_Cry1Be1);
+
+        Branches  =>   omega
+      background  =>   0.449
+              #1  =>   1.000

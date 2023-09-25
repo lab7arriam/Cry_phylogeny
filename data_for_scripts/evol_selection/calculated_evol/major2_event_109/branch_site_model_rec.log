@@ -1,0 +1,95 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~e4a9e8b0ab65d6582d077c5ee247b720)
+  - processing model bsA (bsA~73fa9a180e4f56b32074a3f2237ca436)
+       marking branches 3
+
+          ((NOV_Cry69Ab1_59.2_WP_103591619.1,NOV_Cry69Ab1_58.0_PEU83535.1 #1),NOV_Cry69Aa2_62.7_WP_103591151.1,(((NOV_Cry7Ca1_99.7_ABR67863.2,NOV_Cry7Ca1_86.8_AGM39664.1),NOV_Cry7Ea2_99.9_AFI42038.1),BT_Cry7Cb1));
+
+  - processing model bsA1 (bsA1~4a08d8642973a5fec18e0ce70049eec6)
+       marking branches 3
+
+          ((NOV_Cry69Ab1_59.2_WP_103591619.1,NOV_Cry69Ab1_58.0_PEU83535.1 #1),NOV_Cry69Aa2_62.7_WP_103591151.1,(((NOV_Cry7Ca1_99.7_ABR67863.2,NOV_Cry7Ca1_86.8_AGM39664.1),NOV_Cry7Ea2_99.9_AFI42038.1),BT_Cry7Cb1));
+
+  - processing model bsB (bsB~a7599cf007aaee988abfbd163fe9dc6c)
+       marking branches 3
+
+          ((NOV_Cry69Ab1_59.2_WP_103591619.1,NOV_Cry69Ab1_58.0_PEU83535.1 #1),NOV_Cry69Aa2_62.7_WP_103591151.1,(((NOV_Cry7Ca1_99.7_ABR67863.2,NOV_Cry7Ca1_86.8_AGM39664.1),NOV_Cry7Ea2_99.9_AFI42038.1),BT_Cry7Cb1));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~e4a9e8b0ab65d6582d077c5ee247b720 |      bsA.3-1~c290980263787e1f714f9d648cb4b518 | 0.000000**
+                M0~e4a9e8b0ab65d6582d077c5ee247b720 |     bsA1.3-1~4b4bc046f72d1ee62c99790e4e10dfbe | 0.000000**
+                M0~e4a9e8b0ab65d6582d077c5ee247b720 |      bsB.3-1~311239ee23661dbe97b96a3a29280540 | 0.000000**
+           bsA.3-1~c290980263787e1f714f9d648cb4b518 |      bsB.3-1~311239ee23661dbe97b96a3a29280540 | 0.420712
+          bsA1.3-1~4b4bc046f72d1ee62c99790e4e10dfbe |      bsA.3-1~c290980263787e1f714f9d648cb4b518 | 0.000000**
+          bsA1.3-1~4b4bc046f72d1ee62c99790e4e10dfbe |      bsB.3-1~311239ee23661dbe97b96a3a29280540 | 0.000000**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.451
+
+ - Model bsA.3-1
+   * Marked branches
+      ((NOV_Cry69Ab1_59.2_WP_103591619.1,NOV_Cry69Ab1_58.0_PEU83535.1 #1),NOV_Cry69Aa2_62.7_WP_103591151.1,(((NOV_Cry7Ca1_99.7_ABR67863.2,NOV_Cry7Ca1_86.8_AGM39664.1),NOV_Cry7Ea2_99.9_AFI42038.1),BT_Cry7Cb1));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                 6   |   Conserved (probability > 0.95)
+                 8   |   Conserved (probability > 0.95)
+           13-  14   |   Conserved (probability > 0.95)
+           41-  42   |   Conserved (probability > 0.95)
+                69   |   Positively-selected (probability > 0.95)
+               136   |   Positively-selected (probability > 0.95)
+               140   |   Positively-selected (probability > 0.99)
+               146   |   Positively-selected (probability > 0.99)
+               151   |   Positively-selected (probability > 0.95)
+               153   |   Positively-selected (probability > 0.99)
+               168   |   Positively-selected (probability > 0.99)
+               175   |   Positively-selected (probability > 0.95)
+               180   |   Positively-selected (probability > 0.95)
+          185- 186   |   Conserved (probability > 0.95)
+               215   |   Conserved (probability > 0.95)
+          217- 218   |   Conserved (probability > 0.95)
+               242   |   Conserved (probability > 0.95)
+               246   |   Conserved (probability > 0.95)
+               249   |   Conserved (probability > 0.95)
+
+ - Model bsA1.3-1
+   * Marked branches
+      ((NOV_Cry69Ab1_59.2_WP_103591619.1,NOV_Cry69Ab1_58.0_PEU83535.1 #1),NOV_Cry69Aa2_62.7_WP_103591151.1,(((NOV_Cry7Ca1_99.7_ABR67863.2,NOV_Cry7Ca1_86.8_AGM39664.1),NOV_Cry7Ea2_99.9_AFI42038.1),BT_Cry7Cb1));
+
+ - Model bsB.3-1
+   * Marked branches
+      ((NOV_Cry69Ab1_59.2_WP_103591619.1,NOV_Cry69Ab1_58.0_PEU83535.1 #1),NOV_Cry69Aa2_62.7_WP_103591151.1,(((NOV_Cry7Ca1_99.7_ABR67863.2,NOV_Cry7Ca1_86.8_AGM39664.1),NOV_Cry7Ea2_99.9_AFI42038.1),BT_Cry7Cb1));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                 2   |   Conserved (probability > 0.95)
+            6-   8   |   Conserved (probability > 0.95)
+           12-  14   |   Conserved (probability > 0.95)
+                26   |   Conserved (probability > 0.95)
+                28   |   Conserved (probability > 0.95)
+           41-  42   |   Conserved (probability > 0.95)
+                69   |   Positively-selected (probability > 0.99)
+               108   |   Positively-selected (probability > 0.95)
+               136   |   Positively-selected (probability > 0.99)
+               140   |   Positively-selected (probability > 0.99)
+               146   |   Positively-selected (probability > 0.99)
+               151   |   Positively-selected (probability > 0.95)
+               153   |   Positively-selected (probability > 0.99)
+               168   |   Positively-selected (probability > 0.99)
+               175   |   Positively-selected (probability > 0.95)
+               180   |   Positively-selected (probability > 0.95)
+          185- 186   |   Conserved (probability > 0.95)
+               215   |   Conserved (probability > 0.95)
+          217- 219   |   Conserved (probability > 0.95)
+               242   |   Conserved (probability > 0.95)
+          246- 247   |   Conserved (probability > 0.95)
+               249   |   Conserved (probability > 0.95)

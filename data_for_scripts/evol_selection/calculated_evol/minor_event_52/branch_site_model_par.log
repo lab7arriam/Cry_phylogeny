@@ -1,0 +1,87 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~8ccd3a1677c43f63565f2ebbafbc1dab)
+  - processing model bsA (bsA~2660ef57363ef3b52df396738dc4b6d2)
+       marking branches 12, 13, 3, 10, 8, 14, 9, 15, 16, 2, 1, 17, 4, 18, 5, 7, 6, 11
+
+          ((NOV_Cry9Ga1_57.2_PEU81077.1 #1,NOV_Cry68Aa1_74.8_WP_103592020.1 #1) #1,(((BT_Cry4Ba3 #1,BT_Cry4Ba1 #1) #1,(((NOV_Cry4Ba1_98.9_ABR22237.1 #1,NOV_Cry4Ba1_98.9_ABR22236.1 #1) #1,NOV_Cry4Ba1_98.5_ABR22238.1 #1) #1,NOV_Cry4Ba1_98.1_ABR22240.1 #1) #1) #1,NOV_Cry68Aa1_80.1_PEU91245.1 #1) #1,BT_Cry68Aa1 #1) #1;
+
+  - processing model bsA1 (bsA1~21aba23766cdcf06018c118d8b2cacea)
+       marking branches 12, 13, 3, 10, 8, 14, 9, 15, 16, 2, 1, 17, 4, 18, 5, 7, 6, 11
+
+          ((NOV_Cry9Ga1_57.2_PEU81077.1 #1,NOV_Cry68Aa1_74.8_WP_103592020.1 #1) #1,(((BT_Cry4Ba3 #1,BT_Cry4Ba1 #1) #1,(((NOV_Cry4Ba1_98.9_ABR22237.1 #1,NOV_Cry4Ba1_98.9_ABR22236.1 #1) #1,NOV_Cry4Ba1_98.5_ABR22238.1 #1) #1,NOV_Cry4Ba1_98.1_ABR22240.1 #1) #1) #1,NOV_Cry68Aa1_80.1_PEU91245.1 #1) #1,BT_Cry68Aa1 #1) #1;
+
+  - processing model bsB (bsB~cc968d6fcf6ccef4afc637e735826d38)
+       marking branches 12, 13, 3, 10, 8, 14, 9, 15, 16, 2, 1, 17, 4, 18, 5, 7, 6, 11
+
+          ((NOV_Cry9Ga1_57.2_PEU81077.1 #1,NOV_Cry68Aa1_74.8_WP_103592020.1 #1) #1,(((BT_Cry4Ba3 #1,BT_Cry4Ba1 #1) #1,(((NOV_Cry4Ba1_98.9_ABR22237.1 #1,NOV_Cry4Ba1_98.9_ABR22236.1 #1) #1,NOV_Cry4Ba1_98.5_ABR22238.1 #1) #1,NOV_Cry4Ba1_98.1_ABR22240.1 #1) #1) #1,NOV_Cry68Aa1_80.1_PEU91245.1 #1) #1,BT_Cry68Aa1 #1) #1;
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~8ccd3a1677c43f63565f2ebbafbc1dab | bsA.12_13_3_~faf4d71c83ab1d51f88e2d774863ff8e | 0.000001**
+                M0~8ccd3a1677c43f63565f2ebbafbc1dab | bsA1.12_13_3~899207479eb34b8d7ed8e7b17c34bbac | 0.000000**
+                M0~8ccd3a1677c43f63565f2ebbafbc1dab | bsB.12_13_3_~85ae794838709d23573bfc8032c4ae05 | 0.000000**
+      bsA.12_13_3_~faf4d71c83ab1d51f88e2d774863ff8e | bsB.12_13_3_~85ae794838709d23573bfc8032c4ae05 | 0.000289**
+      bsA1.12_13_3~899207479eb34b8d7ed8e7b17c34bbac | bsA.12_13_3_~faf4d71c83ab1d51f88e2d774863ff8e | 1.000000
+      bsA1.12_13_3~899207479eb34b8d7ed8e7b17c34bbac | bsB.12_13_3_~85ae794838709d23573bfc8032c4ae05 | 0.001400**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.329
+
+ - Model bsA.12_13_3_10_8_14_9_15_16_2_1_17_4_18_5_7_6_11-1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((NOV_Cry9Ga1_57.2_PEU81077.1 #1,NOV_Cry68Aa1_74.8_WP_103592020.1 #1) #1,(((BT_Cry4Ba3 #1,BT_Cry4Ba1 #1) #1,(((NOV_Cry4Ba1_98.9_ABR22237.1 #1,NOV_Cry4Ba1_98.9_ABR22236.1 #1) #1,NOV_Cry4Ba1_98.5_ABR22238.1 #1) #1,NOV_Cry4Ba1_98.1_ABR22240.1 #1) #1) #1,NOV_Cry68Aa1_80.1_PEU91245.1 #1) #1,BT_Cry68Aa1 #1) #1;
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            5-   6   |   Conserved (probability > 0.95)
+                 8   |   Conserved (probability > 0.95)
+           10-  11   |   Conserved (probability > 0.95)
+           22-  23   |   Conserved (probability > 0.95)
+           25-  27   |   Conserved (probability > 0.95)
+           29-  34   |   Conserved (probability > 0.95)
+                39   |   Conserved (probability > 0.95)
+                66   |   Conserved (probability > 0.95)
+           68-  70   |   Conserved (probability > 0.95)
+                99   |   Conserved (probability > 0.95)
+          111- 112   |   Conserved (probability > 0.95)
+               121   |   Conserved (probability > 0.95)
+               142   |   Conserved (probability > 0.95)
+               152   |   Conserved (probability > 0.95)
+
+ - Model bsA1.12_13_3_10_8_14_9_15_16_2_1_17_4_18_5_7_6_11-1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((NOV_Cry9Ga1_57.2_PEU81077.1 #1,NOV_Cry68Aa1_74.8_WP_103592020.1 #1) #1,(((BT_Cry4Ba3 #1,BT_Cry4Ba1 #1) #1,(((NOV_Cry4Ba1_98.9_ABR22237.1 #1,NOV_Cry4Ba1_98.9_ABR22236.1 #1) #1,NOV_Cry4Ba1_98.5_ABR22238.1 #1) #1,NOV_Cry4Ba1_98.1_ABR22240.1 #1) #1) #1,NOV_Cry68Aa1_80.1_PEU91245.1 #1) #1,BT_Cry68Aa1 #1) #1;
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            5-   6   |   Relaxed (probability > 0.95)
+                 8   |   Relaxed (probability > 0.95)
+                10   |   Relaxed (probability > 0.95)
+           22-  23   |   Relaxed (probability > 0.95)
+           25-  27   |   Relaxed (probability > 0.95)
+           29-  31   |   Relaxed (probability > 0.95)
+                32   |   Relaxed (probability > 0.99)
+           33-  34   |   Relaxed (probability > 0.95)
+                39   |   Relaxed (probability > 0.95)
+           68-  70   |   Relaxed (probability > 0.95)
+                99   |   Relaxed (probability > 0.95)
+          111- 112   |   Relaxed (probability > 0.95)
+               121   |   Relaxed (probability > 0.95)
+               142   |   Relaxed (probability > 0.95)
+               152   |   Relaxed (probability > 0.95)
+
+ - Model bsB.12_13_3_10_8_14_9_15_16_2_1_17_4_18_5_7_6_11-1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1_1
+   * Marked branches
+      ((NOV_Cry9Ga1_57.2_PEU81077.1 #1,NOV_Cry68Aa1_74.8_WP_103592020.1 #1) #1,(((BT_Cry4Ba3 #1,BT_Cry4Ba1 #1) #1,(((NOV_Cry4Ba1_98.9_ABR22237.1 #1,NOV_Cry4Ba1_98.9_ABR22236.1 #1) #1,NOV_Cry4Ba1_98.5_ABR22238.1 #1) #1,NOV_Cry4Ba1_98.1_ABR22240.1 #1) #1) #1,NOV_Cry68Aa1_80.1_PEU91245.1 #1) #1,BT_Cry68Aa1 #1) #1;
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                32   |   Positively-selected (probability > 0.95)

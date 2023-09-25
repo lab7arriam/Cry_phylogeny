@@ -1,0 +1,75 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~d02756a9af6a2731bad4e7b1319b20f5)
+  - processing model bsA (bsA~e8584da35d80a20710dfa4ece256e4a2)
+       marking branches 8
+
+          (((BT_Cry7Ac1,NOV_Cry7Ba1_84.3_AFI42043.1 #1),BT_Cry7Bb1),(BT_Cry7Aa1,BT_Cry7Ab3),(BT_Cry7Ab5,(BT_Cry7Ab1,BT_Cry7Ab6)));
+
+  - processing model bsA1 (bsA1~41ac13c7385e9c95d102bdb1a7524c00)
+       marking branches 8
+
+          (((BT_Cry7Ac1,NOV_Cry7Ba1_84.3_AFI42043.1 #1),BT_Cry7Bb1),(BT_Cry7Aa1,BT_Cry7Ab3),(BT_Cry7Ab5,(BT_Cry7Ab1,BT_Cry7Ab6)));
+
+  - processing model bsB (bsB~bca843da7d5db7c5c6f4a6e466b55c93)
+       marking branches 8
+
+          (((BT_Cry7Ac1,NOV_Cry7Ba1_84.3_AFI42043.1 #1),BT_Cry7Bb1),(BT_Cry7Aa1,BT_Cry7Ab3),(BT_Cry7Ab5,(BT_Cry7Ab1,BT_Cry7Ab6)));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~d02756a9af6a2731bad4e7b1319b20f5 |      bsA.8-1~b01714d136f2c6a2bb29d6f8dfe5a5c6 | 0.000000**
+                M0~d02756a9af6a2731bad4e7b1319b20f5 |     bsA1.8-1~18c146c17669db378ffbe537c730cc4d | 0.000000**
+                M0~d02756a9af6a2731bad4e7b1319b20f5 |      bsB.8-1~9b0b8b83482c368bf3f2ed500aff9508 | 0.000000**
+           bsA.8-1~b01714d136f2c6a2bb29d6f8dfe5a5c6 |      bsB.8-1~9b0b8b83482c368bf3f2ed500aff9508 | 0.005372**
+          bsA1.8-1~18c146c17669db378ffbe537c730cc4d |      bsA.8-1~b01714d136f2c6a2bb29d6f8dfe5a5c6 | 1.000000
+          bsA1.8-1~18c146c17669db378ffbe537c730cc4d |      bsB.8-1~9b0b8b83482c368bf3f2ed500aff9508 | 0.020756*
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.486
+
+ - Model bsA.8-1
+   * Marked branches
+      (((BT_Cry7Ac1,NOV_Cry7Ba1_84.3_AFI42043.1 #1),BT_Cry7Bb1),(BT_Cry7Aa1,BT_Cry7Ab3),(BT_Cry7Ab5,(BT_Cry7Ab1,BT_Cry7Ab6)));
+
+ - Model bsA1.8-1
+   * Marked branches
+      (((BT_Cry7Ac1,NOV_Cry7Ba1_84.3_AFI42043.1 #1),BT_Cry7Bb1),(BT_Cry7Aa1,BT_Cry7Ab3),(BT_Cry7Ab5,(BT_Cry7Ab1,BT_Cry7Ab6)));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+           17-  19   |   Relaxed (probability > 0.99)
+                20   |   Relaxed (probability > 0.95)
+                32   |   Relaxed (probability > 0.95)
+                41   |   Relaxed (probability > 0.95)
+                72   |   Relaxed (probability > 0.95)
+                74   |   Relaxed (probability > 0.99)
+                79   |   Relaxed (probability > 0.99)
+                82   |   Relaxed (probability > 0.95)
+           83-  84   |   Relaxed (probability > 0.99)
+                87   |   Relaxed (probability > 0.99)
+                97   |   Relaxed (probability > 0.95)
+                99   |   Relaxed (probability > 0.95)
+               102   |   Relaxed (probability > 0.99)
+               103   |   Relaxed (probability > 0.95)
+               105   |   Relaxed (probability > 0.95)
+               107   |   Relaxed (probability > 0.99)
+          116- 117   |   Relaxed (probability > 0.99)
+          126- 127   |   Relaxed (probability > 0.99)
+               130   |   Relaxed (probability > 0.99)
+               134   |   Relaxed (probability > 0.99)
+          136- 137   |   Relaxed (probability > 0.95)
+               140   |   Relaxed (probability > 0.99)
+               141   |   Relaxed (probability > 0.95)
+               142   |   Relaxed (probability > 0.99)
+
+ - Model bsB.8-1
+   * Marked branches
+      (((BT_Cry7Ac1,NOV_Cry7Ba1_84.3_AFI42043.1 #1),BT_Cry7Bb1),(BT_Cry7Aa1,BT_Cry7Ab3),(BT_Cry7Ab5,(BT_Cry7Ab1,BT_Cry7Ab6)));

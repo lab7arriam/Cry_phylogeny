@@ -1,0 +1,95 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~dca07b453e5be1337a7b4067209a783b)
+  - processing model bsA (bsA~5a1b5aaba650e3f378f3fef6d0b24cb4)
+       marking branches 40, 41, 12, 27, 10, 9, 39
+
+          (((BT_Cry2Af1,((NOV_Cry2Ak1_76.8_AX513524.1,BT_Cry2Ba2),((((BT_Cry2Ac7 #1,NOV_Cry2Ac6_99.7_ACA52278.1 #1) #1,(BT_Cry2Ac11 #1,BT_Cry2Ac10 #1) #1) #1,BT_Cry2Ac12),BT_Cry2Ai1))),(((((BT_Cry2Ak1,NOV_Cry2Ah2_92.7_AX098631.1),BT_Cry2Aa3),(BT_Cry2Al1,((BT_Cry2Aa16,(NOV_Cry2Ab4_93.2_AIT70915.1,BT_Cry2Aa6)),NOV_Cry2Aa1_99.8_CAD32378.1))),NOV_Cry2Aa1_97.8_ALV82138.1),(BT_Cry2Ad5,(((((BT_Cry2Aa13,(BT_Cry2Ab19,NOV_Cry2Ab18_96.6_AXE42969.1)),BT_Cry2Ab15),BT_Cry2Ab12),BT_Cry2Ag1),(BT_Cry2Ab11,NOV_Cry2Ab4_99.7_AUN50233.1))))),(NOV_Cry2Ad1_99.7_WP_103595482.1,BT_Cry2Ad4),(BT_Cry2Ah3,NOV_Cry2Ah3_98.9_ABU37567.1));
+
+  - processing model bsA1 (bsA1~7454c0b8688b13905e27afbcb10b9c35)
+       marking branches 40, 41, 12, 27, 10, 9, 39
+
+          (((BT_Cry2Af1,((NOV_Cry2Ak1_76.8_AX513524.1,BT_Cry2Ba2),((((BT_Cry2Ac7 #1,NOV_Cry2Ac6_99.7_ACA52278.1 #1) #1,(BT_Cry2Ac11 #1,BT_Cry2Ac10 #1) #1) #1,BT_Cry2Ac12),BT_Cry2Ai1))),(((((BT_Cry2Ak1,NOV_Cry2Ah2_92.7_AX098631.1),BT_Cry2Aa3),(BT_Cry2Al1,((BT_Cry2Aa16,(NOV_Cry2Ab4_93.2_AIT70915.1,BT_Cry2Aa6)),NOV_Cry2Aa1_99.8_CAD32378.1))),NOV_Cry2Aa1_97.8_ALV82138.1),(BT_Cry2Ad5,(((((BT_Cry2Aa13,(BT_Cry2Ab19,NOV_Cry2Ab18_96.6_AXE42969.1)),BT_Cry2Ab15),BT_Cry2Ab12),BT_Cry2Ag1),(BT_Cry2Ab11,NOV_Cry2Ab4_99.7_AUN50233.1))))),(NOV_Cry2Ad1_99.7_WP_103595482.1,BT_Cry2Ad4),(BT_Cry2Ah3,NOV_Cry2Ah3_98.9_ABU37567.1));
+
+  - processing model bsB (bsB~55ee55902f1877e31cdfd35c4aca4615)
+       marking branches 40, 41, 12, 27, 10, 9, 39
+
+          (((BT_Cry2Af1,((NOV_Cry2Ak1_76.8_AX513524.1,BT_Cry2Ba2),((((BT_Cry2Ac7 #1,NOV_Cry2Ac6_99.7_ACA52278.1 #1) #1,(BT_Cry2Ac11 #1,BT_Cry2Ac10 #1) #1) #1,BT_Cry2Ac12),BT_Cry2Ai1))),(((((BT_Cry2Ak1,NOV_Cry2Ah2_92.7_AX098631.1),BT_Cry2Aa3),(BT_Cry2Al1,((BT_Cry2Aa16,(NOV_Cry2Ab4_93.2_AIT70915.1,BT_Cry2Aa6)),NOV_Cry2Aa1_99.8_CAD32378.1))),NOV_Cry2Aa1_97.8_ALV82138.1),(BT_Cry2Ad5,(((((BT_Cry2Aa13,(BT_Cry2Ab19,NOV_Cry2Ab18_96.6_AXE42969.1)),BT_Cry2Ab15),BT_Cry2Ab12),BT_Cry2Ag1),(BT_Cry2Ab11,NOV_Cry2Ab4_99.7_AUN50233.1))))),(NOV_Cry2Ad1_99.7_WP_103595482.1,BT_Cry2Ad4),(BT_Cry2Ah3,NOV_Cry2Ah3_98.9_ABU37567.1));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~dca07b453e5be1337a7b4067209a783b | bsA.40_41_12~49c1dcac42963d1bc2fc0637f5dabb95 | 0.000000**
+                M0~dca07b453e5be1337a7b4067209a783b | bsA1.40_41_1~0a84de0357c8c66806a6ac4ceb487a18 | 0.000000**
+                M0~dca07b453e5be1337a7b4067209a783b | bsB.40_41_12~7569e9998f34446fe60bfcf9c7ec784f | 0.000000**
+      bsA.40_41_12~49c1dcac42963d1bc2fc0637f5dabb95 | bsB.40_41_12~7569e9998f34446fe60bfcf9c7ec784f | 0.032572*
+      bsA1.40_41_1~0a84de0357c8c66806a6ac4ceb487a18 | bsA.40_41_12~49c1dcac42963d1bc2fc0637f5dabb95 | 0.005439**
+      bsA1.40_41_1~0a84de0357c8c66806a6ac4ceb487a18 | bsB.40_41_12~7569e9998f34446fe60bfcf9c7ec784f | 0.002138**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.230
+
+ - Model bsA.40_41_12_27_10_9_39-1_1_1_1_1_1_1
+   * Marked branches
+      (((BT_Cry2Af1,((NOV_Cry2Ak1_76.8_AX513524.1,BT_Cry2Ba2),((((BT_Cry2Ac7 #1,NOV_Cry2Ac6_99.7_ACA52278.1 #1) #1,(BT_Cry2Ac11 #1,BT_Cry2Ac10 #1) #1) #1,BT_Cry2Ac12),BT_Cry2Ai1))),(((((BT_Cry2Ak1,NOV_Cry2Ah2_92.7_AX098631.1),BT_Cry2Aa3),(BT_Cry2Al1,((BT_Cry2Aa16,(NOV_Cry2Ab4_93.2_AIT70915.1,BT_Cry2Aa6)),NOV_Cry2Aa1_99.8_CAD32378.1))),NOV_Cry2Aa1_97.8_ALV82138.1),(BT_Cry2Ad5,(((((BT_Cry2Aa13,(BT_Cry2Ab19,NOV_Cry2Ab18_96.6_AXE42969.1)),BT_Cry2Ab15),BT_Cry2Ab12),BT_Cry2Ag1),(BT_Cry2Ab11,NOV_Cry2Ab4_99.7_AUN50233.1))))),(NOV_Cry2Ad1_99.7_WP_103595482.1,BT_Cry2Ad4),(BT_Cry2Ah3,NOV_Cry2Ah3_98.9_ABU37567.1));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                18   |   Positively-selected (probability > 0.99)
+                91   |   Positively-selected (probability > 0.99)
+               171   |   Positively-selected (probability > 0.99)
+               174   |   Positively-selected (probability > 0.95)
+
+ - Model bsA1.40_41_12_27_10_9_39-1_1_1_1_1_1_1
+   * Marked branches
+      (((BT_Cry2Af1,((NOV_Cry2Ak1_76.8_AX513524.1,BT_Cry2Ba2),((((BT_Cry2Ac7 #1,NOV_Cry2Ac6_99.7_ACA52278.1 #1) #1,(BT_Cry2Ac11 #1,BT_Cry2Ac10 #1) #1) #1,BT_Cry2Ac12),BT_Cry2Ai1))),(((((BT_Cry2Ak1,NOV_Cry2Ah2_92.7_AX098631.1),BT_Cry2Aa3),(BT_Cry2Al1,((BT_Cry2Aa16,(NOV_Cry2Ab4_93.2_AIT70915.1,BT_Cry2Aa6)),NOV_Cry2Aa1_99.8_CAD32378.1))),NOV_Cry2Aa1_97.8_ALV82138.1),(BT_Cry2Ad5,(((((BT_Cry2Aa13,(BT_Cry2Ab19,NOV_Cry2Ab18_96.6_AXE42969.1)),BT_Cry2Ab15),BT_Cry2Ab12),BT_Cry2Ag1),(BT_Cry2Ab11,NOV_Cry2Ab4_99.7_AUN50233.1))))),(NOV_Cry2Ad1_99.7_WP_103595482.1,BT_Cry2Ad4),(BT_Cry2Ah3,NOV_Cry2Ah3_98.9_ABU37567.1));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+            1- 195   |   Relaxed (probability > 0.99)
+
+ - Model bsB.40_41_12_27_10_9_39-1_1_1_1_1_1_1
+   * Marked branches
+      (((BT_Cry2Af1,((NOV_Cry2Ak1_76.8_AX513524.1,BT_Cry2Ba2),((((BT_Cry2Ac7 #1,NOV_Cry2Ac6_99.7_ACA52278.1 #1) #1,(BT_Cry2Ac11 #1,BT_Cry2Ac10 #1) #1) #1,BT_Cry2Ac12),BT_Cry2Ai1))),(((((BT_Cry2Ak1,NOV_Cry2Ah2_92.7_AX098631.1),BT_Cry2Aa3),(BT_Cry2Al1,((BT_Cry2Aa16,(NOV_Cry2Ab4_93.2_AIT70915.1,BT_Cry2Aa6)),NOV_Cry2Aa1_99.8_CAD32378.1))),NOV_Cry2Aa1_97.8_ALV82138.1),(BT_Cry2Ad5,(((((BT_Cry2Aa13,(BT_Cry2Ab19,NOV_Cry2Ab18_96.6_AXE42969.1)),BT_Cry2Ab15),BT_Cry2Ab12),BT_Cry2Ag1),(BT_Cry2Ab11,NOV_Cry2Ab4_99.7_AUN50233.1))))),(NOV_Cry2Ad1_99.7_WP_103595482.1,BT_Cry2Ad4),(BT_Cry2Ah3,NOV_Cry2Ah3_98.9_ABU37567.1));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                 5   |   Conserved (probability > 0.95)
+                 7   |   Conserved (probability > 0.95)
+                 9   |   Conserved (probability > 0.95)
+           15-  16   |   Conserved (probability > 0.95)
+                18   |   Positively-selected (probability > 0.99)
+                24   |   Conserved (probability > 0.95)
+                27   |   Conserved (probability > 0.95)
+           62-  63   |   Conserved (probability > 0.95)
+           66-  68   |   Conserved (probability > 0.95)
+                81   |   Conserved (probability > 0.95)
+           85-  87   |   Conserved (probability > 0.95)
+                91   |   Positively-selected (probability > 0.99)
+                92   |   Conserved (probability > 0.95)
+                95   |   Conserved (probability > 0.95)
+          112- 113   |   Conserved (probability > 0.95)
+               115   |   Conserved (probability > 0.95)
+          119- 120   |   Conserved (probability > 0.95)
+          122- 125   |   Conserved (probability > 0.95)
+          128- 130   |   Conserved (probability > 0.95)
+               132   |   Conserved (probability > 0.95)
+               135   |   Conserved (probability > 0.95)
+          137- 139   |   Conserved (probability > 0.95)
+               143   |   Conserved (probability > 0.95)
+               151   |   Conserved (probability > 0.95)
+          156- 159   |   Conserved (probability > 0.95)
+               162   |   Conserved (probability > 0.95)
+               166   |   Conserved (probability > 0.95)
+               171   |   Positively-selected (probability > 0.99)
+               174   |   Positively-selected (probability > 0.99)
+               175   |   Conserved (probability > 0.95)
+          178- 181   |   Conserved (probability > 0.95)
+          186- 187   |   Conserved (probability > 0.95)
+               191   |   Conserved (probability > 0.95)

@@ -1,0 +1,2571 @@
+Strain/Toxin	Tox_type	Host_type	Host
+BT_Cry11Aa1	Rank4	Orders	Diptera
+BT_Cry11Ba1	Rank4	Orders	Diptera
+BT_Cry11Bb1	Rank4	Orders	Diptera
+BT_Cry12Aa1	Rank4	Orders	Nematoda
+BT_Cry13Aa1	Rank4	Orders	Nematoda
+BT_Cry14Aa1	Rank4	Orders	Nematoda
+BT_Cry14Ab1	Rank4	Orders	Nematoda
+BT_Cry18Aa1	Rank4	Orders	Coleoptera
+BT_Cry19Aa1	Rank4	Orders	Diptera
+BT_Cry19Ba1	Rank4	Orders	Diptera
+BT_Cry1Aa10	Rank4	Orders	Lepidoptera
+BT_Cry1Aa22	Rank4	Orders	Lepidoptera
+BT_Cry1Aa5	Rank4	Orders	Lepidoptera
+BT_Cry1Ab16	Rank4	Orders	Lepidoptera
+BT_Cry1Ab17	Rank4	Orders	Lepidoptera
+BT_Cry1Ab18	Rank4	Orders	Lepidoptera
+BT_Cry1Ab1	Rank4	Orders	Lepidoptera
+BT_Cry1Ab21	Rank4	Orders	Lepidoptera
+BT_Cry1Ab26	Rank4	Orders	Lepidoptera
+BT_Cry1Ab2	Rank4	Orders	Lepidoptera
+BT_Cry1Ab34	Rank4	Orders	Lepidoptera
+BT_Cry1Ab5	Rank4	Orders	Lepidoptera
+BT_Cry1Ab6	Rank4	Orders	Lepidoptera
+BT_Cry1Ab7	Rank4	Orders	Lepidoptera
+BT_Cry1Ab7	Rank4	Orders	Diptera
+BT_Cry1Ac17	Rank4	Orders	Lepidoptera
+BT_Cry1Ac1	Rank4	Orders	Diptera
+BT_Cry1Ac22	Rank4	Orders	Lepidoptera
+BT_Cry1Ac24	Rank4	Orders	Lepidoptera
+BT_Cry1Ac2	Rank4	Orders	Lepidoptera
+BT_Cry1Ac39	Rank4	Orders	Lepidoptera
+BT_Cry1Ac4	Rank4	Orders	Lepidoptera
+BT_Cry1Ad1	Rank4	Orders	Lepidoptera
+BT_Cry1Af1	Rank4	Orders	Lepidoptera
+BT_Cry1Ah1	Rank4	Orders	Lepidoptera
+BT_Cry1Ah2	Rank4	Orders	Lepidoptera
+BT_Cry1Ai1	Rank4	Orders	Lepidoptera
+BT_Cry1Aj1	Rank4	Orders	Lepidoptera
+BT_Cry1Ba1	Rank4	Orders	Lepidoptera
+BT_Cry1Ba1	Rank4	Orders	Coleoptera
+BT_Cry1Ba1	Rank4	Orders	Diptera
+BT_Cry1Ba3	Rank4	Orders	Lepidoptera
+BT_Cry1Ba6	Rank4	Orders	Coleoptera
+BT_Cry1Bb1	Rank4	Orders	Lepidoptera
+BT_Cry1Bb2	Rank4	Orders	Lepidoptera
+BT_Cry1Bc1	Rank4	Orders	Diptera
+BT_Cry1Bd1	Rank4	Orders	Lepidoptera
+BT_Cry1Bf1	Rank4	Orders	Lepidoptera
+BT_Cry1Bf2	Rank4	Orders	Lepidoptera
+BT_Cry1Bh1	Rank4	Orders	Lepidoptera
+BT_Cry1Bh1	Rank4	Orders	Coleoptera
+BT_Cry1Bi1	Rank4	Orders	Lepidoptera
+BT_Cry1Bj1	Rank4	Orders	Lepidoptera
+BT_Cry1Ca16	Rank4	Orders	Diptera
+BT_Cry1Ca1	Rank4	Orders	Lepidoptera
+BT_Cry1Ca1	Rank4	Orders	Diptera
+BT_Cry1Ca2	Rank4	Orders	Lepidoptera
+BT_Cry1Cb1	Rank4	Orders	Hemiptera
+BT_Cry1Da1	Rank4	Orders	Lepidoptera
+BT_Cry1Dd1	Rank4	Orders	Lepidoptera
+BT_Cry1Ea11	Rank4	Orders	Nematoda
+BT_Cry1Ea1	Rank4	Orders	Lepidoptera
+BT_Cry1Eb1	Rank4	Orders	Lepidoptera
+BT_Cry1Fa1	Rank4	Orders	Lepidoptera
+BT_Cry1Fb1	Rank4	Orders	Lepidoptera
+BT_Cry1Gb1	Rank4	Orders	Lepidoptera
+BT_Cry1Gc1	Rank4	Orders	Lepidoptera
+BT_Cry1Hb1	Rank4	Orders	Lepidoptera
+BT_Cry1Hc1	Rank4	Orders	Lepidoptera
+BT_Cry1Ia10	Rank4	Orders	Nematoda
+BT_Cry1Ia12	Rank4	Orders	Lepidoptera
+BT_Cry1Ia12	Rank4	Orders	Coleoptera
+BT_Cry1Ia13	Rank4	Orders	Lepidoptera
+BT_Cry1Ia13	Rank4	Orders	Coleoptera
+BT_Cry1Ia1	Rank4	Orders	Lepidoptera
+BT_Cry1Ia3	Rank4	Orders	Lepidoptera
+BT_Cry1Ia7	Rank4	Orders	Lepidoptera
+BT_Cry1Ia7	Rank4	Orders	Coleoptera
+BT_Cry1Ia8	Rank4	Orders	Lepidoptera
+BT_Cry1Ib6	Rank4	Orders	Lepidoptera
+BT_Cry1Ic1	Rank4	Orders	Coleoptera
+BT_Cry1Id1	Rank4	Orders	Lepidoptera
+BT_Cry1Ie1	Rank4	Orders	Lepidoptera
+BT_Cry1Ie4	Rank4	Orders	Lepidoptera
+BT_Cry1Ie5	Rank4	Orders	Lepidoptera
+BT_Cry1If1	Rank4	Orders	Lepidoptera
+BT_Cry1Ig1	Rank4	Orders	Lepidoptera
+BT_Cry1Ja1	Rank4	Orders	Lepidoptera
+BT_Cry1Ja2	Rank4	Orders	Lepidoptera
+BT_Cry1Jb1	Rank4	Orders	Lepidoptera
+BT_Cry1Jc2	Rank4	Orders	Lepidoptera
+BT_Cry1Jd1	Rank4	Orders	Lepidoptera
+BT_Cry1La1	Rank4	Orders	Lepidoptera
+BT_Cry1Na1	Rank4	Orders	Lepidoptera
+BT_Cry1Na1	Rank4	Orders	Hemiptera
+BT_Cry1Na3	Rank4	Orders	Lepidoptera
+BT_Cry1Na3	Rank4	Orders	Coleoptera
+BT_Cry1Na3	Rank4	Orders	Hemiptera
+BT_Cry1Nb1	Rank4	Orders	Lepidoptera
+BT_Cry20Aa1	Rank4	Orders	Diptera
+BT_Cry20Ba2	Rank4	Orders	Lepidoptera
+BT_Cry21Aa1	Rank4	Orders	Nematoda
+BT_Cry21Aa2	Rank4	Orders	Nematoda
+BT_Cry21Aa3	Rank4	Orders	Nematoda
+BT_Cry21Fa1	Rank4	Orders	Nematoda
+BT_Cry24Ca1	Rank4	Orders	Diptera
+BT_Cry27Aa1	Rank4	Orders	Diptera
+BT_Cry2Aa11	Rank4	Orders	Lepidoptera
+BT_Cry2Aa12	Rank4	Orders	Lepidoptera
+BT_Cry2Aa13	Rank4	Orders	Lepidoptera
+BT_Cry2Aa14	Rank4	Orders	Diptera
+BT_Cry2Aa17	Rank4	Orders	Lepidoptera
+BT_Cry2Aa18	Rank4	Orders	Diptera
+BT_Cry2Aa1	Rank4	Orders	Lepidoptera
+BT_Cry2Aa1	Rank4	Orders	Diptera
+BT_Cry2Aa3	Rank4	Orders	Lepidoptera
+BT_Cry2Aa4	Rank4	Orders	Diptera
+BT_Cry2Ab10	Rank4	Orders	Lepidoptera
+BT_Cry2Ab13	Rank4	Orders	Lepidoptera
+BT_Cry2Ab13	Rank4	Orders	Diptera
+BT_Cry2Ab14	Rank4	Orders	Lepidoptera
+BT_Cry2Ab14	Rank4	Orders	Diptera
+BT_Cry2Ab1	Rank4	Orders	Lepidoptera
+BT_Cry2Ab1	Rank4	Orders	Diptera
+BT_Cry2Ab25	Rank4	Orders	Lepidoptera
+BT_Cry2Ab25	Rank4	Orders	Diptera
+BT_Cry2Ab29	Rank4	Orders	Lepidoptera
+BT_Cry2Ab30	Rank4	Orders	Lepidoptera
+BT_Cry2Ab32	Rank4	Orders	Lepidoptera
+BT_Cry2Ab4	Rank4	Orders	Lepidoptera
+BT_Cry2Ab7	Rank4	Orders	Lepidoptera
+BT_Cry2Ac10	Rank4	Orders	Lepidoptera
+BT_Cry2Ac11	Rank4	Orders	Diptera
+BT_Cry2Ac1	Rank4	Orders	Lepidoptera
+BT_Cry2Ac3	Rank4	Orders	Lepidoptera
+BT_Cry2Ac5	Rank4	Orders	Diptera
+BT_Cry2Ac7	Rank4	Orders	Lepidoptera
+BT_Cry2Ae1	Rank4	Orders	Lepidoptera
+BT_Cry2Ag1	Rank4	Orders	Lepidoptera
+BT_Cry2Ag1	Rank4	Orders	Diptera
+BT_Cry2Ah4	Rank4	Orders	Lepidoptera
+BT_Cry2Ak1	Rank4	Orders	Lepidoptera
+BT_Cry2Al1	Rank4	Orders	Lepidoptera
+BT_Cry2Am1	Rank4	Orders	Diptera
+BT_Cry2Ba1	Rank4	Orders	Lepidoptera
+BT_Cry30Fa1	Rank4	Orders	Lepidoptera
+BT_Cry30Fa1	Rank4	Orders	Diptera
+BT_Cry30Ga1	Rank4	Orders	Lepidoptera
+BT_Cry30Ga1	Rank4	Orders	Diptera
+BT_Cry31Aa1	Rank4	Orders	Human
+BT_Cry31Aa6	Rank4	Orders	Human
+BT_Cry31Ab1	Rank4	Orders	Human
+BT_Cry31Ac1	Rank4	Orders	Human
+BT_Cry31Ad1	Rank4	Orders	Human
+BT_Cry32Aa1	Rank4	Orders	Lepidoptera
+BT_Cry32Eb1	Rank4	Orders	Nematoda
+BT_Cry32Ha1	Rank4	Orders	Lepidoptera
+BT_Cry32Hb1	Rank4	Orders	Lepidoptera
+BT_Cry32Sa1	Rank4	Orders	Lepidoptera
+BT_Cry39Aa1	Rank4	Orders	Diptera
+BT_Cry3Aa10	Rank4	Orders	Coleoptera
+BT_Cry3Aa11	Rank4	Orders	Coleoptera
+BT_Cry3Aa1	Rank4	Orders	Coleoptera
+BT_Cry3Aa8	Rank4	Orders	Coleoptera
+BT_Cry3Ba1	Rank4	Orders	Coleoptera
+BT_Cry3Ba2	Rank4	Orders	Coleoptera
+BT_Cry3Bb1	Rank4	Orders	Coleoptera
+BT_Cry3Bb3	Rank4	Orders	Coleoptera
+BT_Cry3Ca1	Rank4	Orders	Coleoptera
+BT_Cry40Da1	Rank4	Orders	Diptera
+BT_Cry41Aa1	Rank4	Orders	Human
+BT_Cry41Ab1	Rank4	Orders	Human
+BT_Cry41Ab1	Rank4	Orders	Hemiptera
+BT_Cry42Aa1	Rank4	Orders	Human
+BT_Cry43Aa1	Rank4	Orders	Coleoptera
+BT_Cry43Ba1	Rank4	Orders	Coleoptera
+BT_Cry43Ca1	Rank4	Orders	Lepidoptera
+BT_Cry43Ca1	Rank4	Orders	Coleoptera
+BT_Cry43Cb1	Rank4	Orders	Lepidoptera
+BT_Cry43Cb1	Rank4	Orders	Coleoptera
+BT_Cry44Aa1	Rank4	Orders	Diptera
+BT_Cry47Aa1	Rank4	Orders	Diptera
+BT_Cry48Aa1	Rank4	Orders	Diptera
+BT_Cry4Aa1	Rank4	Orders	Diptera
+BT_Cry4Ba1	Rank4	Orders	Diptera
+BT_Cry4Ba2	Rank4	Orders	Diptera
+BT_Cry4Ba6	Rank4	Orders	Diptera
+BT_Cry4Cb1	Rank4	Orders	Lepidoptera
+BT_Cry4Cb1	Rank4	Orders	Diptera
+BT_Cry4Cb2	Rank4	Orders	Lepidoptera
+BT_Cry4Cb2	Rank4	Orders	Diptera
+BT_Cry4Cb3	Rank4	Orders	Diptera
+BT_Cry4Cc1	Rank4	Orders	Lepidoptera
+BT_Cry4Cc1	Rank4	Orders	Diptera
+BT_Cry52Ba1	Rank4	Orders	Diptera
+BT_Cry52Ca1	Rank4	Orders	Lepidoptera
+BT_Cry53Ab1	Rank4	Orders	Lepidoptera
+BT_Cry53Ab1	Rank4	Orders	Diptera
+BT_Cry54Aa1	Rank4	Orders	Lepidoptera
+BT_Cry54Aa1	Rank4	Orders	Diptera
+BT_Cry54Ab1	Rank4	Orders	Diptera
+BT_Cry55Aa1	Rank4	Orders	Nematoda
+BT_Cry56Aa1	Rank4	Orders	Lepidoptera
+BT_Cry56Aa1	Rank4	Orders	Diptera
+BT_Cry57Ab1	Rank4	Orders	Lepidoptera
+BT_Cry59Ba1	Rank4	Orders	Lepidoptera
+BT_Cry59Ba1	Rank4	Orders	Diptera
+BT_Cry5Ba1	Rank4	Orders	Nematoda
+BT_Cry5Ba2	Rank4	Orders	Nematoda
+BT_Cry5Ba3	Rank4	Orders	Nematoda
+BT_Cry5Ca1	Rank4	Orders	Nematoda
+BT_Cry5Da1	Rank4	Orders	Nematoda
+BT_Cry62Aa1	Rank4	Orders	Human
+BT_Cry63Aa1	Rank4	Orders	Human
+BT_Cry65Aa2	Rank4	Orders	Human
+BT_Cry68Aa1	Rank4	Orders	Lepidoptera
+BT_Cry69Aa1	Rank4	Orders	Lepidoptera
+BT_Cry69Aa1	Rank4	Orders	Diptera
+BT_Cry70Aa1	Rank4	Orders	Diptera
+BT_Cry70Ba1	Rank4	Orders	Diptera
+BT_Cry71Aa1	Rank4	Orders	Lepidoptera
+BT_Cry72Aa1	Rank4	Orders	Lepidoptera
+BT_Cry73Ba1	Rank4	Orders	Hemiptera
+BT_Cry7Aa1	Rank4	Orders	Coleoptera
+BT_Cry7Ab2	Rank4	Orders	Coleoptera
+BT_Cry7Ab3	Rank4	Orders	Coleoptera
+BT_Cry7Ab4	Rank4	Orders	Coleoptera
+BT_Cry7Ab9	Rank4	Orders	Coleoptera
+BT_Cry7Ba1	Rank4	Orders	Lepidoptera
+BT_Cry7Ca1	Rank4	Orders	Orthoptera
+BT_Cry7Gb1	Rank4	Orders	Coleoptera
+BT_Cry8Aa1	Rank4	Orders	Coleoptera
+BT_Cry8Ab1	Rank4	Orders	Coleoptera
+BT_Cry8Ba1	Rank4	Orders	Coleoptera
+BT_Cry8Bb1	Rank4	Orders	Coleoptera
+BT_Cry8Bc1	Rank4	Orders	Coleoptera
+BT_Cry8Ca1	Rank4	Orders	Coleoptera
+BT_Cry8Ca2	Rank4	Orders	Coleoptera
+BT_Cry8Da1	Rank4	Orders	Coleoptera
+BT_Cry8Db1	Rank4	Orders	Coleoptera
+BT_Cry8Ea1	Rank4	Orders	Coleoptera
+BT_Cry8Ea2	Rank4	Orders	Coleoptera
+BT_Cry8Ga1	Rank4	Orders	Coleoptera
+BT_Cry8Ha1	Rank4	Orders	Coleoptera
+BT_Cry8Hb1	Rank4	Orders	Coleoptera
+BT_Cry8Ia1	Rank4	Orders	Coleoptera
+BT_Cry8Ka1	Rank4	Orders	Coleoptera
+BT_Cry8Ka3	Rank4	Orders	Coleoptera
+BT_Cry8Kb1	Rank4	Orders	Coleoptera
+BT_Cry8Na1	Rank4	Orders	Coleoptera
+BT_Cry8Pa1	Rank4	Orders	Coleoptera
+BT_Cry8Pa3	Rank4	Orders	Coleoptera
+BT_Cry8Qa1	Rank4	Orders	Lepidoptera
+BT_Cry8Qa1	Rank4	Orders	Coleoptera
+BT_Cry8Sa1	Rank4	Orders	Coleoptera
+BT_Cry9Aa1	Rank4	Orders	Lepidoptera
+BT_Cry9Aa2	Rank4	Orders	Lepidoptera
+BT_Cry9Bb1	Rank4	Orders	Lepidoptera
+BT_Cry9Ca1	Rank4	Orders	Lepidoptera
+BT_Cry9Cb1	Rank4	Orders	Lepidoptera
+BT_Cry9Da1	Rank4	Orders	Lepidoptera
+BT_Cry9Db1	Rank4	Orders	Lepidoptera
+BT_Cry9Ea10	Rank4	Orders	Lepidoptera
+BT_Cry9Eb1	Rank4	Orders	Lepidoptera
+BT_Cry9Eb2	Rank4	Orders	Lepidoptera
+BT_Cry9Ec1	Rank4	Orders	Lepidoptera
+BT_Cry9Ed1	Rank4	Orders	Lepidoptera
+BT_Cry9Ee1	Rank4	Orders	Lepidoptera
+BT_Cry9Ee2	Rank4	Orders	Lepidoptera
+BT_Cry9Ga1	Rank4	Orders	Lepidoptera
+BT_CryAb2	Rank4	Orders	Lepidoptera
+BT_Cy1Hc1	Rank4	Orders	Lepidoptera
+NOV_Cry10Aa1_94.4_ABW89736.1	Rank4	Orders	Diptera
+NOV_Cry10Aa1_97.0_ABW89733.1	Rank4	Orders	Diptera
+NOV_Cry11Aa1_95.8_ABW89741.1	Rank4	Orders	Diptera
+NOV_Cry11Aa1_96.3_ABW89742.1	Rank4	Orders	Diptera
+NOV_Cry11Aa1_97.8_ABW89740.1	Rank4	Orders	Diptera
+NOV_Cry11Aa1_98.8_ABW89738.1	Rank4	Orders	Diptera
+NOV_Cry11Aa1_98.9_ABW89739.1	Rank4	Orders	Diptera
+NOV_Cry11Aa1_99.5_ABW89737.1	Rank4	Orders	Diptera
+NOV_Cry13Aa1_87.1_ANS50148.1	Rank4	Orders	Hemiptera
+NOV_Cry14Aa1_41.1_PGW46198.1	Rank4	Orders	Hemiptera
+NOV_Cry14Ab1_42.4_PGW46196.1	Rank4	Orders	Coleoptera
+NOV_Cry14Ab1_42.4_PGW46196.1	Rank4	Orders	Hemiptera
+NOV_Cry1Ab12_91.4_AAK14338.1	Rank4	Orders	Lepidoptera
+NOV_Cry1Ab32_92.7_AAK14337.1	Rank4	Orders	Lepidoptera
+NOV_Cry1Ai1_99.7_AAS93796.1	Rank4	Orders	Lepidoptera
+NOV_Cry1Da1_99.6_ALP83513.1	Rank4	Orders	Lepidoptera
+NOV_Cry1Da3_99.9_AMR88578.1	Rank4	Orders	Lepidoptera
+NOV_Cry1Fb4_99.8_AMR88428.1	Rank4	Orders	Lepidoptera
+NOV_Cry1Hb1_98.0_AMR88562.1	Rank4	Orders	Lepidoptera
+NOV_Cry1Ka1_98.4_KIP24267.1	Rank4	Orders	Lepidoptera
+NOV_Cry20Ba2_80.0_AGV55017.1	Rank4	Orders	Diptera
+NOV_Cry2Ak1_76.8_AX513524.1	Rank4	Orders	Lepidoptera
+NOV_Cry2Ba1_29.9_AEX63666.1	Rank4	Orders	Diptera
+NOV_Cry3Aa12_81.9_AEZ53144.1	Rank4	Orders	Coleoptera
+NOV_Cry40Aa1_67.9_CQ868314.1	Rank4	Orders	Lepidoptera
+NOV_Cry40Aa1_67.9_CQ868314.1	Rank4	Orders	Coleoptera
+NOV_Cry40Da1_65.0_CAH33957.1 	Rank4	Orders	Lepidoptera
+NOV_Cry48Aa1_36.6_CAH33948.1	Rank4	Orders	Lepidoptera
+NOV_Cry48Aa1_36.6_CAH33948.1	Rank4	Orders	Hemiptera
+NOV_Cry48Aa1_36.9_CAH33950.1	Rank4	Orders	Lepidoptera
+NOV_Cry48Aa1_36.9_CAH33950.1	Rank4	Orders	Hemiptera
+NOV_Cry4Ba1_96.9_ABR22239.1	Rank4	Orders	Diptera
+NOV_Cry4Ba1_98.1_ABR22240.1	Rank4	Orders	Diptera
+NOV_Cry4Ba1_98.5_ABR22238.1	Rank4	Orders	Diptera
+NOV_Cry4Ba1_98.9_ABR22236.1	Rank4	Orders	Diptera
+NOV_Cry4Ba1_98.9_ABR22237.1	Rank4	Orders	Diptera
+NOV_Cry4Ba1_99.6_ABR22235.1	Rank4	Orders	Diptera
+NOV_Cry53Ab1_40.0_CAH33955.1	Rank4	Orders	Lepidoptera
+NOV_Cry53Ab1_40.0_CAH33955.1	Rank4	Orders	Coleoptera
+NOV_Cry53Ab1_40.0_CAH33955.1	Rank4	Orders	Hemiptera
+NOV_Cry56Aa2_56.0_AGV55019.1	Rank4	Orders	Diptera
+NOV_Cry69Ab1_58.0_PER42111.1	Rank4	Orders	Hemiptera
+NOV_Cry71Aa1_65.9_PER41598.1	Rank4	Orders	Lepidoptera
+NOV_Cry7Ha1_99.5_ADA48966.1	Rank4	Orders	Coleoptera
+NOV_Cry9Db1_99.9_ACS12637.1	Rank4	Orders	Lepidoptera
+NOV_Cry9Ga1_57.2_PER39584.1	Rank4	Orders	Lepidoptera
+NOV_Cry9Ga1_57.2_PER39584.1	Rank4	Orders	Hemiptera
+BT_Cry1Ca15	Rank4	Orders	Lepidoptera
+BT_Cry1Ie2	Rank4	Orders	Lepidoptera
+BT_Cry3Aa12	Rank4	Orders	Coleoptera
+BT_Cry11Aa1	Rank4	Species	Culex pipiens
+BT_Cry11Aa1	Rank4	Species	Chironomus tepperi
+BT_Cry11Aa1	Rank4	Species	Culex quinquefasciatus
+BT_Cry11Aa1	Rank4	Species	Aedes aegypti
+BT_Cry11Aa1	Rank4	Species	Anopheles stephensi
+BT_Cry11Aa1	Rank4	Species	Anopheles albimanus
+BT_Cry11Aa1	Rank4	Species	Tipula oleracea
+BT_Cry11Ba1	Rank4	Species	Culex pipiens
+BT_Cry11Ba1	Rank4	Species	Culex quinquefasciatus
+BT_Cry11Ba1	Rank4	Species	Aedes aegypti
+BT_Cry11Ba1	Rank4	Species	Anopheles stephensi
+BT_Cry11Ba1	Rank4	Species	Anopheles albimanus
+BT_Cry11Bb1	Rank4	Species	Culex pipiens
+BT_Cry11Bb1	Rank4	Species	Culex quinquefasciatus
+BT_Cry11Bb1	Rank4	Species	Aedes aegypti
+BT_Cry11Bb1	Rank4	Species	Anopheles stephensi
+BT_Cry11Bb1	Rank4	Species	Anopheles albimanus
+BT_Cry12Aa1	Rank4	Species	Bursaphelenchus xylophilus
+BT_Cry12Aa1	Rank4	Species	Pratylenchus spp. 
+BT_Cry13Aa1	Rank4	Species	Bursaphelenchus xylophilus
+BT_Cry13Aa1	Rank4	Species	Panagrellus redivivus
+BT_Cry14Aa1	Rank4	Species	Bursaphelenchus xylophilus
+BT_Cry14Aa1	Rank4	Species	Panagrellus redivivus
+BT_Cry14Ab1	Rank4	Species	Caenorhabditis elegans
+BT_Cry14Ab1	Rank4	Species	Heterodera glycines
+BT_Cry18Aa1	Rank4	Species	Melolontha melolontha 
+BT_Cry19Aa1	Rank4	Species	Anopheles stephensi
+BT_Cry19Aa1	Rank4	Species	Culex pipiens
+BT_Cry19Ba1	Rank4	Species	Culex pipiens molestus
+BT_Cry1Aa10	Rank4	Species	Plutella xylostella
+BT_Cry1Aa22	Rank4	Species	Ephestia kuehniella
+BT_Cry1Aa5	Rank4	Species	Bombyx mori
+BT_Cry1Aa5	Rank4	Species	Adoxophyes sp.
+BT_Cry1Aa5	Rank4	Species	Plutella xylostella
+BT_Cry1Ab16	Rank4	Species	Plutella xylostella
+BT_Cry1Ab17	Rank4	Species	Plutella xylostella
+BT_Cry1Ab18	Rank4	Species	Spodoptera frugiperda
+BT_Cry1Ab18	Rank4	Species	Manduca sexta
+BT_Cry1Ab1	Rank4	Species	Helicoverpa punctigera
+BT_Cry1Ab1	Rank4	Species	Helicoverpa armigera
+BT_Cry1Ab21	Rank4	Species	Trichoplusia ni
+BT_Cry1Ab26	Rank4	Species	Helicoverpa armigera
+BT_Cry1Ab2	Rank4	Species	Lymantria dispar
+BT_Cry1Ab2	Rank4	Species	Manduca sexta
+BT_Cry1Ab34	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Ab34	Rank4	Species	Diatraea grandiosella
+BT_Cry1Ab34	Rank4	Species	Plutella xylostella
+BT_Cry1Ab5	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Ab5	Rank4	Species	Helicoverpa armigera
+BT_Cry1Ab6	Rank4	Species	Lymantria dispar
+BT_Cry1Ab6	Rank4	Species	Choristoneura fumiferana
+BT_Cry1Ab7	Rank4	Species	Aedes aegypti
+BT_Cry1Ab7	Rank4	Species	Pieris brassicae
+BT_Cry1Ac17	Rank4	Species	Spodoptera litura
+BT_Cry1Ac1	Rank4	Species	Glossina morsitans
+BT_Cry1Ac22	Rank4	Species	Plutella xylostella
+BT_Cry1Ac24	Rank4	Species	Tecia solanivora
+BT_Cry1Ac2	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Ac2	Rank4	Species	Helicoverpa zea
+BT_Cry1Ac2	Rank4	Species	Trichoplusia ni
+BT_Cry1Ac2	Rank4	Species	Heliothis virescens
+BT_Cry1Ac2	Rank4	Species	Lymantria dispar
+BT_Cry1Ac2	Rank4	Species	Plutella xylostella
+BT_Cry1Ac39	Rank4	Species	Trichoplusia ni
+BT_Cry1Ac39	Rank4	Species	Manduca sexta
+BT_Cry1Ac4	Rank4	Species	Helicoverpa armigera
+BT_Cry1Ad1	Rank4	Species	Choristoneura occidentalis
+BT_Cry1Ad1	Rank4	Species	Spodoptera exigua
+BT_Cry1Ad1	Rank4	Species	Plutella xylostella
+BT_Cry1Af1	Rank4	Species	Plutella xylostella
+BT_Cry1Ah1	Rank4	Species	Plutella xylostella
+BT_Cry1Ah1	Rank4	Species	Chilo suppressalis
+BT_Cry1Ah1	Rank4	Species	Ostrinia furnacalis
+BT_Cry1Ah1	Rank4	Species	Helicoverpa armigera
+BT_Cry1Ah2	Rank4	Species	Plutella xylostella
+BT_Cry1Ai1	Rank4	Species	Ostrinia furnacalis
+BT_Cry1Ai1	Rank4	Species	Chilo suppressalis
+BT_Cry1Ai1	Rank4	Species	Bombyx mori
+BT_Cry1Ai1	Rank4	Species	Hyphantria cunea
+BT_Cry1Ai1	Rank4	Species	Plutella xylostella
+BT_Cry1Aj1	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Aj1	Rank4	Species	Plutella xylostella
+BT_Cry1Aj1	Rank4	Species	Helicoverpa armigera
+BT_Cry1Ba1	Rank4	Species	Acanthoscelides obtectus 
+BT_Cry1Ba1	Rank4	Species	Choristoneura fumiferana
+BT_Cry1Ba1	Rank4	Species	Xylotrechus arvicola
+BT_Cry1Ba1	Rank4	Species	Chrysomela scripta
+BT_Cry1Ba1	Rank4	Species	Musca domestica
+BT_Cry1Ba1	Rank4	Species	Manduca sexta
+BT_Cry1Ba1	Rank4	Species	Plutella xylostella
+BT_Cry1Ba3	Rank4	Species	Plutella xylostella
+BT_Cry1Ba6	Rank4	Species	Anthonomus grandis
+BT_Cry1Bb1	Rank4	Species	Spodoptera frugiperda
+BT_Cry1Bb1	Rank4	Species	Manduca sexta
+BT_Cry1Bb2	Rank4	Species	Plutella xylostella
+BT_Cry1Bc1	Rank4	Species	Chrysomya albiceps
+BT_Cry1Bc1	Rank4	Species	Musca domestica
+BT_Cry1Bc1	Rank4	Species	Lucilia cuprina
+BT_Cry1Bd1	Rank4	Species	Plutella xylostella
+BT_Cry1Bf1	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Bf1	Rank4	Species	Heliothis virescens
+BT_Cry1Bf1	Rank4	Species	Sesamia nonagrioides
+BT_Cry1Bf2	Rank4	Species	Trichoplusia ni
+BT_Cry1Bf2	Rank4	Species	Ostrinia furnacalis
+BT_Cry1Bf2	Rank4	Species	Plutella xylostella
+BT_Cry1Bh1	Rank4	Species	Helicoverpa zea
+BT_Cry1Bh1	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Bh1	Rank4	Species	Heliothis virescens
+BT_Cry1Bh1	Rank4	Species	Diabrotica virgifera virgifera
+BT_Cry1Bh1	Rank4	Species	Plutella xylostella
+BT_Cry1Bi1	Rank4	Species	Anticarsia gemmatalis
+BT_Cry1Bi1	Rank4	Species	Heliothis virescens
+BT_Cry1Bi1	Rank4	Species	Diatraea grandiosella
+BT_Cry1Bj1	Rank4	Species	Anticarsia gemmatalis
+BT_Cry1Bj1	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Bj1	Rank4	Species	Chrysodeixis includens
+BT_Cry1Ca16	Rank4	Species	Aedes aegypti
+BT_Cry1Ca1	Rank4	Species	Spodoptera littoralis
+BT_Cry1Ca1	Rank4	Species	Aedes aegypti
+BT_Cry1Ca1	Rank4	Species	Anopheles gambiae
+BT_Cry1Ca1	Rank4	Species	Culex quinquefasciatus
+BT_Cry1Ca2	Rank4	Species	Mamestra brassicae
+BT_Cry1Ca2	Rank4	Species	Spodoptera littoralis
+BT_Cry1Ca2	Rank4	Species	Choristoneura fumiferana
+BT_Cry1Ca2	Rank4	Species	Lymantria dispar
+BT_Cry1Ca2	Rank4	Species	Bombyx mori
+BT_Cry1Ca2	Rank4	Species	Spodoptera exigua
+BT_Cry1Cb1	Rank4	Species	Myzus persicae
+BT_Cry1Da1	Rank4	Species	Spodoptera littoralis
+BT_Cry1Da1	Rank4	Species	Choristoneura fumiferana
+BT_Cry1Da1	Rank4	Species	Lymantria dispar
+BT_Cry1Da1	Rank4	Species	Pectinophora gossypiella
+BT_Cry1Da1	Rank4	Species	Bombyx mori
+BT_Cry1Da1	Rank4	Species	Spodoptera exigua
+BT_Cry1Da1	Rank4	Species	Spodoptera litura
+BT_Cry1Da1	Rank4	Species	Sesamia inferens
+BT_Cry1Da1	Rank4	Species	Manduca sexta
+BT_Cry1Dd1	Rank4	Species	Plutella xylostella
+BT_Cry1Dd1	Rank4	Species	Helicoverpa armigera
+BT_Cry1Ea11	Rank4	Species	Bursaphelenchus xylophilus
+BT_Cry1Ea1	Rank4	Species	Bombyx mori
+BT_Cry1Ea1	Rank4	Species	Choristoneura fumiferana
+BT_Cry1Eb1	Rank4	Species	Spodoptera exigua
+BT_Cry1Eb1	Rank4	Species	Trichoplusia ni
+BT_Cry1Eb1	Rank4	Species	Plutella xylostella
+BT_Cry1Fa1	Rank4	Species	Bombyx mori
+BT_Cry1Fa1	Rank4	Species	Choristoneura fumiferana
+BT_Cry1Fb1	Rank4	Species	Agrotis ipsilon
+BT_Cry1Gb1	Rank4	Species	Pieris rapae
+BT_Cry1Gc1	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Gc1	Rank4	Species	Agrotis ipsilon
+BT_Cry1Gc1	Rank4	Species	Trichoplusia ni
+BT_Cry1Gc1	Rank4	Species	Plutella xylostella
+BT_Cry1Hb1	Rank4	Species	Arfogeia rapae
+BT_Cry1Hc1	Rank4	Species	Plutella xylostella
+BT_Cry1Hc1	Rank4	Species	Helicoverpa armigera
+BT_Cry1Ia10	Rank4	Species	Caenorhabditis elegans
+BT_Cry1Ia12	Rank4	Species	Spodoptera frugiperda
+BT_Cry1Ia12	Rank4	Species	Anthonomus grandis
+BT_Cry1Ia13	Rank4	Species	Spodoptera frugiperda
+BT_Cry1Ia13	Rank4	Species	Anthonomus grandis
+BT_Cry1Ia1	Rank4	Species	Phthorimaea operculella
+BT_Cry1Ia3	Rank4	Species	Bombyx mori
+BT_Cry1Ia3	Rank4	Species	Plutella xylostella
+BT_Cry1Ia7	Rank4	Species	Leptinotarsa decemlineata
+BT_Cry1Ia7	Rank4	Species	Acanthoscelides obtectus 
+BT_Cry1Ia7	Rank4	Species	Lobesia botrana
+BT_Cry1Ia7	Rank4	Species	Earias insulana
+BT_Cry1Ia7	Rank4	Species	Xylotrechus arvicola
+BT_Cry1Ia7	Rank4	Species	Plutella xylostella
+BT_Cry1Ia8	Rank4	Species	Plutella xylostella
+BT_Cry1Ib6	Rank4	Species	Plutella xylostella
+BT_Cry1Ic1	Rank4	Species	Diabrotica virgifera virgifera
+BT_Cry1Id1	Rank4	Species	Bombyx mori
+BT_Cry1Id1	Rank4	Species	Plutella xylostella
+BT_Cry1Ie1	Rank4	Species	Leguminivora glycinivorella
+BT_Cry1Ie1	Rank4	Species	Ostrinia furnacalis
+BT_Cry1Ie1	Rank4	Species	Plutella xylostella
+BT_Cry1Ie4	Rank4	Species	Diatraea grandiosella
+BT_Cry1Ie4	Rank4	Species	Plutella xylostella
+BT_Cry1Ie5	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Ie5	Rank4	Species	Plutella xylostella
+BT_Cry1If1	Rank4	Species	Helicoverpa zea
+BT_Cry1Ig1	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Ig1	Rank4	Species	Diatraea grandiosella
+BT_Cry1Ig1	Rank4	Species	Plutella xylostella
+BT_Cry1Ja1	Rank4	Species	Helicoverpa armigera
+BT_Cry1Ja2	Rank4	Species	Spodoptera frugiperda
+BT_Cry1Ja2	Rank4	Species	Manduca sexta
+BT_Cry1Ja2	Rank4	Species	Plutella xylostella
+BT_Cry1Jb1	Rank4	Species	Plutella xylostella
+BT_Cry1Jb1	Rank4	Species	Helicoverpa armigera
+BT_Cry1Jc2	Rank4	Species	Helicoverpa zea
+BT_Cry1Jc2	Rank4	Species	Agrotis ipsilon
+BT_Cry1Jc2	Rank4	Species	Trichoplusia ni
+BT_Cry1Jc2	Rank4	Species	Ostrinia furnacalis
+BT_Cry1Jc2	Rank4	Species	Heliothis virescens
+BT_Cry1Jc2	Rank4	Species	Plutella xylostella
+BT_Cry1Jd1	Rank4	Species	Heliothis virescens
+BT_Cry1La1	Rank4	Species	Spodoptera exigua
+BT_Cry1La1	Rank4	Species	Plutella xylostella
+BT_Cry1Na1	Rank4	Species	Helicoverpa zea
+BT_Cry1Na1	Rank4	Species	Agrotis ipsilon
+BT_Cry1Na1	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Na1	Rank4	Species	Trichoplusia ni
+BT_Cry1Na1	Rank4	Species	Heliothis virescens
+BT_Cry1Na1	Rank4	Species	Pectinophora gossypiella
+BT_Cry1Na1	Rank4	Species	Spodoptera frugiperda
+BT_Cry1Na1	Rank4	Species	Lygus lineolaris
+BT_Cry1Na1	Rank4	Species	Manduca sexta
+BT_Cry1Na3	Rank4	Species	Ostrinia furnacalis
+BT_Cry1Na3	Rank4	Species	Laodelphax striatellus
+BT_Cry1Na3	Rank4	Species	Colaphellus bowringi
+BT_Cry1Na3	Rank4	Species	Spodoptera exigua
+BT_Cry1Na3	Rank4	Species	Plutella xylostella
+BT_Cry1Nb1	Rank4	Species	Anticarsia gemmatalis
+BT_Cry1Nb1	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Nb1	Rank4	Species	Diatraea grandiosella
+BT_Cry1Nb1	Rank4	Species	Plutella xylostella
+BT_Cry20Aa1	Rank4	Species	Aedes aegypti
+BT_Cry20Aa1	Rank4	Species	Culex quinquefasciatus
+BT_Cry20Ba2	Rank4	Species	Plutella xylostella
+BT_Cry21Aa1	Rank4	Species	Heligmosomoides polygyrus bakeri
+BT_Cry21Aa1	Rank4	Species	Panagrellus redivivus
+BT_Cry21Aa1	Rank4	Species	Distolabrellus veechi
+BT_Cry21Aa1	Rank4	Species	Nippostrongylus brasiliensis
+BT_Cry21Aa1	Rank4	Species	Caenorhabditis elegans
+BT_Cry21Aa1	Rank4	Species	Acrobeloides sp
+BT_Cry21Aa2	Rank4	Species	Caenorhabditis elegans
+BT_Cry21Aa3	Rank4	Species	Bursaphelenchus xylophilus
+BT_Cry21Aa3	Rank4	Species	Caenorhabditis elegans
+BT_Cry21Fa1	Rank4	Species	Bursaphelenchus xylophilus
+BT_Cry21Fa1	Rank4	Species	Caenorhabditis elegans
+BT_Cry24Ca1	Rank4	Species	Aedes aegypti
+BT_Cry27Aa1	Rank4	Species	Culex pipiens molestus
+BT_Cry27Aa1	Rank4	Species	Aedes aegypti
+BT_Cry27Aa1	Rank4	Species	Anopheles stephensi
+BT_Cry2Aa11	Rank4	Species	Spodoptera frugiperda
+BT_Cry2Aa11	Rank4	Species	Trichoplusia ni
+BT_Cry2Aa11	Rank4	Species	Heliothis virescens
+BT_Cry2Aa12	Rank4	Species	Pieris rapae
+BT_Cry2Aa12	Rank4	Species	Chilo suppressalis
+BT_Cry2Aa12	Rank4	Species	Plutella xylostella
+BT_Cry2Aa13	Rank4	Species	Tecia solanivora
+BT_Cry2Aa14	Rank4	Species	Culex quinquefasciatus
+BT_Cry2Aa17	Rank4	Species	Spodoptera exigua
+BT_Cry2Aa18	Rank4	Species	Culex pipiens
+BT_Cry2Aa1	Rank4	Species	Trichoplusia ni
+BT_Cry2Aa1	Rank4	Species	Helicoverpa armigera
+BT_Cry2Aa1	Rank4	Species	Helicoverpa punctigera
+BT_Cry2Aa1	Rank4	Species	Heliothis virescens
+BT_Cry2Aa1	Rank4	Species	Culex quinquefasciatus
+BT_Cry2Aa1	Rank4	Species	Aedes aegypti
+BT_Cry2Aa3	Rank4	Species	Lymantria dispar
+BT_Cry2Aa3	Rank4	Species	Bombyx mori
+BT_Cry2Aa4	Rank4	Species	Culex quinquefasciatus
+BT_Cry2Aa4	Rank4	Species	Aedes aegypti
+BT_Cry2Aa4	Rank4	Species	Anopheles stephensi
+BT_Cry2Ab10	Rank4	Species	Plutella xylostella
+BT_Cry2Ab13	Rank4	Species	Pieris rapae
+BT_Cry2Ab13	Rank4	Species	Aedes aegypti
+BT_Cry2Ab14	Rank4	Species	Pieris rapae
+BT_Cry2Ab14	Rank4	Species	Aedes aegypti
+BT_Cry2Ab1	Rank4	Species	Helicoverpa zea
+BT_Cry2Ab1	Rank4	Species	Diatraea saccharalis
+BT_Cry2Ab1	Rank4	Species	Heliothis virescens
+BT_Cry2Ab1	Rank4	Species	Pectinophora gossypiella
+BT_Cry2Ab1	Rank4	Species	Spodoptera frugiperda
+BT_Cry2Ab1	Rank4	Species	Spodoptera exigua
+BT_Cry2Ab1	Rank4	Species	Anopheles gambiae
+BT_Cry2Ab25	Rank4	Species	Malacosoma neustria
+BT_Cry2Ab25	Rank4	Species	Rhagoletis cerasi
+BT_Cry2Ab29	Rank4	Species	Spodoptera exigua
+BT_Cry2Ab30	Rank4	Species	Plutella xylostella
+BT_Cry2Ab32	Rank4	Species	Ostrinia nubilalis
+BT_Cry2Ab32	Rank4	Species	Plutella xylostella
+BT_Cry2Ab32	Rank4	Species	Helicoverpa armigera
+BT_Cry2Ab4	Rank4	Species	Chilo suppressalis
+BT_Cry2Ab4	Rank4	Species	Leguminivora glycinivorella
+BT_Cry2Ab4	Rank4	Species	Plutella xylostella
+BT_Cry2Ab4	Rank4	Species	Helicoverpa armigera
+BT_Cry2Ab7	Rank4	Species	Helicoverpa armigera
+BT_Cry2Ac10	Rank4	Species	Mythimna separata
+BT_Cry2Ac10	Rank4	Species	Helicoverpa armigera
+BT_Cry2Ac11	Rank4	Species	Aedes aegypti
+BT_Cry2Ac1	Rank4	Species	Helicoverpa punctigera
+BT_Cry2Ac1	Rank4	Species	Helicoverpa armigera
+BT_Cry2Ac3	Rank4	Species	Helicoverpa zea
+BT_Cry2Ac3	Rank4	Species	Trichoplusia ni
+BT_Cry2Ac3	Rank4	Species	Heliothis virescens
+BT_Cry2Ac3	Rank4	Species	Ostrinia furnacalis
+BT_Cry2Ac5	Rank4	Species	Aedes albifasciatus
+BT_Cry2Ac7	Rank4	Species	Helicoverpa armigera
+BT_Cry2Ae1	Rank4	Species	Spodoptera frugiperda
+BT_Cry2Ae1	Rank4	Species	Ostrinia nubilalis
+BT_Cry2Ae1	Rank4	Species	Helicoverpa zea
+BT_Cry2Ae1	Rank4	Species	Heliothis virescens
+BT_Cry2Ag1	Rank4	Species	Pieris rapae
+BT_Cry2Ag1	Rank4	Species	Aedes aegypti
+BT_Cry2Ah4	Rank4	Species	Anticarsia gemmatalis
+BT_Cry2Ah4	Rank4	Species	Helicoverpa zea
+BT_Cry2Ah4	Rank4	Species	Heliothis virescens
+BT_Cry2Ah4	Rank4	Species	Diatraea grandiosella
+BT_Cry2Ak1	Rank4	Species	Ostrinia nubilalis
+BT_Cry2Ak1	Rank4	Species	Helicoverpa zea
+BT_Cry2Ak1	Rank4	Species	Anticarsia gemmatalis
+BT_Cry2Ak1	Rank4	Species	Heliothis virescens
+BT_Cry2Ak1	Rank4	Species	Spodoptera frugiperda
+BT_Cry2Al1	Rank4	Species	Spodoptera litura
+BT_Cry2Al1	Rank4	Species	Helicoverpa armigera
+BT_Cry2Am1	Rank4	Species	Aedes aegypti
+BT_Cry2Ba1	Rank4	Species	Anticarsia gemmatalis
+BT_Cry2Ba1	Rank4	Species	Helicoverpa zea
+BT_Cry2Ba1	Rank4	Species	Spodoptera frugiperda
+BT_Cry2Ba1	Rank4	Species	Heliothis virescens
+BT_Cry30Fa1	Rank4	Species	Aedes aegypti
+BT_Cry30Fa1	Rank4	Species	Spodoptera exigua
+BT_Cry30Fa1	Rank4	Species	Plutella xylostella
+BT_Cry30Fa1	Rank4	Species	Helicoverpa armigera
+BT_Cry30Ga1	Rank4	Species	Aedes aegypti
+BT_Cry30Ga1	Rank4	Species	Plutella xylostella
+BT_Cry31Aa1	Rank4	Species	Human cancer cells
+BT_Cry31Aa6	Rank4	Species	Human cancer cells
+BT_Cry31Ab1	Rank4	Species	Human cancer cells
+BT_Cry31Ac1	Rank4	Species	Human cancer cells
+BT_Cry31Ad1	Rank4	Species	Human cancer cells
+BT_Cry32Aa1	Rank4	Species	Plutella xylostella
+BT_Cry32Eb1	Rank4	Species	Caenorhabditis elegans
+BT_Cry32Ha1	Rank4	Species	Plutella xylostella
+BT_Cry32Hb1	Rank4	Species	Ostrinia nubilalis
+BT_Cry32Hb1	Rank4	Species	Plutella xylostella
+BT_Cry32Sa1	Rank4	Species	Plutella xylostella
+BT_Cry39Aa1	Rank4	Species	Anopheles stephensi
+BT_Cry39Aa1	Rank4	Species	Culex pipiens
+BT_Cry3Aa10	Rank4	Species	Apriona germari
+BT_Cry3Aa11	Rank4	Species	Leptinotarsa decemlineata
+BT_Cry3Aa11	Rank4	Species	Agelastica alni
+BT_Cry3Aa11	Rank4	Species	Amphimallon solstitiale
+BT_Cry3Aa11	Rank4	Species	Melolontha melolontha
+BT_Cry3Aa1	Rank4	Species	Colaphellus bowringi
+BT_Cry3Aa1	Rank4	Species	Pyrrhalta aenescens
+BT_Cry3Aa8	Rank4	Species	Plagiodera versicolora
+BT_Cry3Ba1	Rank4	Species	Cyclocephala pasadenae
+BT_Cry3Ba1	Rank4	Species	Cyclocephala borealis
+BT_Cry3Ba2	Rank4	Species	Cylas puncticollis
+BT_Cry3Ba2	Rank4	Species	Cylas brunneus
+BT_Cry3Bb1	Rank4	Species	Leptinotarsa decemlineata
+BT_Cry3Bb1	Rank4	Species	Diabrotica undecimpunctata howardi
+BT_Cry3Bb3	Rank4	Species	Cylas puncticollis
+BT_Cry3Bb3	Rank4	Species	Cylas brunneus
+BT_Cry3Ca1	Rank4	Species	Leptinotarsa decemlineata
+BT_Cry3Ca1	Rank4	Species	Cylas puncticollis
+BT_Cry3Ca1	Rank4	Species	Cylas brunneus
+BT_Cry40Da1	Rank4	Species	Culex quinquefasciatus
+BT_Cry41Aa1	Rank4	Species	Human cancer cells
+BT_Cry41Ab1	Rank4	Species	Myzus persicae
+BT_Cry41Ab1	Rank4	Species	Human cancer cells
+BT_Cry42Aa1	Rank4	Species	Human cancer cells
+BT_Cry43Aa1	Rank4	Species	Anomala cuprea
+BT_Cry43Ba1	Rank4	Species	Anomala cuprea
+BT_Cry43Ca1	Rank4	Species	Leptinotarsa decemlineata
+BT_Cry43Ca1	Rank4	Species	Plutella xylostella
+BT_Cry43Cb1	Rank4	Species	Leptinotarsa decemlineata
+BT_Cry43Cb1	Rank4	Species	Ostrinia nubilalis
+BT_Cry43Cb1	Rank4	Species	Plutella xylostella
+BT_Cry44Aa1	Rank4	Species	Aedes aegypti
+BT_Cry44Aa1	Rank4	Species	Culex pipiens pallens
+BT_Cry44Aa1	Rank4	Species	Anopheles stephensi
+BT_Cry47Aa1	Rank4	Species	Lucilia cuprina
+BT_Cry48Aa1	Rank4	Species	Culex quinquefasciatus
+BT_Cry4Aa1	Rank4	Species	Aedes aegypti
+BT_Cry4Aa1	Rank4	Species	Anopheles gambiae
+BT_Cry4Aa1	Rank4	Species	Culex quinquefasciatus
+BT_Cry4Ba1	Rank4	Species	Culex pipiens
+BT_Cry4Ba1	Rank4	Species	Tipula oleracea
+BT_Cry4Ba1	Rank4	Species	Chironomus tepperi
+BT_Cry4Ba1	Rank4	Species	Culex quinquefasciatus
+BT_Cry4Ba1	Rank4	Species	Aedes aegypti
+BT_Cry4Ba1	Rank4	Species	Anopheles albimanus
+BT_Cry4Ba1	Rank4	Species	Anopheles quadrimaculatus
+BT_Cry4Ba1	Rank4	Species	Anopheles gambiae
+BT_Cry4Ba2	Rank4	Species	Aedes aegypti
+BT_Cry4Ba6	Rank4	Species	Culex pipiens
+BT_Cry4Cb1	Rank4	Species	Aedes aegypti
+BT_Cry4Cb1	Rank4	Species	Spodoptera exigua
+BT_Cry4Cb1	Rank4	Species	Helicoverpa armigera
+BT_Cry4Cb2	Rank4	Species	Aedes aegypti
+BT_Cry4Cb2	Rank4	Species	Spodoptera exigua
+BT_Cry4Cb2	Rank4	Species	Helicoverpa armigera
+BT_Cry4Cb3	Rank4	Species	Culex quinquefasciatus
+BT_Cry4Cc1	Rank4	Species	Aedes aegypti
+BT_Cry4Cc1	Rank4	Species	Spodoptera exigua
+BT_Cry4Cc1	Rank4	Species	Helicoverpa armigera
+BT_Cry52Ba1	Rank4	Species	Aedes aegypti
+BT_Cry52Ca1	Rank4	Species	Helicoverpa armigera
+BT_Cry53Ab1	Rank4	Species	Aedes aegypti
+BT_Cry53Ab1	Rank4	Species	Spodoptera exigua
+BT_Cry53Ab1	Rank4	Species	Helicoverpa armigera
+BT_Cry54Aa1	Rank4	Species	Pieris rapae
+BT_Cry54Aa1	Rank4	Species	Culex pipiens
+BT_Cry54Aa1	Rank4	Species	Helicoverpa armigera
+BT_Cry54Aa1	Rank4	Species	Aedes aegypti
+BT_Cry54Aa1	Rank4	Species	Spodoptera exigua
+BT_Cry54Ab1	Rank4	Species	Culex pipiens
+BT_Cry55Aa1	Rank4	Species	Meloidogyne hapla
+BT_Cry56Aa1	Rank4	Species	Aedes aegypti
+BT_Cry56Aa1	Rank4	Species	Plutella xylostella
+BT_Cry56Aa1	Rank4	Species	Helicoverpa armigera
+BT_Cry57Ab1	Rank4	Species	Ostrinia furnacalis
+BT_Cry57Ab1	Rank4	Species	Plutella xylostella
+BT_Cry59Ba1	Rank4	Species	Aedes aegypti
+BT_Cry59Ba1	Rank4	Species	Spodoptera exigua
+BT_Cry5Ba1	Rank4	Species	Heligmosomoides polygyrus bakeri
+BT_Cry5Ba1	Rank4	Species	Panagrellus redivivus
+BT_Cry5Ba1	Rank4	Species	Parascaris spp.
+BT_Cry5Ba1	Rank4	Species	Acrobeloides sp
+BT_Cry5Ba1	Rank4	Species	Necator americanus
+BT_Cry5Ba1	Rank4	Species	Pristionchus pacificus
+BT_Cry5Ba1	Rank4	Species	Ascaris suum
+BT_Cry5Ba1	Rank4	Species	Haemonchus contortus
+BT_Cry5Ba1	Rank4	Species	Distolabrellus veechi
+BT_Cry5Ba1	Rank4	Species	Nippostrongylus brasiliensis
+BT_Cry5Ba1	Rank4	Species	Caenorhabditis elegans
+BT_Cry5Ba1	Rank4	Species	Ancylostoma ceylanicum
+BT_Cry5Ba1	Rank4	Species	Meloidogyne incognita
+BT_Cry5Ba2	Rank4	Species	Caenorhabditis elegans
+BT_Cry5Ba2	Rank4	Species	Meloidogyne hapla
+BT_Cry5Ba2	Rank4	Species	Meloidogyne incognita
+BT_Cry5Ba3	Rank4	Species	Bursaphelenchus xylophilus
+BT_Cry5Ca1	Rank4	Species	Caenorhabditis elegans
+BT_Cry5Ca1	Rank4	Species	Meloidogyne incognita
+BT_Cry5Da1	Rank4	Species	Caenorhabditis elegans
+BT_Cry5Da1	Rank4	Species	Meloidogyne incognita
+BT_Cry62Aa1	Rank4	Species	Human cancer cells
+BT_Cry63Aa1	Rank4	Species	Human cancer cells
+BT_Cry65Aa2	Rank4	Species	Human cancer cells
+BT_Cry68Aa1	Rank4	Species	Spodoptera exigua
+BT_Cry68Aa1	Rank4	Species	Helicoverpa armigera
+BT_Cry69Aa1	Rank4	Species	Aedes aegypti
+BT_Cry69Aa1	Rank4	Species	Spodoptera exigua
+BT_Cry69Aa1	Rank4	Species	Helicoverpa armigera
+BT_Cry69Aa1	Rank4	Species	Culex quinquefasciatus
+BT_Cry70Aa1	Rank4	Species	Aedes aegypti
+BT_Cry70Ba1	Rank4	Species	Aedes aegypti
+BT_Cry71Aa1	Rank4	Species	Spodoptera exigua
+BT_Cry72Aa1	Rank4	Species	Spodoptera exigua
+BT_Cry73Ba1	Rank4	Species	Myzus persicae
+BT_Cry7Aa1	Rank4	Species	Leptinotarsa decemlineata
+BT_Cry7Aa1	Rank4	Species	Cylas puncticollis
+BT_Cry7Aa1	Rank4	Species	Cylas brunneus
+BT_Cry7Ab2	Rank4	Species	Xylotrechus arvicola
+BT_Cry7Ab2	Rank4	Species	Acanthoscelides obtectus 
+BT_Cry7Ab3	Rank4	Species	Henosepilachna vigintioctomaculata
+BT_Cry7Ab4	Rank4	Species	Colaphellus bowringi
+BT_Cry7Ab9	Rank4	Species	Holotrichia parallela
+BT_Cry7Ba1	Rank4	Species	Plutella xylostella
+BT_Cry7Ca1	Rank4	Species	Locusta migratoria manilensis
+BT_Cry7Ca1	Rank4	Species	Locusta migratoria
+BT_Cry7Gb1	Rank4	Species	Diabrotica virgifera virgifera
+BT_Cry7Gb1	Rank4	Species	Diabrotica undecimpunctata howardi
+BT_Cry8Aa1	Rank4	Species	Cotinis spp.
+BT_Cry8Aa1	Rank4	Species	Leptinotarsa decemlineata
+BT_Cry8Ab1	Rank4	Species	Holotrichia parallela
+BT_Cry8Ab1	Rank4	Species	Holotrichia oblita
+BT_Cry8Ba1	Rank4	Species	Cotinis spp.
+BT_Cry8Ba1	Rank4	Species	Cyclocephala borealis
+BT_Cry8Bb1	Rank4	Species	Leptinotarsa decemlineata
+BT_Cry8Bb1	Rank4	Species	Diabrotica virgifera virgifera
+BT_Cry8Bc1	Rank4	Species	Diabrotica virgifera virgifera
+BT_Cry8Ca1	Rank4	Species	Anomala cuprea
+BT_Cry8Ca1	Rank4	Species	Popillia japonica
+BT_Cry8Ca2	Rank4	Species	Anomala exoleta
+BT_Cry8Ca2	Rank4	Species	Holotrichia parallela
+BT_Cry8Ca2	Rank4	Species	Anomala corpulenta
+BT_Cry8Da1	Rank4	Species	Anomala cuprea
+BT_Cry8Db1	Rank4	Species	Pentodon idiota
+BT_Cry8Db1	Rank4	Species	Agelastica coerulea
+BT_Cry8Db1	Rank4	Species	Popillia japonica
+BT_Cry8Ea1	Rank4	Species	Holotrichia parallela
+BT_Cry8Ea1	Rank4	Species	Anomala corpulenta
+BT_Cry8Ea2	Rank4	Species	Holotrichia parallela
+BT_Cry8Ea2	Rank4	Species	Plagiodera versicolora
+BT_Cry8Ea2	Rank4	Species	Popillia flavosellata
+BT_Cry8Ga1	Rank4	Species	Holotrichia parallela
+BT_Cry8Ga1	Rank4	Species	Holotrichia oblita
+BT_Cry8Ha1	Rank4	Species	Colaphellus bowringi
+BT_Cry8Ha1	Rank4	Species	Holotrichia parallela
+BT_Cry8Ha1	Rank4	Species	Holotrichia oblita
+BT_Cry8Ha1	Rank4	Species	Anoplophora glabripennis
+BT_Cry8Hb1	Rank4	Species	Diabrotica virgifera virgifera
+BT_Cry8Ia1	Rank4	Species	Holotrichia parallela
+BT_Cry8Ka1	Rank4	Species	Anthonomus grandis
+BT_Cry8Ka3	Rank4	Species	Anthonomus grandis
+BT_Cry8Kb1	Rank4	Species	Holotrichia parallela
+BT_Cry8Na1	Rank4	Species	Holotrichia parallela
+BT_Cry8Pa1	Rank4	Species	Holotrichia oblita
+BT_Cry8Pa3	Rank4	Species	Anthonomus grandis
+BT_Cry8Qa1	Rank4	Species	Anticarsia gemmatalis
+BT_Cry8Qa1	Rank4	Species	Anthonomus grandis
+BT_Cry8Sa1	Rank4	Species	Holotrichia serrata
+BT_Cry9Aa1	Rank4	Species	Galleria mellonella
+BT_Cry9Aa2	Rank4	Species	Epiphyas postvittana
+BT_Cry9Aa2	Rank4	Species	Helicoverpa punctigera
+BT_Cry9Aa2	Rank4	Species	Phthorimaea operculella
+BT_Cry9Bb1	Rank4	Species	Spodoptera frugiperda
+BT_Cry9Bb1	Rank4	Species	Manduca sexta
+BT_Cry9Ca1	Rank4	Species	Ostrinia nubilalis
+BT_Cry9Ca1	Rank4	Species	Agrotis ipsilon
+BT_Cry9Ca1	Rank4	Species	Agrotis segetum
+BT_Cry9Ca1	Rank4	Species	Mamestra brassicae
+BT_Cry9Ca1	Rank4	Species	Spodoptera littoralis
+BT_Cry9Ca1	Rank4	Species	Choristoneura fumiferana
+BT_Cry9Ca1	Rank4	Species	Heliothis virescens
+BT_Cry9Ca1	Rank4	Species	Bombyx mori
+BT_Cry9Ca1	Rank4	Species	Spodoptera exigua
+BT_Cry9Ca1	Rank4	Species	Manduca sexta
+BT_Cry9Ca1	Rank4	Species	Plutella xylostella
+BT_Cry9Cb1	Rank4	Species	Agrotis ipsilon
+BT_Cry9Cb1	Rank4	Species	Ostrinia furnacalis
+BT_Cry9Cb1	Rank4	Species	Mythimna separata
+BT_Cry9Cb1	Rank4	Species	Chilo suppressalis
+BT_Cry9Cb1	Rank4	Species	Plutella xylostella
+BT_Cry9Da1	Rank4	Species	Bombyx mori
+BT_Cry9Da1	Rank4	Species	Plutella xylostella
+BT_Cry9Db1	Rank4	Species	Ostrinia nubilalis
+BT_Cry9Ea10	Rank4	Species	Hyphantria cunea
+BT_Cry9Eb1	Rank4	Species	Ostrinia nubilalis
+BT_Cry9Eb1	Rank4	Species	Heliothis virescens
+BT_Cry9Eb2	Rank4	Species	Ostrinia furnacalis
+BT_Cry9Eb2	Rank4	Species	Plutella xylostella
+BT_Cry9Ec1	Rank4	Species	Bombyx mori
+BT_Cry9Ec1	Rank4	Species	Plutella xylostella
+BT_Cry9Ed1	Rank4	Species	Ostrinia nubilalis
+BT_Cry9Ee1	Rank4	Species	Ostrinia furnacalis
+BT_Cry9Ee1	Rank4	Species	Plutella xylostella
+BT_Cry9Ee2	Rank4	Species	Ostrinia nubilalis
+BT_Cry9Ga1	Rank4	Species	Anticarsia gemmatalis
+BT_Cry9Ga1	Rank4	Species	Diatraea grandiosella
+BT_Cry9Ga1	Rank4	Species	Plutella xylostella
+BT_CryAb2	Rank4	Species	Helicoverpa armigera
+BT_Cy1Hc1	Rank4	Species	Ostrinia furnacalis
+BT_Cy1Hc1	Rank4	Species	Plutella xylostella
+NOV_Cry10Aa1_94.4_ABW89736.1	Rank4	Species	Anopheles stephensi
+NOV_Cry10Aa1_97.0_ABW89733.1	Rank4	Species	Anopheles stephensi
+NOV_Cry11Aa1_95.8_ABW89741.1	Rank4	Species	Anopheles stephensi
+NOV_Cry11Aa1_96.3_ABW89742.1	Rank4	Species	Anopheles stephensi
+NOV_Cry11Aa1_97.8_ABW89740.1	Rank4	Species	Anopheles stephensi
+NOV_Cry11Aa1_98.8_ABW89738.1	Rank4	Species	Anopheles stephensi
+NOV_Cry11Aa1_98.9_ABW89739.1	Rank4	Species	Anopheles stephensi
+NOV_Cry11Aa1_99.5_ABW89737.1	Rank4	Species	Anopheles stephensi
+NOV_Cry13Aa1_87.1_ANS50148.1	Rank4	Species	Aphis glycines
+NOV_Cry14Aa1_41.1_PGW46198.1	Rank4	Species	Nezara viridula
+NOV_Cry14Ab1_42.4_PGW46196.1	Rank4	Species	Diabrotica virgifera virgifera
+NOV_Cry14Ab1_42.4_PGW46196.1	Rank4	Species	Nezara viridula
+NOV_Cry1Ab12_91.4_AAK14338.1	Rank4	Species	Helicoverpa armigera
+NOV_Cry1Ab32_92.7_AAK14337.1	Rank4	Species	Spodoptera litura
+NOV_Cry1Ab32_92.7_AAK14337.1	Rank4	Species	Plutella xylostella
+NOV_Cry1Ab32_92.7_AAK14337.1	Rank4	Species	Helicoverpa armigera
+NOV_Cry1Ai1_99.7_AAS93796.1	Rank4	Species	Plutella xylostella
+NOV_Cry1Da1_99.6_ALP83513.1	Rank4	Species	Spodoptera littoralis
+NOV_Cry1Da3_99.9_AMR88578.1	Rank4	Species	Spodoptera frugiperda
+NOV_Cry1Da3_99.9_AMR88578.1	Rank4	Species	Manduca sexta
+NOV_Cry1Fb4_99.8_AMR88428.1	Rank4	Species	Spodoptera frugiperda
+NOV_Cry1Fb4_99.8_AMR88428.1	Rank4	Species	Manduca sexta
+NOV_Cry1Hb1_98.0_AMR88562.1	Rank4	Species	Manduca sexta
+NOV_Cry1Ka1_98.4_KIP24267.1	Rank4	Species	Manduca sexta
+NOV_Cry20Ba2_80.0_AGV55017.1	Rank4	Species	Culex pipiens molestus
+NOV_Cry2Ak1_76.8_AX513524.1	Rank4	Species	Ostrinia nubilalis
+NOV_Cry2Ak1_76.8_AX513524.1	Rank4	Species	Helicoverpa zea
+NOV_Cry2Ak1_76.8_AX513524.1	Rank4	Species	Heliothis virescens
+NOV_Cry2Ak1_76.8_AX513524.1	Rank4	Species	Sesamia nonagrioides
+NOV_Cry2Ba1_29.9_AEX63666.1	Rank4	Species	Aedes aegypti
+NOV_Cry3Aa12_81.9_AEZ53144.1	Rank4	Species	Myllocerus undecimpustulatus undatus
+NOV_Cry40Aa1_67.9_CQ868314.1	Rank4	Species	Trichoplusia ni
+NOV_Cry40Aa1_67.9_CQ868314.1	Rank4	Species	Tenebrio molitor
+NOV_Cry40Da1_65.0_CAH33957.1 	Rank4	Species	Trichoplusia ni
+NOV_Cry48Aa1_36.6_CAH33948.1	Rank4	Species	Spodoptera frugiperda
+NOV_Cry48Aa1_36.6_CAH33948.1	Rank4	Species	Lygus lineolaris
+NOV_Cry48Aa1_36.6_CAH33948.1	Rank4	Species	Heliothis virescens
+NOV_Cry48Aa1_36.9_CAH33950.1	Rank4	Species	Lygus lineolaris
+NOV_Cry48Aa1_36.9_CAH33950.1	Rank4	Species	Trichoplusia ni
+NOV_Cry4Ba1_96.9_ABR22239.1	Rank4	Species	Anopheles stephensi
+NOV_Cry4Ba1_98.1_ABR22240.1	Rank4	Species	Anopheles stephensi
+NOV_Cry4Ba1_98.5_ABR22238.1	Rank4	Species	Anopheles stephensi
+NOV_Cry4Ba1_98.9_ABR22236.1	Rank4	Species	Anopheles stephensi
+NOV_Cry4Ba1_98.9_ABR22237.1	Rank4	Species	Anopheles stephensi
+NOV_Cry4Ba1_99.6_ABR22235.1	Rank4	Species	Anopheles stephensi
+NOV_Cry53Ab1_40.0_CAH33955.1	Rank4	Species	Diabrotica virgifera virgifera
+NOV_Cry53Ab1_40.0_CAH33955.1	Rank4	Species	Trichoplusia ni
+NOV_Cry53Ab1_40.0_CAH33955.1	Rank4	Species	Diabrotica undecimpunctata howardi
+NOV_Cry53Ab1_40.0_CAH33955.1	Rank4	Species	Lygus lineolaris
+NOV_Cry56Aa2_56.0_AGV55019.1	Rank4	Species	Culex pipiens molestus
+NOV_Cry69Ab1_58.0_PER42111.1	Rank4	Species	Euschistus servus
+NOV_Cry69Ab1_58.0_PER42111.1	Rank4	Species	Nezara viridula
+NOV_Cry71Aa1_65.9_PER41598.1	Rank4	Species	Spodoptera frugiperda
+NOV_Cry7Ha1_99.5_ADA48966.1	Rank4	Species	Diabrotica virgifera virgifera
+NOV_Cry7Ha1_99.5_ADA48966.1	Rank4	Species	Diabrotica undecimpunctata howardi
+NOV_Cry9Db1_99.9_ACS12637.1	Rank4	Species	Ostrinia nubilalis
+NOV_Cry9Ga1_57.2_PER39584.1	Rank4	Species	Euschistus servus
+NOV_Cry9Ga1_57.2_PER39584.1	Rank4	Species	Aphis gossypii
+NOV_Cry9Ga1_57.2_PER39584.1	Rank4	Species	Diatraea grandiosella
+NOV_Cry9Ga1_57.2_PER39584.1	Rank4	Species	Plutella xylostella
+BT_Cry1Ca15	Rank4	Species	Plutella xylostella
+BT_Cry1Ie2	Rank4	Species	Ostrinia nubilalis
+BT_Cry1Ie2	Rank4	Species	Pectinophora gossypiella
+BT_Cry1Ie2	Rank4	Species	Manduca sexta
+BT_Cry3Aa12	Rank4	Species	Leptinotarsa decemlineata
+BT_Cry3Aa12	Rank4	Species	Cylas puncticollis
+BT_Cry3Aa12	Rank4	Species	Cylas brunneus
+BT_Cry10Aa	Rank3	Orders	Coleoptera
+BT_Cry10Aa	Rank3	Orders	Diptera
+BT_Cry11Aa	Rank3	Orders	Hemiptera
+BT_Cry11Aa	Rank3	Orders	Diptera
+BT_Cry11Ba	Rank3	Orders	Diptera
+BT_Cry11Bb	Rank3	Orders	Diptera
+BT_Cry12Aa	Rank3	Orders	Nematoda
+BT_Cry13Aa	Rank3	Orders	Nematoda
+BT_Cry14Aa	Rank3	Orders	Nematoda
+BT_Cry14Ab	Rank3	Orders	Nematoda
+BT_Cry15Aa	Rank3	Orders	Lepidoptera
+BT_Cry18Aa	Rank3	Orders	Coleoptera
+BT_Cry19Aa	Rank3	Orders	Diptera
+BT_Cry19Ba	Rank3	Orders	Diptera
+BT_Cry1Aa	Rank3	Orders	Lepidoptera
+BT_Cry1Ab	Rank3	Orders	Lepidoptera
+BT_Cry1Ab	Rank3	Orders	Hemiptera
+BT_Cry1Ab	Rank3	Orders	Diptera
+BT_Cry1Ac	Rank3	Orders	Lepidoptera
+BT_Cry1Ac	Rank3	Orders	Hemiptera
+BT_Cry1Ac	Rank3	Orders	Diptera
+BT_Cry1Ad	Rank3	Orders	Lepidoptera
+BT_Cry1Af	Rank3	Orders	Lepidoptera
+BT_Cry1Ah	Rank3	Orders	Lepidoptera
+BT_Cry1Ai	Rank3	Orders	Lepidoptera
+BT_Cry1Aj	Rank3	Orders	Lepidoptera
+BT_Cry1Ba	Rank3	Orders	Lepidoptera
+BT_Cry1Ba	Rank3	Orders	Coleoptera
+BT_Cry1Ba	Rank3	Orders	Hemiptera
+BT_Cry1Ba	Rank3	Orders	Diptera
+BT_Cry1Bb	Rank3	Orders	Lepidoptera
+BT_Cry1Bc	Rank3	Orders	Diptera
+BT_Cry1Bd	Rank3	Orders	Lepidoptera
+BT_Cry1Be	Rank3	Orders	Lepidoptera
+BT_Cry1Bf	Rank3	Orders	Lepidoptera
+BT_Cry1Bh	Rank3	Orders	Lepidoptera
+BT_Cry1Bh	Rank3	Orders	Coleoptera
+BT_Cry1Bi	Rank3	Orders	Lepidoptera
+BT_Cry1Bj	Rank3	Orders	Lepidoptera
+BT_Cry1Ca	Rank3	Orders	Lepidoptera
+BT_Cry1Ca	Rank3	Orders	Diptera
+BT_Cry1Cb	Rank3	Orders	Lepidoptera
+BT_Cry1Cb	Rank3	Orders	Hemiptera
+BT_Cry1Da	Rank3	Orders	Lepidoptera
+BT_Cry1Db	Rank3	Orders	Lepidoptera
+BT_Cry1Dd	Rank3	Orders	Lepidoptera
+BT_Cry1Ea	Rank3	Orders	Lepidoptera
+BT_Cry1Ea	Rank3	Orders	Nematoda
+BT_Cry1Eb	Rank3	Orders	Lepidoptera
+BT_Cry1Fa	Rank3	Orders	Lepidoptera
+BT_Cry1Fb	Rank3	Orders	Lepidoptera
+BT_Cry1Gb	Rank3	Orders	Lepidoptera
+BT_Cry1Gc	Rank3	Orders	Lepidoptera
+BT_Cry1Hb	Rank3	Orders	Lepidoptera
+BT_Cry1Hc	Rank3	Orders	Lepidoptera
+BT_Cry1Ia	Rank3	Orders	Lepidoptera
+BT_Cry1Ia	Rank3	Orders	Coleoptera
+BT_Cry1Ia	Rank3	Orders	Nematoda
+BT_Cry1Ib	Rank3	Orders	Lepidoptera
+BT_Cry1Ic	Rank3	Orders	Coleoptera
+BT_Cry1Id	Rank3	Orders	Lepidoptera
+BT_Cry1Ie	Rank3	Orders	Lepidoptera
+BT_Cry1If	Rank3	Orders	Lepidoptera
+BT_Cry1Ig	Rank3	Orders	Lepidoptera
+BT_Cry1Ja	Rank3	Orders	Lepidoptera
+BT_Cry1Jb	Rank3	Orders	Lepidoptera
+BT_Cry1Jc	Rank3	Orders	Lepidoptera
+BT_Cry1Jd	Rank3	Orders	Lepidoptera
+BT_Cry1La	Rank3	Orders	Lepidoptera
+BT_Cry1Na	Rank3	Orders	Lepidoptera
+BT_Cry1Na	Rank3	Orders	Coleoptera
+BT_Cry1Na	Rank3	Orders	Hemiptera
+BT_Cry1Nb	Rank3	Orders	Lepidoptera
+BT_Cry20Aa	Rank3	Orders	Diptera
+BT_Cry20Ba	Rank3	Orders	Lepidoptera
+BT_Cry21Aa	Rank3	Orders	Nematoda
+BT_Cry21Fa	Rank3	Orders	Nematoda
+BT_Cry24Ca	Rank3	Orders	Diptera
+BT_Cry27Aa	Rank3	Orders	Diptera
+BT_Cry29Aa	Rank3	Orders	Diptera
+BT_Cry2Aa	Rank3	Orders	Lepidoptera
+BT_Cry2Aa	Rank3	Orders	Hemiptera
+BT_Cry2Aa	Rank3	Orders	Diptera
+BT_Cry2Ab	Rank3	Orders	Lepidoptera
+BT_Cry2Ab	Rank3	Orders	Diptera
+BT_Cry2Ac	Rank3	Orders	Lepidoptera
+BT_Cry2Ac	Rank3	Orders	Diptera
+BT_Cry2Ad	Rank3	Orders	Lepidoptera
+BT_Cry2Ae	Rank3	Orders	Lepidoptera
+BT_Cry2Af2	Rank3	Orders	Lepidoptera
+BT_Cry2Ag	Rank3	Orders	Lepidoptera
+BT_Cry2Ag	Rank3	Orders	Diptera
+BT_Cry2Ah	Rank3	Orders	Lepidoptera
+BT_Cry2Ak	Rank3	Orders	Lepidoptera
+BT_Cry2Al	Rank3	Orders	Lepidoptera
+BT_Cry2Am	Rank3	Orders	Diptera
+BT_Cry2Ba	Rank3	Orders	Lepidoptera
+BT_Cry30Aa	Rank3	Orders	Diptera
+BT_Cry30Fa	Rank3	Orders	Lepidoptera
+BT_Cry30Fa	Rank3	Orders	Diptera
+BT_Cry30Ga	Rank3	Orders	Lepidoptera
+BT_Cry30Ga	Rank3	Orders	Diptera
+BT_Cry31Aa	Rank3	Orders	Human
+BT_Cry31Ab	Rank3	Orders	Human
+BT_Cry31Ac	Rank3	Orders	Human
+BT_Cry31Ad	Rank3	Orders	Human
+BT_Cry32Aa	Rank3	Orders	Lepidoptera
+BT_Cry32Eb	Rank3	Orders	Nematoda
+BT_Cry32Ha	Rank3	Orders	Lepidoptera
+BT_Cry32Hb	Rank3	Orders	Lepidoptera
+BT_Cry32Sa	Rank3	Orders	Lepidoptera
+BT_Cry39Aa	Rank3	Orders	Diptera
+BT_Cry3Aa	Rank3	Orders	Coleoptera
+BT_Cry3Aa	Rank3	Orders	Hemiptera
+BT_Cry3Aa	Rank3	Orders	Hymenoptera
+BT_Cry3Aa 	Rank3	Orders	Coleoptera
+BT_Cry3Ba	Rank3	Orders	Coleoptera
+BT_Cry3Bb	Rank3	Orders	Coleoptera
+BT_Cry3Bb 	Rank3	Orders	Coleoptera
+BT_Cry3Ca	Rank3	Orders	Coleoptera
+BT_Cry40Da	Rank3	Orders	Diptera
+BT_Cry41Aa	Rank3	Orders	Human
+BT_Cry41Ab	Rank3	Orders	Human
+BT_Cry41Ab	Rank3	Orders	Hemiptera
+BT_Cry42Aa	Rank3	Orders	Human
+BT_Cry43Aa	Rank3	Orders	Coleoptera
+BT_Cry43Ba	Rank3	Orders	Coleoptera
+BT_Cry43Ca	Rank3	Orders	Lepidoptera
+BT_Cry43Ca	Rank3	Orders	Coleoptera
+BT_Cry43Cb	Rank3	Orders	Lepidoptera
+BT_Cry43Cb	Rank3	Orders	Coleoptera
+BT_Cry44Aa	Rank3	Orders	Diptera
+BT_Cry47Aa	Rank3	Orders	Diptera
+BT_Cry48Aa	Rank3	Orders	Diptera
+BT_Cry4Aa	Rank3	Orders	Hemiptera
+BT_Cry4Aa	Rank3	Orders	Diptera
+BT_Cry4Ba	Rank3	Orders	Diptera
+BT_Cry4Cb	Rank3	Orders	Lepidoptera
+BT_Cry4Cb	Rank3	Orders	Diptera
+BT_Cry4Cc	Rank3	Orders	Lepidoptera
+BT_Cry4Cc	Rank3	Orders	Diptera
+BT_Cry50Ba	Rank3	Orders	Diptera
+BT_Cry52Ba	Rank3	Orders	Diptera
+BT_Cry52Ca	Rank3	Orders	Lepidoptera
+BT_Cry53Ab	Rank3	Orders	Lepidoptera
+BT_Cry53Ab	Rank3	Orders	Diptera
+BT_Cry54Aa	Rank3	Orders	Lepidoptera
+BT_Cry54Aa	Rank3	Orders	Diptera
+BT_Cry54Ab	Rank3	Orders	Diptera
+BT_Cry55Aa	Rank3	Orders	Nematoda
+BT_Cry56Aa	Rank3	Orders	Lepidoptera
+BT_Cry56Aa	Rank3	Orders	Diptera
+BT_Cry57Ab	Rank3	Orders	Lepidoptera
+BT_Cry59Ba	Rank3	Orders	Lepidoptera
+BT_Cry59Ba	Rank3	Orders	Diptera
+BT_Cry5Ac	Rank3	Orders	Hymenoptera
+BT_Cry5Ba	Rank3	Orders	Nematoda
+BT_Cry5Ca	Rank3	Orders	Nematoda
+BT_Cry5Da	Rank3	Orders	Nematoda
+BT_Cry62Aa	Rank3	Orders	Human
+BT_Cry63Aa	Rank3	Orders	Human
+BT_Cry65Aa	Rank3	Orders	Human
+BT_Cry68Aa	Rank3	Orders	Lepidoptera
+BT_Cry69Aa	Rank3	Orders	Lepidoptera
+BT_Cry69Aa	Rank3	Orders	Diptera
+BT_Cry70Aa	Rank3	Orders	Diptera
+BT_Cry70Ba	Rank3	Orders	Diptera
+BT_Cry71Aa	Rank3	Orders	Lepidoptera
+BT_Cry72Aa	Rank3	Orders	Lepidoptera
+BT_Cry73Ba	Rank3	Orders	Hemiptera
+BT_Cry7Aa	Rank3	Orders	Coleoptera
+BT_Cry7Ab	Rank3	Orders	Coleoptera
+BT_Cry7Ba	Rank3	Orders	Lepidoptera
+BT_Cry7Ca	Rank3	Orders	Orthoptera
+BT_Cry7Gb	Rank3	Orders	Coleoptera
+BT_Cry8Aa	Rank3	Orders	Coleoptera
+BT_Cry8Ab	Rank3	Orders	Coleoptera
+BT_Cry8Ba	Rank3	Orders	Coleoptera
+BT_Cry8Bb	Rank3	Orders	Coleoptera
+BT_Cry8Bc	Rank3	Orders	Coleoptera
+BT_Cry8Ca	Rank3	Orders	Coleoptera
+BT_Cry8Da	Rank3	Orders	Lepidoptera
+BT_Cry8Da	Rank3	Orders	Coleoptera
+BT_Cry8Db	Rank3	Orders	Coleoptera
+BT_Cry8Ea	Rank3	Orders	Coleoptera
+BT_Cry8Ga	Rank3	Orders	Coleoptera
+BT_Cry8Ha	Rank3	Orders	Coleoptera
+BT_Cry8Hb	Rank3	Orders	Coleoptera
+BT_Cry8Ia	Rank3	Orders	Coleoptera
+BT_Cry8Ka	Rank3	Orders	Coleoptera
+BT_Cry8Kb	Rank3	Orders	Coleoptera
+BT_Cry8Na	Rank3	Orders	Coleoptera
+BT_Cry8Pa	Rank3	Orders	Coleoptera
+BT_Cry8Qa	Rank3	Orders	Lepidoptera
+BT_Cry8Qa	Rank3	Orders	Coleoptera
+BT_Cry8Sa	Rank3	Orders	Coleoptera
+BT_Cry9Aa	Rank3	Orders	Lepidoptera
+BT_Cry9Bb	Rank3	Orders	Lepidoptera
+BT_Cry9Ca	Rank3	Orders	Lepidoptera
+BT_Cry9Cb	Rank3	Orders	Lepidoptera
+BT_Cry9Da	Rank3	Orders	Lepidoptera
+BT_Cry9Da	Rank3	Orders	Coleoptera
+BT_Cry9Db	Rank3	Orders	Lepidoptera
+BT_Cry9Ea	Rank3	Orders	Lepidoptera
+BT_Cry9Eb	Rank3	Orders	Lepidoptera
+BT_Cry9Ec	Rank3	Orders	Lepidoptera
+BT_Cry9Ed	Rank3	Orders	Lepidoptera
+BT_Cry9Ee	Rank3	Orders	Lepidoptera
+BT_Cry9Ga	Rank3	Orders	Lepidoptera
+BT_CryAb	Rank3	Orders	Lepidoptera
+BT_Cy1Hc	Rank3	Orders	Lepidoptera
+BT_Cry16Aa	Rank3	Orders	Diptera
+BT_Cry1Ae	Rank3	Orders	Lepidoptera
+BT_Cry1Ka	Rank3	Orders	Lepidoptera
+BT_Cry2Af	Rank3	Orders	Lepidoptera
+BT_Cry32Ba	Rank3	Orders	Diptera
+BT_Cry32Ca	Rank3	Orders	Diptera
+BT_Cry32Da	Rank3	Orders	Diptera
+BT_Cry5Aa	Rank3	Orders	Nematoda
+BT_Cry5Aa	Rank3	Orders	Platyhelminthes
+BT_Cry5Ab	Rank3	Orders	Nematoda
+BT_Cry5Ab	Rank3	Orders	Platyhelminthes
+BT_Cry8Fa	Rank3	Orders	Coleoptera
+BT_Cry10Aa	Rank3	Species	Aedes aegypti
+BT_Cry10Aa	Rank3	Species	Anthonomus grandis
+BT_Cry11Aa	Rank3	Species	Macrosiphum euphorbiae
+BT_Cry11Aa	Rank3	Species	Culex pipiens
+BT_Cry11Aa	Rank3	Species	Acyrthosiphon pisum
+BT_Cry11Aa	Rank3	Species	Chironomus tepperi
+BT_Cry11Aa	Rank3	Species	Culex quinquefasciatus
+BT_Cry11Aa	Rank3	Species	Aedes aegypti
+BT_Cry11Aa	Rank3	Species	Anopheles stephensi
+BT_Cry11Aa	Rank3	Species	Anopheles albimanus
+BT_Cry11Aa	Rank3	Species	Tipula oleracea
+BT_Cry11Aa	Rank3	Species	Simulium spp.
+BT_Cry11Ba	Rank3	Species	Culex pipiens
+BT_Cry11Ba	Rank3	Species	Culex quinquefasciatus
+BT_Cry11Ba	Rank3	Species	Aedes aegypti
+BT_Cry11Ba	Rank3	Species	Anopheles stephensi
+BT_Cry11Ba	Rank3	Species	Anopheles albimanus
+BT_Cry11Bb	Rank3	Species	Culex pipiens
+BT_Cry11Bb	Rank3	Species	Culex quinquefasciatus
+BT_Cry11Bb	Rank3	Species	Aedes aegypti
+BT_Cry11Bb	Rank3	Species	Anopheles stephensi
+BT_Cry11Bb	Rank3	Species	Anopheles albimanus
+BT_Cry12Aa	Rank3	Species	Bursaphelenchus xylophilus
+BT_Cry12Aa	Rank3	Species	Pratylenchus spp. 
+BT_Cry13Aa	Rank3	Species	Bursaphelenchus xylophilus
+BT_Cry13Aa	Rank3	Species	Panagrellus redivivus
+BT_Cry14Aa	Rank3	Species	Panagrellus redivivus
+BT_Cry14Aa	Rank3	Species	Distolabrellus veechi
+BT_Cry14Aa	Rank3	Species	Nippostrongylus brasiliensis
+BT_Cry14Aa	Rank3	Species	Bursaphelenchus xylophilus
+BT_Cry14Aa	Rank3	Species	Caenorhabditis elegans
+BT_Cry14Ab	Rank3	Species	Caenorhabditis elegans
+BT_Cry14Ab	Rank3	Species	Heterodera glycines
+BT_Cry15Aa	Rank3	Species	Pieris rapae
+BT_Cry15Aa	Rank3	Species	Cydia pomonella
+BT_Cry15Aa	Rank3	Species	Manduca sexta
+BT_Cry18Aa	Rank3	Species	Melolontha melolontha
+BT_Cry18Aa	Rank3	Species	Melolontha melolontha 
+BT_Cry19Aa	Rank3	Species	Anopheles stephensi
+BT_Cry19Aa	Rank3	Species	Culex pipiens
+BT_Cry19Ba	Rank3	Species	Culex pipiens molestus
+BT_Cry19Ba	Rank3	Species	Culex pipiens
+BT_Cry1Aa	Rank3	Species	Orgyia leucostigma
+BT_Cry1Aa	Rank3	Species	Thaumetopoea pityocampa
+BT_Cry1Aa	Rank3	Species	Platynota stultana
+BT_Cry1Aa	Rank3	Species	Diatraea saccharalis
+BT_Cry1Aa	Rank3	Species	Ephestia kuehniella
+BT_Cry1Aa	Rank3	Species	Chrysodeixis includens
+BT_Cry1Aa	Rank3	Species	Diatraea flavipennella
+BT_Cry1Aa	Rank3	Species	Pectinophora gossypiella
+BT_Cry1Aa	Rank3	Species	Spodoptera exigua
+BT_Cry1Aa	Rank3	Species	Spodoptera litura
+BT_Cry1Aa	Rank3	Species	Sesamia inferens
+BT_Cry1Aa	Rank3	Species	Helicoverpa zea
+BT_Cry1Aa	Rank3	Species	Agrotis ipsilon
+BT_Cry1Aa	Rank3	Species	Trichoplusia ni
+BT_Cry1Aa	Rank3	Species	Conopomorpha cramerella
+BT_Cry1Aa	Rank3	Species	Chilo partellus
+BT_Cry1Aa	Rank3	Species	Choristoneura rosaceana
+BT_Cry1Aa	Rank3	Species	Lymantria dispar
+BT_Cry1Aa	Rank3	Species	Pandemis pyrusana
+BT_Cry1Aa	Rank3	Species	Choristoneura occidentalis
+BT_Cry1Aa	Rank3	Species	Argyrotaenia citrana
+BT_Cry1Aa	Rank3	Species	Elasmopalpus lignosellus
+BT_Cry1Aa	Rank3	Species	Choristoneura pinus
+BT_Cry1Aa	Rank3	Species	Adoxophyes sp.
+BT_Cry1Aa	Rank3	Species	Scirpophaga incertulas
+BT_Cry1Aa	Rank3	Species	Marasmia patnalis
+BT_Cry1Aa	Rank3	Species	Helicoverpa armigera
+BT_Cry1Aa	Rank3	Species	Mamestra brassicae
+BT_Cry1Aa	Rank3	Species	Chilo suppressalis
+BT_Cry1Aa	Rank3	Species	Choristoneura pinus pinus
+BT_Cry1Aa	Rank3	Species	Cnaphalocrocis medinalis
+BT_Cry1Aa	Rank3	Species	Malacosoma disstria
+BT_Cry1Aa	Rank3	Species	Grapholita molesta
+BT_Cry1Aa	Rank3	Species	Earias vitella
+BT_Cry1Aa	Rank3	Species	Hyphantria cunea
+BT_Cry1Aa	Rank3	Species	Manduca sexta
+BT_Cry1Aa	Rank3	Species	Plutella xylostella
+BT_Cry1Aa	Rank3	Species	Cydia pomonella
+BT_Cry1Aa	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Aa	Rank3	Species	Cacyreus marshalli
+BT_Cry1Aa	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Aa	Rank3	Species	Choristoneura fumiferana
+BT_Cry1Aa	Rank3	Species	Heliothis virescens
+BT_Cry1Aa	Rank3	Species	Maruca vitrata
+BT_Cry1Aa	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Aa	Rank3	Species	Bombyx mori
+BT_Cry1Aa	Rank3	Species	Epinotia aporema
+BT_Cry1Aa	Rank3	Species	Pieris brassicae
+BT_Cry1Ab	Rank3	Species	Orgyia leucostigma
+BT_Cry1Ab	Rank3	Species	Thaumetopoea pityocampa
+BT_Cry1Ab	Rank3	Species	Platynota stultana
+BT_Cry1Ab	Rank3	Species	Mythimna separata
+BT_Cry1Ab	Rank3	Species	Ephestia kuehniella
+BT_Cry1Ab	Rank3	Species	Diatraea saccharalis
+BT_Cry1Ab	Rank3	Species	Diaphorina citri
+BT_Cry1Ab	Rank3	Species	Chrysodeixis includens
+BT_Cry1Ab	Rank3	Species	Eldana saccharina
+BT_Cry1Ab	Rank3	Species	Pectinophora gossypiella
+BT_Cry1Ab	Rank3	Species	Spodoptera exigua
+BT_Cry1Ab	Rank3	Species	Spodoptera litura
+BT_Cry1Ab	Rank3	Species	Sesamia inferens
+BT_Cry1Ab	Rank3	Species	Helicoverpa zea
+BT_Cry1Ab	Rank3	Species	Trichoplusia ni
+BT_Cry1Ab	Rank3	Species	Conopomorpha cramerella
+BT_Cry1Ab	Rank3	Species	Conogethes punctiferalis
+BT_Cry1Ab	Rank3	Species	Diatraea grandiosella
+BT_Cry1Ab	Rank3	Species	Chilo partellus
+BT_Cry1Ab	Rank3	Species	Lymantria dispar
+BT_Cry1Ab	Rank3	Species	Choristoneura rosaceana
+BT_Cry1Ab	Rank3	Species	Choristoneura occidentalis
+BT_Cry1Ab	Rank3	Species	Earias insulana
+BT_Cry1Ab	Rank3	Species	Busseola fusca
+BT_Cry1Ab	Rank3	Species	Argyrotaenia citrana
+BT_Cry1Ab	Rank3	Species	Danaus plexippus
+BT_Cry1Ab	Rank3	Species	Elasmopalpus lignosellus
+BT_Cry1Ab	Rank3	Species	Pandemis pyrusana
+BT_Cry1Ab	Rank3	Species	Choristoneura pinus
+BT_Cry1Ab	Rank3	Species	Scirpophaga incertulas
+BT_Cry1Ab	Rank3	Species	Plodia interpunctella
+BT_Cry1Ab	Rank3	Species	Nilaparvata lugens
+BT_Cry1Ab	Rank3	Species	Marasmia patnalis
+BT_Cry1Ab	Rank3	Species	Ostrinia furnacalis
+BT_Cry1Ab	Rank3	Species	Helicoverpa armigera
+BT_Cry1Ab	Rank3	Species	Mamestra brassicae
+BT_Cry1Ab	Rank3	Species	Chilo suppressalis
+BT_Cry1Ab	Rank3	Species	Choristoneura pinus pinus
+BT_Cry1Ab	Rank3	Species	Helicoverpa punctigera
+BT_Cry1Ab	Rank3	Species	Malacosoma disstria
+BT_Cry1Ab	Rank3	Species	Cnaphalocrocis medinalis
+BT_Cry1Ab	Rank3	Species	Mamestra configurata
+BT_Cry1Ab	Rank3	Species	Aedes aegypti
+BT_Cry1Ab	Rank3	Species	Earias vitella
+BT_Cry1Ab	Rank3	Species	Hyphantria cunea
+BT_Cry1Ab	Rank3	Species	Manduca sexta
+BT_Cry1Ab	Rank3	Species	Plutella xylostella
+BT_Cry1Ab	Rank3	Species	Lobesia botrana
+BT_Cry1Ab	Rank3	Species	Cydia pomonella
+BT_Cry1Ab	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Ab	Rank3	Species	Acyrthosiphon pisum
+BT_Cry1Ab	Rank3	Species	Cacyreus marshalli
+BT_Cry1Ab	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Ab	Rank3	Species	Choristoneura fumiferana
+BT_Cry1Ab	Rank3	Species	Heliothis virescens
+BT_Cry1Ab	Rank3	Species	Maruca vitrata
+BT_Cry1Ab	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Ab	Rank3	Species	Bombyx mori
+BT_Cry1Ab	Rank3	Species	Epinotia aporema
+BT_Cry1Ab	Rank3	Species	Pieris brassicae
+BT_Cry1Ac	Rank3	Species	Orgyia leucostigma
+BT_Cry1Ac	Rank3	Species	Thaumetopoea pityocampa
+BT_Cry1Ac	Rank3	Species	Phthorimaea operculella
+BT_Cry1Ac	Rank3	Species	Platynota stultana
+BT_Cry1Ac	Rank3	Species	Tecia solanivora
+BT_Cry1Ac	Rank3	Species	Diatraea saccharalis
+BT_Cry1Ac	Rank3	Species	Ephestia kuehniella
+BT_Cry1Ac	Rank3	Species	Mythimna separata
+BT_Cry1Ac	Rank3	Species	Chrysodeixis includens
+BT_Cry1Ac	Rank3	Species	Eldana saccharina
+BT_Cry1Ac	Rank3	Species	Diatraea flavipennella
+BT_Cry1Ac	Rank3	Species	Planotortrix octo
+BT_Cry1Ac	Rank3	Species	Pectinophora gossypiella
+BT_Cry1Ac	Rank3	Species	Epiphyas postvittana
+BT_Cry1Ac	Rank3	Species	Spodoptera litura
+BT_Cry1Ac	Rank3	Species	Spodoptera exigua
+BT_Cry1Ac	Rank3	Species	Sesamia inferens
+BT_Cry1Ac	Rank3	Species	Rachiplusia nu
+BT_Cry1Ac	Rank3	Species	Perileucoptera coffeella
+BT_Cry1Ac	Rank3	Species	Helicoverpa zea
+BT_Cry1Ac	Rank3	Species	Agrotis ipsilon
+BT_Cry1Ac	Rank3	Species	Trichoplusia ni
+BT_Cry1Ac	Rank3	Species	Conopomorpha cramerella
+BT_Cry1Ac	Rank3	Species	Conogethes punctiferalis
+BT_Cry1Ac	Rank3	Species	Chilo partellus
+BT_Cry1Ac	Rank3	Species	Choristoneura rosaceana
+BT_Cry1Ac	Rank3	Species	Lymantria dispar
+BT_Cry1Ac	Rank3	Species	Earias insulana
+BT_Cry1Ac	Rank3	Species	Choristoneura occidentalis
+BT_Cry1Ac	Rank3	Species	Busseola fusca
+BT_Cry1Ac	Rank3	Species	Glossina morsitans
+BT_Cry1Ac	Rank3	Species	Argyrotaenia citrana
+BT_Cry1Ac	Rank3	Species	Danaus plexippus
+BT_Cry1Ac	Rank3	Species	Elasmopalpus lignosellus
+BT_Cry1Ac	Rank3	Species	Pandemis pyrusana
+BT_Cry1Ac	Rank3	Species	Choristoneura pinus
+BT_Cry1Ac	Rank3	Species	Scirpophaga incertulas
+BT_Cry1Ac	Rank3	Species	Spilosoma virginica
+BT_Cry1Ac	Rank3	Species	Nilaparvata lugens
+BT_Cry1Ac	Rank3	Species	Marasmia patnalis
+BT_Cry1Ac	Rank3	Species	Sesamia calamistis
+BT_Cry1Ac	Rank3	Species	Ostrinia furnacalis
+BT_Cry1Ac	Rank3	Species	Helicoverpa armigera
+BT_Cry1Ac	Rank3	Species	Ctenopsuestis obliquana
+BT_Cry1Ac	Rank3	Species	Chilo suppressalis
+BT_Cry1Ac	Rank3	Species	Choristoneura pinus pinus
+BT_Cry1Ac	Rank3	Species	Helicoverpa punctigera
+BT_Cry1Ac	Rank3	Species	Malacosoma disstria
+BT_Cry1Ac	Rank3	Species	Cnaphalocrocis medinalis
+BT_Cry1Ac	Rank3	Species	Leucoptera coffeella
+BT_Cry1Ac	Rank3	Species	Grapholita molesta
+BT_Cry1Ac	Rank3	Species	Earias vitella
+BT_Cry1Ac	Rank3	Species	Manduca sexta
+BT_Cry1Ac	Rank3	Species	Plutella xylostella
+BT_Cry1Ac	Rank3	Species	Cydia pomonella
+BT_Cry1Ac	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Ac	Rank3	Species	Acyrthosiphon pisum
+BT_Cry1Ac	Rank3	Species	Cacyreus marshalli
+BT_Cry1Ac	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Ac	Rank3	Species	Choristoneura fumiferana
+BT_Cry1Ac	Rank3	Species	Heliothis virescens
+BT_Cry1Ac	Rank3	Species	Maruca vitrata
+BT_Cry1Ac	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Ac	Rank3	Species	Epinotia aporema
+BT_Cry1Ac	Rank3	Species	Pieris brassicae
+BT_Cry1Ad	Rank3	Species	Platynota stultana
+BT_Cry1Ad	Rank3	Species	Trichoplusia ni
+BT_Cry1Ad	Rank3	Species	Pandemis pyrusana
+BT_Cry1Ad	Rank3	Species	Choristoneura occidentalis
+BT_Cry1Ad	Rank3	Species	Spodoptera exigua
+BT_Cry1Ad	Rank3	Species	Plutella xylostella
+BT_Cry1Af	Rank3	Species	Plutella xylostella
+BT_Cry1Ah	Rank3	Species	Ostrinia furnacalis
+BT_Cry1Ah	Rank3	Species	Helicoverpa armigera
+BT_Cry1Ah	Rank3	Species	Mythimna separata
+BT_Cry1Ah	Rank3	Species	Chilo suppressalis
+BT_Cry1Ah	Rank3	Species	Conogethes punctiferalis
+BT_Cry1Ah	Rank3	Species	Plutella xylostella
+BT_Cry1Ai	Rank3	Species	Ostrinia furnacalis
+BT_Cry1Ai	Rank3	Species	Chilo suppressalis
+BT_Cry1Ai	Rank3	Species	Bombyx mori
+BT_Cry1Ai	Rank3	Species	Hyphantria cunea
+BT_Cry1Ai	Rank3	Species	Plutella xylostella
+BT_Cry1Aj	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Aj	Rank3	Species	Plutella xylostella
+BT_Cry1Aj	Rank3	Species	Helicoverpa armigera
+BT_Cry1Ba	Rank3	Species	Lucilia sericata
+BT_Cry1Ba	Rank3	Species	Phthorimaea operculella
+BT_Cry1Ba	Rank3	Species	Thaumetopoea pityocampa
+BT_Cry1Ba	Rank3	Species	Diatraea saccharalis
+BT_Cry1Ba	Rank3	Species	Diaphorina citri
+BT_Cry1Ba	Rank3	Species	Chrysodeixis includens
+BT_Cry1Ba	Rank3	Species	Anthonomus grandis
+BT_Cry1Ba	Rank3	Species	Lucilia cuprina
+BT_Cry1Ba	Rank3	Species	Epiphyas postvittana
+BT_Cry1Ba	Rank3	Species	Wiseana jocosa
+BT_Cry1Ba	Rank3	Species	Musca domestica
+BT_Cry1Ba	Rank3	Species	Sesamia inferens
+BT_Cry1Ba	Rank3	Species	Perileucoptera coffeella
+BT_Cry1Ba	Rank3	Species	Wiseana cervinata
+BT_Cry1Ba	Rank3	Species	Conopomorpha cramerella
+BT_Cry1Ba	Rank3	Species	Diatraea grandiosella
+BT_Cry1Ba	Rank3	Species	Earias insulana
+BT_Cry1Ba	Rank3	Species	Wiseana copularis
+BT_Cry1Ba	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry1Ba	Rank3	Species	Pieris rapae
+BT_Cry1Ba	Rank3	Species	Chilo suppressalis
+BT_Cry1Ba	Rank3	Species	Hypothenemus hampei
+BT_Cry1Ba	Rank3	Species	Malacosoma disstria
+BT_Cry1Ba	Rank3	Species	Manduca sexta
+BT_Cry1Ba	Rank3	Species	Plutella xylostella
+BT_Cry1Ba	Rank3	Species	Cydia pomonella
+BT_Cry1Ba	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Ba	Rank3	Species	Acanthoscelides obtectus 
+BT_Cry1Ba	Rank3	Species	Cacyreus marshalli
+BT_Cry1Ba	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Ba	Rank3	Species	Choristoneura fumiferana
+BT_Cry1Ba	Rank3	Species	Xylotrechus arvicola
+BT_Cry1Ba	Rank3	Species	Chrysomela scripta
+BT_Cry1Ba	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Ba	Rank3	Species	Epinotia aporema
+BT_Cry1Ba	Rank3	Species	Pieris brassicae
+BT_Cry1Bb	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Bb	Rank3	Species	Trichoplusia ni
+BT_Cry1Bb	Rank3	Species	Lymantria dispar
+BT_Cry1Bb	Rank3	Species	Chrysodeixis includens
+BT_Cry1Bb	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Bb	Rank3	Species	Spodoptera exigua
+BT_Cry1Bb	Rank3	Species	Manduca sexta
+BT_Cry1Bb	Rank3	Species	Plutella xylostella
+BT_Cry1Bc	Rank3	Species	Chrysomya albiceps
+BT_Cry1Bc	Rank3	Species	Musca domestica
+BT_Cry1Bc	Rank3	Species	Lucilia cuprina
+BT_Cry1Bd	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Bd	Rank3	Species	Plutella xylostella
+BT_Cry1Be	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Be	Rank3	Species	Helicoverpa zea
+BT_Cry1Be	Rank3	Species	Trichoplusia ni
+BT_Cry1Be	Rank3	Species	Heliothis virescens
+BT_Cry1Be	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Be	Rank3	Species	Spodoptera exigua
+BT_Cry1Be	Rank3	Species	Plutella xylostella
+BT_Cry1Bf	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Bf	Rank3	Species	Trichoplusia ni
+BT_Cry1Bf	Rank3	Species	Ostrinia furnacalis
+BT_Cry1Bf	Rank3	Species	Sesamia nonagrioides
+BT_Cry1Bf	Rank3	Species	Heliothis virescens
+BT_Cry1Bf	Rank3	Species	Plutella xylostella
+BT_Cry1Bh	Rank3	Species	Helicoverpa zea
+BT_Cry1Bh	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Bh	Rank3	Species	Heliothis virescens
+BT_Cry1Bh	Rank3	Species	Diabrotica virgifera virgifera
+BT_Cry1Bh	Rank3	Species	Plutella xylostella
+BT_Cry1Bi	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Bi	Rank3	Species	Heliothis virescens
+BT_Cry1Bi	Rank3	Species	Diatraea grandiosella
+BT_Cry1Bj	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Bj	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Bj	Rank3	Species	Chrysodeixis includens
+BT_Cry1Ca	Rank3	Species	Orgyia leucostigma
+BT_Cry1Ca	Rank3	Species	Platynota stultana
+BT_Cry1Ca	Rank3	Species	Spodoptera littoralis
+BT_Cry1Ca	Rank3	Species	Diatraea saccharalis
+BT_Cry1Ca	Rank3	Species	Lambdina fiscellaria
+BT_Cry1Ca	Rank3	Species	Culex quinquefasciatus
+BT_Cry1Ca	Rank3	Species	Chrysodeixis includens
+BT_Cry1Ca	Rank3	Species	Eldana saccharina
+BT_Cry1Ca	Rank3	Species	Diatraea flavipennella
+BT_Cry1Ca	Rank3	Species	Spodoptera exigua
+BT_Cry1Ca	Rank3	Species	Sesamia inferens
+BT_Cry1Ca	Rank3	Species	Trichoplusia ni
+BT_Cry1Ca	Rank3	Species	Conopomorpha cramerella
+BT_Cry1Ca	Rank3	Species	Choristoneura rosaceana
+BT_Cry1Ca	Rank3	Species	Lymantria dispar
+BT_Cry1Ca	Rank3	Species	Busseola fusca
+BT_Cry1Ca	Rank3	Species	Choristoneura occidentalis
+BT_Cry1Ca	Rank3	Species	Pandemis pyrusana
+BT_Cry1Ca	Rank3	Species	Argyrotaenia citrana
+BT_Cry1Ca	Rank3	Species	Elasmopalpus lignosellus
+BT_Cry1Ca	Rank3	Species	Anopheles gambiae
+BT_Cry1Ca	Rank3	Species	Scirpophaga incertulas
+BT_Cry1Ca	Rank3	Species	Plodia interpunctella
+BT_Cry1Ca	Rank3	Species	Sesamia calamistis
+BT_Cry1Ca	Rank3	Species	Mamestra brassicae
+BT_Cry1Ca	Rank3	Species	Helicoverpa armigera
+BT_Cry1Ca	Rank3	Species	Chilo suppressalis
+BT_Cry1Ca	Rank3	Species	Malacosoma disstria
+BT_Cry1Ca	Rank3	Species	Mamestra configurata
+BT_Cry1Ca	Rank3	Species	Aedes aegypti
+BT_Cry1Ca	Rank3	Species	Grapholita molesta
+BT_Cry1Ca	Rank3	Species	Spodoptera exempta
+BT_Cry1Ca	Rank3	Species	Plutella xylostella
+BT_Cry1Ca	Rank3	Species	Cydia pomonella
+BT_Cry1Ca	Rank3	Species	Cacyreus marshalli
+BT_Cry1Ca	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Ca	Rank3	Species	Choristoneura fumiferana
+BT_Cry1Ca	Rank3	Species	Heliothis virescens
+BT_Cry1Ca	Rank3	Species	Maruca vitrata
+BT_Cry1Ca	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Ca	Rank3	Species	Bombyx mori
+BT_Cry1Ca	Rank3	Species	Epinotia aporema
+BT_Cry1Ca	Rank3	Species	Pieris brassicae
+BT_Cry1Cb	Rank3	Species	Trichoplusia ni
+BT_Cry1Cb	Rank3	Species	Myzus persicae
+BT_Cry1Cb	Rank3	Species	Conopomorpha cramerella
+BT_Cry1Cb	Rank3	Species	Spodoptera exigua
+BT_Cry1Da	Rank3	Species	Cydia pomonella
+BT_Cry1Da	Rank3	Species	Orgyia leucostigma
+BT_Cry1Da	Rank3	Species	Spodoptera littoralis
+BT_Cry1Da	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Da	Rank3	Species	Cacyreus marshalli
+BT_Cry1Da	Rank3	Species	Choristoneura fumiferana
+BT_Cry1Da	Rank3	Species	Helicoverpa armigera
+BT_Cry1Da	Rank3	Species	Conopomorpha cramerella
+BT_Cry1Da	Rank3	Species	Lambdina fiscellaria
+BT_Cry1Da	Rank3	Species	Malacosoma disstria
+BT_Cry1Da	Rank3	Species	Earias insulana
+BT_Cry1Da	Rank3	Species	Lymantria dispar
+BT_Cry1Da	Rank3	Species	Pectinophora gossypiella
+BT_Cry1Da	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Da	Rank3	Species	Bombyx mori
+BT_Cry1Da	Rank3	Species	Spodoptera exigua
+BT_Cry1Da	Rank3	Species	Spodoptera litura
+BT_Cry1Da	Rank3	Species	Sesamia inferens
+BT_Cry1Da	Rank3	Species	Manduca sexta
+BT_Cry1Db	Rank3	Species	Bombyx mori
+BT_Cry1Db	Rank3	Species	Epiphyas postvittana
+BT_Cry1Db	Rank3	Species	Spodoptera litura
+BT_Cry1Dd	Rank3	Species	Plutella xylostella
+BT_Cry1Dd	Rank3	Species	Helicoverpa armigera
+BT_Cry1Ea	Rank3	Species	Platynota stultana
+BT_Cry1Ea	Rank3	Species	Pieris brassicae
+BT_Cry1Ea	Rank3	Species	Cacyreus marshalli
+BT_Cry1Ea	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Ea	Rank3	Species	Lambdina fiscellaria
+BT_Cry1Ea	Rank3	Species	Choristoneura fumiferana
+BT_Cry1Ea	Rank3	Species	Spodoptera littoralis
+BT_Cry1Ea	Rank3	Species	Conopomorpha cramerella
+BT_Cry1Ea	Rank3	Species	Malacosoma disstria
+BT_Cry1Ea	Rank3	Species	Choristoneura rosaceana
+BT_Cry1Ea	Rank3	Species	Chrysodeixis includens
+BT_Cry1Ea	Rank3	Species	Pandemis pyrusana
+BT_Cry1Ea	Rank3	Species	Choristoneura occidentalis
+BT_Cry1Ea	Rank3	Species	Argyrotaenia citrana
+BT_Cry1Ea	Rank3	Species	Bursaphelenchus xylophilus
+BT_Cry1Ea	Rank3	Species	Bombyx mori
+BT_Cry1Ea	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Ea	Rank3	Species	Spodoptera exempta
+BT_Cry1Ea	Rank3	Species	Manduca sexta
+BT_Cry1Eb	Rank3	Species	Trichoplusia ni
+BT_Cry1Eb	Rank3	Species	Platynota stultana
+BT_Cry1Eb	Rank3	Species	Choristoneura rosaceana
+BT_Cry1Eb	Rank3	Species	Pandemis pyrusana
+BT_Cry1Eb	Rank3	Species	Argyrotaenia citrana
+BT_Cry1Eb	Rank3	Species	Spodoptera exigua
+BT_Cry1Eb	Rank3	Species	Plutella xylostella
+BT_Cry1Fa	Rank3	Species	Platynota stultana
+BT_Cry1Fa	Rank3	Species	Mythimna separata
+BT_Cry1Fa	Rank3	Species	Spodoptera littoralis
+BT_Cry1Fa	Rank3	Species	Chrysodeixis includens
+BT_Cry1Fa	Rank3	Species	Spodoptera exigua
+BT_Cry1Fa	Rank3	Species	Trichoplusia ni
+BT_Cry1Fa	Rank3	Species	Conopomorpha cramerella
+BT_Cry1Fa	Rank3	Species	Conogethes punctiferalis
+BT_Cry1Fa	Rank3	Species	Choristoneura rosaceana
+BT_Cry1Fa	Rank3	Species	Earias insulana
+BT_Cry1Fa	Rank3	Species	Lymantria dispar
+BT_Cry1Fa	Rank3	Species	Pandemis pyrusana
+BT_Cry1Fa	Rank3	Species	Choristoneura occidentalis
+BT_Cry1Fa	Rank3	Species	Argyrotaenia citrana
+BT_Cry1Fa	Rank3	Species	Helicoverpa armigera
+BT_Cry1Fa	Rank3	Species	Chilo suppressalis
+BT_Cry1Fa	Rank3	Species	Helicoverpa punctigera
+BT_Cry1Fa	Rank3	Species	Plutella xylostella
+BT_Cry1Fa	Rank3	Species	Cydia pomonella
+BT_Cry1Fa	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Fa	Rank3	Species	Cacyreus marshalli
+BT_Cry1Fa	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Fa	Rank3	Species	Choristoneura fumiferana
+BT_Cry1Fa	Rank3	Species	Heliothis virescens
+BT_Cry1Fa	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Fa	Rank3	Species	Bombyx mori
+BT_Cry1Fb	Rank3	Species	Agrotis ipsilon
+BT_Cry1Gb	Rank3	Species	Pieris rapae
+BT_Cry1Gb	Rank3	Species	Plutella xylostella
+BT_Cry1Gc	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Gc	Rank3	Species	Agrotis ipsilon
+BT_Cry1Gc	Rank3	Species	Trichoplusia ni
+BT_Cry1Gc	Rank3	Species	Plutella xylostella
+BT_Cry1Hb	Rank3	Species	Arfogeia rapae
+BT_Cry1Hc	Rank3	Species	Plutella xylostella
+BT_Cry1Hc	Rank3	Species	Helicoverpa armigera
+BT_Cry1Ia	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry1Ia	Rank3	Species	Cydia pomonella
+BT_Cry1Ia	Rank3	Species	Acanthoscelides obtectus 
+BT_Cry1Ia	Rank3	Species	Phthorimaea operculella
+BT_Cry1Ia	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Ia	Rank3	Species	Lobesia botrana
+BT_Cry1Ia	Rank3	Species	Pieris rapae
+BT_Cry1Ia	Rank3	Species	Spodoptera litura
+BT_Cry1Ia	Rank3	Species	Conopomorpha cramerella
+BT_Cry1Ia	Rank3	Species	Earias insulana
+BT_Cry1Ia	Rank3	Species	Xylotrechus arvicola
+BT_Cry1Ia	Rank3	Species	Anthonomus grandis
+BT_Cry1Ia	Rank3	Species	Caenorhabditis elegans
+BT_Cry1Ia	Rank3	Species	Bombyx mori
+BT_Cry1Ia	Rank3	Species	Epiphyas postvittana
+BT_Cry1Ia	Rank3	Species	Rachiplusia nu
+BT_Cry1Ia	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Ia	Rank3	Species	Plutella xylostella
+BT_Cry1Ib	Rank3	Species	Plutella xylostella
+BT_Cry1Ic	Rank3	Species	Diabrotica virgifera virgifera
+BT_Cry1Id	Rank3	Species	Bombyx mori
+BT_Cry1Id	Rank3	Species	Plutella xylostella
+BT_Cry1Ie	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Ie	Rank3	Species	Ostrinia furnacalis
+BT_Cry1Ie	Rank3	Species	Mythimna separata
+BT_Cry1Ie	Rank3	Species	Conogethes punctiferalis
+BT_Cry1Ie	Rank3	Species	Diatraea grandiosella
+BT_Cry1Ie	Rank3	Species	Leguminivora glycinivorella
+BT_Cry1Ie	Rank3	Species	Pectinophora gossypiella
+BT_Cry1Ie	Rank3	Species	Manduca sexta
+BT_Cry1Ie	Rank3	Species	Plutella xylostella
+BT_Cry1If	Rank3	Species	Ostrinia nubilalis
+BT_Cry1If	Rank3	Species	Helicoverpa zea
+BT_Cry1If	Rank3	Species	Trichoplusia ni
+BT_Cry1If	Rank3	Species	Heliothis virescens
+BT_Cry1If	Rank3	Species	Spodoptera frugiperda
+BT_Cry1If	Rank3	Species	Spodoptera exigua
+BT_Cry1If	Rank3	Species	Plutella xylostella
+BT_Cry1Ig	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Ig	Rank3	Species	Diatraea grandiosella
+BT_Cry1Ig	Rank3	Species	Plutella xylostella
+BT_Cry1Ja	Rank3	Species	Helicoverpa zea
+BT_Cry1Ja	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Ja	Rank3	Species	Trichoplusia ni
+BT_Cry1Ja	Rank3	Species	Pieris brassicae
+BT_Cry1Ja	Rank3	Species	Cacyreus marshalli
+BT_Cry1Ja	Rank3	Species	Helicoverpa armigera
+BT_Cry1Ja	Rank3	Species	Heliothis virescens
+BT_Cry1Ja	Rank3	Species	Chrysodeixis includens
+BT_Cry1Ja	Rank3	Species	Lymantria dispar
+BT_Cry1Ja	Rank3	Species	Pectinophora gossypiella
+BT_Cry1Ja	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Ja	Rank3	Species	Spodoptera exigua
+BT_Cry1Ja	Rank3	Species	Manduca sexta
+BT_Cry1Ja	Rank3	Species	Plutella xylostella
+BT_Cry1Jb	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Jb	Rank3	Species	Trichoplusia ni
+BT_Cry1Jb	Rank3	Species	Helicoverpa armigera
+BT_Cry1Jb	Rank3	Species	Chrysodeixis includens
+BT_Cry1Jb	Rank3	Species	Plutella xylostella
+BT_Cry1Jc	Rank3	Species	Helicoverpa zea
+BT_Cry1Jc	Rank3	Species	Agrotis ipsilon
+BT_Cry1Jc	Rank3	Species	Trichoplusia ni
+BT_Cry1Jc	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Jc	Rank3	Species	Ostrinia furnacalis
+BT_Cry1Jc	Rank3	Species	Heliothis virescens
+BT_Cry1Jc	Rank3	Species	Plutella xylostella
+BT_Cry1Jd	Rank3	Species	Heliothis virescens
+BT_Cry1La	Rank3	Species	Spodoptera exigua
+BT_Cry1La	Rank3	Species	Plutella xylostella
+BT_Cry1Na	Rank3	Species	Helicoverpa zea
+BT_Cry1Na	Rank3	Species	Agrotis ipsilon
+BT_Cry1Na	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Na	Rank3	Species	Trichoplusia ni
+BT_Cry1Na	Rank3	Species	Ostrinia furnacalis
+BT_Cry1Na	Rank3	Species	Laodelphax striatellus
+BT_Cry1Na	Rank3	Species	Heliothis virescens
+BT_Cry1Na	Rank3	Species	Spodoptera exigua
+BT_Cry1Na	Rank3	Species	Colaphellus bowringi
+BT_Cry1Na	Rank3	Species	Pectinophora gossypiella
+BT_Cry1Na	Rank3	Species	Spodoptera frugiperda
+BT_Cry1Na	Rank3	Species	Lygus lineolaris
+BT_Cry1Na	Rank3	Species	Manduca sexta
+BT_Cry1Na	Rank3	Species	Plutella xylostella
+BT_Cry1Nb	Rank3	Species	Anticarsia gemmatalis
+BT_Cry1Nb	Rank3	Species	Ostrinia nubilalis
+BT_Cry1Nb	Rank3	Species	Diatraea grandiosella
+BT_Cry1Nb	Rank3	Species	Plutella xylostella
+BT_Cry20Aa	Rank3	Species	Aedes aegypti
+BT_Cry20Aa	Rank3	Species	Culex quinquefasciatus
+BT_Cry20Ba	Rank3	Species	Plutella xylostella
+BT_Cry21Aa	Rank3	Species	Heligmosomoides polygyrus bakeri
+BT_Cry21Aa	Rank3	Species	Panagrellus redivivus
+BT_Cry21Aa	Rank3	Species	Bursaphelenchus xylophilus
+BT_Cry21Aa	Rank3	Species	Distolabrellus veechi
+BT_Cry21Aa	Rank3	Species	Nippostrongylus brasiliensis
+BT_Cry21Aa	Rank3	Species	Caenorhabditis elegans
+BT_Cry21Aa	Rank3	Species	Acrobeloides sp
+BT_Cry21Fa	Rank3	Species	Bursaphelenchus xylophilus
+BT_Cry21Fa	Rank3	Species	Caenorhabditis elegans
+BT_Cry24Ca	Rank3	Species	Aedes aegypti
+BT_Cry27Aa	Rank3	Species	Culex pipiens molestus
+BT_Cry27Aa	Rank3	Species	Aedes aegypti
+BT_Cry27Aa	Rank3	Species	Anopheles stephensi
+BT_Cry29Aa	Rank3	Species	Anopheles stephensi
+BT_Cry2Aa	Rank3	Species	Phthorimaea operculella
+BT_Cry2Aa	Rank3	Species	Tecia solanivora
+BT_Cry2Aa	Rank3	Species	Ephestia kuehniella
+BT_Cry2Aa	Rank3	Species	Mythimna separata
+BT_Cry2Aa	Rank3	Species	Culex quinquefasciatus
+BT_Cry2Aa	Rank3	Species	Chrysodeixis includens
+BT_Cry2Aa	Rank3	Species	Eldana saccharina
+BT_Cry2Aa	Rank3	Species	Pectinophora gossypiella
+BT_Cry2Aa	Rank3	Species	Anopheles quadrimaculatus
+BT_Cry2Aa	Rank3	Species	Spodoptera exigua
+BT_Cry2Aa	Rank3	Species	Spodoptera litura
+BT_Cry2Aa	Rank3	Species	Macrosiphum euphorbiae
+BT_Cry2Aa	Rank3	Species	Helicoverpa zea
+BT_Cry2Aa	Rank3	Species	Trichoplusia ni
+BT_Cry2Aa	Rank3	Species	Conogethes punctiferalis
+BT_Cry2Aa	Rank3	Species	Lymantria dispar
+BT_Cry2Aa	Rank3	Species	Busseola fusca
+BT_Cry2Aa	Rank3	Species	Elasmopalpus lignosellus
+BT_Cry2Aa	Rank3	Species	Anopheles gambiae
+BT_Cry2Aa	Rank3	Species	Scirpophaga incertulas
+BT_Cry2Aa	Rank3	Species	Plodia interpunctella
+BT_Cry2Aa	Rank3	Species	Pieris rapae
+BT_Cry2Aa	Rank3	Species	Marasmia patnalis
+BT_Cry2Aa	Rank3	Species	Sesamia calamistis
+BT_Cry2Aa	Rank3	Species	Helicoverpa armigera
+BT_Cry2Aa	Rank3	Species	Chilo suppressalis
+BT_Cry2Aa	Rank3	Species	Helicoverpa punctigera
+BT_Cry2Aa	Rank3	Species	Aedes aegypti
+BT_Cry2Aa	Rank3	Species	Earias vitella
+BT_Cry2Aa	Rank3	Species	Actebia fennica
+BT_Cry2Aa	Rank3	Species	Manduca sexta
+BT_Cry2Aa	Rank3	Species	Plutella xylostella
+BT_Cry2Aa	Rank3	Species	Lobesia botrana
+BT_Cry2Aa	Rank3	Species	Cydia pomonella
+BT_Cry2Aa	Rank3	Species	Culex pipiens
+BT_Cry2Aa	Rank3	Species	Cacyreus marshalli
+BT_Cry2Aa	Rank3	Species	Aedes triseriatus
+BT_Cry2Aa	Rank3	Species	Anticarsia gemmatalis
+BT_Cry2Aa	Rank3	Species	Heliothis virescens
+BT_Cry2Aa	Rank3	Species	Anopheles stephensi
+BT_Cry2Aa	Rank3	Species	Maruca vitrata
+BT_Cry2Aa	Rank3	Species	Spodoptera frugiperda
+BT_Cry2Aa	Rank3	Species	Bombyx mori
+BT_Cry2Ab	Rank3	Species	Diatraea saccharalis
+BT_Cry2Ab	Rank3	Species	Mythimna separata
+BT_Cry2Ab	Rank3	Species	Pectinophora gossypiella
+BT_Cry2Ab	Rank3	Species	Spodoptera exigua
+BT_Cry2Ab	Rank3	Species	Helicoverpa zea
+BT_Cry2Ab	Rank3	Species	Trichoplusia ni
+BT_Cry2Ab	Rank3	Species	Earias insulana
+BT_Cry2Ab	Rank3	Species	Lymantria dispar
+BT_Cry2Ab	Rank3	Species	Malacosoma neustria
+BT_Cry2Ab	Rank3	Species	Anopheles gambiae
+BT_Cry2Ab	Rank3	Species	Pieris rapae
+BT_Cry2Ab	Rank3	Species	Helicoverpa armigera
+BT_Cry2Ab	Rank3	Species	Chilo suppressalis
+BT_Cry2Ab	Rank3	Species	Helicoverpa punctigera
+BT_Cry2Ab	Rank3	Species	Aedes aegypti
+BT_Cry2Ab	Rank3	Species	Leguminivora glycinivorella
+BT_Cry2Ab	Rank3	Species	Rhagoletis cerasi
+BT_Cry2Ab	Rank3	Species	Manduca sexta
+BT_Cry2Ab	Rank3	Species	Lobesia botrana
+BT_Cry2Ab	Rank3	Species	Plutella xylostella
+BT_Cry2Ab	Rank3	Species	Cydia pomonella
+BT_Cry2Ab	Rank3	Species	Ostrinia nubilalis
+BT_Cry2Ab	Rank3	Species	Heliothis virescens
+BT_Cry2Ab	Rank3	Species	Spodoptera frugiperda
+BT_Cry2Ab	Rank3	Species	Pieris brassicae
+BT_Cry2Ac	Rank3	Species	Helicoverpa zea
+BT_Cry2Ac	Rank3	Species	Ostrinia nubilalis
+BT_Cry2Ac	Rank3	Species	Trichoplusia ni
+BT_Cry2Ac	Rank3	Species	Ostrinia furnacalis
+BT_Cry2Ac	Rank3	Species	Mythimna separata
+BT_Cry2Ac	Rank3	Species	Helicoverpa armigera
+BT_Cry2Ac	Rank3	Species	Helicoverpa punctigera
+BT_Cry2Ac	Rank3	Species	Heliothis virescens
+BT_Cry2Ac	Rank3	Species	Aedes aegypti
+BT_Cry2Ac	Rank3	Species	Aedes albifasciatus
+BT_Cry2Ac	Rank3	Species	Manduca sexta
+BT_Cry2Ad	Rank3	Species	Plutella xylostella
+BT_Cry2Ae	Rank3	Species	Ostrinia nubilalis
+BT_Cry2Ae	Rank3	Species	Helicoverpa zea
+BT_Cry2Ae	Rank3	Species	Trichoplusia ni
+BT_Cry2Ae	Rank3	Species	Heliothis virescens
+BT_Cry2Ae	Rank3	Species	Spodoptera frugiperda
+BT_Cry2Ae	Rank3	Species	Spodoptera exigua
+BT_Cry2Af2	Rank3	Species	Helicoverpa armigera
+BT_Cry2Ag	Rank3	Species	Pieris rapae
+BT_Cry2Ag	Rank3	Species	Aedes aegypti
+BT_Cry2Ah	Rank3	Species	Anticarsia gemmatalis
+BT_Cry2Ah	Rank3	Species	Helicoverpa zea
+BT_Cry2Ah	Rank3	Species	Heliothis virescens
+BT_Cry2Ah	Rank3	Species	Diatraea grandiosella
+BT_Cry2Ak	Rank3	Species	Ostrinia nubilalis
+BT_Cry2Ak	Rank3	Species	Helicoverpa zea
+BT_Cry2Ak	Rank3	Species	Anticarsia gemmatalis
+BT_Cry2Ak	Rank3	Species	Heliothis virescens
+BT_Cry2Ak	Rank3	Species	Spodoptera frugiperda
+BT_Cry2Al	Rank3	Species	Spodoptera litura
+BT_Cry2Al	Rank3	Species	Helicoverpa armigera
+BT_Cry2Am	Rank3	Species	Aedes aegypti
+BT_Cry2Ba	Rank3	Species	Anticarsia gemmatalis
+BT_Cry2Ba	Rank3	Species	Helicoverpa zea
+BT_Cry2Ba	Rank3	Species	Spodoptera frugiperda
+BT_Cry2Ba	Rank3	Species	Heliothis virescens
+BT_Cry30Aa	Rank3	Species	Anopheles stephensi
+BT_Cry30Fa	Rank3	Species	Aedes aegypti
+BT_Cry30Fa	Rank3	Species	Spodoptera exigua
+BT_Cry30Fa	Rank3	Species	Plutella xylostella
+BT_Cry30Fa	Rank3	Species	Helicoverpa armigera
+BT_Cry30Ga	Rank3	Species	Aedes aegypti
+BT_Cry30Ga	Rank3	Species	Plutella xylostella
+BT_Cry31Aa	Rank3	Species	Human cancer cells
+BT_Cry31Ab	Rank3	Species	Human cancer cells
+BT_Cry31Ac	Rank3	Species	Human cancer cells
+BT_Cry31Ad	Rank3	Species	Human cancer cells
+BT_Cry32Aa	Rank3	Species	Plutella xylostella
+BT_Cry32Eb	Rank3	Species	Caenorhabditis elegans
+BT_Cry32Ha	Rank3	Species	Plutella xylostella
+BT_Cry32Hb	Rank3	Species	Ostrinia nubilalis
+BT_Cry32Hb	Rank3	Species	Plutella xylostella
+BT_Cry32Sa	Rank3	Species	Plutella xylostella
+BT_Cry39Aa	Rank3	Species	Anopheles stephensi
+BT_Cry39Aa	Rank3	Species	Culex pipiens
+BT_Cry3Aa	Rank3	Species	Otiorhynchus sulcatus
+BT_Cry3Aa	Rank3	Species	Agelastica alni
+BT_Cry3Aa	Rank3	Species	Melolontha melolontha
+BT_Cry3Aa	Rank3	Species	Chrysomela tremulae
+BT_Cry3Aa	Rank3	Species	Altica tombacina
+BT_Cry3Aa	Rank3	Species	Alphitobius diaperinus
+BT_Cry3Aa	Rank3	Species	Pyrrhalta aenescens
+BT_Cry3Aa	Rank3	Species	Solenopsis invicta
+BT_Cry3Aa	Rank3	Species	Crioceris quaturdicerumpunctata
+BT_Cry3Aa	Rank3	Species	Pyrrhalta luteola
+BT_Cry3Aa	Rank3	Species	Amphimallon solstitiale
+BT_Cry3Aa	Rank3	Species	Macrosiphum euphorbiae
+BT_Cry3Aa	Rank3	Species	Callosobruchus maculatus
+BT_Cry3Aa	Rank3	Species	Cylas puncticollis
+BT_Cry3Aa	Rank3	Species	Sitophilus oryzae
+BT_Cry3Aa	Rank3	Species	Myllocerus undecimpustulatus undatus
+BT_Cry3Aa	Rank3	Species	Diabrotica balteata
+BT_Cry3Aa	Rank3	Species	Tenebrio molitor
+BT_Cry3Aa	Rank3	Species	Tribolium castaneum
+BT_Cry3Aa	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry3Aa	Rank3	Species	Cylas brunneus
+BT_Cry3Aa	Rank3	Species	Hypothenemus hampei
+BT_Cry3Aa	Rank3	Species	Colaphellus bowringi
+BT_Cry3Aa	Rank3	Species	Acyrthosiphon pisum
+BT_Cry3Aa	Rank3	Species	Apriona germari
+BT_Cry3Aa	Rank3	Species	Plagiodera versicolora
+BT_Cry3Aa	Rank3	Species	Phaedon cochleariae
+BT_Cry3Aa	Rank3	Species	Rhyzopertha dominica 
+BT_Cry3Aa	Rank3	Species	Chrysomela scripta
+BT_Cry3Aa	Rank3	Species	Phaedon brassicae
+BT_Cry3Aa	Rank3	Species	Brontispa longissima
+BT_Cry3Aa 	Rank3	Species	Callosobruchus maculatus 
+BT_Cry3Ba	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry3Ba	Rank3	Species	Cyclocephala pasadenae
+BT_Cry3Ba	Rank3	Species	Cylas brunneus
+BT_Cry3Ba	Rank3	Species	Cyclocephala borealis
+BT_Cry3Ba	Rank3	Species	Diabrotica undecimpunctata howardi
+BT_Cry3Ba	Rank3	Species	Popillia japonica
+BT_Cry3Ba	Rank3	Species	Cylas puncticollis
+BT_Cry3Ba	Rank3	Species	Chrysomela scripta
+BT_Cry3Ba	Rank3	Species	Tribolium castaneum
+BT_Cry3Bb	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry3Bb	Rank3	Species	Cylas brunneus
+BT_Cry3Bb	Rank3	Species	Diabrotica undecimpunctata howardi
+BT_Cry3Bb	Rank3	Species	Alphitobius diaperinus
+BT_Cry3Bb	Rank3	Species	Cylas puncticollis
+BT_Cry3Bb	Rank3	Species	Diabrotica virgifera virgifera
+BT_Cry3Bb 	Rank3	Species	Diabrotica undecimpunctata howardi
+BT_Cry3Ca	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry3Ca	Rank3	Species	Cylas puncticollis
+BT_Cry3Ca	Rank3	Species	Cylas brunneus
+BT_Cry40Da	Rank3	Species	Culex quinquefasciatus
+BT_Cry41Aa	Rank3	Species	Human cancer cells
+BT_Cry41Ab	Rank3	Species	Myzus persicae
+BT_Cry41Ab	Rank3	Species	Human cancer cells
+BT_Cry42Aa	Rank3	Species	Human cancer cells
+BT_Cry43Aa	Rank3	Species	Anomala cuprea
+BT_Cry43Ba	Rank3	Species	Anomala cuprea
+BT_Cry43Ca	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry43Ca	Rank3	Species	Plutella xylostella
+BT_Cry43Cb	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry43Cb	Rank3	Species	Ostrinia nubilalis
+BT_Cry43Cb	Rank3	Species	Plutella xylostella
+BT_Cry44Aa	Rank3	Species	Aedes aegypti
+BT_Cry44Aa	Rank3	Species	Culex pipiens
+BT_Cry44Aa	Rank3	Species	Culex pipiens pallens
+BT_Cry44Aa	Rank3	Species	Anopheles stephensi
+BT_Cry47Aa	Rank3	Species	Lucilia cuprina
+BT_Cry48Aa	Rank3	Species	Culex quinquefasciatus
+BT_Cry4Aa	Rank3	Species	Culex pipiens
+BT_Cry4Aa	Rank3	Species	Acyrthosiphon pisum
+BT_Cry4Aa	Rank3	Species	Culex quinquefasciatus
+BT_Cry4Aa	Rank3	Species	Aedes aegypti
+BT_Cry4Aa	Rank3	Species	Anopheles dirus
+BT_Cry4Aa	Rank3	Species	Anopheles stephensi
+BT_Cry4Aa	Rank3	Species	Anopheles gambiae
+BT_Cry4Aa	Rank3	Species	Simulium spp.
+BT_Cry4Ba	Rank3	Species	Culex pipiens
+BT_Cry4Ba	Rank3	Species	Tipula oleracea
+BT_Cry4Ba	Rank3	Species	Chironomus tepperi
+BT_Cry4Ba	Rank3	Species	Culex quinquefasciatus
+BT_Cry4Ba	Rank3	Species	Aedes aegypti
+BT_Cry4Ba	Rank3	Species	Anopheles stephensi
+BT_Cry4Ba	Rank3	Species	Anopheles albimanus
+BT_Cry4Ba	Rank3	Species	Anopheles quadrimaculatus
+BT_Cry4Ba	Rank3	Species	Anopheles gambiae
+BT_Cry4Ba	Rank3	Species	Simulium spp.
+BT_Cry4Cb	Rank3	Species	Culex quinquefasciatus
+BT_Cry4Cb	Rank3	Species	Aedes aegypti
+BT_Cry4Cb	Rank3	Species	Spodoptera exigua
+BT_Cry4Cb	Rank3	Species	Helicoverpa armigera
+BT_Cry4Cc	Rank3	Species	Aedes aegypti
+BT_Cry4Cc	Rank3	Species	Spodoptera exigua
+BT_Cry4Cc	Rank3	Species	Helicoverpa armigera
+BT_Cry50Ba	Rank3	Species	Culex quinquefasciatus
+BT_Cry52Ba	Rank3	Species	Aedes aegypti
+BT_Cry52Ca	Rank3	Species	Helicoverpa armigera
+BT_Cry53Ab	Rank3	Species	Aedes aegypti
+BT_Cry53Ab	Rank3	Species	Spodoptera exigua
+BT_Cry53Ab	Rank3	Species	Helicoverpa armigera
+BT_Cry54Aa	Rank3	Species	Pieris rapae
+BT_Cry54Aa	Rank3	Species	Culex pipiens
+BT_Cry54Aa	Rank3	Species	Helicoverpa armigera
+BT_Cry54Aa	Rank3	Species	Aedes aegypti
+BT_Cry54Aa	Rank3	Species	Spodoptera exigua
+BT_Cry54Ab	Rank3	Species	Culex pipiens
+BT_Cry55Aa	Rank3	Species	Meloidogyne hapla
+BT_Cry55Aa	Rank3	Species	Meloidogyne incognita
+BT_Cry56Aa	Rank3	Species	Aedes aegypti
+BT_Cry56Aa	Rank3	Species	Plutella xylostella
+BT_Cry56Aa	Rank3	Species	Helicoverpa armigera
+BT_Cry57Ab	Rank3	Species	Ostrinia furnacalis
+BT_Cry57Ab	Rank3	Species	Plutella xylostella
+BT_Cry59Ba	Rank3	Species	Aedes aegypti
+BT_Cry59Ba	Rank3	Species	Spodoptera exigua
+BT_Cry5Ac	Rank3	Species	Diprion pini
+BT_Cry5Ba	Rank3	Species	Heligmosomoides polygyrus bakeri
+BT_Cry5Ba	Rank3	Species	Meloidogyne hapla
+BT_Cry5Ba	Rank3	Species	Panagrellus redivivus
+BT_Cry5Ba	Rank3	Species	Parascaris spp.
+BT_Cry5Ba	Rank3	Species	Bursaphelenchus xylophilus
+BT_Cry5Ba	Rank3	Species	Acrobeloides sp
+BT_Cry5Ba	Rank3	Species	Necator americanus
+BT_Cry5Ba	Rank3	Species	Pristionchus pacificus
+BT_Cry5Ba	Rank3	Species	Ascaris suum
+BT_Cry5Ba	Rank3	Species	Haemonchus contortus
+BT_Cry5Ba	Rank3	Species	Distolabrellus veechi
+BT_Cry5Ba	Rank3	Species	Nippostrongylus brasiliensis
+BT_Cry5Ba	Rank3	Species	Caenorhabditis elegans
+BT_Cry5Ba	Rank3	Species	Ancylostoma ceylanicum
+BT_Cry5Ba	Rank3	Species	Meloidogyne incognita
+BT_Cry5Ca	Rank3	Species	Caenorhabditis elegans
+BT_Cry5Ca	Rank3	Species	Meloidogyne incognita
+BT_Cry5Da	Rank3	Species	Caenorhabditis elegans
+BT_Cry5Da	Rank3	Species	Meloidogyne incognita
+BT_Cry62Aa	Rank3	Species	Human cancer cells
+BT_Cry63Aa	Rank3	Species	Human cancer cells
+BT_Cry65Aa	Rank3	Species	Human cancer cells
+BT_Cry68Aa	Rank3	Species	Spodoptera exigua
+BT_Cry68Aa	Rank3	Species	Helicoverpa armigera
+BT_Cry69Aa	Rank3	Species	Aedes aegypti
+BT_Cry69Aa	Rank3	Species	Spodoptera exigua
+BT_Cry69Aa	Rank3	Species	Helicoverpa armigera
+BT_Cry69Aa	Rank3	Species	Culex quinquefasciatus
+BT_Cry70Aa	Rank3	Species	Aedes aegypti
+BT_Cry70Ba	Rank3	Species	Aedes aegypti
+BT_Cry71Aa	Rank3	Species	Spodoptera exigua
+BT_Cry72Aa	Rank3	Species	Spodoptera exigua
+BT_Cry73Ba	Rank3	Species	Myzus persicae
+BT_Cry7Aa	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry7Aa	Rank3	Species	Cylas puncticollis
+BT_Cry7Aa	Rank3	Species	Cylas brunneus
+BT_Cry7Ab	Rank3	Species	Acanthoscelides obtectus 
+BT_Cry7Ab	Rank3	Species	Colaphellus bowringi
+BT_Cry7Ab	Rank3	Species	Xylotrechus arvicola
+BT_Cry7Ab	Rank3	Species	Holotrichia parallela
+BT_Cry7Ab	Rank3	Species	Henosepilachna vigintioctomaculata
+BT_Cry7Ba	Rank3	Species	Plutella xylostella
+BT_Cry7Ca	Rank3	Species	Locusta migratoria manilensis
+BT_Cry7Ca	Rank3	Species	Locusta migratoria
+BT_Cry7Gb	Rank3	Species	Diabrotica virgifera virgifera
+BT_Cry7Gb	Rank3	Species	Diabrotica undecimpunctata howardi
+BT_Cry8Aa	Rank3	Species	Cotinis spp.
+BT_Cry8Aa	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry8Ab	Rank3	Species	Holotrichia parallela
+BT_Cry8Ab	Rank3	Species	Holotrichia oblita
+BT_Cry8Ba	Rank3	Species	Cyclocephala pasadenae
+BT_Cry8Ba	Rank3	Species	Cyclocephala borealis
+BT_Cry8Ba	Rank3	Species	Popillia japonica
+BT_Cry8Ba	Rank3	Species	Diabrotica virgifera virgifera
+BT_Cry8Ba	Rank3	Species	Cotinis spp.
+BT_Cry8Bb	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry8Bb	Rank3	Species	Diabrotica virgifera virgifera
+BT_Cry8Bb	Rank3	Species	Diabrotica undecimpunctata howardi
+BT_Cry8Bc	Rank3	Species	Leptinotarsa decemlineata
+BT_Cry8Bc	Rank3	Species	Diabrotica virgifera virgifera
+BT_Cry8Bc	Rank3	Species	Diabrotica undecimpunctata howardi
+BT_Cry8Ca	Rank3	Species	Holotrichia oblita
+BT_Cry8Ca	Rank3	Species	Popillia japonica
+BT_Cry8Ca	Rank3	Species	Anomala cuprea
+BT_Cry8Ca	Rank3	Species	Anomala corpulenta
+BT_Cry8Ca	Rank3	Species	Alphitobius diaperinus
+BT_Cry8Ca	Rank3	Species	Anomala exoleta
+BT_Cry8Ca	Rank3	Species	Holotrichia parallela
+BT_Cry8Da	Rank3	Species	Popillia japonica
+BT_Cry8Da	Rank3	Species	Anomala cuprea
+BT_Cry8Da	Rank3	Species	Agelastica coerulea
+BT_Cry8Da	Rank3	Species	Anomala orientalis
+BT_Cry8Da	Rank3	Species	Plutella xylostella
+BT_Cry8Db	Rank3	Species	Pentodon idiota
+BT_Cry8Db	Rank3	Species	Agelastica coerulea
+BT_Cry8Db	Rank3	Species	Popillia japonica
+BT_Cry8Ea	Rank3	Species	Popillia flavosellata
+BT_Cry8Ea	Rank3	Species	Holotrichia oblita
+BT_Cry8Ea	Rank3	Species	Anomala corpulenta
+BT_Cry8Ea	Rank3	Species	Plagiodera versicolora
+BT_Cry8Ea	Rank3	Species	Holotrichia parallela
+BT_Cry8Ga	Rank3	Species	Holotrichia parallela
+BT_Cry8Ga	Rank3	Species	Anomala corpulenta
+BT_Cry8Ga	Rank3	Species	Holotrichia oblita
+BT_Cry8Ha	Rank3	Species	Colaphellus bowringi
+BT_Cry8Ha	Rank3	Species	Holotrichia parallela
+BT_Cry8Ha	Rank3	Species	Holotrichia oblita
+BT_Cry8Ha	Rank3	Species	Anoplophora glabripennis
+BT_Cry8Hb	Rank3	Species	Diabrotica virgifera virgifera
+BT_Cry8Ia	Rank3	Species	Holotrichia parallela
+BT_Cry8Ka	Rank3	Species	Anthonomus grandis
+BT_Cry8Kb	Rank3	Species	Holotrichia parallela
+BT_Cry8Na	Rank3	Species	Holotrichia parallela
+BT_Cry8Pa	Rank3	Species	Holotrichia oblita
+BT_Cry8Pa	Rank3	Species	Anthonomus grandis
+BT_Cry8Qa	Rank3	Species	Anticarsia gemmatalis
+BT_Cry8Qa	Rank3	Species	Anthonomus grandis
+BT_Cry8Sa	Rank3	Species	Holotrichia serrata
+BT_Cry9Aa	Rank3	Species	Helicoverpa zea
+BT_Cry9Aa	Rank3	Species	Ostrinia nubilalis
+BT_Cry9Aa	Rank3	Species	Phthorimaea operculella
+BT_Cry9Aa	Rank3	Species	Trichoplusia ni
+BT_Cry9Aa	Rank3	Species	Ostrinia furnacalis
+BT_Cry9Aa	Rank3	Species	Helicoverpa armigera
+BT_Cry9Aa	Rank3	Species	Chilo suppressalis
+BT_Cry9Aa	Rank3	Species	Helicoverpa punctigera
+BT_Cry9Aa	Rank3	Species	Ctenopsuestis obliquana
+BT_Cry9Aa	Rank3	Species	Heliothis virescens
+BT_Cry9Aa	Rank3	Species	Planotortrix octo
+BT_Cry9Aa	Rank3	Species	Epiphyas postvittana
+BT_Cry9Aa	Rank3	Species	Galleria mellonella
+BT_Cry9Aa	Rank3	Species	Plutella xylostella
+BT_Cry9Bb	Rank3	Species	Spodoptera frugiperda
+BT_Cry9Bb	Rank3	Species	Anticarsia gemmatalis
+BT_Cry9Bb	Rank3	Species	Manduca sexta
+BT_Cry9Ca	Rank3	Species	Ostrinia nubilalis
+BT_Cry9Ca	Rank3	Species	Agrotis ipsilon
+BT_Cry9Ca	Rank3	Species	Agrotis segetum
+BT_Cry9Ca	Rank3	Species	Trichoplusia ni
+BT_Cry9Ca	Rank3	Species	Lobesia botrana
+BT_Cry9Ca	Rank3	Species	Mamestra brassicae
+BT_Cry9Ca	Rank3	Species	Spodoptera littoralis
+BT_Cry9Ca	Rank3	Species	Cacyreus marshalli
+BT_Cry9Ca	Rank3	Species	Choristoneura fumiferana
+BT_Cry9Ca	Rank3	Species	Helicoverpa armigera
+BT_Cry9Ca	Rank3	Species	Chilo suppressalis
+BT_Cry9Ca	Rank3	Species	Heliothis virescens
+BT_Cry9Ca	Rank3	Species	Earias insulana
+BT_Cry9Ca	Rank3	Species	Danaus plexippus
+BT_Cry9Ca	Rank3	Species	Pectinophora gossypiella
+BT_Cry9Ca	Rank3	Species	Bombyx mori
+BT_Cry9Ca	Rank3	Species	Spodoptera exigua
+BT_Cry9Ca	Rank3	Species	Epinotia aporema
+BT_Cry9Ca	Rank3	Species	Manduca sexta
+BT_Cry9Ca	Rank3	Species	Plutella xylostella
+BT_Cry9Cb	Rank3	Species	Agrotis ipsilon
+BT_Cry9Cb	Rank3	Species	Ostrinia furnacalis
+BT_Cry9Cb	Rank3	Species	Mythimna separata
+BT_Cry9Cb	Rank3	Species	Chilo suppressalis
+BT_Cry9Cb	Rank3	Species	Plutella xylostella
+BT_Cry9Da	Rank3	Species	Bombyx mori
+BT_Cry9Da	Rank3	Species	Anomala cuprea
+BT_Cry9Da	Rank3	Species	Plutella xylostella
+BT_Cry9Db	Rank3	Species	Ostrinia nubilalis
+BT_Cry9Ea	Rank3	Species	Cydia pomonella
+BT_Cry9Ea	Rank3	Species	Hyphantria cunea
+BT_Cry9Eb	Rank3	Species	Ostrinia nubilalis
+BT_Cry9Eb	Rank3	Species	Heliothis virescens
+BT_Cry9Eb	Rank3	Species	Ostrinia furnacalis
+BT_Cry9Eb	Rank3	Species	Plutella xylostella
+BT_Cry9Ec	Rank3	Species	Bombyx mori
+BT_Cry9Ec	Rank3	Species	Ostrinia nubilalis
+BT_Cry9Ec	Rank3	Species	Plutella xylostella
+BT_Cry9Ed	Rank3	Species	Ostrinia nubilalis
+BT_Cry9Ee	Rank3	Species	Ostrinia nubilalis
+BT_Cry9Ee	Rank3	Species	Ostrinia furnacalis
+BT_Cry9Ee	Rank3	Species	Plutella xylostella
+BT_Cry9Ga	Rank3	Species	Anticarsia gemmatalis
+BT_Cry9Ga	Rank3	Species	Diatraea grandiosella
+BT_Cry9Ga	Rank3	Species	Plutella xylostella
+BT_CryAb	Rank3	Species	Helicoverpa armigera
+BT_Cy1Hc	Rank3	Species	Ostrinia furnacalis
+BT_Cy1Hc	Rank3	Species	Plutella xylostella
+BT_Cry16Aa	Rank3	Species	Aedes aegypti
+BT_Cry16Aa	Rank3	Species	Culex pipiens
+BT_Cry16Aa	Rank3	Species	Anopheles stephensi
+BT_Cry1Ae	Rank3	Species	Trichoplusia ni
+BT_Cry1Ae	Rank3	Species	Heliothis virescens
+BT_Cry1Ka	Rank3	Species	Pieris rapae
+BT_Cry2Af	Rank3	Species	Helicoverpa armigera
+BT_Cry32Ba	Rank3	Species	Aedes aegypti
+BT_Cry32Ca	Rank3	Species	Aedes aegypti
+BT_Cry32Da	Rank3	Species	Aedes aegypti
+BT_Cry5Aa	Rank3	Species	Fasciola hepatica
+BT_Cry5Aa	Rank3	Species	Panagrellus redivivus
+BT_Cry5Aa	Rank3	Species	Pratylenchus spp. 
+BT_Cry5Aa	Rank3	Species	Pristionchus pacificus
+BT_Cry5Aa	Rank3	Species	Distolabrellus veechi
+BT_Cry5Aa	Rank3	Species	Caenorhabditis elegans
+BT_Cry5Aa	Rank3	Species	Acrobeloides sp
+BT_Cry5Ab	Rank3	Species	Caenorhabditis elegans
+BT_Cry5Ab	Rank3	Species	Pratylenchus spp. 
+BT_Cry5Ab	Rank3	Species	Fasciola hepatica
+BT_Cry8Fa	Rank3	Species	Holotrichia parallela
+BT_Cry8Fa	Rank3	Species	Holotrichia oblita
+147	Strains	Orders	Lepidoptera
+147	Strains	Orders	Diptera
+163-131	Strains	Orders	Diptera
+2173	Strains	Orders	Diptera
+47-6B	Strains	Orders	Diptera
+4M1	Strains	Orders	Diptera
+92-KU-149-8	Strains	Orders	Lepidoptera
+96-OK-85-24	Strains	Orders	Diptera
+AM65-52	Strains	Orders	Diptera
+ATCC 14706	Strains	Orders	Coleoptera
+BGSC 4A4	Strains	Orders	Nematoda
+BGSC 4AA1	Strains	Orders	Coleoptera
+BGSC 4AW1	Strains	Orders	Diptera
+BGSC 4AX1	Strains	Orders	Diptera
+BGSC 4C1	Strains	Orders	Lepidoptera
+BGSC 4K1	Strains	Orders	Coleoptera
+BGSC 4L3	Strains	Orders	Diptera
+BGSC 4N1	Strains	Orders	Coleoptera
+BGSC 4O1	Strains	Orders	Diptera
+BGSC 4Q1	Strains	Orders	Nematoda
+BGSC 4Q1	Strains	Orders	Diptera
+BGSC 4U1	Strains	Orders	Diptera
+BLB1	Strains	Orders	Lepidoptera
+BM59-2	Strains	Orders	Diptera
+BNS3	Strains	Orders	Lepidoptera
+BNS3	Strains	Orders	Diptera
+B-Pr-88	Strains	Orders	Lepidoptera
+BRC-XQ12	Strains	Orders	Nematoda
+Bt18247	Strains	Orders	Nematoda
+Bt185	Strains	Orders	Coleoptera
+BT62	Strains	Orders	Coleoptera
+BTS01099E	Strains	Orders	Lepidoptera
+BtS02072BG	Strains	Orders	Lepidoptera
+BtS02739C	Strains	Orders	Lepidoptera
+BTS02761A	Strains	Orders	Lepidoptera
+btsu4	Strains	Orders	Coleoptera
+Buibui	Strains	Orders	Coleoptera
+Bun1-14	Strains	Orders	Diptera
+BUPM109	Strains	Orders	Diptera
+C15	Strains	Orders	Nematoda
+C18	Strains	Orders	Lepidoptera
+C18	Strains	Orders	Coleoptera
+C18	Strains	Orders	Nematoda
+C18	Strains	Orders	Diptera
+C-33	Strains	Orders	Lepidoptera
+CIB 163-131	Strains	Orders	Diptera
+CT-43	Strains	Orders	Lepidoptera
+DAB-Bt1	Strains	Orders	Diptera
+DAB-Bt2	Strains	Orders	Diptera
+DAB-Bt3	Strains	Orders	Diptera
+DAB-Bt4	Strains	Orders	Diptera
+DAB-Bt5	Strains	Orders	Diptera
+DAB-Bt6	Strains	Orders	Diptera
+DB27	Strains	Orders	Nematoda
+DP1019	Strains	Orders	Lepidoptera
+FCC41	Strains	Orders	Diptera
+G25-128	Strains	Orders	Nematoda
+G25-18	Strains	Orders	Nematoda
+G25-3	Strains	Orders	Nematoda
+G25-41	Strains	Orders	Nematoda
+G25-42	Strains	Orders	Nematoda
+G25-43	Strains	Orders	Nematoda
+G25-44	Strains	Orders	Nematoda
+G25-46	Strains	Orders	Nematoda
+G25-47	Strains	Orders	Nematoda
+G25-50	Strains	Orders	Nematoda
+G25-6	Strains	Orders	Nematoda
+G25-76	Strains	Orders	Nematoda
+G25-78	Strains	Orders	Nematoda
+G25-7	Strains	Orders	Nematoda
+G25-85	Strains	Orders	Nematoda
+G25-87	Strains	Orders	Nematoda
+G25-91	Strains	Orders	Nematoda
+G25-93	Strains	Orders	Nematoda
+G25-96	Strains	Orders	Nematoda
+G25-97	Strains	Orders	Nematoda
+GM33	Strains	Orders	Lepidoptera
+GR007	Strains	Orders	Lepidoptera
+H1	Strains	Orders	Coleoptera
+HD-110	Strains	Orders	Lepidoptera
+HD-110	Strains	Orders	Coleoptera
+HD12	Strains	Orders	Lepidoptera
+HD-1	Strains	Orders	Lepidoptera
+HD29	Strains	Orders	Lepidoptera
+HD29	Strains	Orders	Coleoptera
+HD-2	Strains	Orders	Lepidoptera
+HD-2	Strains	Orders	Coleoptera
+HD-2	Strains	Orders	Diptera
+HD37	Strains	Orders	Lepidoptera
+HD521	Strains	Orders	Coleoptera
+HD5	Strains	Orders	Lepidoptera
+HD-68	Strains	Orders	Lepidoptera
+HD73	Strains	Orders	Lepidoptera
+HD867	Strains	Orders	Diptera
+higo	Strains	Orders	Diptera
+HS18-1	Strains	Orders	Lepidoptera
+HS18-1	Strains	Orders	Coleoptera
+HS18-1	Strains	Orders	Diptera
+HYW-8	Strains	Orders	Lepidoptera
+IAB59	Strains	Orders	Diptera
+INA288	Strains	Orders	Diptera
+INTA Fr7-4	Strains	Orders	Coleoptera
+INTA H4-3	Strains	Orders	Coleoptera
+INTA Mo1-12	Strains	Orders	Coleoptera
+INTA TA24-6	Strains	Orders	Coleoptera
+IPPBIOTSUC-C9F1	Strains	Orders	Hemiptera
+JC291	Strains	Orders	Lepidoptera
+jegathesan 367	Strains	Orders	Diptera
+JF21-1	Strains	Orders	Lepidoptera
+JW-1	Strains	Orders	Diptera
+KBAB4	Strains	Orders	Lepidoptera
+L366	Strains	Orders	Nematoda
+LBIT-107	Strains	Orders	Nematoda
+LBIT-418	Strains	Orders	Lepidoptera
+Lip	Strains	Orders	Lepidoptera
+LP1-G	Strains	Orders	Diptera
+LP1G	Strains	Orders	Diptera
+MC28	Strains	Orders	Lepidoptera
+MC28	Strains	Orders	Diptera
+MEB4	Strains	Orders	Lepidoptera
+mogi K4	Strains	Orders	Diptera
+MYBT18246	Strains	Orders	Nematoda
+N141	Strains	Orders	Coleoptera
+NA205-3	Strains	Orders	Lepidoptera
+NBIN-866	Strains	Orders	Nematoda
+NHA15b	Strains	Orders	Diptera
+NT0423	Strains	Orders	Lepidoptera
+PS158C2	Strains	Orders	Lepidoptera
+PS17	Strains	Orders	Nematoda
+PS63B	Strains	Orders	Nematoda
+PS80JJ1	Strains	Orders	Coleoptera
+PS81F	Strains	Orders	Protists
+PS81I	Strains	Orders	Lepidoptera
+PS86Q3	Strains	Orders	Hymenoptera
+QZL38	Strains	Orders	Coleoptera
+R36	Strains	Orders	Coleoptera
+S2096-2	Strains	Orders	Nematoda
+S2160-1	Strains	Orders	Diptera
+S2480-1	Strains	Orders	Lepidoptera
+S2480-1	Strains	Orders	Diptera
+S725	Strains	Orders	Lepidoptera
+Sbt003	Strains	Orders	Human
+Sbt003	Strains	Orders	Nematoda
+SCG04-02	Strains	Orders	Lepidoptera
+SP41	Strains	Orders	Lepidoptera
+SSy111-c	Strains	Orders	Lepidoptera
+SSy125-c	Strains	Orders	Lepidoptera
+SSy126-c	Strains	Orders	Lepidoptera
+SSy141-c	Strains	Orders	Lepidoptera
+SSy60-b	Strains	Orders	Lepidoptera
+SSy77	Strains	Orders	Lepidoptera
+ST8	Strains	Orders	Coleoptera
+SY49-1	Strains	Orders	Lepidoptera
+SY49-1	Strains	Orders	Coleoptera
+SY49-1	Strains	Orders	Diptera
+T0131	Strains	Orders	Diptera
+T0137	Strains	Orders	Diptera
+T0139	Strains	Orders	Diptera
+x023	Strains	Orders	Lepidoptera
+X023PN	Strains	Orders	Lepidoptera
+YBT-020	Strains	Orders	Nematoda
+YBT-032	Strains	Orders	Nematoda
+YBT-1518	Strains	Orders	Nematoda
+YBT-1520	Strains	Orders	Lepidoptera
+YC-10	Strains	Orders	Nematoda
+147	Strains	Species	Spodoptera frugiperda
+147	Strains	Species	Aedes aegypti
+163-131	Strains	Species	Aedes aegypti
+163-131	Strains	Species	Culex pipiens
+163-131	Strains	Species	Anopheles stephensi
+2173	Strains	Species	Culex quinquefasciatus
+47-6B	Strains	Species	Culex quinquefasciatus
+4M1	Strains	Species	Stomoxys calcitrans
+4M1	Strains	Species	Haematobia irritans
+92-KU-149-8	Strains	Species	Bombyx mori
+96-OK-85-24	Strains	Species	Aedes aegypti
+96-OK-85-24	Strains	Species	Anopheles stephensi
+AM65-52	Strains	Species	Aedes albopictus
+AM65-52	Strains	Species	Culex pipiens
+AM65-52	Strains	Species	Anopheles gambiae
+ATCC 14706	Strains	Species	Popillia japonica
+BGSC 4A4	Strains	Species	Caenorhabditis elegans
+BGSC 4A4	Strains	Species	Pristionchus pacificus
+BGSC 4AA1	Strains	Species	Leptinotarsa decemlineata
+BGSC 4AA1	Strains	Species	Agelastica alni
+BGSC 4AW1	Strains	Species	Haematobia irritans
+BGSC 4AX1	Strains	Species	Haematobia irritans
+BGSC 4C1	Strains	Species	Anisota senatoria
+BGSC 4C1	Strains	Species	Trichoplusia ni
+BGSC 4C1	Strains	Species	Heliothis virescens
+BGSC 4C1	Strains	Species	Plutella xylostella
+BGSC 4K1	Strains	Species	Anthonomus grandis
+BGSC 4L3	Strains	Species	Stomoxys calcitrans
+BGSC 4L3	Strains	Species	Haematobia irritans
+BGSC 4N1	Strains	Species	Anthonomus grandis
+BGSC 4O1	Strains	Species	Stomoxys calcitrans
+BGSC 4O1	Strains	Species	Haematobia irritans
+BGSC 4Q1	Strains	Species	Haematobia irritans
+BGSC 4Q1	Strains	Species	Pristionchus pacificus
+BGSC 4U1	Strains	Species	Lycoriella auripila
+BLB1	Strains	Species	Ephestia kuehniella
+BM59-2	Strains	Species	Aedes aegypti
+BNS3	Strains	Species	Ostrinia nubilalis
+BNS3	Strains	Species	Ephestia kuehniella
+BNS3	Strains	Species	Drosophila melanogaster
+BNS3	Strains	Species	Spodoptera exigua
+BNS3	Strains	Species	Prays oleae
+B-Pr-88	Strains	Species	Unknown
+BRC-XQ12	Strains	Species	Bursaphelenchus xylophilus
+Bt18247	Strains	Species	Caenorhabditis elegans
+Bt185	Strains	Species	Holotrichia parallela
+BT62	Strains	Species	Holotrichia serrata
+BTS01099E	Strains	Species	Ostrinia nubilalis
+BTS01099E	Strains	Species	Helicoverpa zea
+BTS01099E	Strains	Species	Heliothis virescens
+BtS02072BG	Strains	Species	Ostrinia nubilalis
+BtS02072BG	Strains	Species	Helicoverpa zea
+BtS02072BG	Strains	Species	Heliothis virescens
+BtS02072BG	Strains	Species	Sesamia nonagrioides
+BtS02739C	Strains	Species	Ostrinia nubilalis
+BtS02739C	Strains	Species	Helicoverpa zea
+BtS02739C	Strains	Species	Heliothis virescens
+BTS02761A	Strains	Species	Ostrinia nubilalis
+BTS02761A	Strains	Species	Helicoverpa zea
+BTS02761A	Strains	Species	Heliothis virescens
+BTS02761A	Strains	Species	Sesamia nonagrioides
+btsu4	Strains	Species	Colaphellus bowringi
+btsu4	Strains	Species	Holotrichia parallela
+btsu4	Strains	Species	Holotrichia oblita
+btsu4	Strains	Species	Anoplophora glabripennis
+Buibui	Strains	Species	Anomala orientalis
+Buibui	Strains	Species	Cyclocephala borealis
+Bun1-14	Strains	Species	Anopheles stephensi
+BUPM109	Strains	Species	Aedes aegypti
+C15	Strains	Species	Caenorhabditis elegans
+C18	Strains	Species	Samia ricini
+C18	Strains	Species	Leptinotarsa decemlineata
+C18	Strains	Species	Agrotis ipsilon
+C18	Strains	Species	Culex pipiens
+C18	Strains	Species	Diabrotica undecimpunctata howardi
+C18	Strains	Species	Spodoptera littoralis
+C18	Strains	Species	Aedes triseriatus
+C18	Strains	Species	Aedes aegypti
+C18	Strains	Species	Diabrotica virgifera virgifera
+C18	Strains	Species	Sesamia cretica
+C18	Strains	Species	Pectinophora gossypiella
+C18	Strains	Species	Culicoides variipennis
+C18	Strains	Species	Aedes albopictus
+C18	Strains	Species	Manduca sexta
+C18	Strains	Species	Meloidogyne incognita
+C-33	Strains	Species	Cydia pomonella
+CIB 163-131	Strains	Species	Aedes aegypti
+CIB 163-131	Strains	Species	Culex quinquefasciatus
+CT-43	Strains	Species	Plutella xylostella
+DAB-Bt1	Strains	Species	Anopheles stephensi
+DAB-Bt2	Strains	Species	Anopheles stephensi
+DAB-Bt3	Strains	Species	Anopheles stephensi
+DAB-Bt4	Strains	Species	Anopheles stephensi
+DAB-Bt5	Strains	Species	Anopheles stephensi
+DAB-Bt6	Strains	Species	Anopheles stephensi
+DB27	Strains	Species	Caenorhabditis elegans
+DP1019	Strains	Species	Ostrinia nubilalis
+FCC41	Strains	Species	Culex pipiens
+FCC41	Strains	Species	Culex quinquefasciatus
+FCC41	Strains	Species	Aedes aegypti
+FCC41	Strains	Species	Culex apicinus
+FCC41	Strains	Species	Aedes albifasciatus
+G25-128	Strains	Species	Caenorhabditis elegans
+G25-18	Strains	Species	Caenorhabditis elegans
+G25-3	Strains	Species	Caenorhabditis elegans
+G25-41	Strains	Species	Caenorhabditis elegans
+G25-42	Strains	Species	Caenorhabditis elegans
+G25-43	Strains	Species	Caenorhabditis elegans
+G25-44	Strains	Species	Caenorhabditis elegans
+G25-46	Strains	Species	Caenorhabditis elegans
+G25-47	Strains	Species	Caenorhabditis elegans
+G25-50	Strains	Species	Caenorhabditis elegans
+G25-6	Strains	Species	Caenorhabditis elegans
+G25-76	Strains	Species	Caenorhabditis elegans
+G25-78	Strains	Species	Caenorhabditis elegans
+G25-7	Strains	Species	Caenorhabditis elegans
+G25-85	Strains	Species	Caenorhabditis elegans
+G25-87	Strains	Species	Caenorhabditis elegans
+G25-91	Strains	Species	Caenorhabditis elegans
+G25-93	Strains	Species	Caenorhabditis elegans
+G25-96	Strains	Species	Caenorhabditis elegans
+G25-97	Strains	Species	Caenorhabditis elegans
+GM33	Strains	Species	Trichoplusia ni
+GM33	Strains	Species	Heliothis virescens
+GR007	Strains	Species	Spodoptera frugiperda
+GR007	Strains	Species	Manduca sexta
+H1	Strains	Species	Melolontha melolontha 
+HD-110	Strains	Species	Pieris brassicae
+HD-110	Strains	Species	Mamestra brassicae
+HD-110	Strains	Species	Spodoptera littoralis
+HD-110	Strains	Species	Heliothis virescens
+HD-110	Strains	Species	Anthonomus grandis
+HD-110	Strains	Species	Manduca sexta
+HD12	Strains	Species	Plutella xylostella
+HD-1	Strains	Species	Pieris brassicae
+HD-1	Strains	Species	Mamestra brassicae
+HD-1	Strains	Species	Helicoverpa armigera
+HD-1	Strains	Species	Heliothis virescens
+HD-1	Strains	Species	Spodoptera frugiperda
+HD-1	Strains	Species	Manduca sexta
+HD-1	Strains	Species	Lobesia botrana
+HD29	Strains	Species	Leptinotarsa decemlineata
+HD29	Strains	Species	Helicoverpa armigera
+HD29	Strains	Species	Earias insulana
+HD29	Strains	Species	Spodoptera frugiperda
+HD29	Strains	Species	Plutella xylostella
+HD-2	Strains	Species	Stomoxys calcitrans
+HD-2	Strains	Species	Haematobia irritans
+HD-2	Strains	Species	Anthonomus grandis
+HD-2	Strains	Species	Spodoptera frugiperda
+HD-2	Strains	Species	Plutella xylostella
+HD37	Strains	Species	Heliothis virescens
+HD37	Strains	Species	Manduca sexta
+HD37	Strains	Species	Mamestra brassicae
+HD521	Strains	Species	Henosepilachna vigintioctomaculata
+HD5	Strains	Species	Heliothis virescens
+HD5	Strains	Species	Manduca sexta
+HD-68	Strains	Species	Spodoptera frugiperda
+HD73	Strains	Species	Pieris brassicae
+HD73	Strains	Species	Trichoplusia ni
+HD73	Strains	Species	Heliothis virescens
+HD73	Strains	Species	Manduca sexta
+HD867	Strains	Species	Haematobia irritans
+higo	Strains	Species	Culex pipiens molestus
+higo	Strains	Species	Aedes aegypti
+higo	Strains	Species	Anopheles stephensi
+HS18-1	Strains	Species	Aedes aegypti
+HS18-1	Strains	Species	Holotrichia parallela
+HS18-1	Strains	Species	Plutella xylostella
+HYW-8	Strains	Species	Unknown
+IAB59	Strains	Species	Culex quinquefasciatus
+INA288	Strains	Species	Aedes aegypti
+INA288	Strains	Species	Culex pipiens pallens
+INA288	Strains	Species	Anopheles stephensi
+INTA Fr7-4	Strains	Species	Anthonomus grandis
+INTA H4-3	Strains	Species	Anthonomus grandis
+INTA Mo1-12	Strains	Species	Anthonomus grandis
+INTA TA24-6	Strains	Species	Anthonomus grandis
+IPPBIOTSUC-C9F1	Strains	Species	Nilaparvata lugens
+IPPBIOTSUC-C9F1	Strains	Species	Laodelphax striatellus
+JC291	Strains	Species	Ostrinia furnacalis
+JC291	Strains	Species	Helicoverpa armigera
+jegathesan 367	Strains	Species	Aedes aegypti
+jegathesan 367	Strains	Species	Culex pipiens
+jegathesan 367	Strains	Species	Anopheles stephensi
+JF21-1	Strains	Species	Chilo suppressalis
+JW-1	Strains	Species	Bradysia difformis
+KBAB4	Strains	Species	Galleria mellonella
+L366	Strains	Species	Ostertagia circumcincta
+L366	Strains	Species	Trichostrongylus colubriformis
+LBIT-107	Strains	Species	Caenorhabditis elegans
+LBIT-418	Strains	Species	Spodoptera frugiperda
+LBIT-418	Strains	Species	Plutella xylostella
+Lip	Strains	Species	Ephestia kuehniella
+LP1-G	Strains	Species	Culex quinquefasciatus
+LP1G	Strains	Species	Culex quinquefasciatus
+MC28	Strains	Species	Aedes aegypti
+MC28	Strains	Species	Spodoptera exigua
+MC28	Strains	Species	Helicoverpa armigera
+MC28	Strains	Species	Culex quinquefasciatus
+MEB4	Strains	Species	Ephestia kuehniella
+mogi K4	Strains	Species	Culex pipiens molestus
+mogi K4	Strains	Species	Anopheles stephensi
+mogi K4	Strains	Species	Culex pipiens pallens
+MYBT18246	Strains	Species	Caenorhabditis elegans
+N141	Strains	Species	Anomala cuprea
+NA205-3	Strains	Species	Helicoverpa armigera
+NBIN-866	Strains	Species	Unknown
+NHA15b	Strains	Species	Culex quinquefasciatus
+NT0423	Strains	Species	Plutella xylostella
+PS158C2	Strains	Species	Spodoptera littoralis
+PS158C2	Strains	Species	Plutella xylostella
+PS17	Strains	Species	Caenorhabditis elegans
+PS17	Strains	Species	Pratylenchus redivivus
+PS17	Strains	Species	Pratylenchus scribneri
+PS63B	Strains	Species	Panagrellus redivivus
+PS80JJ1	Strains	Species	Diabrotica virgifera virgifera
+PS81F	Strains	Species	Giardia lamblia
+PS81I	Strains	Species	Choristoneura occidentalis
+PS81I	Strains	Species	Spodoptera exigua
+PS81I	Strains	Species	Plutella xylostella
+PS86Q3	Strains	Species	Diprion pini
+PS86Q3	Strains	Species	Monomorium pharaoni
+PS86Q3	Strains	Species	Pristiphora abietina
+QZL38	Strains	Species	Colaphellus bowringi
+R36	Strains	Species	Capnodis tenebrionis
+S2096-2	Strains	Species	Necator americanus
+S2160-1	Strains	Species	Aedes albopictus
+S2160-1	Strains	Species	Culex quinquefasciatus
+S2480-1	Strains	Species	Spodoptera exigua
+S2480-1	Strains	Species	Culex quinquefasciatus
+S725	Strains	Species	Anticarsia gemmatalis
+Sbt003	Strains	Species	Caenorhabditis elegans
+Sbt003	Strains	Species	Unknown
+Sbt003	Strains	Species	Human cancer cells
+SCG04-02	Strains	Species	Plutella xylostella
+SP41	Strains	Species	Spodoptera exigua
+SP41	Strains	Species	Spodoptera litura
+SP41	Strains	Species	Helicoverpa armigera
+SSy111-c	Strains	Species	Ephestia kuehniella
+SSy111-c	Strains	Species	Cydia pomonella
+SSy111-c	Strains	Species	Phthorimaea operculella
+SSy125-c	Strains	Species	Ephestia kuehniella
+SSy125-c	Strains	Species	Cydia pomonella
+SSy125-c	Strains	Species	Phthorimaea operculella
+SSy126-c	Strains	Species	Ephestia kuehniella
+SSy126-c	Strains	Species	Cydia pomonella
+SSy126-c	Strains	Species	Phthorimaea operculella
+SSy141-c	Strains	Species	Ephestia kuehniella
+SSy141-c	Strains	Species	Cydia pomonella
+SSy141-c	Strains	Species	Phthorimaea operculella
+SSy60-b	Strains	Species	Ephestia kuehniella
+SSy60-b	Strains	Species	Cydia pomonella
+SSy60-b	Strains	Species	Phthorimaea operculella
+SSy77	Strains	Species	Ephestia kuehniella
+SSy77	Strains	Species	Cydia pomonella
+SSy77	Strains	Species	Phthorimaea operculella
+ST8	Strains	Species	Holotrichia parallela
+ST8	Strains	Species	Holotrichia oblita
+SY49-1	Strains	Species	Ephestia kuehniella
+SY49-1	Strains	Species	Culex pipiens
+SY49-1	Strains	Species	Plodia interpunctella
+SY49-1	Strains	Species	Tribolium castaneum
+T0131	Strains	Species	Aedes aegypti
+T0131	Strains	Species	Culex quinquefasciatus
+T0137	Strains	Species	Aedes aegypti
+T0137	Strains	Species	Culex quinquefasciatus
+T0139	Strains	Species	Aedes aegypti
+T0139	Strains	Species	Culex quinquefasciatus
+x023	Strains	Species	Plutella xylostella
+x023	Strains	Species	Mythimna separata
+X023PN	Strains	Species	Plutella xylostella
+X023PN	Strains	Species	Mythimna separata
+YBT-020	Strains	Species	Caenorhabditis elegans
+YBT-032	Strains	Species	Ditylenchus destructor
+YBT-1518	Strains	Species	Meloidogyne hapla
+YBT-1520	Strains	Species	Plutella xylostella
+YBT-1520	Strains	Species	Helicoverpa armigera
+YC-10	Strains	Species	Meloidogyne incognita

@@ -1,0 +1,57 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~0a60e7a17d9499ad1e3cb694d2ce8877)
+  - processing model bsA (bsA~cd73254d445be157181a4b30eb711a00)
+       marking branches 2
+
+          ((((BT_Cry52Ca1,NOV_Cry52Ca1_62.9_AZJ24464.1),NOV_Cry21Aa2_44.6_AZR80772.1 #1),(NOV_Cry21Fa1_31.0_OTW70091.1,NOV_Cry21Fa1_47.3_OTY57628.1)),NOV_Cry21Ca2_65.9_AZR80774.1,NOV_Cry21Ca2_64.6_AZR80780.1);
+
+  - processing model bsA1 (bsA1~e78dec834094eacd1f9cdada5f02547e)
+       marking branches 2
+
+          ((((BT_Cry52Ca1,NOV_Cry52Ca1_62.9_AZJ24464.1),NOV_Cry21Aa2_44.6_AZR80772.1 #1),(NOV_Cry21Fa1_31.0_OTW70091.1,NOV_Cry21Fa1_47.3_OTY57628.1)),NOV_Cry21Ca2_65.9_AZR80774.1,NOV_Cry21Ca2_64.6_AZR80780.1);
+
+  - processing model bsB (bsB~9fe7e4914aeb5ce245a67a9131635e41)
+       marking branches 2
+
+          ((((BT_Cry52Ca1,NOV_Cry52Ca1_62.9_AZJ24464.1),NOV_Cry21Aa2_44.6_AZR80772.1 #1),(NOV_Cry21Fa1_31.0_OTW70091.1,NOV_Cry21Fa1_47.3_OTY57628.1)),NOV_Cry21Ca2_65.9_AZR80774.1,NOV_Cry21Ca2_64.6_AZR80780.1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~0a60e7a17d9499ad1e3cb694d2ce8877 |      bsA.2-1~cc1d66c6a8488a6287b87cfb87d05f82 | 0.000000**
+                M0~0a60e7a17d9499ad1e3cb694d2ce8877 |     bsA1.2-1~5f16d68eb713d6f019cdf5d8bf043927 | 0.000000**
+                M0~0a60e7a17d9499ad1e3cb694d2ce8877 |      bsB.2-1~488754d0dfab2c7b317c1e93404c6fde | 0.000000**
+           bsA.2-1~cc1d66c6a8488a6287b87cfb87d05f82 |      bsB.2-1~488754d0dfab2c7b317c1e93404c6fde | 0.023100*
+          bsA1.2-1~5f16d68eb713d6f019cdf5d8bf043927 |      bsA.2-1~cc1d66c6a8488a6287b87cfb87d05f82 | 0.027031*
+          bsA1.2-1~5f16d68eb713d6f019cdf5d8bf043927 |      bsB.2-1~488754d0dfab2c7b317c1e93404c6fde | 0.006572**
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.171
+
+ - Model bsA.2-1
+   * Marked branches
+      ((((BT_Cry52Ca1,NOV_Cry52Ca1_62.9_AZJ24464.1),NOV_Cry21Aa2_44.6_AZR80772.1 #1),(NOV_Cry21Fa1_31.0_OTW70091.1,NOV_Cry21Fa1_47.3_OTY57628.1)),NOV_Cry21Ca2_65.9_AZR80774.1,NOV_Cry21Ca2_64.6_AZR80780.1);
+
+ - Model bsA1.2-1
+   * Marked branches
+      ((((BT_Cry52Ca1,NOV_Cry52Ca1_62.9_AZJ24464.1),NOV_Cry21Aa2_44.6_AZR80772.1 #1),(NOV_Cry21Fa1_31.0_OTW70091.1,NOV_Cry21Fa1_47.3_OTY57628.1)),NOV_Cry21Ca2_65.9_AZR80774.1,NOV_Cry21Ca2_64.6_AZR80780.1);
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+               206   |   Relaxed (probability > 0.95)
+
+ - Model bsB.2-1
+   * Marked branches
+      ((((BT_Cry52Ca1,NOV_Cry52Ca1_62.9_AZJ24464.1),NOV_Cry21Aa2_44.6_AZR80772.1 #1),(NOV_Cry21Fa1_31.0_OTW70091.1,NOV_Cry21Fa1_47.3_OTY57628.1)),NOV_Cry21Ca2_65.9_AZR80774.1,NOV_Cry21Ca2_64.6_AZR80780.1);
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+                72   |   Conserved (probability > 0.95)
+               206   |   Positively-selected (probability > 0.95)

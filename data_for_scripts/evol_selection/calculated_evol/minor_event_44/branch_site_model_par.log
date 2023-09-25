@@ -1,0 +1,71 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~33b9d43bebfd193ac5ee1c58234ba749)
+  - processing model bsA (bsA~ef3fa309cee5035971648bf7ac0c893f)
+       marking branches 5
+
+          (((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,BT_Cry1Jb1)),(BT_Cry9Ec1,(((((BT_Cry9Da1,BT_Cry9Eb1),BT_Cry9Db1),(BT_Cry9Bb1 #1,BT_Cry9Ee1)),BT_Cry1Ba1),BT_Cry9Ed1)),(BT_Cry9Ca1,(BT_Cry9Ba1,BT_Cry9Dc1)));
+
+  - processing model bsA1 (bsA1~62b1e152ff6aeac07f24a41b78510a25)
+       marking branches 5
+
+          (((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,BT_Cry1Jb1)),(BT_Cry9Ec1,(((((BT_Cry9Da1,BT_Cry9Eb1),BT_Cry9Db1),(BT_Cry9Bb1 #1,BT_Cry9Ee1)),BT_Cry1Ba1),BT_Cry9Ed1)),(BT_Cry9Ca1,(BT_Cry9Ba1,BT_Cry9Dc1)));
+
+  - processing model bsB (bsB~b87dcdfae99aec6c5ff093efce6c25dd)
+       marking branches 5
+
+          (((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,BT_Cry1Jb1)),(BT_Cry9Ec1,(((((BT_Cry9Da1,BT_Cry9Eb1),BT_Cry9Db1),(BT_Cry9Bb1 #1,BT_Cry9Ee1)),BT_Cry1Ba1),BT_Cry9Ed1)),(BT_Cry9Ca1,(BT_Cry9Ba1,BT_Cry9Dc1)));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~33b9d43bebfd193ac5ee1c58234ba749 |      bsA.5-1~e70eeb658767f31a514b6028788f7a54 | 0.000000**
+                M0~33b9d43bebfd193ac5ee1c58234ba749 |     bsA1.5-1~44f8dd2e27dd58558fadea648512d96b | 0.000000**
+                M0~33b9d43bebfd193ac5ee1c58234ba749 |      bsB.5-1~0ad5f40d7843f73c62883b46f5e421e5 | 0.000000**
+           bsA.5-1~e70eeb658767f31a514b6028788f7a54 |      bsB.5-1~0ad5f40d7843f73c62883b46f5e421e5 | 0.044887*
+          bsA1.5-1~44f8dd2e27dd58558fadea648512d96b |      bsA.5-1~e70eeb658767f31a514b6028788f7a54 | 0.611987
+          bsA1.5-1~44f8dd2e27dd58558fadea648512d96b |      bsB.5-1~0ad5f40d7843f73c62883b46f5e421e5 | 0.117645
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.386
+
+ - Model bsA.5-1
+   * Marked branches
+      (((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,BT_Cry1Jb1)),(BT_Cry9Ec1,(((((BT_Cry9Da1,BT_Cry9Eb1),BT_Cry9Db1),(BT_Cry9Bb1 #1,BT_Cry9Ee1)),BT_Cry1Ba1),BT_Cry9Ed1)),(BT_Cry9Ca1,(BT_Cry9Ba1,BT_Cry9Dc1)));
+
+ - Model bsA1.5-1
+   * Marked branches
+      (((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,BT_Cry1Jb1)),(BT_Cry9Ec1,(((((BT_Cry9Da1,BT_Cry9Eb1),BT_Cry9Db1),(BT_Cry9Bb1 #1,BT_Cry9Ee1)),BT_Cry1Ba1),BT_Cry9Ed1)),(BT_Cry9Ca1,(BT_Cry9Ba1,BT_Cry9Dc1)));
+
+ - Model bsB.5-1
+   * Marked branches
+      (((BT_Cry9Ea5,BT_Cry9Ea10),(BT_Cry9Aa1,BT_Cry1Jb1)),(BT_Cry9Ec1,(((((BT_Cry9Da1,BT_Cry9Eb1),BT_Cry9Db1),(BT_Cry9Bb1 #1,BT_Cry9Ee1)),BT_Cry1Ba1),BT_Cry9Ed1)),(BT_Cry9Ca1,(BT_Cry9Ba1,BT_Cry9Dc1)));
+   * Sites significantly caracterized
+      codon position |   category
+     -----------------------------------------------------------
+           11-  12   |   Conserved (probability > 0.95)
+                15   |   Conserved (probability > 0.95)
+           17-  18   |   Conserved (probability > 0.95)
+                29   |   Conserved (probability > 0.95)
+           31-  39   |   Conserved (probability > 0.95)
+                43   |   Conserved (probability > 0.95)
+                47   |   Conserved (probability > 0.95)
+                52   |   Conserved (probability > 0.95)
+                62   |   Conserved (probability > 0.95)
+                64   |   Conserved (probability > 0.95)
+           66-  67   |   Conserved (probability > 0.95)
+                69   |   Conserved (probability > 0.95)
+                71   |   Conserved (probability > 0.95)
+                73   |   Conserved (probability > 0.95)
+           97-  98   |   Conserved (probability > 0.95)
+               107   |   Conserved (probability > 0.95)
+               109   |   Conserved (probability > 0.95)
+               124   |   Conserved (probability > 0.95)
+               149   |   Conserved (probability > 0.95)
+          151- 152   |   Conserved (probability > 0.95)

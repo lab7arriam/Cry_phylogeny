@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~8eead59a2f06b2836bd5eab62435c64a)
+  - processing model b_free (b_free~66608516c944797328ae09d653e9c230)
+       marking branches 5
+
+          ((BT_Cry13Aa1,((BT_Cry14Ab1,BT_Cry14Aa1),NOV_Cry14Ab1_85.6_AXE15628.1)),((NOV_Cry14Aa1_41.1_PGW46198.1 #1,NOV_Cry14Ab1_42.4_PGW46196.1),NOV_Cry14Aa1_44.0_PGW42274.1),NOV_Cry13Aa1_50.1_ANS46780.1);
+
+  - processing model b_neut (b_neut~ab5e27bc0870c1c60005ef6f172f6f0c)
+       marking branches 5
+
+          ((BT_Cry13Aa1,((BT_Cry14Ab1,BT_Cry14Aa1),NOV_Cry14Ab1_85.6_AXE15628.1)),((NOV_Cry14Aa1_41.1_PGW46198.1 #1,NOV_Cry14Ab1_42.4_PGW46196.1),NOV_Cry14Aa1_44.0_PGW42274.1),NOV_Cry13Aa1_50.1_ANS46780.1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~8eead59a2f06b2836bd5eab62435c64a |   b_free.5-1~da63308e06a4dfbe1369ff7aa078d018 | 0.819051
+        b_neut.5-1~4c86b29818b9d3b08e42e03acd417027 |   b_free.5-1~da63308e06a4dfbe1369ff7aa078d018 | 0.014925*
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.212
+
+ - Model b_free.5-1
+   * Marked branches
+      ((BT_Cry13Aa1,((BT_Cry14Ab1,BT_Cry14Aa1),NOV_Cry14Ab1_85.6_AXE15628.1)),((NOV_Cry14Aa1_41.1_PGW46198.1 #1,NOV_Cry14Ab1_42.4_PGW46196.1),NOV_Cry14Aa1_44.0_PGW42274.1),NOV_Cry13Aa1_50.1_ANS46780.1);
+
+        Branches  =>   omega
+      background  =>   0.210
+              #1  =>   0.234
+
+ - Model b_neut.5-1
+   * Marked branches
+      ((BT_Cry13Aa1,((BT_Cry14Ab1,BT_Cry14Aa1),NOV_Cry14Ab1_85.6_AXE15628.1)),((NOV_Cry14Aa1_41.1_PGW46198.1 #1,NOV_Cry14Ab1_42.4_PGW46196.1),NOV_Cry14Aa1_44.0_PGW42274.1),NOV_Cry13Aa1_50.1_ANS46780.1);
+
+        Branches  =>   omega
+      background  =>   0.200
+              #1  =>   1.000

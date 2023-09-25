@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~e4a9e8b0ab65d6582d077c5ee247b720)
+  - processing model b_free (b_free~2cacc47d1a37634ffe546a175a3e9065)
+       marking branches 2
+
+          ((NOV_Cry69Ab1_59.2_WP_103591619.1,NOV_Cry69Ab1_58.0_PEU83535.1),NOV_Cry69Aa2_62.7_WP_103591151.1 #1,(((NOV_Cry7Ca1_99.7_ABR67863.2,NOV_Cry7Ca1_86.8_AGM39664.1),NOV_Cry7Ea2_99.9_AFI42038.1),BT_Cry7Cb1));
+
+  - processing model b_neut (b_neut~8e29cf36a7bf66b5e8509147e7d616dd)
+       marking branches 2
+
+          ((NOV_Cry69Ab1_59.2_WP_103591619.1,NOV_Cry69Ab1_58.0_PEU83535.1),NOV_Cry69Aa2_62.7_WP_103591151.1 #1,(((NOV_Cry7Ca1_99.7_ABR67863.2,NOV_Cry7Ca1_86.8_AGM39664.1),NOV_Cry7Ea2_99.9_AFI42038.1),BT_Cry7Cb1));
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~e4a9e8b0ab65d6582d077c5ee247b720 |   b_free.2-1~e6acc6eda06754e2521cb92b2c59d22e | 0.596725
+        b_neut.2-1~4bf0a956ef305c5cfa65ed0e12a32eab |   b_free.2-1~e6acc6eda06754e2521cb92b2c59d22e | 0.522791
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.451
+
+ - Model b_free.2-1
+   * Marked branches
+      ((NOV_Cry69Ab1_59.2_WP_103591619.1,NOV_Cry69Ab1_58.0_PEU83535.1),NOV_Cry69Aa2_62.7_WP_103591151.1 #1,(((NOV_Cry7Ca1_99.7_ABR67863.2,NOV_Cry7Ca1_86.8_AGM39664.1),NOV_Cry7Ea2_99.9_AFI42038.1),BT_Cry7Cb1));
+
+        Branches  =>   omega
+      background  =>   0.437
+              #1  =>   0.603
+
+ - Model b_neut.2-1
+   * Marked branches
+      ((NOV_Cry69Ab1_59.2_WP_103591619.1,NOV_Cry69Ab1_58.0_PEU83535.1),NOV_Cry69Aa2_62.7_WP_103591151.1 #1,(((NOV_Cry7Ca1_99.7_ABR67863.2,NOV_Cry7Ca1_86.8_AGM39664.1),NOV_Cry7Ea2_99.9_AFI42038.1),BT_Cry7Cb1));
+
+        Branches  =>   omega
+      background  =>   0.427
+              #1  =>   1.000

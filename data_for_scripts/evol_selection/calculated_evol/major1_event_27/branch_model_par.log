@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~f85e15ac15882ecfc195b7eb92120509)
+  - processing model b_free (b_free~f62134daa4682d996f4df6ea07774c51)
+       marking branches 11
+
+          (((NOV_Cry8Ba1_88.6_AEP25412.1,BT_Cry8Ba1),(((((BT_Cry1Ia18,BT_Cry1Ib8),(BT_Cry1Ib1,BT_Cry1Ib2)),BT_Cry1Ic1),BT_Cry1Ib4),(BT_Cry8Ad1,BT_Cry8Ra1))),NOV_Cry41Ba2_43.6_BAD35163.1,NOV_Cry41Ba2_47.9_BAD35157.1 #1);
+
+  - processing model b_neut (b_neut~c5ffaef4156cf9b75faee8d79988b1aa)
+       marking branches 11
+
+          (((NOV_Cry8Ba1_88.6_AEP25412.1,BT_Cry8Ba1),(((((BT_Cry1Ia18,BT_Cry1Ib8),(BT_Cry1Ib1,BT_Cry1Ib2)),BT_Cry1Ic1),BT_Cry1Ib4),(BT_Cry8Ad1,BT_Cry8Ra1))),NOV_Cry41Ba2_43.6_BAD35163.1,NOV_Cry41Ba2_47.9_BAD35157.1 #1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~f85e15ac15882ecfc195b7eb92120509 |  b_free.11-1~6414063f73be3688a5672fcf2186cee4 | 1.000000
+       b_neut.11-1~cda5bfa620c5206205b8eef1f8c59ef4 |  b_free.11-1~6414063f73be3688a5672fcf2186cee4 | 1.000000
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.168
+
+ - Model b_free.11-1
+   * Marked branches
+      (((NOV_Cry8Ba1_88.6_AEP25412.1,BT_Cry8Ba1),(((((BT_Cry1Ia18,BT_Cry1Ib8),(BT_Cry1Ib1,BT_Cry1Ib2)),BT_Cry1Ic1),BT_Cry1Ib4),(BT_Cry8Ad1,BT_Cry8Ra1))),NOV_Cry41Ba2_43.6_BAD35163.1,NOV_Cry41Ba2_47.9_BAD35157.1 #1);
+
+        Branches  =>   omega
+              #1  =>   4.718
+      background  =>   0.168
+
+ - Model b_neut.11-1
+   * Marked branches
+      (((NOV_Cry8Ba1_88.6_AEP25412.1,BT_Cry8Ba1),(((((BT_Cry1Ia18,BT_Cry1Ib8),(BT_Cry1Ib1,BT_Cry1Ib2)),BT_Cry1Ic1),BT_Cry1Ib4),(BT_Cry8Ad1,BT_Cry8Ra1))),NOV_Cry41Ba2_43.6_BAD35163.1,NOV_Cry41Ba2_47.9_BAD35157.1 #1);
+
+        Branches  =>   omega
+      background  =>   0.168
+              #1  =>   1.000

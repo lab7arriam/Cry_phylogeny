@@ -1,0 +1,43 @@
+Using: /root/.etetoolkit/ext_apps-latest/bin/Slr
+Using: /root/.etetoolkit/ext_apps-latest/bin/codeml
+
+Running CodeML/Slr (20 CPUs)
+  - processing model M0 (M0~8dd33f5d0f566faea91525f4b42421c8)
+  - processing model b_free (b_free~9a619ee0d6d0c7fd74d8d98848a41e35)
+       marking branches 41
+
+          (((NOV_Cry1Ga1_77.9_AX098669.1,((((BT_Cry1Id1,((BT_Cry1Ib8,BT_Cry1Ia18),((NOV_Cry1Ia14_99.2_WP_079246652.1,(BT_Cry1Ia13,(BT_Cry1Ia11,(BT_Cry1Ia12,BT_Cry1Ia6)))),(BT_Cry1Ib2,((BT_Cry1Ic1,BT_Cry1Ib1),BT_Cry1Ib4))))),(BT_Cry1Ie4,BT_Cry1Ie3)),BT_Cry1Ma1),((BT_Cry9Ga1,(NOV_Cry1Da1_84.8_ABK35074.1 #1,((((BT_Cry1Ad1,NOV_Cry1Ad2_87.7_AIW52617.1),(NOV_Cry1Aa12_99.7_AEB21634.1,(BT_Cry1Aa10,(BT_Cry1Aa14,(BT_Cry1Ag1,BT_Cry1Aa7))))),(((((NOV_Cry1Ab12_98.5_AGI21848.1,BT_Cry1Ab6),(BT_Cry1Af1,BT_Cry1A-like)),NOV_Cry1Ab32_92.7_AAK14337.1),(BT_Cry1Ab12,(BT_Cry1Ab30,NOV_Cry1Ab12_91.4_AAK14338.1))),NOV_Cry1Aa12_99.9_OUA40850.1)),BT_Cry1Ab2))),(BT_Cry1Gb1,BT_Cry1Ga2)))),((BT_Cry1Ja1,(BT_Cry1Fb3,BT_Cry1Fb1)),(NOV_Cry1Ie5_79.3_PQQ47595.1,BT_Cry1Bb1))),BT_Cry1Nb1,BT_Cry1Na1);
+
+  - processing model b_neut (b_neut~b174e2320953638e53c4a12f0bb16c9f)
+       marking branches 41
+
+          (((NOV_Cry1Ga1_77.9_AX098669.1,((((BT_Cry1Id1,((BT_Cry1Ib8,BT_Cry1Ia18),((NOV_Cry1Ia14_99.2_WP_079246652.1,(BT_Cry1Ia13,(BT_Cry1Ia11,(BT_Cry1Ia12,BT_Cry1Ia6)))),(BT_Cry1Ib2,((BT_Cry1Ic1,BT_Cry1Ib1),BT_Cry1Ib4))))),(BT_Cry1Ie4,BT_Cry1Ie3)),BT_Cry1Ma1),((BT_Cry9Ga1,(NOV_Cry1Da1_84.8_ABK35074.1 #1,((((BT_Cry1Ad1,NOV_Cry1Ad2_87.7_AIW52617.1),(NOV_Cry1Aa12_99.7_AEB21634.1,(BT_Cry1Aa10,(BT_Cry1Aa14,(BT_Cry1Ag1,BT_Cry1Aa7))))),(((((NOV_Cry1Ab12_98.5_AGI21848.1,BT_Cry1Ab6),(BT_Cry1Af1,BT_Cry1A-like)),NOV_Cry1Ab32_92.7_AAK14337.1),(BT_Cry1Ab12,(BT_Cry1Ab30,NOV_Cry1Ab12_91.4_AAK14338.1))),NOV_Cry1Aa12_99.9_OUA40850.1)),BT_Cry1Ab2))),(BT_Cry1Gb1,BT_Cry1Ga2)))),((BT_Cry1Ja1,(BT_Cry1Fb3,BT_Cry1Fb1)),(NOV_Cry1Ie5_79.3_PQQ47595.1,BT_Cry1Bb1))),BT_Cry1Nb1,BT_Cry1Na1);
+
+
+LRT
+
+                                         Null model |                             Alternative model | p-value
+   =================================================|===============================================|============
+                M0~8dd33f5d0f566faea91525f4b42421c8 |  b_free.41-1~9ee5d0f5a6e040bfd6cae3b260cc7d4c | 0.996258
+       b_neut.41-1~7bebdd3afc37dbf76ab833d57f8cd162 |  b_free.41-1~9ee5d0f5a6e040bfd6cae3b260cc7d4c | 0.296952
+
+SUMMARY BY MODEL
+
+ - Model M0
+   * Average omega for all tree: 0.234
+
+ - Model b_free.41-1
+   * Marked branches
+      (((NOV_Cry1Ga1_77.9_AX098669.1,((((BT_Cry1Id1,((BT_Cry1Ib8,BT_Cry1Ia18),((NOV_Cry1Ia14_99.2_WP_079246652.1,(BT_Cry1Ia13,(BT_Cry1Ia11,(BT_Cry1Ia12,BT_Cry1Ia6)))),(BT_Cry1Ib2,((BT_Cry1Ic1,BT_Cry1Ib1),BT_Cry1Ib4))))),(BT_Cry1Ie4,BT_Cry1Ie3)),BT_Cry1Ma1),((BT_Cry9Ga1,(NOV_Cry1Da1_84.8_ABK35074.1 #1,((((BT_Cry1Ad1,NOV_Cry1Ad2_87.7_AIW52617.1),(NOV_Cry1Aa12_99.7_AEB21634.1,(BT_Cry1Aa10,(BT_Cry1Aa14,(BT_Cry1Ag1,BT_Cry1Aa7))))),(((((NOV_Cry1Ab12_98.5_AGI21848.1,BT_Cry1Ab6),(BT_Cry1Af1,BT_Cry1A-like)),NOV_Cry1Ab32_92.7_AAK14337.1),(BT_Cry1Ab12,(BT_Cry1Ab30,NOV_Cry1Ab12_91.4_AAK14338.1))),NOV_Cry1Aa12_99.9_OUA40850.1)),BT_Cry1Ab2))),(BT_Cry1Gb1,BT_Cry1Ga2)))),((BT_Cry1Ja1,(BT_Cry1Fb3,BT_Cry1Fb1)),(NOV_Cry1Ie5_79.3_PQQ47595.1,BT_Cry1Bb1))),BT_Cry1Nb1,BT_Cry1Na1);
+
+        Branches  =>   omega
+      background  =>   0.234
+              #1  =>   0.235
+
+ - Model b_neut.41-1
+   * Marked branches
+      (((NOV_Cry1Ga1_77.9_AX098669.1,((((BT_Cry1Id1,((BT_Cry1Ib8,BT_Cry1Ia18),((NOV_Cry1Ia14_99.2_WP_079246652.1,(BT_Cry1Ia13,(BT_Cry1Ia11,(BT_Cry1Ia12,BT_Cry1Ia6)))),(BT_Cry1Ib2,((BT_Cry1Ic1,BT_Cry1Ib1),BT_Cry1Ib4))))),(BT_Cry1Ie4,BT_Cry1Ie3)),BT_Cry1Ma1),((BT_Cry9Ga1,(NOV_Cry1Da1_84.8_ABK35074.1 #1,((((BT_Cry1Ad1,NOV_Cry1Ad2_87.7_AIW52617.1),(NOV_Cry1Aa12_99.7_AEB21634.1,(BT_Cry1Aa10,(BT_Cry1Aa14,(BT_Cry1Ag1,BT_Cry1Aa7))))),(((((NOV_Cry1Ab12_98.5_AGI21848.1,BT_Cry1Ab6),(BT_Cry1Af1,BT_Cry1A-like)),NOV_Cry1Ab32_92.7_AAK14337.1),(BT_Cry1Ab12,(BT_Cry1Ab30,NOV_Cry1Ab12_91.4_AAK14338.1))),NOV_Cry1Aa12_99.9_OUA40850.1)),BT_Cry1Ab2))),(BT_Cry1Gb1,BT_Cry1Ga2)))),((BT_Cry1Ja1,(BT_Cry1Fb3,BT_Cry1Fb1)),(NOV_Cry1Ie5_79.3_PQQ47595.1,BT_Cry1Bb1))),BT_Cry1Nb1,BT_Cry1Na1);
+
+        Branches  =>   omega
+      background  =>   0.232
+              #1  =>   1.000
