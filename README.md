@@ -84,7 +84,29 @@ The following section includes source files used for inferencing and characteriz
 - `pairs_identity_no_pat.tsv` - domain-wise pair-wise comparisons of the domain sequences within the reference dataset with a 95% identity threshold applied;
 - `unique_multiclusters.tsv` - the domain-wise lists of sequences within the reference clusters obtained using a 95% identity threshold. Unique nucleotide sequences for each domain are selected.
 
-  
+### Analysis of recombination mechanisms
+In this section, putative mechanisms of recombination were analyzed. Multiple approaches were applied, namely, assessing the overall homologous recombination rate in genome assemblies with loci coding for Cry toxins, studying the genomic context of <i>cry</i> genes, and comparing sequence identity between parents in regions surrounding recombination breakpoints. The content of the `data_for_scripts/mechanisms` directory goes as follows:
+- `MGE_beds` is a directory containing coordinates in the bed format of MGEs (mobile genetic elements) and <i>cry</i> genes within <i>Bacillus thuringiensis</i> genome assemblies. The directory has the following substructure:
+  * `MGE_beds/recs` - coordinates of ‘cry’ genes encoding toxins subjected to recombination-driven domain exchanges;
+  * `MGE_beds/all_crys` - coordinates of all ‘cry’ genes;
+  * `MGE_beds/CRISPRs` - coordinates of CRISPR loci;
+  * `MGE_beds/GIs` - coordinates of genomic islands;
+  * `MGE_beds/IS` - coordinates of insertion sequences.
+Each directory except for ‘recs’ and ‘all_crys’ includes source, crys_inter, and recs_inter subdirectories with the coordinates of genomic features and their intersections with loci encoding Cry toxins and toxins subjected to recombination, respectively. 
+- `asmbl_types.csv` - the classification of genome assemblies according to the presence of <i>cry</i> genes and <i>cry</i> loci encoding toxins with recombination signals;
+- `bt_assemblies.tsv` - characteristics of genome <i>Bt</i> genome assemblies, including level, serovar (if present in the name of the organism), and links to the FTP repository for downloading;
+- `cry_asmbl_stat.tsv` - genomic data for `cry` loci in the <i>Bt</i> assemblies, namely, accession number, protein name, identity with the closest homolog from the BPPRC database, genomic coordinates, strand orientation, and assembly level;
+- `Mappings_for_breakpoints_de_novo_search.csv` - coordinates of breakpoints for each parent and recombinant within recombination events as well as the coordinates of the domains. The coordinates are presented both for full and processed (cropped from the beginning of the first domain to the end of the third domain) nucleotide Cry sequences; 
+- `merged.filtered_events.s70.l3.csv` - the filtered set of recombination events inferred from the RDP tool based on the congruence in phylogenetic trees. A detailed scheme for the filtration procedure is present in the Methods section of the article;
+- `no_pat_cd_hit_clusters.tsv` - descriptive characteristics of the CD-HIT clusters with a 95% identity threshold (the names of the reference sequence, the number of toxins in the cluster, both raw and unique according to processed nucleotide sequences). Cry toxins absent in the natural strains (presented only in patents) and subjected to artificial mutagenesis are discarded;
+- `RDP_pre_filtered_fixed.tsv` - properties pf recombination events obtained from the RDP tool with the first step of filtration (events that are marked as dubious are discarded);
+- `RDP_raw_signals.csv` - the output of the RDP software used for detecting recombination events for the alignment of processed nucleotide sequences;
+- `ref_domains` - nucleotide sequences of the domains for reference representative of the clusters; 
+- `Reference_domain_mapppings_full.bed` - coordinates of the domains in full nucleotide sequences in the reference dataset;
+- `Reference_domain_mapppings_processed.bed` - coordinates of the domains in processed nucleotide sequences in the reference dataset;
+- `ref_all_processed_nucl_aln.fasta` - multiple sequence alignments of the processed nucleotide sequences from the reference dataset;
+- `ref_full_nucl_corrected.fasta` - full nucleotide sequences from the reference dataset;
+- `ref_nucl_processed.fasta` - processed nucleotide sequences from the reference dataset.
 
 ## Scripts
 The `scripts/` directory includes all code used for pangenome analysis. The scrips are grouped into two categories, namely, those used for data processing and visualization. These groups are further subdivided following the subsections in the Results section of the article. For convenience, required data are presented in the `data_for_script /` directory. Here, commands to run the scripts are presented. The description of input files is given above. For convenience, the data presented in the `data_for_scripts/` is also divided into subdirectories according to sections in the manuscript. The paths for the input files are given relative to the `scripts/` directory.
