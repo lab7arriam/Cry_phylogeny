@@ -70,6 +70,19 @@ In this part of the study, Cry sequences’ properties were analyzed. The follow
 - `pairs_identity_no_pat.tsv` - domain-wise pair-wise comparisons of the domain sequences within the reference dataset with a 95% identity threshold applied;
 - `full_contat.nwk` - the reference phylogenetic tree inferred from the concatenated partitioned alignment.
 
+### Recombination detection
+The following section includes source files used for inferencing and characterizing recombination events, including the filtration procedure, comparing identities between parents and recombinants, reconstructing the recombination graph, etc. 
+- `all_domains` - nucleotide domain sequences form the deduplicated dataset with a 100% identity threshold;
+- `ref_domains` - nucleotide domain sequences of the reference dataset with a 95% identity threshold for clustering;
+- `no_support_trees` - domain-wise phylogenetic trees and the tree based on the concatenated partitioned alignment without supporting values and branch lengths;
+- `parsed_trees` - the node-wise structure of phylogenetic trees. In the respective tables, the content of toxins, depth level, and the number of sequences for each node are presented; 
+- `collapsed_trees` - domain-wise phylogenetic trees corrected for recombination events with parents and recombinants grouped in case of multifurcation. A detailed description of the filtering procedure is presented in the Methods section of the article;
+- `domain_mapings.bed` - coordinates of the domain mappings of the processed sequences (cropped from the beginning of the first domain to the end of the third domain) of the reference dataset with a 95% identity threshold applied; 
+- `full_contat.nwk` - the reference phylogenetic tree inferred from the concatenated partitioned alignment;
+- `RDP_raw_signals.csv` - the output of the RDP software used for detecting recombination events for the alignment of processed nucleotide sequences;
+- `merged.filtered_events.s70.l3.csv` - the characteristics of recombination events inferred from the RDP tool. Presented are the lists of parents and recombinant, coordinates of the breakpoints, p-value levels of detection tests, and pair-wise identity of the domain sequences of parents and children. The list of the events is filtered based on congruence on phylogenetic trees. A detailed scheme for the filtration procedure is present in the Methods section of the article;
+- `pairs_identity_no_pat.tsv` - domain-wise pair-wise comparisons of the domain sequences within the reference dataset with a 95% identity threshold applied;
+- `unique_multiclusters.tsv` - the domain-wie lists of sequences within the reference clusters obtained using a 95% identity threshold. Unique nucleotide sequences for each domain are selected.
 
 ## Scripts
 The `scripts/` directory includes all code used for pangenome analysis. The scrips are grouped into two categories, namely, those used for data processing and visualization. These groups are further subdivided following the subsections in the Results section of the article. For convenience, required data are presented in the `data_for_script /` directory. Here, commands to run the scripts are presented. The description of input files is given above. For convenience, the data presented in the `data_for_scripts/` is also divided into subdirectories according to sections in the manuscript. The paths for the input files are given relative to the `scripts/` directory.
