@@ -153,6 +153,24 @@ The directory includes all files required for obtaining figures (both main and s
   * The files with the `ML_` are reconstructed phylogenies obtained from trimmed nucleotide alignments of individual domains or the concatenated partitioned alignment (with the `Full_` interfix);
   * `no_support` - domain-wise phylogenetic trees and the tree based on the concatenated partitioned alignment without supporting values and branch lengths.
 
+- Recombination detection (the `recombination` directory):
+  * `base_for_circus_plot.tsv` - the order and colors of sectors in the Circos plot arranged by the order of the reference phylogeny obtained from the concatenated partitioned alignment;
+  * `type_toxins_by_events.csv` - the data on the types of sectors (toxins) based on their role in recombination events (parents, recombinants, or both);
+  * `links_for_circus_plot.tsv` - the links in the Circos plot linking parents with  recombinants colored according to transferred domains;
+  * `Comparisions_between_parents_filtered_reshaped.csv` - the number of recombinants and parents in the sets of recombination events obtained using the RDP4 software. The data includes raw events and those filtered based on the transferred region length as well as the congruence in domain-wise phylogenetic trees. A detailed description of the filtering procedure is presented in the Methods section of the article;
+  * `Comparisions_between_number_of_recs_per_filtration_reshaped.csv` - the number of parents and recombinants in the final set of recombination events before and after applying filtration;
+  * `fastgear_events.csv` - the output of the fastGEAR software with the list of predicted recombination events;
+  * `fastgear_res_per_coords_all.tsv` - coordinate-wise description of sites according to fastGEAR predictions for visualizing regions with recombination signals;
+  * The files with the `events_by_domains` postfix contain the list of transferred domains for raw (`raw_` prefix) recombination events, those filtered by the length (`flterd_` prefix) and congruence on domain-wise phylogenetic trees (`unpivot_` prefix); 
+  * The files with the ` recomb_manhattan` prefix contain coordinates of the breakpoints with p-values of recombination detection tests for raw (`_with_partials` postfix) recombination events, those filtered by the length (`_filtered` postfix) and congruence on domain-wise phylogenetic trees (`filtered_unpivot` postfix); 
+  * `Identity_per_dataset.csv` - pair-wise comparisons between domain sequences of parents and recombinant in raw and filtered sets of recombination events;
+  * `Mismathces_with_len.csv` - the number of mismatches and the length of the alignment when comparing domain sequences of parents and recombinants in the final filtered set of recombination events;
+  * `ML_Full_nuc.raxml.support.nwk` - the reference phylogenetic tree inferred from the concatenated partitioned alignment;
+  * `Num_recs_per_event_for_heatmap.csv` - the number of recombinants and parents in raw and filtered sets of recombination events;
+  * `Num_rec_filtered_heatmap.csv` - the number of recombinants and parents in the final filtered set of recombination events; 
+  * `Rec_components_stat_long.csv` - the properties of connected components in the graph of recombination events, including the number of nodes, edges, and recombination events in each component.
+
+
 
 ## Scripts
 The `scripts/` directory includes all code used for pangenome analysis. The scrips are grouped into two categories, namely, those used for data processing and visualization. These groups are further subdivided following the subsections in the Results section of the article. For convenience, required data are presented in the `data_for_script /` directory. Here, commands to run the scripts are presented. The description of input files is given above. For convenience, the data presented in the `data_for_scripts/` is also divided into subdirectories according to sections in the manuscript. The paths for the input files are given relative to the `scripts/` directory.
