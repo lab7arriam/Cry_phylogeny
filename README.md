@@ -195,7 +195,10 @@ The directory includes all files required for obtaining figures (both main and s
   * `summary_of_cry_nums_per_dataset.csv` - the number of Cry toxins in genome assemblies, contigs, plasmids, chromosomes, and bacterial strains;
   * `Tox_for_recs_and_refs.csv` - the distribution of toxin types (recombinants, parents, both, or unaffected by recombination) in bacterial trains and <i>Bt</i> assemblies;
 
-
+- Evolutionary selection (the `evol_selection` directory):
+  * `Branch_models_extended.csv` - the summary of event-wise estimates of evolutionary selection using branch models. Presented are omega values for background and foreground, the best models chosen, the number of toxins, selection type, etc.;
+  * `Identity_per_dataset_with_unknowns.csv` - pair-wise comparisons between domain sequences of parents and recombinant in the filtered set of recombination events;
+  * `Site_models_classified_res.csv` - the per-site characteristics of the domain sequences of recombinants and parents using the site and branch-site models. The properties include the best models chosen, significance levels, type of selection in the site, and the probability of selection signals. 
 
 ## Scripts
 The `scripts/` directory includes all code used for pangenome analysis. The scrips are grouped into two categories, namely, those used for data processing and visualization. These groups are further subdivided following the subsections in the Results section of the article. For convenience, required data are presented in the `data_for_script /` directory. Here, commands to run the scripts are presented. The description of input files is given above. For convenience, the data presented in the `data_for_scripts/` is also divided into subdirectories according to sections in the manuscript. The paths for the input files are given relative to the `scripts/` directory.
