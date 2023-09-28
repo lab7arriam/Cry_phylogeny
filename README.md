@@ -177,6 +177,24 @@ The directory includes all files required for obtaining figures (both main and s
   * `MGES_num_summary_non_redundant.csv` - the number of MGEs (mobile genetic elements), namely, prophages, genomic islands and insertions, in <i>Bt</i> assemblies containing <i>cry</i> loci or devoid of them;
   * `Parents_only_Distribution_of_flank_identities_merged.csv` - coordinate-wise identity between sequences of parents in regions surrounding recombination breakpoints.
 
+- Impact of recombination of host specificity (the `specificity` directory):
+  * `Components_heatmap_only_annotated.csv` - the number of toxicity assays per toxins and strains reduced to the orders in the connected components of the strain graph containing parents and/of recombinants from certain recombination events;
+  * `Graph_components_per_event_rank3_long.csv` - the overlap coefficients in the composition of toxins in connected components of the strain graph containing parents and/of recombinants from certain recombination events;
+  * `host_num_per_components.csv` - properties of the connected components of the strain graph, including the number of toxins, strains, affected species, and recombination events;
+  * `Hosts_for_heatmap_stat_per_species.csv` - the distribution of affected host orders for parents and recombinants in recombination events. The toxicity data is given for toxins following the BPPRC nomenclature ranks and/or bacterial strains containing the respective toxins;
+  * `Identity_per_dataset_with_unknowns.csv` - pair-wise comparisons between domain sequences of parents and recombinant in the filtered set of recombination events;
+  * `Num_common_tox_pars_recs.csv` - the overlap coefficients in the composition of toxins in strains containing recombinants and parents within recombination events;
+  * `num_hosts_per_dataset_in_toxin_group.csv` - the number of affected species and orders in <i>Bt</i> genome assemblies and strains regarding the types of toxins they contain (recombinants, parents, both, or unaffected by recombination);
+  * `num_hosts_per_toxin_group.csv` - the number of affected species and orders for different types of toxins (recombinants, parents, both, or unaffected by recombination);
+  * `Num_tox_for_assemblies_per_rank.csv` - the number of toxins in <i>Bt</i> genome assemblies regarding the BPPRC nomenclature ranks;
+  * `Num_tox_for_strains_per_rank.csv` - the number of toxins in bacterial strains regarding the BPPRC nomenclature ranks;
+  * `Num_tox_types_per_dataset_with_both.csv` - the number of toxins in in <i>Bt</i> genome assemblies and strains concerning the types of toxins they contain (recombinants, parents, both, or unaffected by recombination);
+  * `Overall_toxicity_stat.csv` - the total summary of toxicity assays gathered for the study. The toxicity data is given for toxins following the BPPRC nomenclature ranks and/or bacterial strains containing the respective toxins;
+  * `Overlap_species_components.csv` - the overlap between the lists of affected host species and orders for parents and recombinants in recombination events;
+  * `Simpson_stat_for_events.csv` - the summary table with the overlap between the lists of affected host species and orders for parents and recombinants in recombination events; the number of toxins, and pairwise identity of the domain sequences between parents and recombinants; 
+  * `summary_of_cry_nums_per_dataset.csv` - the number of Cry toxins in genome assemblies, contigs, plasmids, chromosomes, and bacterial strains;
+  * `Tox_for_recs_and_refs.csv` - the distribution of toxin types (recombinants, parents, both, or unaffected by recombination) in bacterial trains and <i>Bt</i> assemblies;
+
 
 
 ## Scripts
