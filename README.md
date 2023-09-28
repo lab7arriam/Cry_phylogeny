@@ -108,5 +108,17 @@ Each directory except for ‘recs’ and ‘all_crys’ includes source, crys_in
 - `ref_full_nucl_corrected.fasta` - full nucleotide sequences from the reference dataset;
 - `ref_nucl_processed.fasta` - processed nucleotide sequences from the reference dataset.
 
+### Studying the impact of recombination on host specificity
+The code in this directory was used to reveal the consequences of recombination events on the list of affected host species. In addition, the differences in the composition of toxin-encoding genes in parents and recombinants are analyzed. The directory contains the following files:
+- `Cry_asmbl_stat.csv` - genomic data for `cry` loci in the <i>Bt</i> assemblies, namely, accession number, protein name, identity with the closest homolog from the BPPRC database, genomic coordinates, strand orientation, and assembly level;
+- `Cry_strains_fixed.csv` - the list of Cry toxins presented in different strains;
+- `merged.filtered_events.s70.l3.csv` - the filtered set of recombination events inferred from the RDP tool based on the congruence in phylogenetic trees. A detailed scheme for the filtration procedure is present in the Methods section of the article;
+- `pairs_identity_no_pat.tsv` - domain-wise pair-wise comparisons of the domain sequences within the reference dataset with a 95% identity threshold applied;
+- `Plasmids_chromosomes_per_accession.csv` - genomic regions encoding cry loci in Bt assemblies of complete and chromosome levels. Presented are accession numbers of Cry toxins, genomic contigs, and the type of the contig;
+- `Ref_cry_prots_clust.csv` - the list of reference Cry toxins obtained by clusterization with a 95% identity threshold;
+- `species_to_orders.csv` - the correspondence between affected host species and their orders;
+- `toxicity_mearged_fixed_non_redundant.csv` - toxicity spectrum for Cry toxins and bacterial strains. In the case of toxins, the activity is presented following the BPPRC nomenclature ranks.
+
+
 ## Scripts
 The `scripts/` directory includes all code used for pangenome analysis. The scrips are grouped into two categories, namely, those used for data processing and visualization. These groups are further subdivided following the subsections in the Results section of the article. For convenience, required data are presented in the `data_for_script /` directory. Here, commands to run the scripts are presented. The description of input files is given above. For convenience, the data presented in the `data_for_scripts/` is also divided into subdirectories according to sections in the manuscript. The paths for the input files are given relative to the `scripts/` directory.
