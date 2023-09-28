@@ -170,6 +170,13 @@ The directory includes all files required for obtaining figures (both main and s
   * `Num_rec_filtered_heatmap.csv` - the number of recombinants and parents in the final filtered set of recombination events; 
   * `Rec_components_stat_long.csv` - the properties of connected components in the graph of recombination events, including the number of nodes, edges, and recombination events in each component.
 
+- Analysis of recombination mechanisms (the `mechanisms` directory):
+  * The files with the `presence` postfix are presence/absence patterns of orthologous gene clusters in all analyzed <i>Bt</i>  assemblies (`all_` prefix) and those containing <i>cry</i> genes (`cry_` prefix or loci encoding Cry toxins subjected to recombination (`rec_` prefix); 
+  * `clusters_assignments_final.csv` - the assignment of recombination IDs to clusters obtained when using hierarchical clusterization with a cosine distance metrics on the vectors of coordinate-wise identity between parents in the regions surrounding breakpoints. For a detailed description of the clusterization, consult the Methods section of the article;
+  * `flanks_props_for_model.csv` - identity between parents in regions flanking recombination breakpoints as well as the identity between transferred and non-transferred domains;
+  * `MGES_num_summary_non_redundant.csv` - the number of MGEs (mobile genetic elements), namely, prophages, genomic islands and insertions, in <i>Bt</i> assemblies containing <i>cry</i> loci or devoid of them;
+  * `Parents_only_Distribution_of_flank_identities_merged.csv` - coordinate-wise identity between sequences of parents in regions surrounding recombination breakpoints.
+
 
 
 ## Scripts
