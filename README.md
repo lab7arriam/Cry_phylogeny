@@ -201,4 +201,111 @@ The directory includes all files required for obtaining figures (both main and s
   * `Site_models_classified_res.csv` - the per-site characteristics of the domain sequences of recombinants and parents using the site and branch-site models. The properties include the best models chosen, significance levels, type of selection in the site, and the probability of selection signals. 
 
 ## Scripts
-The `scripts/` directory includes all code used for pangenome analysis. The scrips are grouped into two categories, namely, those used for data processing and visualization. These groups are further subdivided following the subsections in the Results section of the article. For convenience, required data are presented in the `data_for_script /` directory. Here, commands to run the scripts are presented. The description of input files is given above. For convenience, the data presented in the `data_for_scripts/` is also divided into subdirectories according to sections in the manuscript. The paths for the input files are given relative to the `scripts/` directory.
+The `scripts/` directory includes all code used for pangenome analysis. The scrips are grouped into two categories, namely, those used for data processing and visualization. These groups are further subdivided following the subsections in the Results section of the article. For convenience, required data are presented in the `data_for_script /` directory. Here, commands to run the scripts are presented. The description of input files is given above. For convenience, the data presented in the `data_for_scripts/` is also divided into subdirectories according to sections in the manuscript. The paths for the input files are given relative to the `scripts/` directory. All the input files are described above. Here, only previously undescribed parameters are mentioned.
+
+### Data description
+- `annotate_clusters_consistency.py` - the script for summarizing clustering patterns obtained from the CD-HIT software. As a result, redundant sequences are reduced, and a summary table is generated. The toxins in the clusters are also checked for their presence in natural isolates by gathering the metadata from the IPG database. The toxins found only in patents were then manually inspected and removed from the analysis in case they were subjected to artificial mutagenesis. For faster access to the database, one can specify the email `-m <e-mail`> and `NCBI API key`  -ap <NCBI ap> To run the script use the following command:
+
+``` python3 annotate_clusters_consistency.py -o <out_dir> -cf ../data_for_scripts/general_props/all_prot_95_full_names.fasta.clstr -r ../data_for_scripts/general_props/merged.filtered_events.s70.l3.csv -rn ../data_for_scripts/general_props/sequences_with_patents/nucl_processed.fasta -cn ../data_for_scripts/general_props/sequences_with_patents/all_orfs_processed_nucl.fasta -ct ../data_for_scripts/general_props/no_pat_cd_hit_clusters.tsv -bt ../data_for_scripts/general_props/bt_nomenclature_table.csv -m <e-mail> -ap <NCBI ap> ```
+- `fasta_len_count.py` - the script for calculating the length of the records in the fasta file. To use it, run the following command: 
+
+``` python3 fasta_len_count.py <fasta_file>```
+- `calculte_within_clusters_identity_refined.py` - the script for calculating domain-wise pair-wise identity between domain sequences within CD-HIT clusters. Use the following command to run the script:
+
+``` python3 calculte_within_clusters_identity_refined.py -c ../data_for_scripts/general_props/clusters_table.csv -n ../data_for_scripts/general_props/domain_sequences/unique_domain_sequences ```
+- `per_domain_clusters_identity.py` - the script with the same function as `calculte_within_clusters_identity_refined.py` but for clusters containing more than 10 toxins. The script could be launched with the following command:
+
+``` python3 per_domain_clusters_identity.py -n ../data_for_scripts/general_props/all_seqs_domains -cf ../data_for_scripts/general_props/no_pat_cd_hit_clusters.tsv -o <output_dir> ```
+- `calculate_identity_between_sequence_pairs.py` - calculates par-wise identity for records in the inputted fasta file. To run the script, use the following command:
+
+``` python3 calculate_identity_between_sequence_pairs.py -f <fasta_file> -o <output_dir> -t <num_threads> ```
+- `summarize_cluster_alignments.py` - the script for parsing protein and nucleotide sequence alignments of toxins within the clusters containing more than 10 toxins with subsequent identification of substitutions (synonymous and non-synonymous) and indels. The script also performs the calculation of conservation scores (the proportion of the most frequent non-gap symbol) for an inputted alignment. The script requires the following command: 
+
+``` python3 summarize_cluster_alignments.py -al ../data_for_scripts/general_props/multiclusters -n ../data_for_scripts/general_props/ ```
+- `descriptive_tox_stats_species_ids.py` - the script generates a summary table with the properties of the Cry toxins, including domain lengths, mean pair-wise identity with other toxins, identity with the closest homolog from the BPPRC database, and species’ attributions. To use the script, run the following command:
+
+``` python3 descriptive_tox_stats_species_ids.py -a ../data_for_scripts/general_props/all_annotations.tsv  -n ../data_for_scripts/general_props/domain_sequences/all_seqs_domains -p ../data_for_scripts/general_props/mearged_length_and_id.csv -l ../data_for_scripts/general_props/no_pat_cd_hit_clusters.tsv -c ../data_for_scripts/general_props/uniq_proteins_names.txt ```
+- `make_data_for_heatmap_universal.py` - the script performs domain-wise comparisons of domain sequences in the reference dataset of toxins obtained with a 95% identity threshold for clusterization. The script could be launched with the following command:
+
+``` python3 make_data_for_heatmap_universal.py -o <output_dir> -p ../data_for_scripts/general_props/domain_sequences/ref_proteins -n /data_for_scripts/general_props/domain_sequences/ref_nucleotides ```
+- `create_identity_heatmap.py` - the script for obtaining the matrix with pair-wise similarities between sequences in the order corresponding to the reference phylogeny based on concatenated partitioned alignment. The elected domain is set after the `-d` parameter. To run the script, use the following command:
+
+``` python3 create_identity_heatmap.py -i ../data_for_scripts/general_props/pairs_identity_no_pat.tsv -t ../data_for_scripts/general_props/full_contat.nwk -d <domain> -o <output_name> ```
+
+### Phylogeny reconstruction
+- `calculate_mean_support.py` - the script calculates mean support values for all branches in the inputted phylogenetic tree. The script is run with the following command:
+
+``` python3 calculate_mean_support.py -t <tree_file> ```
+
+### Recombination detection
+- `parse_tree.py` - the script for transforming a phylogenetic tree into a table with the content of subtrees of a certain node. The script is launched with the following command:
+
+``` python3 parse_tree.py <tree_file> ```
+- `RDP_filter_combined.py` - the script for processing the raw table with predicted recombination events using the RDP4 tool. The script deletes events marked as dubious and creates a summary table with the list of parents and recombinants, mean pair-wise identity between them, coordinates of the domains and breakpoints, the total p-value for detection tests, and the domain transferred from the minor parent. The transferred domain is determined by intersecting the coordinates of the breakpoints and domain mappings for the recombinant. The script also generates coordinate-wise correspondence of the breakpoints to p-values for visualization. To run the script, use the following command: 
+
+``` python3 RDP_filter_combined.py -r ../data_for_scripts/recombination_detection/RDP_raw_signals.csv -p ../data_for_scripts/recombination_detection/parsed_trees -s ../data_for_scripts/recombination_detection/pairs_identity_no_pat.tsv -m ../data_for_scripts/recombination_detection/domain_mapings.bed ```
+- `filter_events_by_id.py` - the script for filtering events according to the pair-wise identity between parents and recombinants. Events in which the identity between non-transferred domains is higher than the transferred one are discarded. The script is launched with the following command:
+
+``` python3 filter_events_by_id.py -r ../data_for_scripts/recombination_detection/merged.filtered_events.s70.l3.csv -o <output_dir> ```
+- `analyze_rec_events_refined.py` - the script for summarizing the properties of recombination events by calculating domain-wise identity between parents and recombinants as well as the number of toxins, unknown parents, and mismatches between the sequences of parents and recombinants. To run the script, use the following command:
+
+``` python3 analyze_rec_events_refined.py -c ../data_for_scripts/recombination_detection/unique_multiclusters.tsv -an ../data_for_scripts/recombination_detection/all_domains -r ../data_for_scripts/recombination_detection/merged.filtered_events.s70.l3.csv -rn ../data_for_scripts/recombination_detection/ref_domains -o <output_dir> ```
+- `predict_unknown_parents.py` - the script for predicting the number of toxins possibly absent in the analyzed dataset based on the proportion of branches with recombinants and parents in domain-wise phylogenetic trees. The script could be run with the following command:
+
+``` python3 predict_unknown_parents.py -r ../data_for_scripts/recombination_detection/merged.filtered_events.s70.l3.csv -t ../data_for_scripts/recombination_detection/collapsed_trees ```
+- `build_recombination_graph.py` - the script for reconstructing a directed graph with recombination exchanges. In the resulting graph, nodes correspond to toxins while edges represent transferred domains. The summary of connected components, including the number of toxins and events of a certain type, is also generated. In the results, the graph is visualized as well with the color of edges representing transferred domains and nodes illustrating the type of toxins (recombinants, parents, or both). The script is launched with the following command:
+
+
+``` python3 build_recombination_graph.py -r ../data_for_scripts/recombination_detection/merged.filtered_events.s70.l3.csv  -t ../data_for_scripts/recombination_detection/full_contat.nwk ```
+
+### Analysis of recombination mechanisms
+- `clean_from_amb_sites.py` - the script performs processing of the inputted fasta file by replacing ambiguous bases with the most frequent base to further run the ClonalFrameML software. To run the script, use the following command:
+
+``` python3 clean_from_amb_sites.py -f <fasta_file> ```
+- `summarize_MGES_in_genomes.py` - the script generates a summary table with the number of MGEs (mobile genetic elements) for <i>Bt</i> assemblies by gathering coordinates of the elements and ‘cry’ loci. The script is run with the following command:
+
+``` python3 summarize_MGES_in_genomes.py -r ../data_for_scripts/mechanisms/merged.filtered_events.s70.l3.csv -a ../data_for_scripts/mechanisms/asmbl_types.csv -m ../data_for_scripts/mechanisms/MGE_beds -c ../data_for_scripts/mechanisms/MGE_beds/all_crys -cl ../data_for_scripts/mechanisms/no_pat_cd_hit_clusters.tsv ```
+- `get_breakpoints_from_alignments.py` - the script extracts parental sequences in the regions surrounding recombination breakpoints. The coordinates are revealed by finding a substring of the recombinant sequence in the alignment of all parents with recombinants in the event. The script generates coordinates and contains functions applied in the code. To launch the script, use the following command: 
+
+``` python3 get_breakpoints_from_alignments.py -c ../data_for_scripts/mechanisms/cry_asmbl_stat.tsv -a ../data_for_scripts/mechanisms/bt_assemblies.tsv  -an ../data_for_scripts/mechanisms/ref_full_nucl_corrected.fasta -pn ../data_for_scripts/mechanisms/ref_nucl_processed.fasta -rt ../data_for_scripts/mechanisms/merged.filtered_events.s70.l3.csv -ad ../data_for_scripts/mechanisms/ref_domains -fb ../data_for_scripts/mechanisms/Reference_domain_mapppings_full.bed -pb ../data_for_scripts/mechanisms/Reference_domain_mapppings_processed.bed ```
+- `get_breakpoints_from_RDP.py` - the script extracts regions flanking recombination breakpoints by extracting the sequences from the alignment of the processed sequences based on alignment-wise coordinates provided by the RDP4 utility. The extracted parental sequences are then aligned with MAFFT. The script provides the table with coordinate-wise identity estimates in the obtained alignments of parents. The script could be run with the following command:
+
+``` python3 get_breakpoints_from_RDP.py -na ../data_for_scripts/mechanisms/ref_all_processed_nucl_aln.fasta -fn ../data_for_scripts/mechanisms/ref_full_nucl_corrected.fasta -rt ../data_for_scripts/mechanisms/RDP_raw_signals.csv -rf ../data_for_scripts/mechanisms/merged.filtered_events.s70.l3.csv  -ad <output_directory> -bt ../data_for_scripts/mechanisms/Mappings_for_breakpoints_de_novo_search.csv -rc ../data_for_scripts/mechanisms/RDP_pre_filtered_fixed.tsv -nd ../data_for_scripts/mechanisms/ref_domains ```
+
+### Impact of recombination of host specificity
+- `overall_toxicity_summary.py` - the scripts summarize the total number of assays for bacterial strains and Cry toxins regarding the BRRPC nomenclature. The results of the script also include the table with the toxicity spectrum of the strains/genome assemblies containing toxins of particular types (recombinants, parents, both, and those unaffected by recombination) as well as the number of hosts for the toxins regarding the aforementioned type. To use the script, run the following command:
+
+``` python3 overall_toxicity_summary.py -t ../data_for_scripts/specificity/toxicity_mearged_fixed_non_redundant.csv -r ../data_for_scripts/specificity/merged.filtered_events.s70.l3.csv -s ../data_for_scripts/specificity/Cry_strains_fixed.csv -f ../data_for_scripts/specificity/Ref_cry_prots_clust.csv -a ../data_for_scripts/specificity/Cry_asmbl_stat.csv -p ../data_for_scripts/specificity/Plasmids_chromosomes_per_accession.csv ```
+- `cry_combinations_per_strain_and_assembly.py` - the script performs comparisons between the sets of toxins strains/genome assemblies containing parent and recombinants. The script could be run with the following command:
+
+``` python3 cry_combinations_per_strain_and_assembly.py -r ../data_for_scripts/specificity/merged.filtered_events.s70.l3.csv -s ../data_for_scripts/specificity/toxicity_mearged_fixed_non_redundant.csv -t ../data_for_scripts/specificity/Cry_strains_fixed.csv -p ../data_for_scripts/specificity/Plasmids_chromosomes_per_accession.csv -f ../data_for_scripts/specificity/Ref_cry_prots_clust.csv -a ../data_for_scripts/specificity/Cry_asmbl_stat.csv ```
+- `build_strains_graph.py` - the script reconstructs and visualizes a weighted undirected graph with strains corresponding to nodes and edges reflecting the composition of toxins shared between the strains. The color of the nodes illustrates the composition of affected host orders for toxins within the strain. The script also generates a summary table with the properties of connected components, namely, the number of toxins, strains, affected host species/orders, and recombination events. To use the script, run the following command:
+
+``` python3 build_strains_graph.py -r ../data_for_scripts/specificity/merged.filtered_events.s70.l3.csv -s ../data_for_scripts/specificity/toxicity_mearged_fixed_non_redundant.csv  -p ../data_for_scripts/specificity/Cry_strains_fixed.csv  -o ../data_for_scripts/specificity/species_to_orders.csv ```
+- `count_host_changes.py` - the script performs comparisons between the sets of affected species and orders of recombinants and parents as well as strains and genome assemblies containing them. The script is launched with the following command.
+
+``` python3 count_host_changes.py -r ../data_for_scripts/specificity/merged.filtered_events.s70.l3.csv -s ../data_for_scripts/specificity/toxicity_mearged_fixed_non_redundant.csv -t ../data_for_scripts/specificity/Cry_strains_fixed.csv -o ../data_for_scripts/specificity/species_to_orders.csv -i ../data_for_scripts/specificity/pairs_identity_no_pat.tsv -l ../data_for_scripts/specificity/Ref_cry_prots_clust.csv ```
+- `prepare_combined_strain_graph.py` - the script reconstructs and visualizes a weighted undirected graph with nodes representing connected components and edges illustrating recombination events between toxins in these components. The color of the edges corresponds to transferred domains, while nodes are colored according to the proportion of affected host orders for toxins and strains included in the component. To use the script, run the following command:
+
+``` python3 prepare_combined_strain_graph.py -r ../data_for_scripts/specificity/merged.filtered_events.s70.l3.csv -s ../data_for_scripts/specificity/toxicity_mearged_fixed_non_redundant.csv  -p ../data_for_scripts/specificity/Cry_strains_fixed.csv  -o ../data_for_scripts/specificity/species_to_orders.csv ```
+
+### Evolutionary selection
+- `report_gaps.py` - the script generates a codon-wise nucleotide alignment based on nucleotide sequences and protein alignments. The script is run with the following command:
+
+``` python3 report_gaps.py <nulc_aligment>  <prot_alignment> ```
+- `create_evol_data_on_fixed_recombinants.py` - the script prepares the data required for performing evolutionary selection analysis, namely, protein and nucleotide sequences of the toxins in the extracted domain-wise subtrees containing recombinants and parents on one clade. The script also generates the table with the lists of recombinants and parents and the number of them as well as the total number of toxins in the subtrees. For a detailed description of the procedure, consult the Methods section of the article. To use the script, run the following command:
+
+``` python3 create_evol_data_on_fixed_recombinants.py -r ../data_for_scripts/evol_selection/merged.filtered_events.s70.l3.csv -t ../data_for_scripts/evol_selection/collapsed_trees/domain1_collapsed.nwk -t ../data_for_scripts/evol_selection/collapsed_trees/domain2_collapsed.nwk -t ../data_for_scripts/evol_selection/collapsed_trees/domain3_collapsed.nwk -o evol_preparation_data.tsv -e <output_dir> -n ../data_for_scripts/evol_selection/nucl_domains/domain1.fasta -n ../data_for_scripts/evol_selection/nucl_domains/domain2.fasta -n ../data_for_scripts/evol_selection/nucl_domains/domain3.fasta -p ../data_for_scripts/evol_selection/prot_domains/domain1_prot.fasta -p ../data_for_scripts/evol_selection/prot_domains/domain2_prot.fasta -p ../data_for_scripts/evol_selection/prot_domains/domain3_prot.fasta -c ../data_for_scripts/evol_selection/unique_multiclusters.tsv -hf ../data_for_scripts/evol_selection/pairs_identity_no_pat.tsv ```
+- `build_trees_for_evol.py` - the script is applied to generate guiding phylogenetic trees for revealing signals of evolutionary selection. The trees are generated by creating codon-wise nucleotide alignments from protein alignments, identifying optimal evolutionary models with the ModelTest-NG utility, and reconstructing phylogeny with RAxML-NG. Therefore the paths to these instruments should be provided after the `-mg` and `-rg` flags, respectively. The script also requires the path to the directory with sequences obtained with the `create_evol_data_on_fixed_recombinants.py` script. To use the script, run the following command:
+
+``` python3 build_trees_for_evol.py -r ../data_for_scripts/evol_selection/evol_preparation_data.tsv -e <evol_directory> -mg <modeltest_path> -rg <raxml-ng_path> ```
+- `run_ete3_on_filtered_recomb.py` - the script launches ete3 software based on the prepared data with guiding trees and alignments generated by `create_evol_data_on_fixed_recombinants.py` and `build_trees_for_evol.py` scripts. Three models are tested, namely, site, branch, and branch-site. The script could be run with the following command:
+
+``` python3 run_ete3_on_filtered_recomb.py -r ../data_for_scripts/evol_selection/evol_preparation_data.tsv -e <evol_directory> ```
+- `agregate_selection_results.py` - the script summarizes the results of ete3 calculations and generates an overall table with the best models, selection type, LRT (log-likelihood ratio test), and the number of positively selected and conservative sites. The script is launched with the following command:
+
+``` python3 agregate_selection_results.py -r ../data_for_scripts/evol_selection/evol_preparation_data.tsv -e ../data_for_scripts/evol_selection/calculated_evol ```
+- `parse_selection_sites.py` - the script generates coordinate-wise properties of sites obtained with site and branch-site models, namely, the type of the site (conservative or positively selected), the significance level for the best mode, and the probability of the selection signal. To use the script, run the following command:
+
+``` python3 parse_selection_sites.py -s ../data_for_scripts/evol_selection/selection_results_summary_with_relaxed.csv -e ../data_for_scripts/evol_selection/calculated_evol -t ../data_for_scripts/evol_selection/Simpson_stat_for_events.csv -o ../data_for_scripts/evol_selection/Hosts_for_heatmap_stat_per_species.csv ```
+
