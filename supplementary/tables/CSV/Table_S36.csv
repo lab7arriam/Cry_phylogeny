@@ -1,0 +1,98 @@
+ID,Type,Mode,Same_flag,Recs,Rec_hosts,Mins,Min_hots,Majs,Maj_hosts
+8,domain3,Rank4,Same,BT_Cry71Aa1,Spodoptera exigua (Lepidoptera),BT_Cry72Aa1,Spodoptera exigua (Lepidoptera),NOV_Cry71Aa1_65.9_PER41598.1,Spodoptera frugiperda (Lepidoptera)
+14,domain3,Rank4,Different,BT_Cry1Cb1,Myzus persicae (Hemiptera),BT_Cry1Eb1,Plutella xylostella (Lepidoptera),,
+,,,,,,,Spodoptera exigua (Lepidoptera),,
+,,,,,,,Trichoplusia ni (Lepidoptera),,
+,,,,,,BT_Cry1Bf1,Heliothis virescens (Lepidoptera),,
+,,,,,,,Ostrinia nubilalis (Lepidoptera),,
+,,,,,,,Sesamia nonagrioides (Lepidoptera),,
+,,,,,,BT_Cry1Bg1,,,
+,,,,,,BT_Cry1Be1,,,
+17,domain3,Rank4,Same,BT_Cry1Fa1,Bombyx mori (Lepidoptera),BT_Cry1Ig1,Diatraea grandiosella (Lepidoptera),BT_Cry1Fb1,Agrotis ipsilon (Lepidoptera)
+,,,,,Choristoneura fumiferana (Lepidoptera),,Ostrinia nubilalis (Lepidoptera),,
+,,,,,,,Plutella xylostella (Lepidoptera),,
+,,,,,,BT_Cry1Ka2,,,
+19,domain3,Rank4,Same,BT_Cry9Ga1,Anticarsia gemmatalis (Lepidoptera),BT_Cry1Gb1,Pieris rapae (Lepidoptera),BT_Cry9Aa1,Galleria mellonella (Lepidoptera)
+,,,,,Diatraea grandiosella (Lepidoptera),BT_Cry1Ga2,,,
+,,,,,Plutella xylostella (Lepidoptera),,,,
+23,domain3,Rank4,Different,BT_Cry52Ba1,Aedes aegypti (Diptera),BT_Cry52Ca1,Helicoverpa armigera (Lepidoptera),,
+,,,,,,BT_Cry40Aa1,,,
+27,domain3,Rank4,Same,BT_Cry41Ab1,Human cancer cells (Human),,,BT_Cry41Aa1,Human cancer cells (Human)
+29,domain3,Rank4,Different,BT_Cry4Ba1,Aedes aegypti (Diptera),BT_Cry30Fa1,Aedes aegypti (Diptera),BT_Cry19Aa1,Anopheles stephensi (Diptera)
+,,,,,Anopheles albimanus (Diptera),,Helicoverpa armigera (Lepidoptera),,Culex pipiens (Diptera)
+,,,,,Anopheles gambiae (Diptera),,Plutella xylostella (Lepidoptera),,
+,,,,,Anopheles quadrimaculatus (Diptera),,Spodoptera exigua (Lepidoptera),,
+,,,,,Chironomus tepperi (Diptera),BT_Cry30Ga1,Aedes aegypti (Diptera),,
+,,,,,Culex pipiens (Diptera),,Plutella xylostella (Lepidoptera),,
+,,,,,Culex quinquefasciatus (Diptera),BT_Cry30Ca1,,,
+,,,,,Tipula oleracea (Diptera),BT_Cry30Aa1,,,
+,,,,BT_Cry50Ba1,,BT_Cry30Ea1,,,
+,,,,BT_Cry4Ba3,,,,,
+,,,,BT_Cry50Aa1,,,,,
+,,,,NOV_Cry4Ba1_63.8_OUB35623.1,,,,,
+34,domain1,Rank4,Different,NOV_Cry14Ab1_42.4_PGW46196.1,Diabrotica virgifera virgifera (Coleoptera),,,NOV_Cry14Aa1_41.1_PGW46198.1,Nezara viridula (Hemiptera)
+,,,,,Nezara viridula (Hemiptera),,,,
+38,domain1,Rank4,Different,BT_Cry59Ba1,Aedes aegypti (Diptera),BT_Cry40Da1,Culex quinquefasciatus (Diptera),,
+,,,,,Spodoptera exigua (Lepidoptera),NOV_Cry40Da1_65.0_CAH33957.1,,,
+,,,,,,BT_Cry40Ca1,,,
+,,,,,,BT_Cry40Ba1,,,
+,,,,,,NOV_Cry40Da1_81.5_AIN76756.1,,,
+,,,,,,NOV_Cry40Da1_66.9_PER55269.1,,,
+,,,,,,NOV_Cry40Da1_77.3_ARJ25823.1,,,
+44,domain3,Rank4,Same,BT_Cry9Ee1,Ostrinia furnacalis (Lepidoptera),BT_Cry9Bb1,Manduca sexta (Lepidoptera),BT_Cry9Ec1,Bombyx mori (Lepidoptera)
+,,,,,Plutella xylostella (Lepidoptera),,Spodoptera frugiperda (Lepidoptera),,Plutella xylostella (Lepidoptera)
+,,,,,,,,BT_Cry9Ed1,Ostrinia nubilalis (Lepidoptera)
+52,domain3,Rank4,Different,NOV_Cry9Ga1_57.2_PER39584.1,Aphis gossypii (Hemiptera),BT_Cry68Aa1,Helicoverpa armigera (Lepidoptera),,
+,,,,,Diatraea grandiosella (Lepidoptera),,Spodoptera exigua (Lepidoptera),,
+,,,,,Euschistus servus (Hemiptera),NOV_Cry68Aa1_74.8_WP_103592020.1,,,
+,,,,,Plutella xylostella (Lepidoptera),NOV_Cry68Aa1_80.1_PER38368.1,,,
+53,domain3,Rank4,Same,BT_Cry1Jd1,Heliothis virescens (Lepidoptera),,,BT_Cry1Jb1,Helicoverpa armigera (Lepidoptera)
+,,,,,,,,,Plutella xylostella (Lepidoptera)
+56,domain1,Rank4,Same,BT_Cry9Ca1,Agrotis ipsilon (Lepidoptera),,,BT_Cry9Ec1,Bombyx mori (Lepidoptera)
+,,,,,Agrotis segetum (Lepidoptera),,,,Plutella xylostella (Lepidoptera)
+,,,,,Bombyx mori (Lepidoptera),,,BT_Cry9Ed1,Ostrinia nubilalis (Lepidoptera)
+,,,,,Choristoneura fumiferana (Lepidoptera),,,,
+,,,,,Heliothis virescens (Lepidoptera),,,,
+,,,,,Mamestra brassicae (Lepidoptera),,,,
+,,,,,Manduca sexta (Lepidoptera),,,,
+,,,,,Ostrinia nubilalis (Lepidoptera),,,,
+,,,,,Plutella xylostella (Lepidoptera),,,,
+,,,,,Spodoptera exigua (Lepidoptera),,,,
+,,,,,Spodoptera littoralis (Lepidoptera),,,,
+71,domain2,Rank4,Different,BT_Cry19Aa1,Anopheles stephensi (Diptera),,,BT_Cry1Na1,Agrotis ipsilon (Lepidoptera)
+,,,,,Culex pipiens (Diptera),,,,Helicoverpa zea (Lepidoptera)
+,,,,,,,,,Heliothis virescens (Lepidoptera)
+,,,,,,,,,Lygus lineolaris (Hemiptera)
+,,,,,,,,,Manduca sexta (Lepidoptera)
+,,,,,,,,,Ostrinia nubilalis (Lepidoptera)
+,,,,,,,,,Pectinophora gossypiella (Lepidoptera)
+,,,,,,,,,Spodoptera frugiperda (Lepidoptera)
+,,,,,,,,,Trichoplusia ni (Lepidoptera)
+,,,,,,,,BT_Cry1Nb1,Anticarsia gemmatalis (Lepidoptera)
+,,,,,,,,,Diatraea grandiosella (Lepidoptera)
+,,,,,,,,,Ostrinia nubilalis (Lepidoptera)
+,,,,,,,,,Plutella xylostella (Lepidoptera)
+87,domain1,Rank4,Different,BT_Cry1Bj1,Anticarsia gemmatalis (Lepidoptera),BT_Cry1Ba1,Acanthoscelides obtectus  (Coleoptera),BT_Cry1Bb1,Manduca sexta (Lepidoptera)
+,,,,,Chrysodeixis includens (Lepidoptera),,Choristoneura fumiferana (Lepidoptera),,Spodoptera frugiperda (Lepidoptera)
+,,,,,Ostrinia nubilalis (Lepidoptera),,Chrysomela scripta (Coleoptera),,
+,,,,BT_Cry1Be1,,,Manduca sexta (Lepidoptera),,
+,,,,,,,Musca domestica (Diptera),,
+,,,,,,,Plutella xylostella (Lepidoptera),,
+,,,,,,,Xylotrechus arvicola (Coleoptera),,
+,,,,,,BT_Cry1Bf1,Heliothis virescens (Lepidoptera),,
+,,,,,,,Ostrinia nubilalis (Lepidoptera),,
+,,,,,,,Sesamia nonagrioides (Lepidoptera),,
+95,domain1,Rank4,Different,BT_Cry2Am1,Aedes aegypti (Diptera),BT_Cry2Al1,Helicoverpa armigera (Lepidoptera),BT_Cry2Ag1,Aedes aegypti (Diptera)
+,,,,,,,Spodoptera litura (Lepidoptera),,Pieris rapae (Lepidoptera)
+,,,,,,,,BT_Cry2Ab15,
+98,domain3,Rank4,Same,BT_Cry3Bb1,Diabrotica undecimpunctata howardi (Coleoptera),BT_Cry8Da1,Anomala cuprea (Coleoptera),BT_Cry3Ca1,Cylas brunneus (Coleoptera)
+,,,,,Leptinotarsa decemlineata (Coleoptera),,,,Cylas puncticollis (Coleoptera)
+,,,,BT_Cry3Ba1,Cyclocephala borealis (Coleoptera),,,,Leptinotarsa decemlineata (Coleoptera)
+,,,,,Cyclocephala pasadenae (Coleoptera),,,,
+109,domain3,Rank4,Different,NOV_Cry69Ab1_58.0_PER42111.1,Euschistus servus (Hemiptera),BT_Cry69Aa1,Aedes aegypti (Diptera),,
+,,,,,Nezara viridula (Hemiptera),,Culex quinquefasciatus (Diptera),,
+,,,,,,,Helicoverpa armigera (Lepidoptera),,
+,,,,,,,Spodoptera exigua (Lepidoptera),,
+,,,,,,BT_Cry69Ab1,,,
+119,domain1,Rank4,Same,BT_Cry14Ab1,Caenorhabditis elegans (Nematoda),,,BT_Cry14Aa1,Bursaphelenchus xylophilus (Nematoda)
+,,,,,Heterodera glycines (Nematoda),,,,Panagrellus redivivus (Nematoda)

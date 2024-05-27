@@ -1,0 +1,1722 @@
+Group,Accession,Num,Dataset,Mode
+par,14,1,Strains,soft
+par,27,4,Strains,soft
+par,60.5,1,Strains,soft
+par,61,1,Strains,soft
+par,601,1,Strains,soft
+par,1905,4,Strains,soft
+par,2122,4,Strains,soft
+par,2124,2,Strains,soft
+par,2260,1,Strains,soft
+par,007983-6,5,Strains,soft
+par,007986-5,6,Strains,soft
+par,007989-3,6,Strains,soft
+par,11-76,1,Strains,soft
+par,1126_1,5,Strains,soft
+par,14-1,1,Strains,soft
+par,14-2,3,Strains,soft
+par,146-158-01,2,Strains,soft
+par,18_216,3,Strains,soft
+par,18_218,3,Strains,soft
+par,18_421,3,Strains,soft
+par,18_614,3,Strains,soft
+par,20-1,3,Strains,soft
+par,21-1,3,Strains,soft
+par,22-4,1,Strains,soft
+par,25-6,3,Strains,soft
+par,26-1,3,Strains,soft
+par,261-1,1,Strains,soft
+par,27-3,5,Strains,soft
+par,2B,2,Strains,soft
+par,30-1,3,Strains,soft
+par,30-4,3,Strains,soft
+par,4A,1,Strains,soft
+par,4A1,2,Strains,soft
+par,4A2,2,Strains,soft
+par,4D2,3,Strains,soft
+par,4D3,1,Strains,soft
+par,4D5,3,Strains,soft
+par,4F1,5,Strains,soft
+par,4F3,3,Strains,soft
+par,4F4,5,Strains,soft
+par,4G2,6,Strains,soft
+par,4G3,5,Strains,soft
+par,4I5,2,Strains,soft
+par,4L1,3,Strains,soft
+par,4L2,3,Strains,soft
+par,4L4,2,Strains,soft
+par,4M5,3,Strains,soft
+par,4N,3,Strains,soft
+par,6/27/S,6,Strains,soft
+par,67-3,1,Strains,soft
+par,7-29,1,Strains,soft
+par,7.1o,4,Strains,soft
+par,777001-1,5,Strains,soft
+par,777001F-1,5,Strains,soft
+par,777002-3,5,Strains,soft
+par,78-2,4,Strains,soft
+par,92-KU-149-8,1,Strains,soft
+par,96-OK-85-24,3,Strains,soft
+par,A-19-31,3,Strains,soft
+par,A1462,3,Strains,soft
+par,AB88,1,Strains,soft
+par,ABTS-1857,7,Strains,soft
+par,ABTS-351,5,Strains,soft
+par,AC-11,1,Strains,soft
+par,AFS001368,1,Strains,soft
+par,AFS004414,3,Strains,soft
+par,AFS005140,8,Strains,soft
+par,AFS013213,8,Strains,soft
+par,AFS017221,1,Strains,soft
+par,AFS018409,3,Strains,soft
+par,AFS030866,7,Strains,soft
+par,AFS031473,3,Strains,soft
+par,AFS034084,3,Strains,soft
+par,AFS034708,3,Strains,soft
+par,AFS043930,3,Strains,soft
+par,AFS045461,1,Strains,soft
+par,AFS050081,3,Strains,soft
+par,AFS057443,1,Strains,soft
+par,AFS057829,5,Strains,soft
+par,AFS059039,8,Strains,soft
+par,AFS061780,3,Strains,soft
+par,AFS074325,1,Strains,soft
+par,AFS081174,1,Strains,soft
+par,AFS081381,1,Strains,soft
+par,AFS083176,1,Strains,soft
+par,AFS083298,1,Strains,soft
+par,AFS088016,8,Strains,soft
+par,AFS098022,2,Strains,soft
+par,AFS098399,2,Strains,soft
+par,AGES_2_27_S,5,Strains,soft
+par,AGES_6_27_S,6,Strains,soft
+par,AK47,3,Strains,soft
+par,ARP009,1,Strains,soft
+par,ARP021,1,Strains,soft
+par,ARP102,1,Strains,soft
+par,ARP146,1,Strains,soft
+par,ARP166,1,Strains,soft
+par,ARP174,1,Strains,soft
+par,ARP218,1,Strains,soft
+par,ARP242,1,Strains,soft
+par,ARP256,1,Strains,soft
+par,ARP259,1,Strains,soft
+par,ARP277,1,Strains,soft
+par,ATCC 10792,2,Strains,soft
+par,ATX 13026,11,Strains,soft
+par,ATXl 5723,1,Strains,soft
+par,B-DLL,2,Strains,soft
+par,B-Hm-16,2,Strains,soft
+par,B-JJX,1,Strains,soft
+par,B-Pr-88,4,Strains,soft
+par,B.t-227,1,Strains,soft
+par,B.t-235,1,Strains,soft
+par,B13,1,Strains,soft
+par,B401,6,Strains,soft
+par,B4158,2,Strains,soft
+par,berliner 1715,1,Strains,soft
+par,BfR-BA-01312,1,Strains,soft
+par,BfR-BA-01317,1,Strains,soft
+par,BfR-BA-01319,5,Strains,soft
+par,BfR-BA-01321,1,Strains,soft
+par,BfR-BA-01348,1,Strains,soft
+par,BfR-BA-01356,2,Strains,soft
+par,BfR-BA-01393,2,Strains,soft
+par,BGSC 4A4,1,Strains,soft
+par,BGSC 4AE1,12,Strains,soft
+par,BGSC 4AL1,2,Strains,soft
+par,BGSC 4AO1,6,Strains,soft
+par,BGSC 4AP1,5,Strains,soft
+par,BGSC 4AR1,4,Strains,soft
+par,BGSC 4AT1,4,Strains,soft
+par,BGSC 4AU1,2,Strains,soft
+par,BGSC 4AW1,7,Strains,soft
+par,BGSC 4BB1,2,Strains,soft
+par,BGSC 4BC1,2,Strains,soft
+par,BGSC 4BF1,3,Strains,soft
+par,BGSC 4BG1,2,Strains,soft
+par,BGSC 4BP1,3,Strains,soft
+par,BGSC 4BS1,1,Strains,soft
+par,BGSC 4BT1,2,Strains,soft
+par,BGSC 4BV1,3,Strains,soft
+par,BGSC 4C1,2,Strains,soft
+par,BGSC 4CB1,12,Strains,soft
+par,BGSC 4CE1,5,Strains,soft
+par,BGSC 4E3,1,Strains,soft
+par,BGSC 4G1,12,Strains,soft
+par,BGSC 4G4,11,Strains,soft
+par,BGSC 4J1,4,Strains,soft
+par,BGSC 4J2,5,Strains,soft
+par,BGSC 4J4,4,Strains,soft
+par,BGSC 4J5,4,Strains,soft
+par,BGSC 4L3,5,Strains,soft
+par,BGSC 4N1,9,Strains,soft
+par,BGSC 4O1,7,Strains,soft
+par,BGSC 4Q1,3,Strains,soft
+par,BGSC 4U1,5,Strains,soft
+par,BGSC 4X1,4,Strains,soft
+par,BGSN1,1,Strains,soft
+par,BJH406,1,Strains,soft
+par,BJH500,1,Strains,soft
+par,BLB1,2,Strains,soft
+par,BLB250,1,Strains,soft
+par,BLB32,1,Strains,soft
+par,BMB3201,4,Strains,soft
+par,BMG1.7,5,Strains,soft
+par,BN15-6,2,Strains,soft
+par,BN23-5,5,Strains,soft
+par,BNS3,3,Strains,soft
+par,BP865,3,Strains,soft
+par,BR145,3,Strains,soft
+par,BR37,5,Strains,soft
+par,BRC-ZYR2,1,Strains,soft
+par,BRI-144,2,Strains,soft
+par,BRI-258,1,Strains,soft
+par,BRL14,1,Strains,soft
+par,BRL34,1,Strains,soft
+par,BT HMM,2,Strains,soft
+par,BT MX9,1,Strains,soft
+par,Bt roskildiensis,1,Strains,soft
+par,Bt S185,2,Strains,soft
+par,Bt-GS57,5,Strains,soft
+par,BT-MX2,1,Strains,soft
+par,Bt012,1,Strains,soft
+par,bt145,1,Strains,soft
+par,Bt185,4,Strains,soft
+par,Bt87,2,Strains,soft
+par,BTC002,1,Strains,soft
+par,Btc005,1,Strains,soft
+par,BtC008,1,Strains,soft
+par,BtG7,1,Strains,soft
+par,BTH-13,1,Strains,soft
+par,BtI109P,1,Strains,soft
+par,BtMC28,7,Strains,soft
+par,Bts,2,Strains,soft
+par,BtS02072BG,1,Strains,soft
+par,BtS2491Ab,1,Strains,soft
+par,BTy41,6,Strains,soft
+par,Buibui,2,Strains,soft
+par,Bun1-14,4,Strains,soft
+par,BUPM109,1,Strains,soft
+par,C-33,2,Strains,soft
+par,c002,1,Strains,soft
+par,C12,1,Strains,soft
+par,C15,5,Strains,soft
+par,C1Ia148,1,Strains,soft
+par,C2Ab118,1,Strains,soft
+par,C2Ab148,1,Strains,soft
+par,C2Ab86,1,Strains,soft
+par,CH_65,5,Strains,soft
+par,CH_684,3,Strains,soft
+par,CH_69,3,Strains,soft
+par,CH_692,5,Strains,soft
+par,CH_696,5,Strains,soft
+par,CH_698,3,Strains,soft
+par,CH_709,5,Strains,soft
+par,CH_72,6,Strains,soft
+par,CH_722,3,Strains,soft
+par,CH_733,5,Strains,soft
+par,CH_746,5,Strains,soft
+par,CH_748,5,Strains,soft
+par,CH_81,3,Strains,soft
+par,CH417_13T,1,Strains,soft
+par,CH426a_13T,1,Strains,soft
+par,CH460b_14D,1,Strains,soft
+par,CIB 163-131,3,Strains,soft
+par,CMBL-BT1,2,Strains,soft
+par,CMBL-BT2,2,Strains,soft
+par,CMBL-BT3,1,Strains,soft
+par,CMCC P0011,2,Strains,soft
+par,CMCC P0021,2,Strains,soft
+par,CPB012,1,Strains,soft
+par,CT-43,5,Strains,soft
+par,CVUAS2492,5,Strains,soft
+par,CVUAS9659,5,Strains,soft
+par,CVUAS9660,5,Strains,soft
+par,CY29,1,Strains,soft
+par,CYZ-4,1,Strains,soft
+par,D1,1,Strains,soft
+par,DBG15,3,Strains,soft
+par,DE0161,3,Strains,soft
+par,DE0589,3,Strains,soft
+par,DL,1,Strains,soft
+par,Dongbei 66,1,Strains,soft
+par,DOR BT-1,1,Strains,soft
+par,DP1019,2,Strains,soft
+par,DS415,1,Strains,soft
+par,E-1A,1,Strains,soft
+par,E-1B,1,Strains,soft
+par,E05-20a,1,Strains,soft
+par,EG 5847,2,Strains,soft
+par,EG5092,1,Strains,soft
+par,FB,4,Strains,soft
+par,FB-32,1,Strains,soft
+par,FCC41,5,Strains,soft
+par,FCD114,2,Strains,soft
+par,FDAARGOS_800,2,Strains,soft
+par,FDAARGOS_801,1,Strains,soft
+par,FH21,4,Strains,soft
+par,FU-2-7,1,Strains,soft
+par,FY-2,1,Strains,soft
+par,G03,5,Strains,soft
+par,G10-01A,1,Strains,soft
+par,G25-44,3,Strains,soft
+par,G25-46,2,Strains,soft
+par,G25-47,1,Strains,soft
+par,G25-76,1,Strains,soft
+par,G25-85,1,Strains,soft
+par,G25-93,10,Strains,soft
+par,G25-96,5,Strains,soft
+par,G25-97,11,Strains,soft
+par,G7-1,2,Strains,soft
+par,g9,1,Strains,soft
+par,GC-91,6,Strains,soft
+par,GCA_000161515.1,2,Assemblies,soft
+par,GCA_000161535.1,1,Assemblies,soft
+par,GCA_000161615.1,2,Assemblies,soft
+par,GCA_000161715.1,9,Assemblies,soft
+par,GCA_000193355.1,5,Assemblies,soft
+par,GCA_000292455.1,1,Assemblies,soft
+par,GCA_000300475.1,8,Assemblies,soft
+par,GCA_000341665.1,6,Assemblies,soft
+par,GCA_000387405.2,5,Assemblies,soft
+par,GCA_000468975.2,4,Assemblies,soft
+par,GCA_000468995.3,6,Assemblies,soft
+par,GCA_000600315.1,12,Assemblies,soft
+par,GCA_000688795.1,5,Assemblies,soft
+par,GCA_000710255.1,5,Assemblies,soft
+par,GCA_000717535.1,6,Assemblies,soft
+par,GCA_000747545.1,5,Assemblies,soft
+par,GCA_000803665.1,7,Assemblies,soft
+par,GCA_000833655.1,2,Assemblies,soft
+par,GCA_000835235.1,6,Assemblies,soft
+par,GCA_000969665.1,2,Assemblies,soft
+par,GCA_001017635.1,5,Assemblies,soft
+par,GCA_001182785.1,9,Assemblies,soft
+par,GCA_001420855.1,2,Assemblies,soft
+par,GCA_001548175.1,3,Assemblies,soft
+par,GCA_001595725.1,2,Assemblies,soft
+par,GCA_001598095.1,9,Assemblies,soft
+par,GCA_001640965.1,2,Assemblies,soft
+par,GCA_001685565.1,3,Assemblies,soft
+par,GCA_001880115.1,4,Assemblies,soft
+par,GCA_001880125.1,3,Assemblies,soft
+par,GCA_001968805.1,3,Assemblies,soft
+par,GCA_002025105.1,3,Assemblies,soft
+par,GCA_002119445.1,2,Assemblies,soft
+par,GCA_002146315.1,12,Assemblies,soft
+par,GCA_002146335.1,1,Assemblies,soft
+par,GCA_002146405.1,6,Assemblies,soft
+par,GCA_002146425.1,5,Assemblies,soft
+par,GCA_002146445.1,4,Assemblies,soft
+par,GCA_002146505.1,2,Assemblies,soft
+par,GCA_002146545.1,4,Assemblies,soft
+par,GCA_002146595.1,4,Assemblies,soft
+par,GCA_002146605.1,2,Assemblies,soft
+par,GCA_002146655.1,2,Assemblies,soft
+par,GCA_002146755.1,3,Assemblies,soft
+par,GCA_002146815.1,2,Assemblies,soft
+par,GCA_002146845.1,1,Assemblies,soft
+par,GCA_002146945.1,1,Assemblies,soft
+par,GCA_002147025.1,2,Assemblies,soft
+par,GCA_002147055.1,3,Assemblies,soft
+par,GCA_002147085.1,12,Assemblies,soft
+par,GCA_002147105.1,12,Assemblies,soft
+par,GCA_002147155.1,5,Assemblies,soft
+par,GCA_002147165.1,4,Assemblies,soft
+par,GCA_002147185.1,5,Assemblies,soft
+par,GCA_002147235.1,4,Assemblies,soft
+par,GCA_002147245.1,5,Assemblies,soft
+par,GCA_002147255.1,4,Assemblies,soft
+par,GCA_002147315.1,9,Assemblies,soft
+par,GCA_002147325.1,7,Assemblies,soft
+par,GCA_002147375.1,12,Assemblies,soft
+par,GCA_002147435.1,4,Assemblies,soft
+par,GCA_002147535.1,4,Assemblies,soft
+par,GCA_002147555.1,5,Assemblies,soft
+par,GCA_002147565.1,7,Assemblies,soft
+par,GCA_002147575.1,6,Assemblies,soft
+par,GCA_002147605.1,6,Assemblies,soft
+par,GCA_002147635.1,4,Assemblies,soft
+par,GCA_002147645.1,7,Assemblies,soft
+par,GCA_002147685.1,6,Assemblies,soft
+par,GCA_002147725.1,5,Assemblies,soft
+par,GCA_002147895.1,2,Assemblies,soft
+par,GCA_002148015.1,1,Assemblies,soft
+par,GCA_002173755.1,2,Assemblies,soft
+par,GCA_002236945.1,5,Assemblies,soft
+par,GCA_002243685.1,1,Assemblies,soft
+par,GCA_002268645.2,5,Assemblies,soft
+par,GCA_002550215.1,2,Assemblies,soft
+par,GCA_002555365.1,3,Assemblies,soft
+par,GCA_002558015.1,7,Assemblies,soft
+par,GCA_002558525.1,7,Assemblies,soft
+par,GCA_002564505.1,7,Assemblies,soft
+par,GCA_002571305.1,7,Assemblies,soft
+par,GCA_002572135.1,3,Assemblies,soft
+par,GCA_002574115.1,5,Assemblies,soft
+par,GCA_002576585.1,3,Assemblies,soft
+par,GCA_002581075.1,3,Assemblies,soft
+par,GCA_002584205.1,3,Assemblies,soft
+par,GCA_002586085.1,5,Assemblies,soft
+par,GCA_002589015.1,3,Assemblies,soft
+par,GCA_002589045.1,3,Assemblies,soft
+par,GCA_002893505.1,2,Assemblies,soft
+par,GCA_002893515.1,4,Assemblies,soft
+par,GCA_002893525.1,1,Assemblies,soft
+par,GCA_002893565.1,10,Assemblies,soft
+par,GCA_002893585.1,2,Assemblies,soft
+par,GCA_002893605.1,5,Assemblies,soft
+par,GCA_003312445.1,5,Assemblies,soft
+par,GCA_003546665.1,4,Assemblies,soft
+par,GCA_003626955.1,4,Assemblies,soft
+par,GCA_003991175.1,5,Assemblies,soft
+par,GCA_004167115.1,3,Assemblies,soft
+par,GCA_004330415.1,7,Assemblies,soft
+par,Gnyt1,4,Strains,soft
+par,GR007,10,Strains,soft
+par,GS36,1,Strains,soft
+par,GWL,1,Strains,soft
+par,HBF-1,1,Strains,soft
+par,HBF-18,2,Strains,soft
+par,HD 1i,6,Strains,soft
+par,HD 600,2,Strains,soft
+par,HD-1,7,Strains,soft
+par,HD-1-02,1,Strains,soft
+par,HD-110,2,Strains,soft
+par,HD-2,2,Strains,soft
+par,HD-525,12,Strains,soft
+par,HD-550,1,Strains,soft
+par,HD-68,1,Strains,soft
+par,HD-771,1,Strains,soft
+par,HD-9,3,Strains,soft
+par,HD12,11,Strains,soft
+par,HD133,6,Strains,soft
+par,HD29,10,Strains,soft
+par,HD37,1,Strains,soft
+par,HD5,4,Strains,soft
+par,HER1410,1,Strains,soft
+par,higo,4,Strains,soft
+par,HS18-1,10,Strains,soft
+par,HTS-S-38,2,Strains,soft
+par,Hu4-2,6,Strains,soft
+par,HuB13-1,3,Strains,soft
+par,I13,6,Strains,soft
+par,IBL 200,10,Strains,soft
+par,IBL00090,9,Strains,soft
+par,IBL00171,9,Strains,soft
+par,IBL00197,4,Strains,soft
+par,IBL00503,5,Strains,soft
+par,IBL01259,5,Strains,soft
+par,IBL01313,5,Strains,soft
+par,IBL01677,2,Strains,soft
+par,IBL02897,9,Strains,soft
+par,IBL03111,5,Strains,soft
+par,IC1,1,Strains,soft
+par,IE-1,1,Strains,soft
+par,IHBB 10380,1,Strains,soft
+par,IMBL-B9,5,Strains,soft
+par,INA67,1,Strains,soft
+par,INTA Fr7-4,3,Strains,soft
+par,INTA H4-3,1,Strains,soft
+par,INTA Mo1-10,1,Strains,soft
+par,INTA Mo1-12,2,Strains,soft
+par,IPL7,2,Strains,soft
+par,IS5056,6,Strains,soft
+par,ISP2954,3,Strains,soft
+par,J8,1,Strains,soft
+par,jegathesan 367,5,Strains,soft
+par,JF19-2,1,Strains,soft
+par,JHCC4835,1,Strains,soft
+par,JSc1,1,Strains,soft
+par,K1,3,Strains,soft
+par,K26-21,1,Strains,soft
+par,K3,2,Strains,soft
+par,KBAB4,1,Strains,soft
+par,Kenyae 4a4c,1,Strains,soft
+par,kn11,5,Strains,soft
+par,KNU-25,5,Strains,soft
+par,kunthalaRX24,1,Strains,soft
+par,kunthalaRX27,1,Strains,soft
+par,kunthalaRX28,1,Strains,soft
+par,L-7601,3,Strains,soft
+par,LB-R-78,1,Strains,soft
+par,LBIC-004,1,Strains,soft
+par,LBIT-107,2,Strains,soft
+par,LBIT-1217,1,Strains,soft
+par,LBIT-418,2,Strains,soft
+par,LBIT-980,1,Strains,soft
+par,LBR2,1,Strains,soft
+par,Leapi01,4,Strains,soft
+par,Lip,1,Strains,soft
+par,LLB6,2,Strains,soft
+par,LM1212,4,Strains,soft
+par,LM1212-DB,2,Strains,soft
+par,LM1212-W3,3,Strains,soft
+par,LS-R-21,1,Strains,soft
+par,LS-R-30,1,Strains,soft
+par,LS5115-3,1,Strains,soft
+par,LSZ9408,2,Strains,soft
+par,LTS-209,1,Strains,soft
+par,LTS-38,1,Strains,soft
+par,LTS-7,2,Strains,soft
+par,Ly30,2,Strains,soft
+par,ly30,4,Strains,soft
+par,lyD,1,Strains,soft
+par,lyL,1,Strains,soft
+par,M100,3,Strains,soft
+par,MC28,8,Strains,soft
+par,MEB4,1,Strains,soft
+par,MHB10.6,1,Strains,soft
+par,MHB11.3,1,Strains,soft
+par,MHY1.10,1,Strains,soft
+par,MHY1.11,1,Strains,soft
+par,MnD,1,Strains,soft
+par,mo3-E7,1,Strains,soft
+par,MOD1_Bc137,3,Strains,soft
+par,MOD1_Bc231,2,Strains,soft
+par,MOD1_Bc235,3,Strains,soft
+par,MOD1_Bc30,3,Strains,soft
+par,morrisoni BF190,2,Strains,soft
+par,MPU B5,3,Strains,soft
+par,MPU B9,2,Strains,soft
+par,MS12,7,Strains,soft
+par,MSS2.4,1,Strains,soft
+par,MSS8.4,1,Strains,soft
+par,MYBT18246,3,Strains,soft
+par,N17-37,1,Strains,soft
+par,N32-2-2,1,Strains,soft
+par,NA205-3,4,Strains,soft
+par,nags3,1,Strains,soft
+par,NAIMCC-B-00167,1,Strains,soft
+par,native Chilean Bt strain,1,Strains,soft
+par,NB18,1,Strains,soft
+par,NBIN-866,13,Strains,soft
+par,NEAU 161,1,Strains,soft
+par,NEAU B-X5,2,Strains,soft
+par,NRD-12,3,Strains,soft
+par,NRRL B-18679,2,Strains,soft
+par,NRRL B-21940,1,Strains,soft
+par,NRRL B-21943,1,Strains,soft
+par,NRRL B-21944,1,Strains,soft
+par,NT06,3,Strains,soft
+par,P01_1,5,Strains,soft
+par,P01_3,5,Strains,soft
+par,Pasteur Institute Standard strain,3,Strains,soft
+par,pMP36,1,Strains,soft
+par,pms45-2,1,Strains,soft
+par,PS158C2,2,Strains,soft
+par,PS167P,1,Strains,soft
+par,PS184M1,2,Strains,soft
+par,PS198Q7,1,Strains,soft
+par,PS80JJ1,1,Strains,soft
+par,PS81A2,1,Strains,soft
+par,PS81I,3,Strains,soft
+par,PS81RR1,1,Strains,soft
+par,PS9-C12,2,Strains,soft
+par,PS9-D12,1,Strains,soft
+par,PS9-E2,1,Strains,soft
+par,PT02,3,Strains,soft
+par,PT18,5,Strains,soft
+par,QB15,3,Strains,soft
+par,QBL-27,2,Strains,soft
+par,QCL-1,1,Strains,soft
+par,QL75-2,1,Strains,soft
+par,QWH108,1,Strains,soft
+par,QZL144-1,1,Strains,soft
+par,QZL144-4,1,Strains,soft
+par,QZL183-2,1,Strains,soft
+par,QZL20-1,1,Strains,soft
+par,QZL26,1,Strains,soft
+par,QZL38,4,Strains,soft
+par,QZL85,1,Strains,soft
+par,R36,1,Strains,soft
+par,RIVM BC 934,6,Strains,soft
+par,Rpp39,1,Strains,soft
+par,S101,1,Strains,soft
+par,S1451,1,Strains,soft
+par,S2096-2,1,Strains,soft
+par,S2160-1,7,Strains,soft
+par,S3161-3,1,Strains,soft
+par,S601,1,Strains,soft
+par,S725,1,Strains,soft
+par,S907,1,Strains,soft
+par,S93,1,Strains,soft
+par,SA11,4,Strains,soft
+par,SBSBT-1,1,Strains,soft
+par,SC-13,1,Strains,soft
+par,SC-51,1,Strains,soft
+par,SC-7,1,Strains,soft
+par,SC5(D2),1,Strains,soft
+par,SC6H8,5,Strains,soft
+par,SCG04-02,2,Strains,soft
+par,SDS-502,1,Strains,soft
+par,sfw-12,1,Strains,soft
+par,shanghai 1 (S-1),1,Strains,soft
+par,SK-793,1,Strains,soft
+par,SK-798,1,Strains,soft
+par,SK700,3,Strains,soft
+par,SKW01-10.2-06,1,Strains,soft
+par,SL39,1,Strains,soft
+par,SP-01-41,1,Strains,soft
+par,SP41,3,Strains,soft
+par,SSy111-c,2,Strains,soft
+par,SSy125-c,2,Strains,soft
+par,SSy126-c,2,Strains,soft
+par,SSy141-c,2,Strains,soft
+par,SSy60-b,1,Strains,soft
+par,SSy77,2,Strains,soft
+par,ST7,2,Strains,soft
+par,ST8,3,Strains,soft
+par,Staal1-1,5,Strains,soft
+par,Staal2-3,3,Strains,soft
+par,Staal7-4,3,Strains,soft
+par,SVBS18-01,3,Strains,soft
+par,SWK1,1,Strains,soft
+par,SY27.1,5,Strains,soft
+par,SY49-1,3,Strains,soft
+par,SY62.1A,1,Strains,soft
+par,T01-328,5,Strains,soft
+par,T01001,2,Strains,soft
+par,T03B001,5,Strains,soft
+par,T03C001,1,Strains,soft
+par,T04001,1,Strains,soft
+par,T07005,6,Strains,soft
+par,T07019,7,Strains,soft
+par,T07030,6,Strains,soft
+par,T07128,4,Strains,soft
+par,T07148,7,Strains,soft
+par,T07153,6,Strains,soft
+par,T07183,6,Strains,soft
+par,T25,1,Strains,soft
+par,T32,1,Strains,soft
+par,T405,1,Strains,soft
+par,T414,3,Strains,soft
+par,T527,1,Strains,soft
+par,T532,1,Strains,soft
+par,T536,1,Strains,soft
+par,T543,1,Strains,soft
+par,T84A1,1,Strains,soft
+par,TB08,3,Strains,soft
+par,TH19,1,Strains,soft
+par,TK1,3,Strains,soft
+par,UFT038,3,Strains,soft
+par,UV17,1,Strains,soft
+par,V4,3,Strains,soft
+par,WB2,1,Strains,soft
+par,WB9,2,Strains,soft
+par,WBT-2,10,Strains,soft
+par,WF-H-72,1,Strains,soft
+par,wu1E-3,1,Strains,soft
+par,wu1E-4,1,Strains,soft
+par,wu1H-3,1,Strains,soft
+par,wu2B-6,1,Strains,soft
+par,wu2G-11,1,Strains,soft
+par,wu2G-12,1,Strains,soft
+par,WZ-7,1,Strains,soft
+par,X-2,1,Strains,soft
+par,x023,4,Strains,soft
+par,X023PN,3,Strains,soft
+par,XL6,7,Strains,soft
+par,xpz-5,1,Strains,soft
+par,YBT-1520,5,Strains,soft
+par,YC-10,5,Strains,soft
+par,you1D-9,1,Strains,soft
+par,you2D-3,1,Strains,soft
+par,you2E-3,1,Strains,soft
+par,you2F-3,1,Strains,soft
+par,YWC2-8,2,Strains,soft
+par,Ywc2-8,3,Strains,soft
+par,ywc5-4,2,Strains,soft
+par,YY1,1,Strains,soft
+par,YZ71,1,Strains,soft
+par,ZK1,1,Strains,soft
+par,ZZQ-130,4,Strains,soft
+rec,1.24,4,Strains,soft
+rec,3-1-a,1,Strains,soft
+rec,3-1-a,1,Strains,strict
+rec,4G2,6,Strains,soft
+rec,4Q2-72,1,Strains,soft
+rec,4Q2-72,1,Strains,strict
+rec,78-2,4,Strains,soft
+rec,96-OK-85-24,3,Strains,soft
+rec,A1462,3,Strains,soft
+rec,AFS005140,8,Strains,soft
+rec,AFS013213,8,Strains,soft
+rec,AFS030866,7,Strains,soft
+rec,AFS034708,3,Strains,soft
+rec,AFS059039,8,Strains,soft
+rec,AFS088016,8,Strains,soft
+rec,AK8,4,Strains,soft
+rec,AM65-52,4,Strains,soft
+rec,ARP001,1,Strains,soft
+rec,ARP001,1,Strains,strict
+rec,ARP013,1,Strains,soft
+rec,ARP013,1,Strains,strict
+rec,ARP076,1,Strains,soft
+rec,ARP095,1,Strains,soft
+rec,ARP095,1,Strains,strict
+rec,ARP096,1,Strains,soft
+rec,ARP166,1,Strains,soft
+rec,ARP188,1,Strains,soft
+rec,ARP269,1,Strains,soft
+rec,ARP269,1,Strains,strict
+rec,ATX 13026,11,Strains,soft
+rec,B-DLL,2,Strains,soft
+rec,B-Pr-88,4,Strains,soft
+rec,B3,1,Strains,soft
+rec,B3,1,Strains,strict
+rec,BGSC 4AE1,12,Strains,soft
+rec,BGSC 4AO1,6,Strains,soft
+rec,BGSC 4AP1,5,Strains,soft
+rec,BGSC 4AX1,4,Strains,soft
+rec,BGSC 4BF1,3,Strains,soft
+rec,BGSC 4BS1,1,Strains,soft
+rec,BGSC 4CB1,12,Strains,soft
+rec,BGSC 4G1,12,Strains,soft
+rec,BGSC 4G4,11,Strains,soft
+rec,Bm59-2,2,Strains,soft
+rec,BMP144,4,Strains,soft
+rec,BR37,5,Strains,soft
+rec,BR58,3,Strains,soft
+rec,BT-59,4,Strains,soft
+rec,Bt173,2,Strains,soft
+rec,Bt185,4,Strains,soft
+rec,Bt87,2,Strains,soft
+rec,Btc001,1,Strains,soft
+rec,Btc001,1,Strains,strict
+rec,Bti,4,Strains,soft
+rec,BtPGSI208,1,Strains,soft
+rec,BTS02618A,1,Strains,soft
+rec,BTS02618A,1,Strains,strict
+rec,BtS02739C,2,Strains,soft
+rec,BTy41,6,Strains,soft
+rec,Bun1-14,4,Strains,soft
+rec,BUPM97,1,Strains,soft
+rec,BUPM97,1,Strains,strict
+rec,C15,5,Strains,soft
+rec,DAB-Bt1,3,Strains,soft
+rec,DAB-Bt2,3,Strains,soft
+rec,DAB-Bt3,4,Strains,soft
+rec,DAB-Bt4,4,Strains,soft
+rec,DAB-Bt5,4,Strains,soft
+rec,DAB-Bt6,4,Strains,soft
+rec,EG4961,1,Strains,soft
+rec,EG5144,1,Strains,soft
+rec,EG6346,1,Strains,soft
+rec,FCC41,5,Strains,soft
+rec,FDAARGOS_796,4,Strains,soft
+rec,FPT-2,1,Strains,soft
+rec,G25-44,3,Strains,soft
+rec,g9,1,Strains,soft
+rec,GCA_000161475.1,4,Assemblies,soft
+rec,GCA_000161555.1,4,Assemblies,soft
+rec,GCA_000161715.1,9,Assemblies,soft
+rec,GCA_000292705.1,4,Assemblies,soft
+rec,GCA_000468995.3,6,Assemblies,soft
+rec,GCA_000600315.1,12,Assemblies,soft
+rec,GCA_000774075.2,6,Assemblies,soft
+rec,GCA_000878525.1,4,Assemblies,soft
+rec,GCA_001182785.1,9,Assemblies,soft
+rec,GCA_001402735.1,3,Assemblies,soft
+rec,GCA_001595725.1,2,Assemblies,soft
+rec,GCA_001685565.1,3,Assemblies,soft
+rec,GCA_001968805.1,3,Assemblies,soft
+rec,GCA_002146315.1,12,Assemblies,soft
+rec,GCA_002146405.1,6,Assemblies,soft
+rec,GCA_002146425.1,5,Assemblies,soft
+rec,GCA_002146615.1,4,Assemblies,soft
+rec,GCA_002147055.1,3,Assemblies,soft
+rec,GCA_002147085.1,12,Assemblies,soft
+rec,GCA_002147105.1,12,Assemblies,soft
+rec,GCA_002147375.1,12,Assemblies,soft
+rec,GCA_002148015.1,1,Assemblies,soft
+rec,GCA_002558015.1,7,Assemblies,soft
+rec,GCA_002558525.1,7,Assemblies,soft
+rec,GCA_002564505.1,7,Assemblies,soft
+rec,GCA_002571305.1,7,Assemblies,soft
+rec,GCA_002584205.1,3,Assemblies,soft
+rec,GCA_002586085.1,5,Assemblies,soft
+rec,GCA_002893515.1,4,Assemblies,soft
+rec,GCA_003546665.1,4,Assemblies,soft
+rec,GCA_003626955.1,4,Assemblies,soft
+rec,GCA_003991175.1,5,Assemblies,soft
+rec,GCA_004194435.2,4,Assemblies,soft
+rec,GCA_004354265.1,4,Assemblies,soft
+rec,HD-525,12,Strains,soft
+rec,HD-789,4,Strains,soft
+rec,HD29,10,Strains,soft
+rec,HD522,4,Strains,soft
+rec,HD567-61-9,1,Strains,soft
+rec,HD567-61-9,1,Strains,strict
+rec,HD868,4,Strains,soft
+rec,HS18-1,10,Strains,soft
+rec,Hu4-2,6,Strains,soft
+rec,I622,1,Strains,soft
+rec,I622,1,Strains,strict
+rec,IBL 200,10,Strains,soft
+rec,IBL00427,4,Strains,soft
+rec,INTA Fr7-4,3,Strains,soft
+rec,JC291,1,Strains,soft
+rec,jegathesan 367,5,Strains,soft
+rec,JW-1,4,Strains,soft
+rec,K1,3,Strains,soft
+rec,KNU-26,4,Strains,soft
+rec,L-27,1,Strains,soft
+rec,L-27,1,Strains,strict
+rec,LBR2,1,Strains,soft
+rec,LM1212,4,Strains,soft
+rec,LM1212-W3,3,Strains,soft
+rec,M2776,1,Strains,soft
+rec,M2776,1,Strains,strict
+rec,mgc157-1,2,Strains,soft
+rec,ML090,1,Strains,soft
+rec,mo3-D10,1,Strains,soft
+rec,mo3-D8,1,Strains,soft
+rec,mogi K4,5,Strains,soft
+rec,MYBT18246,3,Strains,soft
+rec,NBIN-866,13,Strains,soft
+rec,PBT602,1,Strains,soft
+rec,PBT602,1,Strains,strict
+rec,PS158C2,2,Strains,soft
+rec,PS198Q7,1,Strains,soft
+rec,PS63B,1,Strains,soft
+rec,PS63B,1,Strains,strict
+rec,PS81I,3,Strains,soft
+rec,QCM(T1),1,Strains,soft
+rec,QCM(T1),1,Strains,strict
+rec,QHW7-2,2,Strains,soft
+rec,QZL1-2,1,Strains,soft
+rec,QZL1-2,1,Strains,strict
+rec,QZL38,4,Strains,soft
+rec,S2160-1,7,Strains,soft
+rec,S3161-3,1,Strains,soft
+rec,Sbt003,4,Strains,soft
+rec,Sbt009,4,Strains,soft
+rec,SC6H8,5,Strains,soft
+rec,SK700,3,Strains,soft
+rec,ST8,3,Strains,soft
+rec,T 20,1,Strains,soft
+rec,T 20,1,Strains,strict
+rec,T0131,4,Strains,soft
+rec,T0137,4,Strains,soft
+rec,T0139,4,Strains,soft
+rec,T03B001,5,Strains,soft
+rec,T13001,4,Strains,soft
+rec,tolworthi 43F,1,Strains,soft
+rec,VD154,4,Strains,soft
+rec,XL6,7,Strains,soft
+rec,xl6-4,1,Strains,soft
+rec,xl6-7,1,Strains,soft
+rec,xl6-7,1,Strains,strict
+rec,xpz-46,1,Strains,soft
+rec,xpz-46,1,Strains,strict
+unaff,1.24,4,Strains,soft
+unaff,2,1,Strains,soft
+unaff,27,4,Strains,soft
+unaff,147,2,Strains,soft
+unaff,147,2,Strains,strict
+unaff,834,1,Strains,soft
+unaff,886,1,Strains,soft
+unaff,1218,2,Strains,soft
+unaff,1218,2,Strains,strict
+unaff,1230,1,Strains,soft
+unaff,1230,1,Strains,strict
+unaff,1905,4,Strains,soft
+unaff,2122,4,Strains,soft
+unaff,2124,2,Strains,soft
+unaff,2173,1,Strains,soft
+unaff,2173,1,Strains,strict
+unaff,40000000,1,Strains,soft
+unaff,007983-6,5,Strains,soft
+unaff,007986-5,6,Strains,soft
+unaff,007989-3,6,Strains,soft
+unaff,1126_1,5,Strains,soft
+unaff,11MN1,1,Strains,soft
+unaff,11MN1,1,Strains,strict
+unaff,14-2,3,Strains,soft
+unaff,146-158-01,2,Strains,soft
+unaff,18_483,2,Strains,soft
+unaff,18_483,2,Strains,strict
+unaff,18_484,2,Strains,soft
+unaff,18_484,2,Strains,strict
+unaff,20-1,3,Strains,soft
+unaff,21-1,3,Strains,soft
+unaff,25-6,3,Strains,soft
+unaff,26-1,3,Strains,soft
+unaff,27-3,5,Strains,soft
+unaff,2B,2,Strains,soft
+unaff,30-1,3,Strains,soft
+unaff,30-4,3,Strains,soft
+unaff,31-5,1,Strains,soft
+unaff,31-5,1,Strains,strict
+unaff,47-6B,1,Strains,soft
+unaff,47-6B,1,Strains,strict
+unaff,4B1,2,Strains,soft
+unaff,4B1,2,Strains,strict
+unaff,4F1,5,Strains,soft
+unaff,4F2,1,Strains,soft
+unaff,4F3,3,Strains,soft
+unaff,4F4,5,Strains,soft
+unaff,4G2,6,Strains,soft
+unaff,4G3,5,Strains,soft
+unaff,4H5,2,Strains,soft
+unaff,4H5,2,Strains,strict
+unaff,4K5,1,Strains,soft
+unaff,4M1,1,Strains,soft
+unaff,4M2,1,Strains,soft
+unaff,4M4,1,Strains,soft
+unaff,4M5,3,Strains,soft
+unaff,4S3,2,Strains,soft
+unaff,4S3,2,Strains,strict
+unaff,6/27/S,6,Strains,soft
+unaff,64-1-94,1,Strains,soft
+unaff,64-1-94,1,Strains,strict
+unaff,777001-1,5,Strains,soft
+unaff,777001F-1,5,Strains,soft
+unaff,777002-3,5,Strains,soft
+unaff,79-25,1,Strains,soft
+unaff,79-25,1,Strains,strict
+unaff,84-HS-1-11,1,Strains,soft
+unaff,84-HS-1-11,1,Strains,strict
+unaff,87-29,1,Strains,soft
+unaff,87-29,1,Strains,strict
+unaff,92-10,1,Strains,soft
+unaff,92-10,1,Strains,strict
+unaff,96-OK-85-24,3,Strains,soft
+unaff,A-19-31,3,Strains,soft
+unaff,A1462,3,Strains,soft
+unaff,A32,1,Strains,soft
+unaff,ABTS-1857,7,Strains,soft
+unaff,ABTS-351,5,Strains,soft
+unaff,AFS005140,8,Strains,soft
+unaff,AFS013213,8,Strains,soft
+unaff,AFS015413,2,Strains,soft
+unaff,AFS018331,1,Strains,soft
+unaff,AFS018331,1,Strains,strict
+unaff,AFS022504,3,Strains,soft
+unaff,AFS022504,3,Strains,strict
+unaff,AFS026137,1,Strains,soft
+unaff,AFS026137,1,Strains,strict
+unaff,AFS030866,7,Strains,soft
+unaff,AFS031210,1,Strains,soft
+unaff,AFS031210,1,Strains,strict
+unaff,AFS033477,1,Strains,soft
+unaff,AFS033477,1,Strains,strict
+unaff,AFS045441,1,Strains,soft
+unaff,AFS050081,3,Strains,soft
+unaff,AFS056009,1,Strains,soft
+unaff,AFS056009,1,Strains,strict
+unaff,AFS059039,8,Strains,soft
+unaff,AFS063736,2,Strains,soft
+unaff,AFS063736,2,Strains,strict
+unaff,AFS077661,1,Strains,soft
+unaff,AFS077661,1,Strains,strict
+unaff,AFS088016,8,Strains,soft
+unaff,AFS089089,3,Strains,soft
+unaff,AFS089089,3,Strains,strict
+unaff,AFS097514,1,Strains,soft
+unaff,AFS097514,1,Strains,strict
+unaff,AFS098022,2,Strains,soft
+unaff,AFS098399,2,Strains,soft
+unaff,AFS099341,1,Strains,soft
+unaff,AFS099341,1,Strains,strict
+unaff,AFS099505,1,Strains,soft
+unaff,AFS099505,1,Strains,strict
+unaff,AG102,2,Strains,soft
+unaff,AG102,2,Strains,strict
+unaff,AGES_2_27_S,5,Strains,soft
+unaff,AGES_6_27_S,6,Strains,soft
+unaff,AH603,1,Strains,soft
+unaff,AH603,1,Strains,strict
+unaff,AHG6,1,Strains,soft
+unaff,AHG6,1,Strains,strict
+unaff,AK8,4,Strains,soft
+unaff,AM1195,1,Strains,soft
+unaff,AM1195,1,Strains,strict
+unaff,AM370,1,Strains,soft
+unaff,AM370,1,Strains,strict
+unaff,AM65-52,4,Strains,soft
+unaff,ARP011,1,Strains,soft
+unaff,ARP011,1,Strains,strict
+unaff,ARP012,1,Strains,soft
+unaff,ARP012,1,Strains,strict
+unaff,ARP026,1,Strains,soft
+unaff,ARP026,1,Strains,strict
+unaff,ARP050,1,Strains,soft
+unaff,ARP050,1,Strains,strict
+unaff,ARP052,1,Strains,soft
+unaff,ARP052,1,Strains,strict
+unaff,ARP055,1,Strains,soft
+unaff,ARP055,1,Strains,strict
+unaff,ARP057,1,Strains,soft
+unaff,ARP057,1,Strains,strict
+unaff,ARP058,1,Strains,soft
+unaff,ARP067,1,Strains,soft
+unaff,ARP067,1,Strains,strict
+unaff,ARP068,1,Strains,soft
+unaff,ARP068,1,Strains,strict
+unaff,ARP080,1,Strains,soft
+unaff,ARP103,1,Strains,soft
+unaff,ARP103,1,Strains,strict
+unaff,ARP104,1,Strains,soft
+unaff,ARP104,1,Strains,strict
+unaff,ARP110,1,Strains,soft
+unaff,ARP110,1,Strains,strict
+unaff,ARP112,1,Strains,soft
+unaff,ARP112,1,Strains,strict
+unaff,ARP114,1,Strains,soft
+unaff,ARP114,1,Strains,strict
+unaff,ARP124,1,Strains,soft
+unaff,ARP124,1,Strains,strict
+unaff,ARP131,1,Strains,soft
+unaff,ARP132,1,Strains,soft
+unaff,ARP132,1,Strains,strict
+unaff,ARP135,1,Strains,soft
+unaff,ARP135,1,Strains,strict
+unaff,ARP140,1,Strains,soft
+unaff,ARP140,1,Strains,strict
+unaff,ARP158,1,Strains,soft
+unaff,ARP158,1,Strains,strict
+unaff,ARP162,1,Strains,soft
+unaff,ARP162,1,Strains,strict
+unaff,ARP168,1,Strains,soft
+unaff,ARP168,1,Strains,strict
+unaff,ARP171,1,Strains,soft
+unaff,ARP171,1,Strains,strict
+unaff,ARP179,1,Strains,soft
+unaff,ARP179,1,Strains,strict
+unaff,ARP185,1,Strains,soft
+unaff,ARP185,1,Strains,strict
+unaff,ARP191,1,Strains,soft
+unaff,ARP191,1,Strains,strict
+unaff,ARP192,1,Strains,soft
+unaff,ARP192,1,Strains,strict
+unaff,ARP193,1,Strains,soft
+unaff,ARP193,1,Strains,strict
+unaff,ARP203,1,Strains,soft
+unaff,ARP203,1,Strains,strict
+unaff,ARP212,1,Strains,soft
+unaff,ARP212,1,Strains,strict
+unaff,ARP215,1,Strains,soft
+unaff,ARP215,1,Strains,strict
+unaff,ARP220,1,Strains,soft
+unaff,ARP227,1,Strains,soft
+unaff,ARP227,1,Strains,strict
+unaff,ARP229,1,Strains,soft
+unaff,ARP229,1,Strains,strict
+unaff,ARP239,1,Strains,soft
+unaff,ARP239,1,Strains,strict
+unaff,ARP252,1,Strains,soft
+unaff,ARP252,1,Strains,strict
+unaff,ARP258,1,Strains,soft
+unaff,ARP258,1,Strains,strict
+unaff,ARP260,1,Strains,soft
+unaff,ARP260,1,Strains,strict
+unaff,ARP262,1,Strains,soft
+unaff,ARP262,1,Strains,strict
+unaff,ARP271,1,Strains,soft
+unaff,ARP271,1,Strains,strict
+unaff,ATCC 14706,1,Strains,soft
+unaff,ATCC 14706,1,Strains,strict
+unaff,ATX 13026,11,Strains,soft
+unaff,ATX14875,3,Strains,soft
+unaff,ATX14875,3,Strains,strict
+unaff,B-Hm-16,2,Strains,soft
+unaff,B-SC5,1,Strains,soft
+unaff,B-SC5,1,Strains,strict
+unaff,B0195,2,Strains,soft
+unaff,B0195,2,Strains,strict
+unaff,B0462,1,Strains,soft
+unaff,B0462,1,Strains,strict
+unaff,B12,1,Strains,soft
+unaff,B401,6,Strains,soft
+unaff,B4158,2,Strains,soft
+unaff,B5,1,Strains,soft
+unaff,B5,1,Strains,strict
+unaff,BA04,2,Strains,soft
+unaff,BB56-3,3,Strains,soft
+unaff,BB56-3,3,Strains,strict
+unaff,BBT2-5,1,Strains,soft
+unaff,BBT2-5,1,Strains,strict
+unaff,BC-01,2,Strains,soft
+unaff,BfR-BA-01318,1,Strains,soft
+unaff,BfR-BA-01393,2,Strains,soft
+unaff,BGSC 4AA1,2,Strains,soft
+unaff,BGSC 4AC1,1,Strains,soft
+unaff,BGSC 4AC1,1,Strains,strict
+unaff,BGSC 4AD1,1,Strains,soft
+unaff,BGSC 4AD1,1,Strains,strict
+unaff,BGSC 4AE1,12,Strains,soft
+unaff,BGSC 4AF1,1,Strains,soft
+unaff,BGSC 4AF1,1,Strains,strict
+unaff,BGSC 4AG1,1,Strains,soft
+unaff,BGSC 4AG1,1,Strains,strict
+unaff,BGSC 4AJ1,1,Strains,soft
+unaff,BGSC 4AJ1,1,Strains,strict
+unaff,BGSC 4AL1,2,Strains,soft
+unaff,BGSC 4AO1,6,Strains,soft
+unaff,BGSC 4AP1,5,Strains,soft
+unaff,BGSC 4AR1,4,Strains,soft
+unaff,BGSC 4AS1,2,Strains,soft
+unaff,BGSC 4AS1,2,Strains,strict
+unaff,BGSC 4AT1,4,Strains,soft
+unaff,BGSC 4AU1,2,Strains,soft
+unaff,BGSC 4AW1,7,Strains,soft
+unaff,BGSC 4AX1,4,Strains,soft
+unaff,BGSC 4B2,2,Strains,soft
+unaff,BGSC 4B2,2,Strains,strict
+unaff,BGSC 4BB1,2,Strains,soft
+unaff,BGSC 4BC1,2,Strains,soft
+unaff,BGSC 4BD1,1,Strains,soft
+unaff,BGSC 4BD1,1,Strains,strict
+unaff,BGSC 4BF1,3,Strains,soft
+unaff,BGSC 4BG1,2,Strains,soft
+unaff,BGSC 4BP1,3,Strains,soft
+unaff,BGSC 4BR1,2,Strains,soft
+unaff,BGSC 4BT1,2,Strains,soft
+unaff,BGSC 4BU1,1,Strains,soft
+unaff,BGSC 4BU1,1,Strains,strict
+unaff,BGSC 4BV1,3,Strains,soft
+unaff,BGSC 4BX1,1,Strains,soft
+unaff,BGSC 4BX1,1,Strains,strict
+unaff,BGSC 4BZ1,1,Strains,soft
+unaff,BGSC 4BZ1,1,Strains,strict
+unaff,BGSC 4CB1,12,Strains,soft
+unaff,BGSC 4CC1,1,Strains,soft
+unaff,BGSC 4CC1,1,Strains,strict
+unaff,BGSC 4CD1,3,Strains,soft
+unaff,BGSC 4CD1,3,Strains,strict
+unaff,BGSC 4CE1,5,Strains,soft
+unaff,BGSC 4CF1,3,Strains,soft
+unaff,BGSC 4CF1,3,Strains,strict
+unaff,BGSC 4G1,12,Strains,soft
+unaff,BGSC 4G4,11,Strains,soft
+unaff,BGSC 4J4,4,Strains,soft
+unaff,BGSC 4J5,4,Strains,soft
+unaff,BGSC 4L3,5,Strains,soft
+unaff,BGSC 4M3,1,Strains,soft
+unaff,BGSC 4N1,9,Strains,soft
+unaff,BGSC 4O1,7,Strains,soft
+unaff,BGSC 4Q1,3,Strains,soft
+unaff,BGSC 4U1,5,Strains,soft
+unaff,BGSC 4X1,4,Strains,soft
+unaff,BLB1,2,Strains,soft
+unaff,BMB3201,4,Strains,soft
+unaff,BMG1.7,5,Strains,soft
+unaff,BMP144,4,Strains,soft
+unaff,BN15-6,2,Strains,soft
+unaff,BN23-5,5,Strains,soft
+unaff,BN7-5,1,Strains,soft
+unaff,BP3,1,Strains,soft
+unaff,BP3,1,Strains,strict
+unaff,BR30,2,Strains,soft
+unaff,BR37,5,Strains,soft
+unaff,BR58,3,Strains,soft
+unaff,BR64,1,Strains,soft
+unaff,BRC-LLP29,3,Strains,soft
+unaff,BRC-LLP29,3,Strains,strict
+unaff,BRC-XQ12,1,Strains,soft
+unaff,BRC-ZQL3,1,Strains,soft
+unaff,BRC-ZQL3,1,Strains,strict
+unaff,BRI-103,1,Strains,soft
+unaff,BRI-144,2,Strains,soft
+unaff,BRI-225,1,Strains,soft
+unaff,BRI-225,1,Strains,strict
+unaff,BRI-326,1,Strains,soft
+unaff,BRI-326,1,Strains,strict
+unaff,BS-pTAND672-2,2,Strains,soft
+unaff,BS-pTAND672-2,2,Strains,strict
+unaff,BT HMM-SITAB,1,Strains,soft
+unaff,BT HMM-SLK,1,Strains,soft
+unaff,BT-59,4,Strains,soft
+unaff,Bt-GS57,5,Strains,soft
+unaff,Bt-ICA/UNMSM10RA,1,Strains,soft
+unaff,Bt.B2.1KSM,1,Strains,soft
+unaff,Bt.B2.1KSM,1,Strains,strict
+unaff,Bt11,1,Strains,soft
+unaff,Bt173,2,Strains,soft
+unaff,Bt18247,1,Strains,soft
+unaff,Bt18247,1,Strains,strict
+unaff,Bt185,4,Strains,soft
+unaff,Bt2-56,2,Strains,soft
+unaff,Bt2-56,2,Strains,strict
+unaff,Bt22,1,Strains,soft
+unaff,Bt4,1,Strains,soft
+unaff,BT62,3,Strains,soft
+unaff,BT62,3,Strains,strict
+unaff,BT8,1,Strains,soft
+unaff,Bt9,1,Strains,soft
+unaff,Bt9,1,Strains,strict
+unaff,BTC007,1,Strains,soft
+unaff,Bti,4,Strains,soft
+unaff,BTIPP003,2,Strains,soft
+unaff,BTIPP003,2,Strains,strict
+unaff,BtMC28,7,Strains,soft
+unaff,BtPGI245,1,Strains,soft
+unaff,BtPGI245,1,Strains,strict
+unaff,Bts,2,Strains,soft
+unaff,BTS01099E,2,Strains,soft
+unaff,BTS01099E,2,Strains,strict
+unaff,BTS02069AA,1,Strains,soft
+unaff,BTS02069AA,1,Strains,strict
+unaff,BtS02739C,2,Strains,soft
+unaff,BTS02761A,1,Strains,soft
+unaff,BTS02761A,1,Strains,strict
+unaff,BTS89A,1,Strains,soft
+unaff,btsu4,3,Strains,soft
+unaff,BTy41,6,Strains,soft
+unaff,Buibui,2,Strains,soft
+unaff,Bun1-14,4,Strains,soft
+unaff,C-33,2,Strains,soft
+unaff,C006,1,Strains,soft
+unaff,C15,5,Strains,soft
+unaff,C18,1,Strains,soft
+unaff,C1Ac118,1,Strains,soft
+unaff,C1Ac86,1,Strains,soft
+unaff,C81,1,Strains,soft
+unaff,C81,1,Strains,strict
+unaff,CAA890,1,Strains,soft
+unaff,CAA890,1,Strains,strict
+unaff,CH_65,5,Strains,soft
+unaff,CH_692,5,Strains,soft
+unaff,CH_696,5,Strains,soft
+unaff,CH_709,5,Strains,soft
+unaff,CH_72,6,Strains,soft
+unaff,CH_733,5,Strains,soft
+unaff,CH_746,5,Strains,soft
+unaff,CH_748,5,Strains,soft
+unaff,CH18,2,Strains,soft
+unaff,CH18,2,Strains,strict
+unaff,CIB 163-131,3,Strains,soft
+unaff,CL91,1,Strains,soft
+unaff,CL91,1,Strains,strict
+unaff,CMBL-BT2,2,Strains,soft
+unaff,CMBLBT-5,1,Strains,soft
+unaff,CMBLBT-5,1,Strains,strict
+unaff,CVUAS2492,5,Strains,soft
+unaff,CVUAS9659,5,Strains,soft
+unaff,CVUAS9660,5,Strains,soft
+unaff,DAB-Bt1,3,Strains,soft
+unaff,DAB-Bt2,3,Strains,soft
+unaff,DAB-Bt3,4,Strains,soft
+unaff,DAB-Bt4,4,Strains,soft
+unaff,DAB-Bt5,4,Strains,soft
+unaff,DAB-Bt6,4,Strains,soft
+unaff,dakota,2,Strains,soft
+unaff,dakota,2,Strains,strict
+unaff,DB27,3,Strains,soft
+unaff,DB27,3,Strains,strict
+unaff,DE0030,2,Strains,soft
+unaff,DE0030,2,Strains,strict
+unaff,DP1019,2,Strains,soft
+unaff,DP7-F11,1,Strains,soft
+unaff,DSIR732,1,Strains,soft
+unaff,EG 5847,2,Strains,soft
+unaff,EG2158,1,Strains,soft
+unaff,F14-1,1,Strains,soft
+unaff,F14-1,1,Strains,strict
+unaff,F4,2,Strains,soft
+unaff,F4,2,Strains,strict
+unaff,FB,4,Strains,soft
+unaff,FBG-1,1,Strains,soft
+unaff,FBG-1,1,Strains,strict
+unaff,FBG25,1,Strains,soft
+unaff,FBG25,1,Strains,strict
+unaff,FCC41,5,Strains,soft
+unaff,FCD114,2,Strains,soft
+unaff,FDAARGOS_796,4,Strains,soft
+unaff,FH21,4,Strains,soft
+unaff,fukuokaensis,1,Strains,soft
+unaff,fukuokaensis,1,Strains,strict
+unaff,G03,5,Strains,soft
+unaff,G25-128,1,Strains,soft
+unaff,G25-128,1,Strains,strict
+unaff,G25-18,1,Strains,soft
+unaff,G25-3,2,Strains,soft
+unaff,G25-3,2,Strains,strict
+unaff,G25-41,1,Strains,soft
+unaff,G25-41,1,Strains,strict
+unaff,G25-42,1,Strains,soft
+unaff,G25-42,1,Strains,strict
+unaff,G25-43,1,Strains,soft
+unaff,G25-43,1,Strains,strict
+unaff,G25-50,1,Strains,soft
+unaff,G25-50,1,Strains,strict
+unaff,G25-6,1,Strains,soft
+unaff,G25-6,1,Strains,strict
+unaff,G25-7,2,Strains,soft
+unaff,G25-7,2,Strains,strict
+unaff,G25-78,2,Strains,soft
+unaff,G25-78,2,Strains,strict
+unaff,G25-87,2,Strains,soft
+unaff,G25-87,2,Strains,strict
+unaff,G25-91,1,Strains,soft
+unaff,G25-91,1,Strains,strict
+unaff,G25-93,10,Strains,soft
+unaff,G25-96,5,Strains,soft
+unaff,G25-97,11,Strains,soft
+unaff,G7-1,2,Strains,soft
+unaff,GC-91,6,Strains,soft
+unaff,GCA_000161475.1,4,Assemblies,soft
+unaff,GCA_000161555.1,4,Assemblies,soft
+unaff,GCA_000161575.1,1,Assemblies,soft
+unaff,GCA_000161595.1,1,Assemblies,soft
+unaff,GCA_000161595.1,1,Assemblies,strict
+unaff,GCA_000161635.1,2,Assemblies,soft
+unaff,GCA_000161635.1,2,Assemblies,strict
+unaff,GCA_000161695.1,1,Assemblies,soft
+unaff,GCA_000161695.1,1,Assemblies,strict
+unaff,GCA_000161715.1,9,Assemblies,soft
+unaff,GCA_000161735.1,2,Assemblies,soft
+unaff,GCA_000161735.1,2,Assemblies,strict
+unaff,GCA_000190515.1,2,Assemblies,soft
+unaff,GCA_000190515.1,2,Assemblies,strict
+unaff,GCA_000292705.1,4,Assemblies,soft
+unaff,GCA_000300475.1,8,Assemblies,soft
+unaff,GCA_000338755.1,1,Assemblies,soft
+unaff,GCA_000468975.2,4,Assemblies,soft
+unaff,GCA_000468995.3,6,Assemblies,soft
+unaff,GCA_000497525.2,1,Assemblies,soft
+unaff,GCA_000497525.2,1,Assemblies,strict
+unaff,GCA_000530375.1,2,Assemblies,soft
+unaff,GCA_000530375.1,2,Assemblies,strict
+unaff,GCA_000600315.1,12,Assemblies,soft
+unaff,GCA_000688795.1,5,Assemblies,soft
+unaff,GCA_000717535.1,6,Assemblies,soft
+unaff,GCA_000747545.1,5,Assemblies,soft
+unaff,GCA_000774075.2,6,Assemblies,soft
+unaff,GCA_000803665.1,7,Assemblies,soft
+unaff,GCA_000835235.1,6,Assemblies,soft
+unaff,GCA_000878525.1,4,Assemblies,soft
+unaff,GCA_000969665.1,2,Assemblies,soft
+unaff,GCA_001017635.1,5,Assemblies,soft
+unaff,GCA_001182785.1,9,Assemblies,soft
+unaff,GCA_001183785.1,3,Assemblies,soft
+unaff,GCA_001183785.1,3,Assemblies,strict
+unaff,GCA_001402735.1,3,Assemblies,soft
+unaff,GCA_001420855.1,2,Assemblies,soft
+unaff,GCA_001548175.1,3,Assemblies,soft
+unaff,GCA_001598095.1,9,Assemblies,soft
+unaff,GCA_001721165.1,1,Assemblies,soft
+unaff,GCA_001721165.1,1,Assemblies,strict
+unaff,GCA_001880115.1,4,Assemblies,soft
+unaff,GCA_001968805.1,3,Assemblies,soft
+unaff,GCA_002025105.1,3,Assemblies,soft
+unaff,GCA_002146315.1,12,Assemblies,soft
+unaff,GCA_002146325.1,1,Assemblies,soft
+unaff,GCA_002146325.1,1,Assemblies,strict
+unaff,GCA_002146345.1,1,Assemblies,soft
+unaff,GCA_002146345.1,1,Assemblies,strict
+unaff,GCA_002146395.1,1,Assemblies,soft
+unaff,GCA_002146395.1,1,Assemblies,strict
+unaff,GCA_002146405.1,6,Assemblies,soft
+unaff,GCA_002146425.1,5,Assemblies,soft
+unaff,GCA_002146445.1,4,Assemblies,soft
+unaff,GCA_002146495.1,1,Assemblies,soft
+unaff,GCA_002146495.1,1,Assemblies,strict
+unaff,GCA_002146505.1,2,Assemblies,soft
+unaff,GCA_002146545.1,4,Assemblies,soft
+unaff,GCA_002146595.1,4,Assemblies,soft
+unaff,GCA_002146605.1,2,Assemblies,soft
+unaff,GCA_002146615.1,4,Assemblies,soft
+unaff,GCA_002146625.1,2,Assemblies,soft
+unaff,GCA_002146625.1,2,Assemblies,strict
+unaff,GCA_002146655.1,2,Assemblies,soft
+unaff,GCA_002146755.1,3,Assemblies,soft
+unaff,GCA_002146785.1,2,Assemblies,soft
+unaff,GCA_002146815.1,2,Assemblies,soft
+unaff,GCA_002146825.1,1,Assemblies,soft
+unaff,GCA_002146825.1,1,Assemblies,strict
+unaff,GCA_002146885.1,3,Assemblies,soft
+unaff,GCA_002146885.1,3,Assemblies,strict
+unaff,GCA_002146905.1,3,Assemblies,soft
+unaff,GCA_002146905.1,3,Assemblies,strict
+unaff,GCA_002147025.1,2,Assemblies,soft
+unaff,GCA_002147055.1,3,Assemblies,soft
+unaff,GCA_002147085.1,12,Assemblies,soft
+unaff,GCA_002147105.1,12,Assemblies,soft
+unaff,GCA_002147185.1,5,Assemblies,soft
+unaff,GCA_002147235.1,4,Assemblies,soft
+unaff,GCA_002147245.1,5,Assemblies,soft
+unaff,GCA_002147255.1,4,Assemblies,soft
+unaff,GCA_002147315.1,9,Assemblies,soft
+unaff,GCA_002147325.1,7,Assemblies,soft
+unaff,GCA_002147375.1,12,Assemblies,soft
+unaff,GCA_002147415.1,1,Assemblies,soft
+unaff,GCA_002147415.1,1,Assemblies,strict
+unaff,GCA_002147435.1,4,Assemblies,soft
+unaff,GCA_002147495.1,1,Assemblies,soft
+unaff,GCA_002147535.1,4,Assemblies,soft
+unaff,GCA_002147555.1,5,Assemblies,soft
+unaff,GCA_002147565.1,7,Assemblies,soft
+unaff,GCA_002147575.1,6,Assemblies,soft
+unaff,GCA_002147635.1,4,Assemblies,soft
+unaff,GCA_002147645.1,7,Assemblies,soft
+unaff,GCA_002147685.1,6,Assemblies,soft
+unaff,GCA_002147725.1,5,Assemblies,soft
+unaff,GCA_002147835.1,2,Assemblies,soft
+unaff,GCA_002147835.1,2,Assemblies,strict
+unaff,GCA_002147895.1,2,Assemblies,soft
+unaff,GCA_002147935.1,1,Assemblies,soft
+unaff,GCA_002147935.1,1,Assemblies,strict
+unaff,GCA_002147955.1,1,Assemblies,soft
+unaff,GCA_002147955.1,1,Assemblies,strict
+unaff,GCA_002148045.1,2,Assemblies,soft
+unaff,GCA_002148045.1,2,Assemblies,strict
+unaff,GCA_002148065.1,1,Assemblies,soft
+unaff,GCA_002148065.1,1,Assemblies,strict
+unaff,GCA_002148155.1,2,Assemblies,soft
+unaff,GCA_002148155.1,2,Assemblies,strict
+unaff,GCA_002173755.1,2,Assemblies,soft
+unaff,GCA_002236945.1,5,Assemblies,soft
+unaff,GCA_002268645.2,5,Assemblies,soft
+unaff,GCA_002550215.1,2,Assemblies,soft
+unaff,GCA_002551615.1,3,Assemblies,soft
+unaff,GCA_002551615.1,3,Assemblies,strict
+unaff,GCA_002552905.1,1,Assemblies,soft
+unaff,GCA_002552905.1,1,Assemblies,strict
+unaff,GCA_002552915.1,1,Assemblies,soft
+unaff,GCA_002552915.1,1,Assemblies,strict
+unaff,GCA_002552985.1,1,Assemblies,soft
+unaff,GCA_002552985.1,1,Assemblies,strict
+unaff,GCA_002558015.1,7,Assemblies,soft
+unaff,GCA_002558525.1,7,Assemblies,soft
+unaff,GCA_002560695.1,3,Assemblies,soft
+unaff,GCA_002560695.1,3,Assemblies,strict
+unaff,GCA_002561465.1,2,Assemblies,soft
+unaff,GCA_002561825.1,1,Assemblies,soft
+unaff,GCA_002561825.1,1,Assemblies,strict
+unaff,GCA_002564505.1,7,Assemblies,soft
+unaff,GCA_002566555.1,1,Assemblies,soft
+unaff,GCA_002566555.1,1,Assemblies,strict
+unaff,GCA_002571105.1,2,Assemblies,soft
+unaff,GCA_002571105.1,2,Assemblies,strict
+unaff,GCA_002571305.1,7,Assemblies,soft
+unaff,GCA_002574895.1,1,Assemblies,soft
+unaff,GCA_002574895.1,1,Assemblies,strict
+unaff,GCA_002576585.1,3,Assemblies,soft
+unaff,GCA_002585935.1,1,Assemblies,soft
+unaff,GCA_002585935.1,1,Assemblies,strict
+unaff,GCA_002586085.1,5,Assemblies,soft
+unaff,GCA_002893505.1,2,Assemblies,soft
+unaff,GCA_002893565.1,10,Assemblies,soft
+unaff,GCA_002893585.1,2,Assemblies,soft
+unaff,GCA_002893605.1,5,Assemblies,soft
+unaff,GCA_002969075.1,2,Assemblies,soft
+unaff,GCA_003046465.1,1,Assemblies,soft
+unaff,GCA_003312445.1,5,Assemblies,soft
+unaff,GCA_003719805.1,1,Assemblies,soft
+unaff,GCA_003991175.1,5,Assemblies,soft
+unaff,GCA_004009875.1,1,Assemblies,soft
+unaff,GCA_004009875.1,1,Assemblies,strict
+unaff,GCA_004194435.2,4,Assemblies,soft
+unaff,GCA_004330415.1,7,Assemblies,soft
+unaff,GCA_004354265.1,4,Assemblies,soft
+unaff,GCA_004368515.1,1,Assemblies,soft
+unaff,GCA_004368515.1,1,Assemblies,strict
+unaff,Gnyt1,4,Strains,soft
+unaff,GPL-O901,2,Strains,soft
+unaff,GPL-O901,2,Strains,strict
+unaff,GR007,10,Strains,soft
+unaff,GS27,1,Strains,soft
+unaff,GS27,1,Strains,strict
+unaff,GS3,1,Strains,soft
+unaff,GS3,1,Strains,strict
+unaff,GS72,1,Strains,soft
+unaff,GS72,1,Strains,strict
+unaff,GW6,1,Strains,soft
+unaff,GW6,1,Strains,strict
+unaff,GWS7,1,Strains,soft
+unaff,GWS7,1,Strains,strict
+unaff,H1,1,Strains,soft
+unaff,H1,1,Strains,strict
+unaff,H23,1,Strains,soft
+unaff,H23,1,Strains,strict
+unaff,H3,1,Strains,soft
+unaff,HBF-18,2,Strains,soft
+unaff,HD 1i,6,Strains,soft
+unaff,HD-1,7,Strains,soft
+unaff,HD-525,12,Strains,soft
+unaff,HD-549,1,Strains,soft
+unaff,HD-588,1,Strains,soft
+unaff,HD-789,4,Strains,soft
+unaff,HD07,1,Strains,soft
+unaff,HD12,11,Strains,soft
+unaff,HD133,6,Strains,soft
+unaff,HD29,10,Strains,soft
+unaff,HD395,2,Strains,soft
+unaff,HD5,4,Strains,soft
+unaff,HD511,1,Strains,soft
+unaff,HD511,1,Strains,strict
+unaff,HD521,3,Strains,soft
+unaff,HD521,3,Strains,strict
+unaff,HD522,4,Strains,soft
+unaff,HD73,1,Strains,soft
+unaff,HD867,1,Strains,soft
+unaff,HD867,1,Strains,strict
+unaff,HD868,4,Strains,soft
+unaff,higo,4,Strains,soft
+unaff,HQ122,1,Strains,soft
+unaff,HQ122,1,Strains,strict
+unaff,HS18-1,10,Strains,soft
+unaff,Hu4-2,6,Strains,soft
+unaff,HW-11,1,Strains,soft
+unaff,HW-11,1,Strains,strict
+unaff,HYD-3,1,Strains,soft
+unaff,HYD-3,1,Strains,strict
+unaff,HYW-8,1,Strains,soft
+unaff,HYW-8,1,Strains,strict
+unaff,HZM2,1,Strains,soft
+unaff,I13,6,Strains,soft
+unaff,IAB59,1,Strains,soft
+unaff,IAB59,1,Strains,strict
+unaff,IBL 200,10,Strains,soft
+unaff,IBL 4222,2,Strains,soft
+unaff,IBL 4222,2,Strains,strict
+unaff,IBL00055,1,Strains,soft
+unaff,IBL00090,9,Strains,soft
+unaff,IBL00144,1,Strains,soft
+unaff,IBL00171,9,Strains,soft
+unaff,IBL00210,1,Strains,soft
+unaff,IBL00427,4,Strains,soft
+unaff,IBL00503,5,Strains,soft
+unaff,IBL00971,2,Strains,soft
+unaff,IBL00971,2,Strains,strict
+unaff,IBL01259,5,Strains,soft
+unaff,IBL01313,5,Strains,soft
+unaff,IBL02897,9,Strains,soft
+unaff,IBL03111,5,Strains,soft
+unaff,IEBC-T63 001,1,Strains,soft
+unaff,IEBC-T63 001,1,Strains,strict
+unaff,IMBL-B9,5,Strains,soft
+unaff,INA288,2,Strains,soft
+unaff,INA288,2,Strains,strict
+unaff,INTA Fr7-4,3,Strains,soft
+unaff,INTA Mo1-12,2,Strains,soft
+unaff,INTA Mo4-4,1,Strains,soft
+unaff,INTA TA24-6,1,Strains,soft
+unaff,IPPBIOTSUC-C9F1,2,Strains,soft
+unaff,jegathesan 367,5,Strains,soft
+unaff,JF21-1,1,Strains,soft
+unaff,JF21-1,1,Strains,strict
+unaff,JW-1,4,Strains,soft
+unaff,K1,3,Strains,soft
+unaff,K3,2,Strains,soft
+unaff,K34,1,Strains,soft
+unaff,K34,1,Strains,strict
+unaff,K4,1,Strains,soft
+unaff,kenyae,1,Strains,soft
+unaff,kn11,5,Strains,soft
+unaff,KNU-26,4,Strains,soft
+unaff,L_1B0_5,1,Strains,soft
+unaff,L_1B0_5,1,Strains,strict
+unaff,L_1B0_8,1,Strains,soft
+unaff,L_1B0_8,1,Strains,strict
+unaff,L-7601,3,Strains,soft
+unaff,LBIT 1189,1,Strains,soft
+unaff,LBIT-113,1,Strains,soft
+unaff,LBIT-113,1,Strains,strict
+unaff,LBIT-1189,1,Strains,soft
+unaff,LBIT-147,1,Strains,soft
+unaff,LBIT-418,2,Strains,soft
+unaff,LBIT-597,1,Strains,soft
+unaff,LBIT-597,1,Strains,strict
+unaff,LBIT-976,1,Strains,soft
+unaff,LBIT-976,1,Strains,strict
+unaff,LBIT-979,1,Strains,soft
+unaff,LBIT-979,1,Strains,strict
+unaff,LBIT1200,1,Strains,soft
+unaff,Leapi01,4,Strains,soft
+unaff,LH-2,1,Strains,soft
+unaff,LH-2,1,Strains,strict
+unaff,LP1G,1,Strains,soft
+unaff,LP1G,1,Strains,strict
+unaff,LSZ9408,2,Strains,soft
+unaff,LTS-290,1,Strains,soft
+unaff,LTS-290,1,Strains,strict
+unaff,LTS-7,2,Strains,soft
+unaff,LY-99,1,Strains,soft
+unaff,Ly30,2,Strains,soft
+unaff,lyA,1,Strains,soft
+unaff,M019,3,Strains,soft
+unaff,M019,3,Strains,strict
+unaff,M100,3,Strains,soft
+unaff,M15,1,Strains,soft
+unaff,M15,1,Strains,strict
+unaff,MC28,8,Strains,soft
+unaff,Mfbjulcb3,1,Strains,soft
+unaff,Mfbjulcb3,1,Strains,strict
+unaff,mgc157-1,2,Strains,soft
+unaff,Mm2,1,Strains,soft
+unaff,MOD1_Bc21,1,Strains,soft
+unaff,mogi K4,5,Strains,soft
+unaff,morrisoni BF190,2,Strains,soft
+unaff,MPU B9,2,Strains,soft
+unaff,MS12,7,Strains,soft
+unaff,N141,1,Strains,soft
+unaff,N141,1,Strains,strict
+unaff,native Taiwanese Bt strain,1,Strains,soft
+unaff,NB176,1,Strains,soft
+unaff,NBIC380,1,Strains,soft
+unaff,NBIN-866,13,Strains,soft
+unaff,NHA15b,1,Strains,soft
+unaff,NHA15b,1,Strains,strict
+unaff,NRD-12,3,Strains,soft
+unaff,NRRL B-21921,1,Strains,soft
+unaff,NRRL B-21921,1,Strains,strict
+unaff,NRRL B-21934,1,Strains,soft
+unaff,NRRL B-21934,1,Strains,strict
+unaff,NRRL B-21941,1,Strains,soft
+unaff,O-V84.2,3,Strains,soft
+unaff,O-V84.2,3,Strains,strict
+unaff,P01_1,5,Strains,soft
+unaff,P01_3,5,Strains,soft
+unaff,Pasteur Institute Standard strain,3,Strains,soft
+unaff,popilliae Hime,1,Strains,soft
+unaff,popilliae Hime,1,Strains,strict
+unaff,PS158C2,2,Strains,soft
+unaff,PS17,2,Strains,soft
+unaff,PS17,2,Strains,strict
+unaff,PS184M1,2,Strains,soft
+unaff,PS33F2,1,Strains,soft
+unaff,PS33F2,1,Strains,strict
+unaff,PS46L,1,Strains,soft
+unaff,PS46L,1,Strains,strict
+unaff,PS50C(a),1,Strains,soft
+unaff,PS50C(a),1,Strains,strict
+unaff,PS50C(b),1,Strains,soft
+unaff,PS50C(b),1,Strains,strict
+unaff,PS81F,1,Strains,soft
+unaff,PS81GG,1,Strains,soft
+unaff,PS85A1,1,Strains,soft
+unaff,PS86Q3,2,Strains,soft
+unaff,PS86Q3,2,Strains,strict
+unaff,PT18,5,Strains,soft
+unaff,Q-12,1,Strains,soft
+unaff,Q52-7,1,Strains,soft
+unaff,Q52-7,1,Strains,strict
+unaff,QBL-27,2,Strains,soft
+unaff,QG-121,1,Strains,soft
+unaff,QG-121,1,Strains,strict
+unaff,QHW7-2,2,Strains,soft
+unaff,QZL121,1,Strains,soft
+unaff,RIVM BC 934,6,Strains,soft
+unaff,Root11,2,Strains,soft
+unaff,Root11,2,Strains,strict
+unaff,Root131,2,Strains,soft
+unaff,Root131,2,Strains,strict
+unaff,S1478-1,1,Strains,soft
+unaff,S2160-1,7,Strains,soft
+unaff,S2480-1,1,Strains,soft
+unaff,S2480-1,1,Strains,strict
+unaff,S3299-1,1,Strains,soft
+unaff,S6,2,Strains,soft
+unaff,s8,1,Strains,soft
+unaff,s8,1,Strains,strict
+unaff,S811,1,Strains,soft
+unaff,S811,1,Strains,strict
+unaff,S976,1,Strains,soft
+unaff,S976,1,Strains,strict
+unaff,SBS Bt 48,1,Strains,soft
+unaff,SBS Bt 48,1,Strains,strict
+unaff,Sbt003,4,Strains,soft
+unaff,Sbt006,1,Strains,soft
+unaff,Sbt006,1,Strains,strict
+unaff,Sbt009,4,Strains,soft
+unaff,Sbt011,1,Strains,soft
+unaff,Sbt011,1,Strains,strict
+unaff,Sbt021,1,Strains,soft
+unaff,Sbt021,1,Strains,strict
+unaff,Sbt029,2,Strains,soft
+unaff,Sbt029,2,Strains,strict
+unaff,Sbt030,2,Strains,soft
+unaff,Sbt030,2,Strains,strict
+unaff,Sbt053,2,Strains,soft
+unaff,Sbt053,2,Strains,strict
+unaff,Sbt054,1,Strains,soft
+unaff,Sbt054,1,Strains,strict
+unaff,Sbt072,3,Strains,soft
+unaff,Sbt072,3,Strains,strict
+unaff,SC5(D4),1,Strains,soft
+unaff,SC5(D4),1,Strains,strict
+unaff,SC5(E8),1,Strains,soft
+unaff,SC6H8,5,Strains,soft
+unaff,SCG04-02,2,Strains,soft
+unaff,Semadara,2,Strains,soft
+unaff,Semadara,2,Strains,strict
+unaff,SK-711,1,Strains,soft
+unaff,SK-729,1,Strains,soft
+unaff,SK-758,1,Strains,soft
+unaff,SK-758,1,Strains,strict
+unaff,SK-783,1,Strains,soft
+unaff,SK-784,1,Strains,soft
+unaff,SK-958,1,Strains,soft
+unaff,SK700,3,Strains,soft
+unaff,SSK-10,1,Strains,soft
+unaff,ST7,2,Strains,soft
+unaff,ST8,3,Strains,soft
+unaff,Staal1-1,5,Strains,soft
+unaff,SVBS18-01,3,Strains,soft
+unaff,SY-11,1,Strains,soft
+unaff,SY-11,1,Strains,strict
+unaff,SY27.1,5,Strains,soft
+unaff,T0131,4,Strains,soft
+unaff,T0137,4,Strains,soft
+unaff,T0139,4,Strains,soft
+unaff,T03a001,1,Strains,soft
+unaff,T03B001,5,Strains,soft
+unaff,T07005,6,Strains,soft
+unaff,T07019,7,Strains,soft
+unaff,T07128,4,Strains,soft
+unaff,T07148,7,Strains,soft
+unaff,T07153,6,Strains,soft
+unaff,T07183,6,Strains,soft
+unaff,T13001,4,Strains,soft
+unaff,T15,1,Strains,soft
+unaff,T30001,2,Strains,soft
+unaff,T30001,2,Strains,strict
+unaff,TAND672,2,Strains,soft
+unaff,TAND672,2,Strains,strict
+unaff,Tm37-6,1,Strains,soft
+unaff,Tm41-4,1,Strains,soft
+unaff,Tm44-1B,1,Strains,soft
+unaff,TOL651,1,Strains,soft
+unaff,TS3,1,Strains,soft
+unaff,TS3,1,Strains,strict
+unaff,UTD-001,1,Strains,soft
+unaff,V4,3,Strains,soft
+unaff,VD154,4,Strains,soft
+unaff,VKPM B-1161,1,Strains,soft
+unaff,VKPM B-1161,1,Strains,strict
+unaff,VKPM B-1166,1,Strains,soft
+unaff,VKPM B-1166,1,Strains,strict
+unaff,VKPM B-3276,1,Strains,soft
+unaff,W015,1,Strains,soft
+unaff,WB10,1,Strains,soft
+unaff,WB10,1,Strains,strict
+unaff,WBT-2,10,Strains,soft
+unaff,WZ-9,1,Strains,soft
+unaff,WZ-9,1,Strains,strict
+unaff,X23,1,Strains,soft
+unaff,X23,1,Strains,strict
+unaff,XL6,7,Strains,soft
+unaff,xl6-1,1,Strains,soft
+unaff,xl6-1,1,Strains,strict
+unaff,YBT-020,2,Strains,soft
+unaff,YBT-020,2,Strains,strict
+unaff,YBT-032,1,Strains,soft
+unaff,YBT-1518,1,Strains,soft
+unaff,YBT-1518,1,Strains,strict
+unaff,YBT-1520,5,Strains,soft
+unaff,YC-10,5,Strains,soft
+unaff,YM-03,1,Strains,soft
+unaff,yunnanensis,1,Strains,soft
+unaff,yunnanensis,1,Strains,strict
+unaff,YWC2-8,2,Strains,soft
+unaff,Ywc2-8,3,Strains,soft
+unaff,ywc5-4,2,Strains,soft
+unaff,zjfc85,1,Strains,soft
+unaff,zjfc85,1,Strains,strict
+unaff,ZK2,1,Strains,soft
+unaff,ZQ-89,1,Strains,soft

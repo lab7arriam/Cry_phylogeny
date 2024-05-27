@@ -1,0 +1,11 @@
+Number of events with unknonws,,,,
+Domain I minor,1,,,
+Domain 2 minor,1,,,
+Domain 3 minor,3,,,
+,,,,
+Domain 3 major,4,,,
+,,,,
+Tree,n(d),p(d),f(d),U(d)
+domain1,1,1.2307,0.1382,9
+domain2,5,1.3461,0.2738,19
+domain3,3,1.0434,0.3333,12

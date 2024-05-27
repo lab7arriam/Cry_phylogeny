@@ -1,0 +1,20 @@
+All assemblies,,,
+Core genes,(99% <= strains <= 100%),2872,Alpha = 0.689
+Soft core genes,(95% <= strains < 99%),965,
+Shell genes,(15% <= strains < 95%),3102,
+Cloud genes,(0% <= strains < 15%),33026,
+Total genes,(0% <= strains <= 100%),39965,
+,,,
+Assemblies with cry toxins,,,
+Core genes,(99% <= strains <= 100%),2402,Alpha = 0.737
+Soft core genes,(95% <= strains < 99%),1374,
+Shell genes,(15% <= strains < 95%),4147,
+Cloud genes,(0% <= strains < 15%),21488,
+Total genes,(0% <= strains <= 100%),29411,
+,,,
+Assemblies with recombinants,,,
+Core genes,(99% <= strains <= 100%),2146,Alpha = 0.57
+Soft core genes,(95% <= strains < 99%),1679,
+Shell genes,(15% <= strains < 95%),4038,
+Cloud genes,(0% <= strains < 15%),13196,
+Total genes,(0% <= strains <= 100%),21059,
