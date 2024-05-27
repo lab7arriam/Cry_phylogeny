@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="397.49103mm"
+   height="264.47937mm"
+   viewBox="0 0 397.49103 264.47937"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="fig_S13_linked_events.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath8364">
+      <path
+         d="M 44.902,5.48 H 661.851 V 378.101 H 44.902 Z"
+         id="path8362"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497474"
+     inkscape:cx="596.22305"
+     inkscape:cy="596.18351"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-88.824404,184.44845"
+       orientation="1,0"
+       id="guide11883"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-88.824404,174.62107"
+       orientation="1,0"
+       id="guide11885"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-27.046594,178.67755"
+       orientation="1,0"
+       id="guide11887"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="8.3140665,166.36316"
+       orientation="1,0"
+       id="guide11945"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="291.45114,199.49377"
+       orientation="1,0"
+       id="guide19306"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="60.287208,251.44472"
+       orientation="0,1"
+       id="guide19308"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="204.8631,164.79368"
+       orientation="0,1"
+       id="guide19310"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="56.696434,249.46034"
+       orientation="0,1"
+       id="guide19314"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.198479,163.37628"
+       orientation="0,1"
+       id="guide19316"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="139.99686,78.718736"
+       orientation="0,1"
+       id="guide19318"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="27.777069,77.783294"
+       orientation="0,1"
+       id="guide19320"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(30.960556,137.88129)">
+    <text
+       id="text10765"
+       style="font-variant:normal;font-weight:bold;font-size:8.44160748px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60297185"
+       x="260.0643"
+       y="-116.73377">
+      <tspan
+         style="stroke-width:0.60297185"
+         id="tspan10763"
+         sodipodi:role="line"
+         x="260.0643"
+         y="-116.73377">Node's type</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path10767"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60297185"
+       d="m 260.06428,-111.50399 h 10.41995 v 10.41995 h -10.41995 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10769"
+       style="fill:#9a73be;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.60297185"
+       d="m 260.49058,-111.0771 h 9.56494 v 9.56496 h -9.56494 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10771"
+       style="fill:none;stroke:#000000;stroke-width:0.64335781;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.49058,-111.0771 h 9.56494 v 9.56496 h -9.56494 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10773"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60297185"
+       d="m 260.06428,-101.08343 h 10.41995 v 10.419967 h -10.41995 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10775"
+       style="fill:#cd5922;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.60297185"
+       d="m 260.49058,-100.65712 h 9.56494 v 9.564933 h -9.56494 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10777"
+       style="fill:none;stroke:#000000;stroke-width:0.64335781;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.49058,-100.65712 h 9.56494 v 9.564933 h -9.56494 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10779"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60297185"
+       d="m 260.06428,-90.665874 h 10.41995 v 10.419952 h -10.41995 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10781"
+       style="fill:#89d5d2;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.60297185"
+       d="m 260.49058,-90.237178 h 9.56494 v 9.564957 h -9.56494 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path10783"
+       style="fill:none;stroke:#000000;stroke-width:0.64335781;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.49058,-90.237178 h 9.56494 v 9.564957 h -9.56494 z" />
+    <text
+       id="text10791"
+       style="font-variant:normal;font-weight:normal;font-size:7.23566294px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.60297185"
+       x="274.68875"
+       y="-103.66277">
+      <tspan
+         style="stroke-width:0.60297185"
+         id="tspan10785"
+         sodipodi:role="line"
+         y="-103.66277"
+         x="274.68875 279.50769 283.53073 285.94019 289.96323 293.9863 295.99054">Parents</tspan>
+      <tspan
+         style="stroke-width:0.60297185"
+         sodipodi:role="line"
+         x="274.68875"
+         y="0"
+         id="tspan14459">Recombinants</tspan>
+      <tspan
+         style="stroke-width:0.60297185"
+         sodipodi:role="line"
+         x="274.68875"
+         y="0"
+         id="tspan14465">Unknown</tspan>
+    </text>
+    <g
+       class="node"
+       id="node1"
+       transform="matrix(0.10545096,0,0,0.10545096,-21.982782,-65.548541)">
+      <title
+         id="title12026">BT_Cry8Pa1</title>
+      <circle
+         style="fill:#cd5922;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse12028"
+         cy="-126"
+         cx="261" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text12030"
+         font-size="19.00"
+         font-weight="bold"
+         y="-120.3"
+         x="261">BT_Cry8Pa1</text>
+    </g>
+    <g
+       class="node"
+       id="node2"
+       transform="matrix(0.10545096,0,0,0.10545096,-21.982782,-65.548541)">
+      <title
+         id="title12033">NOV_Cry8Ba1_88.6</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse12035"
+         cy="-414"
+         cx="126" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text12037"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="126">NOV_Cry8Ba1_88.6</text>
+    </g>
+    <g
+       class="edge"
+       id="edge1"
+       transform="matrix(0.10545096,0,0,0.10545096,-21.982782,-65.548541)">
+      <title
+         id="title12040">NOV_Cry8Ba1_88.6-&gt;BT_Cry8Pa1</title>
+      <path
+         style="fill:none;stroke:#2980b9;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path12042"
+         d="m 179.5495,-299.7611 c 7.7641,16.5635 15.7857,33.6763 23.6293,50.4093" />
+      <polygon
+         style="fill:#2980b9;stroke:#2980b9;stroke-width:11"
+         id="polygon12044"
+         points="194.5559,-245.0701 211.986,-253.2405 207.5153,-240.1007 " />
+    </g>
+    <g
+       class="node"
+       id="node3"
+       transform="matrix(0.10545096,0,0,0.10545096,-21.982782,-65.548541)">
+      <title
+         id="title12047">Unknown</title>
+      <circle
+         style="fill:#c0c0c0;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse12049"
+         cy="-414"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text12051"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="396">Unknown</text>
+    </g>
+    <g
+       class="edge"
+       id="edge2"
+       transform="matrix(0.10545096,0,0,0.10545096,-21.982782,-65.548541)">
+      <title
+         id="title12054">Unknown-&gt;BT_Cry8Pa1</title>
+      <path
+         style="fill:none;stroke:#71c685;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path12056"
+         d="m 342.4505,-299.7611 c -7.7641,16.5635 -15.7857,33.6763 -23.6293,50.4093" />
+      <polygon
+         style="fill:#71c685;stroke:#71c685;stroke-width:11"
+         id="polygon12058"
+         points="310.014,-253.2405 327.4441,-245.0701 314.4847,-240.1007 " />
+    </g>
+    <g
+       class="node"
+       id="node1-2"
+       transform="matrix(0.10792044,0,0,0.10792044,38.481557,-64.327907)">
+      <title
+         id="title12768">BT_Cry8Pa1</title>
+      <circle
+         style="fill:#cd5922;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse12770"
+         cy="-126"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text12772"
+         font-size="19.00"
+         font-weight="bold"
+         y="-120.3"
+         x="396">BT_Cry8Pa1</text>
+    </g>
+    <g
+       class="node"
+       id="node2-2"
+       transform="matrix(0.10792044,0,0,0.10792044,38.481557,-64.327907)">
+      <title
+         id="title12775">BT_Cry8Ea2</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse12777"
+         cy="-414"
+         cx="126" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text12779"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="126">BT_Cry8Ea2</text>
+    </g>
+    <g
+       class="edge"
+       id="edge1-3"
+       transform="matrix(0.10792044,0,0,0.10792044,38.481557,-64.327907)">
+      <title
+         id="title12782">BT_Cry8Ea2-&gt;BT_Cry8Pa1</title>
+      <path
+         style="fill:none;stroke:#556b2f;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path12784"
+         d="m 212.5438,-321.6866 c 28.7024,30.6159 60.7742,64.8258 89.9749,95.9732" />
+      <polygon
+         style="fill:#556b2f;stroke:#556b2f;stroke-width:11"
+         id="polygon12786"
+         points="295.6218,-218.9971 309.6655,-232.1631 309.4831,-218.2847 " />
+    </g>
+    <g
+       class="node"
+       id="node3-0"
+       transform="matrix(0.10792044,0,0,0.10792044,38.481557,-64.327907)">
+      <title
+         id="title12789">BT_Cry8Ja1</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse12791"
+         cy="-414"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text12793"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="396">BT_Cry8Ja1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge2-6"
+       transform="matrix(0.10792044,0,0,0.10792044,38.481557,-64.327907)">
+      <title
+         id="title12796">BT_Cry8Ja1-&gt;BT_Cry8Pa1</title>
+      <path
+         style="fill:none;stroke:#556b2f;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path12798"
+         d="m 396,-287.679 c 0,8.381 0,16.8431 0,25.2705" />
+      <polygon
+         style="fill:#556b2f;stroke:#556b2f;stroke-width:11"
+         id="polygon12800"
+         points="386.3751,-262.1541 405.6251,-262.154 396,-252.154 " />
+    </g>
+    <g
+       class="node"
+       id="node4"
+       transform="matrix(0.10792044,0,0,0.10792044,38.481557,-64.327907)">
+      <title
+         id="title12803">Unknown</title>
+      <circle
+         style="fill:#c0c0c0;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse12805"
+         cy="-414"
+         cx="666" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text12807"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="666">Unknown</text>
+    </g>
+    <g
+       class="edge"
+       id="edge3"
+       transform="matrix(0.10792044,0,0,0.10792044,38.481557,-64.327907)">
+      <title
+         id="title12810">Unknown-&gt;BT_Cry8Pa1</title>
+      <path
+         style="fill:none;stroke:#bdbd00;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path12812"
+         d="m 579.4562,-321.6866 c -28.7024,30.6159 -60.7742,64.8258 -89.9749,95.9732" />
+      <polygon
+         style="fill:#bdbd00;stroke:#bdbd00;stroke-width:11"
+         id="polygon12814"
+         points="482.3345,-232.1631 496.3782,-218.9971 482.5169,-218.2847 " />
+    </g>
+    <g
+       class="node"
+       id="node1-3"
+       transform="matrix(0.11167545,0,0,0.11167545,130.33035,-62.270137)">
+      <title
+         id="title13573">BT_Cry8Pa1</title>
+      <circle
+         style="fill:#cd5922;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse13575"
+         cy="-126"
+         cx="531" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text13577"
+         font-size="19.00"
+         font-weight="bold"
+         y="-120.3"
+         x="531">BT_Cry8Pa1</text>
+    </g>
+    <g
+       class="node"
+       id="node2-8"
+       transform="matrix(0.11167545,0,0,0.11167545,130.33035,-62.270137)">
+      <title
+         id="title13580">BT_Cry8Ea2</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse13582"
+         cy="-414"
+         cx="126" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text13584"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="126">BT_Cry8Ea2</text>
+    </g>
+    <g
+       class="edge"
+       id="edge1-7"
+       transform="matrix(0.11167545,0,0,0.11167545,130.33035,-62.270137)">
+      <title
+         id="title13587">BT_Cry8Ea2-&gt;BT_Cry8Pa1</title>
+      <path
+         style="fill:none;stroke:#a60b0b;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path13589"
+         d="m 215.9542,-325.2135 c 14.6237,13.0032 29.9383,25.8315 45.0458,37.2135 46.8569,35.302 101.8783,69.4762 149.984,97.2639" />
+      <polygon
+         style="fill:#a60b0b;stroke:#a60b0b;stroke-width:11"
+         id="polygon13591"
+         points="406.4164,-182.2598 416.0072,-198.9506 419.8823,-185.623 " />
+    </g>
+    <g
+       class="node"
+       id="node3-2"
+       transform="matrix(0.11167545,0,0,0.11167545,130.33035,-62.270137)">
+      <title
+         id="title13594">BT_Cry8Ja1</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse13596"
+         cy="-414"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text13598"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="396">BT_Cry8Ja1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge2-9"
+       transform="matrix(0.11167545,0,0,0.11167545,130.33035,-62.270137)">
+      <title
+         id="title13601">BT_Cry8Ja1-&gt;BT_Cry8Pa1</title>
+      <path
+         style="fill:none;stroke:#a60b0b;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path13603"
+         d="m 449.5495,-299.7611 c 7.7641,16.5635 15.7857,33.6763 23.6293,50.4093" />
+      <polygon
+         style="fill:#a60b0b;stroke:#a60b0b;stroke-width:11"
+         id="polygon13605"
+         points="464.5559,-245.0701 481.986,-253.2405 477.5153,-240.1007 " />
+    </g>
+    <g
+       class="node"
+       id="node4-3"
+       transform="matrix(0.11167545,0,0,0.11167545,130.33035,-62.270137)">
+      <title
+         id="title13608">NOV_Cry8Ba1_88.6</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse13610"
+         cy="-414"
+         cx="666" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text13612"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="666">NOV_Cry8Ba1_88.6</text>
+    </g>
+    <g
+       class="edge"
+       id="edge3-0"
+       transform="matrix(0.11167545,0,0,0.11167545,130.33035,-62.270137)">
+      <title
+         id="title13615">NOV_Cry8Ba1_88.6-&gt;BT_Cry8Pa1</title>
+      <path
+         style="fill:none;stroke:#2980b9;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path13617"
+         d="m 612.4505,-299.7611 c -7.7641,16.5635 -15.7857,33.6763 -23.6293,50.4093" />
+      <polygon
+         style="fill:#2980b9;stroke:#2980b9;stroke-width:11"
+         id="polygon13619"
+         points="580.014,-253.2405 597.4441,-245.0701 584.4847,-240.1007 " />
+    </g>
+    <g
+       class="node"
+       id="node5"
+       transform="matrix(0.11167545,0,0,0.11167545,130.33035,-62.270137)">
+      <title
+         id="title13622">Unknown</title>
+      <circle
+         style="fill:#c0c0c0;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse13624"
+         cy="-414"
+         cx="936" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text13626"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="936">Unknown</text>
+    </g>
+    <g
+       class="edge"
+       id="edge4"
+       transform="matrix(0.11167545,0,0,0.11167545,130.33035,-62.270137)">
+      <title
+         id="title13629">Unknown-&gt;BT_Cry8Pa1</title>
+      <path
+         style="fill:none;stroke:#bdbd00;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path13631"
+         d="M 846.0458,-325.2135 C 831.4221,-312.2103 816.1075,-299.382 801,-288 c -46.8569,35.302 -101.8783,69.4762 -149.984,97.2639" />
+      <polygon
+         style="fill:#bdbd00;stroke:#bdbd00;stroke-width:11"
+         id="polygon13633"
+         points="645.9928,-198.9506 655.5836,-182.2598 642.1177,-185.623 " />
+    </g>
+    <text
+       id="text8452-1"
+       style="font-variant:normal;font-weight:bold;font-size:6.49503469px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46393111"
+       x="-14.219488"
+       y="-126.19913">
+      <tspan
+         id="tspan8450-2"
+         sodipodi:role="line"
+         style="stroke-width:0.46393111"
+         x="-14.219488"
+         y="-126.19913">22 (domain II)</tspan>
+    </text>
+    <text
+       id="text8452-1-9"
+       style="font-variant:normal;font-weight:bold;font-size:6.49503469px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46393114"
+       x="62.826046"
+       y="-126.16685">
+      <tspan
+         id="tspan8450-2-0"
+         sodipodi:role="line"
+         style="stroke-width:0.46393114"
+         x="62.826046"
+         y="-126.16685">74 (domain III)</tspan>
+    </text>
+    <text
+       id="text8452-1-9-9"
+       style="font-variant:normal;font-weight:bold;font-size:6.49503469px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46393117"
+       x="180.57045"
+       y="-124.82635">
+      <tspan
+         id="tspan8450-2-0-7"
+         sodipodi:role="line"
+         style="stroke-width:0.46393117"
+         x="180.57045"
+         y="-124.82635">22+74</tspan>
+    </text>
+    <text
+       id="text8452-1-1"
+       style="font-variant:normal;font-weight:bold;font-size:6.49503469px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46393114"
+       x="51.49649"
+       y="-39.534256">
+      <tspan
+         id="tspan8450-2-9"
+         sodipodi:role="line"
+         style="stroke-width:0.46393114"
+         x="51.49649"
+         y="-39.534256">37 (domain III)</tspan>
+    </text>
+    <text
+       id="text8452-1-9-2"
+       style="font-variant:normal;font-weight:bold;font-size:6.49503469px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46393117"
+       x="-16.677971"
+       y="-39.620796">
+      <tspan
+         id="tspan8450-2-0-6"
+         sodipodi:role="line"
+         style="stroke-width:0.46393117"
+         x="-16.677971"
+         y="-39.620796">107 (domain II)</tspan>
+    </text>
+    <text
+       id="text8452-1-9-9-1"
+       style="font-variant:normal;font-weight:bold;font-size:6.49503469px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46393117"
+       x="155.1969"
+       y="-38.170975">
+      <tspan
+         id="tspan8450-2-0-7-2"
+         sodipodi:role="line"
+         style="stroke-width:0.46393117"
+         x="155.1969"
+         y="-38.170975">37+107</tspan>
+    </text>
+    <text
+       id="text8452-1-1-9"
+       style="font-variant:normal;font-weight:bold;font-size:6.49503469px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46393117"
+       x="100.28809"
+       y="46.161625">
+      <tspan
+         id="tspan8450-2-9-9"
+         sodipodi:role="line"
+         style="stroke-width:0.46393117"
+         x="100.28809"
+         y="46.161625">103 (domain III)</tspan>
+    </text>
+    <text
+       id="text8452-1-9-2-4"
+       style="font-variant:normal;font-weight:bold;font-size:6.49503469px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46393117"
+       x="-8.4889402"
+       y="46.382877">
+      <tspan
+         id="tspan8450-2-0-6-9"
+         sodipodi:role="line"
+         style="stroke-width:0.46393117"
+         x="-8.4889402"
+         y="46.382877">45 (domain I)</tspan>
+    </text>
+    <text
+       id="text8452-1-9-9-1-9"
+       style="font-variant:normal;font-weight:bold;font-size:6.49503469px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.46393117"
+       x="260.96747"
+       y="47.203678">
+      <tspan
+         id="tspan8450-2-0-7-2-0"
+         sodipodi:role="line"
+         style="stroke-width:0.46393117"
+         x="260.96747"
+         y="47.203678">45+103</tspan>
+    </text>
+    <path
+       style="opacity:0.7770004;fill:#c0c0c0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.42464244;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 260.96866,-85.524779 v -4.334771 h 4.33477 4.33477 v 4.334771 4.334773 h -4.33477 -4.33477 z"
+       id="path14467"
+       inkscape:connector-curvature="0" />
+    <g
+       class="node"
+       id="node1-34"
+       transform="matrix(0.11391067,0,0,0.11391067,-22.318831,25.084104)">
+      <title
+         id="title14517">BT_Cry52Ca1</title>
+      <circle
+         style="fill:#cd5922;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse14519"
+         cy="-126"
+         cx="261" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text14521"
+         font-size="19.00"
+         font-weight="bold"
+         y="-120.3"
+         x="261">BT_Cry52Ca1</text>
+    </g>
+    <g
+       class="node"
+       id="node2-88"
+       transform="matrix(0.11391067,0,0,0.11391067,-22.318831,25.084104)">
+      <title
+         id="title14524">Unknown</title>
+      <circle
+         style="fill:#c0c0c0;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse14526"
+         cy="-414"
+         cx="126" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text14528"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="126">Unknown</text>
+    </g>
+    <g
+       class="edge"
+       id="edge2-7"
+       transform="matrix(0.11391067,0,0,0.11391067,-22.318831,25.084104)">
+      <title
+         id="title14531">Unknown-&gt;BT_Cry52Ca1</title>
+      <path
+         style="fill:none;stroke:#71c685;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path14533"
+         d="m 179.5495,-299.7611 c 7.7641,16.5635 15.7857,33.6763 23.6293,50.4093" />
+      <polygon
+         style="fill:#71c685;stroke:#71c685;stroke-width:11"
+         id="polygon14535"
+         points="207.5153,-240.1007 194.5559,-245.0701 211.986,-253.2405 " />
+    </g>
+    <g
+       class="node"
+       id="node3-4"
+       transform="matrix(0.11391067,0,0,0.11391067,-22.318831,25.084104)">
+      <title
+         id="title14538">NOV_Cry52Ca1_62.9</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse14540"
+         cy="-414"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text14542"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="396">NOV_Cry52Ca1_62.9</text>
+    </g>
+    <g
+       class="edge"
+       id="edge1-4"
+       transform="matrix(0.11391067,0,0,0.11391067,-22.318831,25.084104)">
+      <title
+         id="title14545">NOV_Cry52Ca1_62.9-&gt;BT_Cry52Ca1</title>
+      <path
+         style="fill:none;stroke:#2980b9;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path14547"
+         d="m 342.4505,-299.7611 c -7.7641,16.5635 -15.7857,33.6763 -23.6293,50.4093" />
+      <polygon
+         style="fill:#2980b9;stroke:#2980b9;stroke-width:11"
+         id="polygon14549"
+         points="314.4847,-240.1007 310.014,-253.2405 327.4441,-245.0701 " />
+    </g>
+    <g
+       class="node"
+       id="node1-6"
+       transform="matrix(0.10839284,0,0,0.10839284,42.29187,22.585408)">
+      <title
+         id="title15245">BT_Cry52Ca1</title>
+      <circle
+         style="fill:#cd5922;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse15247"
+         cy="-126"
+         cx="261" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text15249"
+         font-size="19.00"
+         font-weight="bold"
+         y="-120.3"
+         x="261">BT_Cry52Ca1</text>
+    </g>
+    <g
+       class="node"
+       id="node2-1"
+       transform="matrix(0.10839284,0,0,0.10839284,42.29187,22.585408)">
+      <title
+         id="title15252">BT_Cry40Aa1</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse15254"
+         cy="-414"
+         cx="126" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text15256"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="126">BT_Cry40Aa1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge1-73"
+       transform="matrix(0.10839284,0,0,0.10839284,42.29187,22.585408)">
+      <title
+         id="title15259">BT_Cry40Aa1-&gt;BT_Cry52Ca1</title>
+      <path
+         style="fill:none;stroke:#bdbd00;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path15261"
+         d="m 179.5495,-299.7611 c 7.7641,16.5635 15.7857,33.6763 23.6293,50.4093" />
+      <polygon
+         style="fill:#bdbd00;stroke:#bdbd00;stroke-width:11"
+         id="polygon15263"
+         points="211.986,-253.2405 207.5153,-240.1007 194.5559,-245.0701 " />
+    </g>
+    <g
+       class="node"
+       id="node3-25"
+       transform="matrix(0.10839284,0,0,0.10839284,42.29187,22.585408)">
+      <title
+         id="title15266">NOV_Cry52Ca1_62.9</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse15268"
+         cy="-414"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text15270"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="396">NOV_Cry52Ca1_62.9</text>
+    </g>
+    <g
+       class="edge"
+       id="edge2-1"
+       transform="matrix(0.10839284,0,0,0.10839284,42.29187,22.585408)">
+      <title
+         id="title15273">NOV_Cry52Ca1_62.9-&gt;BT_Cry52Ca1</title>
+      <path
+         style="fill:none;stroke:#556b2f;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path15275"
+         d="m 342.4505,-299.7611 c -7.7641,16.5635 -15.7857,33.6763 -23.6293,50.4093" />
+      <polygon
+         style="fill:#556b2f;stroke:#556b2f;stroke-width:11"
+         id="polygon15277"
+         points="327.4441,-245.0701 314.4847,-240.1007 310.014,-253.2405 " />
+    </g>
+    <g
+       class="node"
+       id="node1-1"
+       transform="matrix(0.11314551,0,0,0.11314551,106.4116,26.5003)">
+      <title
+         id="title16029">BT_Cry52Ca1</title>
+      <circle
+         style="fill:#cd5922;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse16031"
+         cy="-126"
+         cx="531" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text16033"
+         font-size="19.00"
+         font-weight="bold"
+         y="-120.3"
+         x="531">BT_Cry52Ca1</text>
+    </g>
+    <g
+       class="node"
+       id="node2-25"
+       transform="matrix(0.11314551,0,0,0.11314551,106.4116,26.5003)">
+      <title
+         id="title16036">BT_Cry40Aa1</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse16038"
+         cy="-414"
+         cx="126" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text16040"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="126">BT_Cry40Aa1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge2-98"
+       transform="matrix(0.11314551,0,0,0.11314551,106.4116,26.5003)">
+      <title
+         id="title16043">BT_Cry40Aa1-&gt;BT_Cry52Ca1</title>
+      <path
+         style="fill:none;stroke:#bdbd00;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path16045"
+         d="m 215.9542,-325.2135 c 14.6237,13.0032 29.9383,25.8315 45.0458,37.2135 46.8569,35.302 101.8783,69.4762 149.984,97.2639" />
+      <polygon
+         style="fill:#bdbd00;stroke:#bdbd00;stroke-width:11"
+         id="polygon16047"
+         points="416.0072,-198.9506 419.8823,-185.623 406.4164,-182.2598 " />
+    </g>
+    <g
+       class="node"
+       id="node3-40"
+       transform="matrix(0.11314551,0,0,0.11314551,106.4116,26.5003)">
+      <title
+         id="title16050">BT_Cry52Aa1</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse16052"
+         cy="-414"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text16054"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="396">BT_Cry52Aa1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge3-5"
+       transform="matrix(0.11314551,0,0,0.11314551,106.4116,26.5003)">
+      <title
+         id="title16057">BT_Cry52Aa1-&gt;BT_Cry52Ca1</title>
+      <path
+         style="fill:none;stroke:#a60b0b;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path16059"
+         d="m 449.5495,-299.7611 c 7.7641,16.5635 15.7857,33.6763 23.6293,50.4093" />
+      <polygon
+         style="fill:#a60b0b;stroke:#a60b0b;stroke-width:11"
+         id="polygon16061"
+         points="481.986,-253.2405 477.5153,-240.1007 464.5559,-245.0701 " />
+    </g>
+    <g
+       class="node"
+       id="node4-30"
+       transform="matrix(0.11314551,0,0,0.11314551,106.4116,26.5003)">
+      <title
+         id="title16064">BT_Cry52Ba1</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse16066"
+         cy="-414"
+         cx="666" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text16068"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="666">BT_Cry52Ba1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge4-5"
+       transform="matrix(0.11314551,0,0,0.11314551,106.4116,26.5003)">
+      <title
+         id="title16071">BT_Cry52Ba1-&gt;BT_Cry52Ca1</title>
+      <path
+         style="fill:none;stroke:#a60b0b;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path16073"
+         d="m 612.4505,-299.7611 c -7.7641,16.5635 -15.7857,33.6763 -23.6293,50.4093" />
+      <polygon
+         style="fill:#a60b0b;stroke:#a60b0b;stroke-width:11"
+         id="polygon16075"
+         points="597.4441,-245.0701 584.4847,-240.1007 580.014,-253.2405 " />
+    </g>
+    <g
+       class="node"
+       id="node5-5"
+       transform="matrix(0.11314551,0,0,0.11314551,106.4116,26.5003)">
+      <title
+         id="title16078">NOV_Cry52Ca1_62.9</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse16080"
+         cy="-414"
+         cx="936" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text16082"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="936">NOV_Cry52Ca1_62.9</text>
+    </g>
+    <g
+       class="edge"
+       id="edge1-5"
+       transform="matrix(0.11314551,0,0,0.11314551,106.4116,26.5003)">
+      <title
+         id="title16085">NOV_Cry52Ca1_62.9-&gt;BT_Cry52Ca1</title>
+      <path
+         style="fill:none;stroke:#556b2f;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path16087"
+         d="M 846.0458,-325.2135 C 831.4221,-312.2103 816.1075,-299.382 801,-288 c -46.8569,35.302 -101.8783,69.4762 -149.984,97.2639" />
+      <polygon
+         style="fill:#556b2f;stroke:#556b2f;stroke-width:11"
+         id="polygon16089"
+         points="655.5836,-182.2598 642.1177,-185.623 645.9928,-198.9506 " />
+    </g>
+    <g
+       class="node"
+       id="node1-5"
+       transform="matrix(0.12086931,0,0,0.12086931,-22.421923,114.64063)">
+      <title
+         id="title16863">NOV_Cry40Da1_65.0</title>
+      <circle
+         style="fill:#cd5922;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse16865"
+         cy="-126"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text16867"
+         font-size="19.00"
+         font-weight="bold"
+         y="-120.3"
+         x="396">NOV_Cry40Da1_65.0</text>
+    </g>
+    <g
+       class="node"
+       id="node2-9"
+       transform="matrix(0.12086931,0,0,0.12086931,-22.421923,114.64063)">
+      <title
+         id="title16870">NOV_Cry40Da1_66.9</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse16872"
+         cy="-414"
+         cx="126" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text16874"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="126">NOV_Cry40Da1_66.9</text>
+    </g>
+    <g
+       class="edge"
+       id="edge1-6"
+       transform="matrix(0.12086931,0,0,0.12086931,-22.421923,114.64063)">
+      <title
+         id="title16877">NOV_Cry40Da1_66.9-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#a60b0b;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path16879"
+         d="m 212.5438,-321.6866 c 28.7024,30.6159 60.7742,64.8258 89.9749,95.9732" />
+      <polygon
+         style="fill:#a60b0b;stroke:#a60b0b;stroke-width:11"
+         id="polygon16881"
+         points="295.6218,-218.9971 309.6655,-232.1631 309.4831,-218.2847 " />
+    </g>
+    <g
+       class="node"
+       id="node3-3"
+       transform="matrix(0.12086931,0,0,0.12086931,-22.421923,114.64063)">
+      <title
+         id="title16884">BT_Cry40Da1</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse16886"
+         cy="-414"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text16888"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="396">BT_Cry40Da1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge2-11"
+       transform="matrix(0.12086931,0,0,0.12086931,-22.421923,114.64063)">
+      <title
+         id="title16891">BT_Cry40Da1-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#dda0dd;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path16893"
+         d="m 396,-287.679 c 0,8.381 0,16.8431 0,25.2705" />
+      <polygon
+         style="fill:#dda0dd;stroke:#dda0dd;stroke-width:11"
+         id="polygon16895"
+         points="386.3751,-262.1541 405.6251,-262.154 396,-252.154 " />
+    </g>
+    <g
+       class="node"
+       id="node4-6"
+       transform="matrix(0.12086931,0,0,0.12086931,-22.421923,114.64063)">
+      <title
+         id="title16898">NOV_Cry40Da1_81.5</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse16900"
+         cy="-414"
+         cx="666" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text16902"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="666">NOV_Cry40Da1_81.5</text>
+    </g>
+    <g
+       class="edge"
+       id="edge3-7"
+       transform="matrix(0.12086931,0,0,0.12086931,-22.421923,114.64063)">
+      <title
+         id="title16905">NOV_Cry40Da1_81.5-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#dda0dd;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path16907"
+         d="m 579.4562,-321.6866 c -28.7024,30.6159 -60.7742,64.8258 -89.9749,95.9732" />
+      <polygon
+         style="fill:#dda0dd;stroke:#dda0dd;stroke-width:11"
+         id="polygon16909"
+         points="482.3345,-232.1631 496.3782,-218.9971 482.5169,-218.2847 " />
+    </g>
+    <g
+       class="node"
+       id="node1-61"
+       transform="matrix(0.1334797,0,0,0.1334797,76.137093,121.38206)">
+      <title
+         id="title17651">NOV_Cry40Da1_65.0</title>
+      <circle
+         style="fill:#cd5922;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse17653"
+         cy="-126"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text17655"
+         font-size="19.00"
+         font-weight="bold"
+         y="-120.3"
+         x="396">NOV_Cry40Da1_65.0</text>
+    </g>
+    <g
+       class="node"
+       id="node2-0"
+       transform="matrix(0.1334797,0,0,0.1334797,76.137093,121.38206)">
+      <title
+         id="title17658">BT_Cry40Da1</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse17660"
+         cy="-414"
+         cx="126" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text17662"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="126">BT_Cry40Da1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge1-1"
+       transform="matrix(0.1334797,0,0,0.1334797,76.137093,121.38206)">
+      <title
+         id="title17665">BT_Cry40Da1-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#556b2f;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path17667"
+         d="m 212.5438,-321.6866 c 28.7024,30.6159 60.7742,64.8258 89.9749,95.9732" />
+      <polygon
+         style="fill:#556b2f;stroke:#556b2f;stroke-width:11"
+         id="polygon17669"
+         points="295.6218,-218.9971 309.6655,-232.1631 309.4831,-218.2847 " />
+    </g>
+    <g
+       class="node"
+       id="node3-30"
+       transform="matrix(0.1334797,0,0,0.1334797,76.137093,121.38206)">
+      <title
+         id="title17672">NOV_Cry40Da1_81.5</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse17674"
+         cy="-414"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text17676"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="396">NOV_Cry40Da1_81.5</text>
+    </g>
+    <g
+       class="edge"
+       id="edge2-8"
+       transform="matrix(0.1334797,0,0,0.1334797,76.137093,121.38206)">
+      <title
+         id="title17679">NOV_Cry40Da1_81.5-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#556b2f;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path17681"
+         d="m 396,-287.679 c 0,8.381 0,16.8431 0,25.2705" />
+      <polygon
+         style="fill:#556b2f;stroke:#556b2f;stroke-width:11"
+         id="polygon17683"
+         points="386.3751,-262.1541 405.6251,-262.154 396,-252.154 " />
+    </g>
+    <g
+       class="node"
+       id="node4-31"
+       transform="matrix(0.1334797,0,0,0.1334797,76.137093,121.38206)">
+      <title
+         id="title17686">Unknown</title>
+      <circle
+         style="fill:#c0c0c0;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse17688"
+         cy="-414"
+         cx="666" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text17690"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="666">Unknown</text>
+    </g>
+    <g
+       class="edge"
+       id="edge3-6"
+       transform="matrix(0.1334797,0,0,0.1334797,76.137093,121.38206)">
+      <title
+         id="title17693">Unknown-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#bdbd00;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path17695"
+         d="m 579.4562,-321.6866 c -28.7024,30.6159 -60.7742,64.8258 -89.9749,95.9732" />
+      <polygon
+         style="fill:#bdbd00;stroke:#bdbd00;stroke-width:11"
+         id="polygon17697"
+         points="482.3345,-232.1631 496.3782,-218.9971 482.5169,-218.2847 " />
+    </g>
+    <g
+       class="node"
+       id="node1-0"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18467">NOV_Cry40Da1_65.0</title>
+      <circle
+         style="fill:#cd5922;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse18469"
+         cy="-126"
+         cx="666" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text18471"
+         font-size="19.00"
+         font-weight="bold"
+         y="-120.3"
+         x="666">NOV_Cry40Da1_65.0</text>
+    </g>
+    <g
+       class="node"
+       id="node2-82"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18474">NOV_Cry40Da1_66.9</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse18476"
+         cy="-414"
+         cx="126" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text18478"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="126">NOV_Cry40Da1_66.9</text>
+    </g>
+    <g
+       class="edge"
+       id="edge1-2"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18481">NOV_Cry40Da1_66.9-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#a60b0b;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path18483"
+         d="m 214.0482,-323.3284 c 14.9374,12.825 30.8481,25.1035 46.9518,35.3284 85.3254,54.1768 191.7633,95.896 274.1078,123.4215" />
+      <polygon
+         style="fill:#a60b0b;stroke:#a60b0b;stroke-width:11"
+         id="polygon18485"
+         points="544.7727,-161.3758 532.2527,-155.3849 538.308,-173.6578 " />
+    </g>
+    <g
+       class="node"
+       id="node3-43"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18488">BT_Cry40Da1</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse18490"
+         cy="-414"
+         cx="396" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text18492"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="396">BT_Cry40Da1</text>
+    </g>
+    <g
+       class="edge"
+       id="edge2-84"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18495">BT_Cry40Da1-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#2980b9;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path18497"
+         d="m 482.5438,-321.6866 c 28.7024,30.6159 60.7742,64.8258 89.9749,95.9732" />
+      <polygon
+         style="fill:#2980b9;stroke:#2980b9;stroke-width:11"
+         id="polygon18499"
+         points="579.4831,-218.2847 565.6218,-218.9971 579.6655,-232.1631 " />
+    </g>
+    <g
+       class="node"
+       id="node4-0"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18502">NOV_Cry40Da1_81.5</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse18504"
+         cy="-414"
+         cx="666" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text18506"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="666">NOV_Cry40Da1_81.5</text>
+    </g>
+    <g
+       class="edge"
+       id="edge3-1"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18509">NOV_Cry40Da1_81.5-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#2980b9;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path18511"
+         d="m 666,-287.679 c 0,8.381 0,16.8431 0,25.2705" />
+      <polygon
+         style="fill:#2980b9;stroke:#2980b9;stroke-width:11"
+         id="polygon18513"
+         points="666,-252.154 656.3751,-262.1541 675.6251,-262.154 " />
+    </g>
+    <g
+       class="node"
+       id="node5-6"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18516">NOV_Cry40Da1_77.3</title>
+      <circle
+         style="fill:#9a73be;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse18518"
+         cy="-414"
+         cx="936" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text18520"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="936">NOV_Cry40Da1_77.3</text>
+    </g>
+    <g
+       class="edge"
+       id="edge4-7"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18523">NOV_Cry40Da1_77.3-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#2980b9;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path18525"
+         d="m 849.4562,-321.6866 c -28.7024,30.6159 -60.7742,64.8258 -89.9749,95.9732" />
+      <polygon
+         style="fill:#2980b9;stroke:#2980b9;stroke-width:11"
+         id="polygon18527"
+         points="752.5169,-218.2847 752.3345,-232.1631 766.3782,-218.9971 " />
+    </g>
+    <g
+       class="node"
+       id="node6"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18530">Unknown</title>
+      <circle
+         style="fill:#c0c0c0;stroke:#000000;stroke-width:6"
+         r="126"
+         id="ellipse18532"
+         cy="-414"
+         cx="1206" />
+      <text
+         style="font-weight:bold;font-size:19px;font-family:Times, serif;text-anchor:middle;fill:#000000"
+         id="text18534"
+         font-size="19.00"
+         font-weight="bold"
+         y="-408.29999"
+         x="1206">Unknown</text>
+    </g>
+    <g
+       class="edge"
+       id="edge5"
+       transform="matrix(0.13152168,0,0,0.13152168,186.09905,120.42182)">
+      <title
+         id="title18537">Unknown-&gt;NOV_Cry40Da1_65.0</title>
+      <path
+         style="fill:none;stroke:#bdbd00;stroke-width:11"
+         inkscape:connector-curvature="0"
+         id="path18539"
+         d="m 1117.9518,-323.3284 c -14.9374,12.825 -30.8481,25.1035 -46.9518,35.3284 -85.3254,54.1768 -191.7633,95.896 -274.1078,123.4215" />
+      <polygon
+         style="fill:#bdbd00;stroke:#bdbd00;stroke-width:11"
+         id="polygon18541"
+         points="787.2273,-161.3758 793.692,-173.6578 799.7473,-155.3849 " />
+    </g>
+    <text
+       id="text11682-6"
+       style="font-variant:normal;font-weight:bold;font-size:9.1272192px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans-Bold;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65194416"
+       x="260.05676"
+       y="-40.140522">
+      <tspan
+         style="stroke-width:0.65194416"
+         id="tspan11680-1"
+         sodipodi:role="line"
+         x="260.05676"
+         y="-40.140522">Edges' types</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path5008-3"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.49058,-36.778196 h 8.64018 v 8.640183 h -8.64018 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5010-1"
+       style="fill:#a60b0b;fill-opacity:0.98823499;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.84405,-36.424707 h 7.93123 v 7.931199 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5012-0"
+       style="fill:none;stroke:#000000;stroke-width:0.53346974;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.84405,-36.424707 h 7.93123 v 7.931199 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5014-7"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.49058,-28.140019 h 8.64018 v 8.640196 h -8.64018 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5016-1"
+       style="fill:#2980b9;fill-opacity:0.98823499;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.84405,-27.784524 h 7.93123 v 7.931211 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5018-7"
+       style="fill:none;stroke:#000000;stroke-width:0.53346974;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.84405,-27.784524 h 7.93123 v 7.931211 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5020-7"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.49058,-19.499823 h 8.64018 v 8.640169 h -8.64018 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5022-7"
+       style="fill:#bdbd00;fill-opacity:0.98823499;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.84405,-19.146348 h 7.93123 v 7.931212 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5024-4"
+       style="fill:none;stroke:#000000;stroke-width:0.53346974;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.84405,-19.146348 h 7.93123 v 7.931212 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5026-2"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.49058,-10.859156 h 8.64018 v 8.6401959 h -8.64018 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5028-9"
+       style="fill:#556b2f;fill-opacity:0.98823499;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.84405,-10.505667 h 7.93123 v 7.9312248 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5030-2"
+       style="fill:none;stroke:#000000;stroke-width:0.53346974;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.84405,-10.505667 h 7.93123 v 7.9312248 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5032-1"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.49058,-2.2209537 h 8.64018 v 8.6401858 h -8.64018 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5034-1"
+       style="fill:#71c685;fill-opacity:0.98823499;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.84405,-1.8654711 h 7.93123 v 7.9312142 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5036-9"
+       style="fill:none;stroke:#000000;stroke-width:0.53346974;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.84405,-1.8654711 h 7.93123 v 7.9312142 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5038-3"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.49058,6.4192321 h 8.64018 v 8.6401829 h -8.64018 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5040-9"
+       style="fill:#dda0dd;fill-opacity:0.98823499;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       d="m 260.84405,6.7747121 h 7.93123 v 7.9312139 h -7.93123 z" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path5042-7"
+       style="fill:none;stroke:#000000;stroke-width:0.53346974;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 260.84405,6.7747121 h 7.93123 v 7.9312139 h -7.93123 z" />
+    <text
+       id="text5064-3"
+       style="font-variant:normal;font-weight:normal;font-size:5.99978352px;font-family:'Liberation Sans';-inkscape-font-specification:LiberationSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.49998194"
+       x="272.61707"
+       y="-30.276558">
+      <tspan
+         style="stroke-width:0.49998194"
+         id="tspan5050-0"
+         sodipodi:role="line"
+         y="-30.276558"
+         x="272.61707 276.94894 280.28485 285.28259 288.61847 289.95044">Domain I</tspan>
+      <tspan
+         style="stroke-width:0.49998194"
+         id="tspan5052-3"
+         sodipodi:role="line"
+         y="-21.638203"
+         x="272.61707 276.94894 280.28485 285.28259 288.61847 289.95044">Domain II</tspan>
+      <tspan
+         style="stroke-width:0.49998194"
+         id="tspan5054-4"
+         sodipodi:role="line"
+         y="-12.997868"
+         x="272.61707 276.94894 280.28485 285.28259 288.61847 289.95044">Domain III</tspan>
+      <tspan
+         style="stroke-width:0.49998194"
+         id="tspan5056-3"
+         sodipodi:role="line"
+         y="-4.3575444"
+         x="272.61707 276.94894 280.28485 285.28259 288.61847 289.95044">Domains I and II</tspan>
+      <tspan
+         style="stroke-width:0.49998194"
+         id="tspan5058-3"
+         sodipodi:role="line"
+         y="4.280808"
+         x="272.61707 276.94894 280.28485 285.28259 288.61847 289.95044 293.28632 296.28622">Domains I and III</tspan>
+      <tspan
+         style="stroke-width:0.49998194"
+         id="tspan5060-3"
+         sodipodi:role="line"
+         y="12.921132"
+         x="272.61707 276.94894 280.28485 285.28259 288.61847 289.95044 293.28632 296.28622">Domains II and III</tspan>
+      <tspan
+         style="stroke-width:0.49998194"
+         id="tspan5062-5"
+         sodipodi:role="line"
+         x="272.61707"
+         y="-5.11865" />
+    </text>
+  </g>
+</svg>
