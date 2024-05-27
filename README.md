@@ -10,11 +10,11 @@ Figures from the main text are available in the `pics/` directory. For the descr
 
 ## Supplementary
 All supplementary material is located in the `supplementary/` directory. 
-`Supplementary_figures.docx` is a Microsoft Word document with a description of all supplementary figures.
+`Supplementry_figures_and_text.docx` is a Microsoft Word document with a description of all supplementary figures and supplemental text of the article.
 `Supplementary_tables.xlsx` is an Exel table with all supplementary tables.
 
-* The `supplementary/pics/` folder contains individual supplementary figures.
-* For convenience, in the `supplementary/tables/` folder individual supporting tables in CSV format are provided. For a detailed description of the tables, please consult the `Supplementary_tables.xlsx` file.
+* The `supplementary/pics/` folder contains individual supplementary figures in various formats, namely SVG, PDF, and PNG.
+* For convenience, in the `supplementary/tables/` folder individual supporting tables in CSV and XLSX formats are provided. For a detailed description of the tables, please consult the `Supplementary_tables.xlsx` file.
 
 ## Data
 Analyzed data are included in the `data/` directory. The directory contains sequences and phylogenetic trees. Other essential tables obtained when using data processing scripts are presented in the `data_for_scripts/` directory. 
