@@ -72,17 +72,29 @@ In this part of the study, Cry sequences’ properties were analyzed. The follow
 
 ### Recombination detection
 The following section includes source files used for inferencing and characterizing recombination events, including the filtration procedure, comparing identities between parents and recombinants, reconstructing the recombination graph, etc. 
-- `all_domains` - nucleotide domain sequences form the deduplicated dataset with a 100% identity threshold;
-- `ref_domains` - nucleotide domain sequences of the reference dataset with a 95% identity threshold for clustering;
-- `no_support_trees` - domain-wise phylogenetic trees and the tree based on the concatenated partitioned alignment without supporting values and branch lengths;
-- `parsed_trees` - the node-wise structure of phylogenetic trees. In the respective tables, the content of toxins, depth level, and the number of sequences for each node are presented; 
-- `collapsed_trees` - domain-wise phylogenetic trees corrected for recombination events with parents and recombinants grouped in case of multifurcation. A detailed description of the filtering procedure is presented in the Methods section of the article;
-- `domain_mapings.bed` - coordinates of the domain mappings of the processed sequences (cropped from the beginning of the first domain to the end of the third domain) of the reference dataset with a 95% identity threshold applied; 
-- `full_contat.nwk` - the reference phylogenetic tree inferred from the concatenated partitioned alignment;
-- `RDP_raw_signals.csv` - the output of the RDP software used for detecting recombination events for the alignment of processed nucleotide sequences;
-- `merged.filtered_events.s70.l3.csv` - the characteristics of recombination events inferred from the RDP tool. Presented are the lists of parents and recombinant, coordinates of the breakpoints, p-value levels of detection tests, and pair-wise identity of the domain sequences of parents and children. The list of the events is filtered based on congruence in phylogenetic trees. A detailed scheme for the filtration procedure is present in the Methods section of the article;
-- `pairs_identity_no_pat.tsv` - domain-wise pair-wise comparisons of the domain sequences within the reference dataset with a 95% identity threshold applied;
-- `unique_multiclusters.tsv` - the domain-wise lists of sequences within the reference clusters obtained using a 95% identity threshold. Unique nucleotide sequences for each domain are selected.
+* `all_domains` - nucleotide domain sequences form the deduplicated dataset with a 100% identity threshold;
+* `ref_domains` - nucleotide domain sequences of the reference dataset with a 95% identity threshold for clustering;
+* `no_support_trees` - domain-wise phylogenetic trees and the tree based on the concatenated partitioned alignment without supporting values and branch lengths;
+* `parsed_trees` - the node-wise structure of phylogenetic trees. In the respective tables, the content of toxins, depth level, and the number of sequences for each node are presented; 
+* `collapsed_trees` - domain-wise phylogenetic trees corrected for recombination events with parents and recombinants grouped in case of multifurcation. A detailed description of the filtering procedure is presented in the Methods section of the article;
+* `domain_mapings.bed` - coordinates of the domain mappings of the processed sequences (cropped from the beginning of the first domain to the end of the third domain) of the reference dataset with a 95% identity threshold applied; 
+* `full_contat.nwk` - the reference phylogenetic tree inferred from the concatenated partitioned alignment;
+* `RDP_raw_signals.csv` - the output of the RDP software used for detecting recombination events for the alignment of processed nucleotide sequences;
+* `merged.filtered_events.s70.l3.csv` - the characteristics of recombination events inferred from the RDP tool. Presented are the lists of parents and recombinant, coordinates of the breakpoints, p-value levels of detection tests, and pair-wise identity of the domain sequences of parents and children. The list of the events is filtered based on congruence in phylogenetic trees. A detailed scheme for the filtration procedure is present in the Methods section of the article;
+* `pairs_identity_no_pat.tsv` - domain-wise pair-wise comparisons of the domain sequences within the reference dataset with a 95% identity threshold applied;
+* `unique_multiclusters.tsv` - the domain-wise lists of sequences within the reference clusters obtained using a 95% identity threshold. Unique nucleotide sequences for each domain are selected.
+* `data_for_filtration` is a folder containing raw recombination detection predictions coupled with all intermediate and final results of the filtering procedure. The directory includes the following files:
+  - Trees with the `ML` prefix represent unamended initial phylogenies based on the sequences of individual domains;
+  - Files with the `ml_dom` prefix are domain-wise trees with collapsed branches with a 70% bootstrap threshold specified;
+  - The `filtered.recomb.raxml` postfix points on the trees of the individual domains with collapsed branches followed by rearrangement of the leaves through combining the leaves with parents and children in an event-wise way;
+  - Phylogenies with the `zero_fixed` infix are the aforementioned transformed trees corrected for erroneous branches with zero length occurring after launching the `recomb2tree.py` script;
+  - `RDP_pre_filtered_fixed.tsv` is a parsed RDP4-generated table with the events classified according to the transferred domain devoid of exchanges putatively caused by mechanisms other than the recombination process;
+  - `rdp.unpivot.csv` - the transformed RDP4-based table with the new numeration of recombination events relative to children;
+  - `recomb.unpivot.filtered.s70.l3.csv` - the list of corrected recombination events in which the sets of parents are either increased or reduced according to the clades containing children and parents within the domain-wise trees;
+  - `recomb.unpivot.filtered_events.s70.l3.csv` - the table with filtered recombination events according to the congruence of children and parents in the context of phylogenetic relationships devoid of those in which the size of clades exceeds the depth threshold of three steps;
+  - `merged.filtered_events.s70.l3.csv` - the table of the events formatted as the initial list presented in the `RDP_pre_filtered_fixed.tsv` file devoid of incongruent events and with novel columns that include parents transferring a single domain for each phylogeny;
+  - `filtering.log` - the log file tracing the number of events excluded during the filtering procedure.
+
 
 ### Analysis of recombination mechanisms
 In this section, putative mechanisms of recombination were analyzed. Multiple approaches were applied, namely, assessing the overall homologous recombination rate in genome assemblies with loci coding for Cry toxins, studying the genomic context of <i>cry</i> genes, and comparing sequence identity between parents in regions surrounding recombination breakpoints. The content of the `data_for_scripts/mechanisms` directory goes as follows:
@@ -247,6 +259,31 @@ The `scripts/` directory includes all code used for pangenome analysis. The scri
 - `filter_events_by_id.py` - the script for filtering events according to the pair-wise identity between parents and recombinants. Events in which the identity between non-transferred domains is higher than the transferred one are discarded. The script is launched with the following command:
 
 ``` python3 filter_events_by_id.py -r ../data_for_scripts/recombination_detection/merged.filtered_events.s70.l3.csv -o <output_dir> ```
+
+- The `recombination_correction.sh` script performs all the necessary steps to filter the recombination events according to the phylogenetic congruence of parents and children (see the Methods section in the `Supplementry_figures_and_text.docx` file for extra details). The script encompasses seven scripts given below. To run the filtration pipeline, simply run the following command:
+  
+```bash recombination_correction.sh```
+- `python3 filter_tree.py` - the script for collapsing branches of the phylogenetic tree with a given threshold of the bootstrap support specified in the `-s` parameter. To run the script, use the following command:
+ 
+```python3 filter_tree.py -t <tree_file> -s <bootstrap support threshold> -o <output>```
+- `python3 recomb2tree.py` - the script corrects the domain-wise phylogenetic tree in the context of recombination events. The algorithm implies collapsing branches with a certain bootstrap threshold (the `-s` flag) for a certain domain specified in the `-d` parameter. The script requires the following command:
+
+```python3 recomb2tree.py -r ../data_for_scripts/recombination_detection/data_for_filtration/RDP_pre_filtered_fixed.tsv -t <tree_file> -s <bootstrap support threshold> -d <domain index> -o <output name>```
+- `python3 unpivot_table.py` is the script to transform the parsed RDP4-based table `RDP_pre_filtered_fixed.tsv` by swapping the rows and columns and re-naming the events according to the recombination children. The script is launched as given below:
+  
+```python3 unpivot_table.py -r ../data_for_scripts/recombination_detection/data_for_filtration/RDP_pre_filtered_fixed.tsv -o ../data_for_scripts/recombination_detection/data_for_filtration/rdp.unpivot.csv```
+- `python3 filter_parents.py` - updates the events from in the transformed table by selecting the clades in the recombination-wise corrected phylogenetic trees per each domain. Goes to the upper nodes with a given threshold (the `-l` parameter) for each set of children and parents. To run the script, use the command below:
+  
+```python3 filter_parents.py -r ../data_for_scripts/recombination_detection/data_for_filtration/rdp.unpivot.csv -t ../data_for_scripts/recombination_detection/data_for_filtration/dom1.filtered.recomb.zero_fixed.raxml -t ../data_for_scripts/recombination_detection/data_for_filtration/dom2.filtered.recomb.zero_fixed.raxml -t ../data_for_scripts/recombination_detection/data_for_filtration/dom3.filtered.recomb.zero_fixed.raxml -s <bootstrap support threshold> -l <branch depth> -o ../data_for_scripts/recombination_detection/data_for_filtration/recomb.unpivot.filtered.s70.l3.csv```
+
+- `filter_events.py` carries out the final filtration of the events according to the phylogenetic congruence of the parents and children per each domain-wise tree. The script takes the above-mentioned table with the updated list of parents per each event and discards the exchanges in which the respective clades that union parents and recombinants are placed in the root of the tree. The script is launched with the following command:
+
+```python3 filter_events.py -i ../data_for_scripts/recombination_detection/data_for_filtration/recomb.unpivot.filtered.s70.l3.csv  -o ../data_for_scripts/recombination_detection/data_for_filtration/recomb.unpivot.filtered_events.s70.l3.csv ```
+
+- `merge_filtered_with_original.py` - the script for merging the results of recombination events filtration. The script takes the set of events from the original RDP4-based table that were retained after the filtration procedure. Apply the command below to run the script: 
+
+```python3 merge_filtered_with_original.py -i  ../data_for_scripts/recombination_detection/data_for_filtration/RDP_pre_filtered_fixed.tsv -f ../data_for_scripts/recombination_detection/data_for_filtration/recomb.unpivot.filtered_events.s70.l3.csv -o ../data_for_scripts/recombination_detection/data_for_filtration/merged.filtered_events.s70.l3.csv```
+
 - `analyze_rec_events_refined.py` - the script for summarizing the properties of recombination events by calculating domain-wise identity between parents and recombinants as well as the number of toxins, unknown parents, and mismatches between the sequences of parents and recombinants. To run the script, use the following command:
 
 ``` python3 analyze_rec_events_refined.py -c ../data_for_scripts/recombination_detection/unique_multiclusters.tsv -an ../data_for_scripts/recombination_detection/all_domains -r ../data_for_scripts/recombination_detection/merged.filtered_events.s70.l3.csv -rn ../data_for_scripts/recombination_detection/ref_domains -o <output_dir> ```
